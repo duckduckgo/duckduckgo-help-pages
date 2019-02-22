@@ -8,7 +8,7 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: DuckDuckGo Help Pages POC
+description: "DuckDuckGo Help Pages POC"
 author: DuckDuckGo
   name: DuckDuckGo
   email:
