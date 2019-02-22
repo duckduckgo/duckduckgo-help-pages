@@ -4,7 +4,7 @@ category: Add-ons
 order: 99
 
 ---
-We've recently discovered some malicious Chrome extensions, often with the word "video" in the name, are incorrectly sending searches to DuckDuckGo and Bing. Some of the names we've seen are "My Video Grid", "Video Tips", and "My Vital Video". <strong>DuckDuckGo is in no way affiliated with these extensions</strong>. However, we would like to help you resolve this issue. Below are instructions on how to remove such extensions:
+We've recently discovered some malicious Chrome extensions, often with the word "video" in the name, are incorrectly sending searches to DuckDuckGo and Bing. Some of the names we've seen are "My Video Grid", "Video Tips", and "My Vital Video". **DuckDuckGo is in no way affiliated with these extensions**. However, we would like to help you resolve this issue. Below are instructions on how to remove such extensions:
 
 * Open Google Chrome.
 * Click on the "More" button in the top right of your browser (it looks like three vertical dots).  
@@ -18,6 +18,6 @@ We've recently discovered some malicious Chrome extensions, often with the word 
 * Another window will be displayed, select "Malware / Can't Uninstall" and then click "Submit".  
   <img alt="Screenshot showing the abuse report form." src="/edition-jekyll-template/images/05562b93d03e75e9519af09faea2c02b.png">
 
-The extension will now be removed.  
+The extension will now be removed.
 
 Official Chrome instructions for removing extensions: https://support.google.com/chrome_webstore/answer
