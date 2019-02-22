@@ -24,3 +24,5 @@ fields:
     max: '100'
     step: '1'
     required: false
+pages:
+- _docs/add-ons/removal.md
