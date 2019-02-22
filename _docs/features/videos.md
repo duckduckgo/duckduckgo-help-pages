@@ -13,4 +13,4 @@ order: 726
 &#xD;
 <p>You can also use <a href="https://duckduckgo.com/bang">!bangs</a> to search for videos using other websites right from the DuckDuckGo search box. There are !bangs for GameTrailers (!gametrailers), the Food Network (!foodnetwork), and the History Channel (!history). For example, <em>!foodnetwork pizza</em> would search for <em>pizza</em> on the Food Network's website. The full list of !bangs are on the <a href="https://duckduckgo.com/bang">!bang page</a>.</p>&#xD;
 &#xD;
-<img src="/images/af5e3b6a1d19c712bee1784f0db0d78f.png"></img></body></html>
+<img src="/edition-jekyll-template/images/af5e3b6a1d19c712bee1784f0db0d78f.png"></img></body></html>

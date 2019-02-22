@@ -3,7 +3,7 @@ title: Open Source Overview
 category: Open-source
 order: 56
 ---
-<html><body><img alt="Giving back" src="/images/21c07cef6e61cf10afd25b0829284aaa.jpg"></img><h2>DuckDuckGo's Open Source Areas</h2>&#xD;
+<html><body><img alt="Giving back" src="/edition-jekyll-template/images/21c07cef6e61cf10afd25b0829284aaa.jpg"></img><h2>DuckDuckGo's Open Source Areas</h2>&#xD;
 &#xD;
 <p>DuckDuckGo is increasingly open source and we'd love your help in a lot of areas, particularly, with instant answers. See the list below or check out <a href="https://github.com/duckduckgo">our github</a> for more.</p>&#xD;
 &#xD;

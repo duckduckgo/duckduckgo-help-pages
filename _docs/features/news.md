@@ -13,4 +13,4 @@ order: 708
 &#xD;
 <p>You can also use <a href="https://duckduckgo.com/bang">bangs</a> to search for news using other websites right from the DuckDuckGo search box. There are bangs for The New York Times (!nyt), The Wall Street Journal (!wsj), and CNN (!cnn). For example, <em>!cnn politics</em> would search for <em>politics</em> on CNN. The full list of bangs are on the <a href="https://duckduckgo.com/bang">bang page</a>.</p>&#xD;
 &#xD;
-<img src="/images/2207b1ad995926af41d5e366278f0f5c.png"></img></body></html>
+<img src="/edition-jekyll-template/images/2207b1ad995926af41d5e366278f0f5c.png"></img></body></html>

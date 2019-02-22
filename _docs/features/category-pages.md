@@ -9,4 +9,4 @@ order: 702
 &#xD;
 <p>Our category pages are actually automatically generated. That is, we do not moderate them directly or manually. Therefore, to add a result to a particular category page, you should work to add it to the underlying source. You can find the source, e.g. Wikipedia, by clicking on a topic on the category page, and then looking for the link in the instant answer. If you get the result added there (to that specific source) it should auto-flow to us and everyone else who draws on that information.</p>&#xD;
 &#xD;
-<img src="/images/8217129c368c3760f5d13eb8db7ae19f.png"></img></body></html>
+<img src="/edition-jekyll-template/images/8217129c368c3760f5d13eb8db7ae19f.png"></img></body></html>

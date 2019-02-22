@@ -9,4 +9,4 @@ order: 706
 &#xD;
 <p>Place search results are powered by <a href="http://www.yelp.com/">Yelp</a>.</p>&#xD;
 &#xD;
-<img src="/images/c8ffda0dc0f580a44f770cabc94291a0.png"></img></body></html>
+<img src="/edition-jekyll-template/images/c8ffda0dc0f580a44f770cabc94291a0.png"></img></body></html>

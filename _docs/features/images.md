@@ -9,4 +9,4 @@ order: 706
 &#xD;
 <p>You can also use <a href="https://duckduckgo.com/bang">!bangs</a> to search for images using other websites right from the DuckDuckGo search box. There are !bangs for Getty Images (!gettyimages), Flickr (!f), and iStockphoto (!istockphoto). For example, <em>!f rainforest</em> would search for <em>rainforest</em> on Flickr. The full list of !bangs are on the <a href="https://duckduckgo.com/bang">!bang page</a>.</p>&#xD;
 &#xD;
-<img src="/images/48948578df333b0cf93a46d3ddf9810b.png"></img></body></html>
+<img src="/edition-jekyll-template/images/48948578df333b0cf93a46d3ddf9810b.png"></img></body></html>

@@ -11,7 +11,7 @@ order: 48
 &#xD;
 <p>Advertising on DuckDuckGo takes the form of sponsored links that appear above search results. Sponsored links are currently syndicated through Yahoo!. They look like this:</p>&#xD;
 &#xD;
-<p><img alt="Screenshot showing ads in DuckDuckGo search results" src="/images/746267fd284b4953b0209e9d0d6a8fd0.png"></img></p>&#xD;
+<p><img alt="Screenshot showing ads in DuckDuckGo search results" src="/edition-jekyll-template/images/746267fd284b4953b0209e9d0d6a8fd0.png"></img></p>&#xD;
 &#xD;
 <p>If you see any low-quality sponsored links, <a href="https://duckduckgo.com/feedback">please report them</a>.</p>&#xD;
 &#xD;
@@ -23,7 +23,7 @@ order: 48
 	<li>Click the <em>Settings</em> tab.</li>&#xD;
 	<li>Click <em>Ad distribution</em>.</li>&#xD;
 	<li>Then, click <em>Save</em> at the bottom to finalize.</li>&#xD;
-</ol><p><img alt="Screenshot showing the Bing ad network settings" src="/images/72449caa010b8cc400157ef19833593f.png"></img></p>&#xD;
+</ol><p><img alt="Screenshot showing the Bing ad network settings" src="/edition-jekyll-template/images/72449caa010b8cc400157ef19833593f.png"></img></p>&#xD;
 &#xD;
 <h2 id="affiliates">Affiliate revenue</h2>&#xD;
 &#xD;

@@ -9,7 +9,7 @@ order: 721
   <li>With the "Safe Search" option in the <a href="https://duckduckgo.com/settings">DuckDuckGo settings page</a>.</li>&#xD;
   <li>By appending !safeoff to your search (this uses our <a href="https://duckduckgo.com/bang">bang</a> syntax).</li>&#xD;
   <li>By using <a href="https://safe.duckduckgo.com">safe.duckduckgo.com</a> instead. Searches from safe.duckduckgo.com always have safe search set to "strict".</li>&#xD;
-</ul><p><img alt="Screenshot showing safe search option below the search box." src="/images/3ef517567542255d5cbd61f132f07e5e.png"></img></p><p>For more technical users, if you want to force safe search on (or off) you could use our URL parameters and automatically append <em>&amp;kp=1</em> (strict), <em>&amp;kp=-1</em> (moderate - don't show explicit results), or <em>&amp;kp=-2</em> (off) to all duckduckgo.com pages.</p>&#xD;
+</ul><p><img alt="Screenshot showing safe search option below the search box." src="/edition-jekyll-template/images/3ef517567542255d5cbd61f132f07e5e.png"></img></p><p>For more technical users, if you want to force safe search on (or off) you could use our URL parameters and automatically append <em>&amp;kp=1</em> (strict), <em>&amp;kp=-1</em> (moderate - don't show explicit results), or <em>&amp;kp=-2</em> (off) to all duckduckgo.com pages.</p>&#xD;
 &#xD;
 <p>We try hard to respect your safe search preference, but sometimes content does get through that is not appropriately restricted. If you notice this happening, we'd appreciate you letting us know via the "Send feedback" button on the right-hand side of our search results (on desktop), and we'll do our best to resolve it in a timely fashion.</p>&#xD;
 &#xD;
