@@ -9,7 +9,7 @@ sections:
   label: Docs Pages
   create: all
   match: "**/*"
-upload_dir: _congif.yml/images
+upload_dir: images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
