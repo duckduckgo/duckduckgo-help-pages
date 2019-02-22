@@ -1,0 +1,23 @@
+---
+title: Octopress
+category: Hidden
+order: 99
+---
+<html><body><p>To use DuckDuckGo for your Octopress site's search, follow these instructions:&#xD;
+</p><ol><li>Change the simple-search URL in the YAML configuration to "http://www.duckduckgo.com/”.</li>&#xD;
+	<li>Open the navigation partial that is under “source -&gt; _includes” and replace the inputs in the fieldset with this code:</li>&#xD;
+</ol>&#xD;
+ &#xD;
+&#xD;
+<pre>&#xD;
+<code>  {% if site.simple_search %}&#xD;
+&lt;form action="{{ site.simple_search }}" method="get"&gt;&#xD;
+  &lt;fieldset role="search"&gt;&#xD;
+    &lt;input type="hidden" name="sites" value="<strong>duckduckgo.com</strong>" /&gt;&#xD;
+    &lt;input class="search" type="text" name="q" results="0" placeholder="Search&amp;hellip;"/&gt;&#xD;
+  &lt;/fieldset&gt;&#xD;
+&lt;/form&gt;&#xD;
+  {% endif %}&#xD;
+&#xD;
+</code></pre>&#xD;
+Don't forget to replace <code><strong>duckduckgo.com</strong></code> with the name of your site.<br><br><a href="http://dljs.tumblr.com/post/17154643470/converting-the-octopress-simple-search-field-to"><em>Thanks to Doug Stephen for contributing the code for this article.</em></a></body></html>

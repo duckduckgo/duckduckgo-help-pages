@@ -1,0 +1,34 @@
+---
+title: Hotkey Searching DuckDuckGo
+category: Hidden
+order: 111
+---
+<html><body><br>&#xD;
+On Linux:<br><br><a href="http://ostatic.com/blog/more-automation-with-autokey">This post</a> by Jon Buys, via the Ostatic Blog, details how to create a popup box that uses your default browser to search DuckDuckGo. You can set a custom key combination to generate a pop-up search box and quickly search for your entered text on DuckDuckGo.<br><br><br>&#xD;
+On Windows:<br><br>&#xD;
+Users can highlight text and press their assigned key combination to search DuckDuckGo for the highlighted text. This requires downloading the <a href="http://www.autohotkey.com/download/">AutoHotkey program</a> and, once installed, performing the following:&#xD;
+<ol><li>Right click the blank space on your Desktop</li>&#xD;
+	<li>Select New--&gt;AutoHotkey Script</li>&#xD;
+	<li>Rename the resulting file to whatever you'd like, making sure the file ends in the extension .ahk</li>&#xD;
+	<li>Right click your new file and select, Edit Script.</li>&#xD;
+	<li>Paste the following below any text that's currently in the window:</li>&#xD;
+</ol><br>&#xD;
+#InstallKeybdHook<br>&#xD;
+#Persistent<br>&#xD;
+#HotkeyInterval,100<br>&#xD;
+SetKeyDelay, -1<br>&#xD;
+#space::<br>&#xD;
+{<br>&#xD;
+Send, ^c<br>&#xD;
+Sleep 50<br>&#xD;
+Run, https://duckduckgo.com/?q=%clipboard%<br>&#xD;
+Return<br>&#xD;
+}<br><br>&#xD;
+The configuration above uses the key combination of Windows Key and Spacebar to perform the action. This is denoted on the line: #space::<br>&#xD;
+This can be changed to whichever combination you'd like, just replace #space with whatever you prefer (keeping the double colon, :: ). The full list of possibilities and additional instructions can be found on the <a href="http://www.autohotkey.com/docs/Hotkeys.htm">AutoHotkey website</a>.<br>&#xD;
+Once configured, just highlight whatever text you'd like and press your key combination to trigger the search!&#xD;
+&#xD;
+<br><br>&#xD;
+Also, for integrating DuckDuckGo search into your operating system's context search, please see <a href="http://h3manth.com/content/one-click-duckduckgo">this article</a> by Hemanth. &#xD;
+&#xD;
+</body></html>

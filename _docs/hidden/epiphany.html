@@ -1,0 +1,14 @@
+---
+title: Epiphany
+category: Hidden
+order: 130
+---
+<html><body><p>How to add DuckDuckGo to v3 (and newer) Epiphany browsers:&#xD;
+</p><ul><li>Using dconf-editor edit: org &gt; gnome &gt; Epiphany &gt; keyword-search-url; OR</li>&#xD;
+	<li>From the command line use this one-liner: <i style="color: rgb(51, 51, 51); font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; line-height: 17px; ">GSETTINGS_BACKEND=dconf gsettings set org.gnome.Epiphany keyword-search-url https://duckduckgo.com/?q=%s</i>.</li>&#xD;
+</ul><br>&#xD;
+For older versions:&#xD;
+<ol><li>Go to &gt; Menu &gt; System Tools &gt; Configuration Editor (or "gconf-editor" in the console).</li>&#xD;
+	<li>Drill down to key /apps/epiphany/general/url_search</li>&#xD;
+	<li>Overwrite the key with your ddg version of choice, e.g. https://duckduckgo.com/?q=%s for the SSL version (making sure to put the %s part at the end after the ' = ' symbol</li>&#xD;
+</ol></body></html>
