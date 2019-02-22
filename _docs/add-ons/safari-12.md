@@ -1,7 +1,8 @@
 ---
 title: Safari 12 Update
 category: Add-ons
-order: 99
+order: 100
+
 ---
 <html><body><p>&#xD;
             </p><h2>Safari 12 Update</h2>&#xD;
