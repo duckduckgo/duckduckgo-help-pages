@@ -8,8 +8,7 @@ We've recently discovered some malicious Chrome extensions, often with the word 
 
 * Open Google Chrome.
 * Click on the "More" button in the top right of your browser (it looks like three vertical dots).  
-  ![Screenshot of 'More' button in Chrome browser](/edition-jekyll-template/images/206551aff3031c8cf9f13ff7faa371da.png)
-* 
+  <img alt="Screenshot of 'More' button in Chrome browser" src="/edition-jekyll-template/images/206551aff3031c8cf9f13ff7faa371da.png">
 * Highlight "More Tools" and click on "Extensions".  
   <img alt="Screenshot of the 'Extensions' option in the 'More Tools' menu" src="/edition-jekyll-template/images/bbd144b87e15f3d3c73cff6e80111db7.png">
 * Find the extension called "My Video Grid" and click the trash can on the right.  
