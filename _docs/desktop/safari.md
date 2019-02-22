@@ -15,7 +15,7 @@ order: 3
                 2. Click the magnifying glass in the search bar.&#xD;
                 <br> &#xD;
                 3. Select the option for DuckDuckGo.&#xD;
-                <br><br><img alt="Screenshot showing how to select DuckDuckGo as the search engine for Safari." src="/edition-jekyll-template/images/c614041fd7b154cd1633472476b23a18.png"></img><br><br>&#xD;
+                <br><br><img alt="Screenshot showing how to select DuckDuckGo as the search engine for Safari." src="/edition-jekyll-template/images/c614041fd7b154cd1633472476b23a18.png"><br><br>&#xD;
                 Alternatively, you can:&#xD;
                 <br>&#xD;
                 1. Select <em>Preferences</em>.&#xD;
@@ -31,7 +31,7 @@ order: 3
                 1. <a href="https://safari-extensions.apple.com/details/?id=com.duckduckgo.safari-HKE973VLUW">Visit our extension's gallery page.</a>&#xD;
                 <br>               &#xD;
                 2. Click <em>Install now</em>.&#xD;
-                <br><br><img alt="Screenshot of Safari's extensions gallery showing the DuckDuckGo extension." src="/edition-jekyll-template/images/13f52d6ed7bb7ae14a9697f9c2d732e7.png"></img><br><br></p>&#xD;
+                <br><br><img alt="Screenshot of Safari's extensions gallery showing the DuckDuckGo extension." src="/edition-jekyll-template/images/13f52d6ed7bb7ae14a9697f9c2d732e7.png"><br><br></p>&#xD;
         &#xD;
         <p>&#xD;
             </p><h2 id="uninstall">Uninstalling our extension</h2>&#xD;

@@ -20,22 +20,22 @@ order: 30
 &#xD;
 <p>1. <a href="http://pidgin.im/">Download and install Pidgin.</a></p>&#xD;
 &#xD;
-<p><img src="/edition-jekyll-template/images/30259c9bbee8dcac69749d92dbbcada1.png"></img></p>&#xD;
+<p><img src="/edition-jekyll-template/images/30259c9bbee8dcac69749d92dbbcada1.png"></p>&#xD;
 &#xD;
 <p>2. Click <em>Add</em>.</p>&#xD;
 &#xD;
-<p><img src="/edition-jekyll-template/images/5202b7a89d2352e6c3066efc801e0989.png"></img></p>&#xD;
+<p><img src="/edition-jekyll-template/images/5202b7a89d2352e6c3066efc801e0989.png"></p>&#xD;
 &#xD;
 <p>3. For protocol, choose <em>XMPP</em>. Then type in your Community Platform username and password. If you don't have an account yet, make sure to check <em>Create this new account on the server</em>. When you're done, click <em>Add</em>.</p>&#xD;
 &#xD;
-<p><img src="/edition-jekyll-template/images/d33198cfc3aa895f97ffd1866427a3dd.png"></img></p>&#xD;
+<p><img src="/edition-jekyll-template/images/d33198cfc3aa895f97ffd1866427a3dd.png"></p>&#xD;
 &#xD;
 <p>4. Click <em>Register</em>.</p>&#xD;
 &#xD;
-<p><img src="/edition-jekyll-template/images/afceaecb6710a1f27575f67bfcf261ea.png"></img></p>&#xD;
+<p><img src="/edition-jekyll-template/images/afceaecb6710a1f27575f67bfcf261ea.png"></p>&#xD;
 &#xD;
 <p>5. Click <em>Close</em>.</p>&#xD;
 &#xD;
-<p><img src="/edition-jekyll-template/images/0d16b385ae369eaef02f39b190ae0d6e.png"></img></p>&#xD;
+<p><img src="/edition-jekyll-template/images/0d16b385ae369eaef02f39b190ae0d6e.png"></p>&#xD;
 &#xD;
 <p>6. You're ready to start chatting!</p></body></html>

@@ -11,4 +11,4 @@ order: 705
 &#xD;
 <p>Recipe search results are powered by <a href="http://www.yummly.com/">Yummly</a>.</p>&#xD;
 &#xD;
-<img src="/edition-jekyll-template/images/b1598abb66cc96eea33b7844a0fc2d12.png"></img></body></html>
+<img src="/edition-jekyll-template/images/b1598abb66cc96eea33b7844a0fc2d12.png"></body></html>

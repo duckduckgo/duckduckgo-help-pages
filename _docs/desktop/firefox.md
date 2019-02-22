@@ -16,7 +16,7 @@ order: 1
 </ul><ol><li>Click the magnifying glass in the search box (at the top of the browser)</li>&#xD;
 <li>Click <em>Change Search Settings</em> in the drop down</li>&#xD;
 <li>Select <em>DuckDuckGo</em> in the Default Search Engine drop down</li>&#xD;
-</ol><img src="/edition-jekyll-template/images/0414748c67b001952330a2278b6d904c.jpg"></img><p>&#xD;
+</ol><img src="/edition-jekyll-template/images/0414748c67b001952330a2278b6d904c.jpg"><p>&#xD;
 </p><h2>Setting DuckDuckGo as your homepage</h2>&#xD;
 Drag <a href="https://duckduckgo.com">this link</a> to the home icon in the browser toolbar.&#xD;
 &#xD;
