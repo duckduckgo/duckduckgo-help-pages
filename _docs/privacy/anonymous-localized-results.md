@@ -1,0 +1,25 @@
+---
+title: Anonymous Localized Results
+category: Privacy
+order: 99
+---
+<html><body><p>At DuckDuckGo, we do not collect or share any personal information. That's our <a href="https://duckduckgo.com/privacy">privacy policy</a> in a nutshell. For example, we do not store IP addresses in our server logs, and we do not create unique cookies. As such, we do not even have the ability to create search histories or search sessions for any individual — privacy by design.</p>&#xD;
+&#xD;
+<p>At the same time, searchers often need accurate location-based results like local weather and restaurants. Interestingly, we can actually serve localized instant answers (<a href="https://duckduckgo.com/?q=weather&amp;ia=weather">for things like the weather</a>) while still keeping you completely anonymous, in accordance with our strict privacy policy.</p>&#xD;
+&#xD;
+<p>To do so, we approximate location information using a GEO::IP lookup. This process does not expose any personally identifiable information like IP addresses to third parties, and in accordance with our strict privacy policy, DuckDuckGo does not store the IP address once it’s been used to approximate your location. In fact, since the IP address is automatically sent to us via your browser request, this process does not need to request any additional information than what you are already sending.</p>&#xD;
+&#xD;
+<p> Unfortunately, this process is not always accurate enough, especially on mobile phone networks that route traffic through a central hub, making you appear to us to be hundreds of miles away from where you actually are! To get around this issue and improve the location accuracy of search results, you may see a prompt asking you if you’d like to opt-in to share your current location with DuckDuckGo.</p>&#xD;
+&#xD;
+<img alt="screenshot of warning screen" src="/edition-jekyll-template/images/95b46e4394f6df0c8ed6ac04c1029465.png"></img><p>Major web browsers have access to more accurate location information using a variety of techniques, including WiFi databases, cell tower location databases, and GPS. When you see one of these common browser prompts, you are allowing your browser to share this more accurate location with the requesting site.</p>&#xD;
+&#xD;
+<img alt="screenshot of browser location prompt" src="/edition-jekyll-template/images/fca909da0f1379f4e89aee6856979157.png"></img><p>If you allow DuckDuckGo to use this information, your browser’s more accurate location will be shared with us with your search request, leading to search results with more location accuracy. In terms of using DuckDuckGo, this process is just as anonymous as the GEO::IP lookup because we similarly never store this personal information in our server logs, in accordance with our strict privacy policy.</p>&#xD;
+&#xD;
+<p><strong>To be clear, that means that even if you opt-in to sharing a more accurate location, your searches will still be completely anonymous.</strong></p>&#xD;
+&#xD;
+<p> That said, as mentioned above, your browser uses a variety of techniques to identify an accurate location, which may present additional privacy implications. These implications vary by browser and depend on which location service it uses. Most major browsers provide detailed information on the location service they use and their associated policies: </p>&#xD;
+<ul><li>Firefox (uses Google Location Services): <a href="https://www.mozilla.org/en-US/firefox/geolocation/">https://www.mozilla.org/en-US/firefox/geolocation/</a></li>&#xD;
+<li>Chrome (uses Google Location Services): <a href="https://support.google.com/chrome/answer/142065?co=GENIE.Platform%3DAndroid">https://support.google.com/chrome/answer/142065?co=GENIE.Platform%3DAndroid</a></li>&#xD;
+<li>Safari (uses Apple Location Services): <a href="https://support.apple.com/en-us/HT204690">https://support.apple.com/en-us/HT204690</a></li>&#xD;
+<li>Edge (uses Windows Location Services): <a href="https://privacy.microsoft.com/en-US/windows-10-location-and-privacy">https://privacy.microsoft.com/en-US/windows-10-location-and-privacy</a></li>&#xD;
+</ul><p>If you have any concerns, please feel free to reach out to us directly at <a href="mailto:privacy@duckduckgo.com">privacy@duckduckgo.com</a>.</p></body></html>
