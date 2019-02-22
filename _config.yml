@@ -9,14 +9,12 @@ show_full_navigation: true
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: "DuckDuckGo Help Pages POC"
-author: DuckDuckGo
+author:
   name: DuckDuckGo
   email:
   twitter: duckduckgo
-social:
-  name: DuckDuckGo
-  links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+# social:
+#  links:
 
 # -----
 # Build
