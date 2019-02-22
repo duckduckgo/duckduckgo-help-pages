@@ -18,4 +18,4 @@ order: 1
   </div>
 </div>
 
-<image src="/images/ddg-logo.svg">
+<image src="/edition-jekyll-template/images/ddg-logo.svg">
