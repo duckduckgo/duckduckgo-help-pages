@@ -1,0 +1,20 @@
+---
+label: Help Page
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: category
+  label: Category
+  type: tag_list
+  hidden: false
+  default: ''
+- name: order
+  label: Order
+  type: text
+  hidden: false
+  default: ''
