@@ -2,7 +2,6 @@
 title: Removing unofficial add-ons
 category: Add-ons
 order: 99
-published: false
 
 ---
 We've recently discovered some malicious Chrome extensions, often with the word "video" in the name, are incorrectly sending searches to DuckDuckGo and Bing. Some of the names we've seen are "My Video Grid", "Video Tips", and "My Vital Video". <strong>DuckDuckGo is in no way affiliated with these extensions</strong>. However, we would like to help you resolve this issue. Below are instructions on how to remove such extensions:
