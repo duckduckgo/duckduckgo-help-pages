@@ -1,21 +1,20 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
-baseurl:
-google_analytics_key:
+title: DDG Help Pages POC
+url: "https://moollaza.github.io/edition-jekyll-template/"
+baseurl: "https://moollaza.github.io/edition-jekyll-template/"
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
-author:
-  name:
+description: DuckDuckGo Help Pages POC
+author: DuckDuckGo
+  name: DuckDuckGo
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: @duckduckgo
 social:
-  name: Edition Template
+  name: DuckDuckGo
   links:
     - https://github.com/CloudCannon/edition-jekyll-template
 
@@ -30,6 +29,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-menus
 
 exclude:
   - Gemfile
@@ -39,7 +39,7 @@ exclude:
 
 collections:
   docs:
-    title: Documentation
+    title: Help Pages
     permalink: /:path/
     output: true
 
@@ -70,10 +70,3 @@ defaults:
     values:
       _comments:
         type: Marks the impact of this release
-
-# -----------
-# CloudCannon
-
-types:
-  - minor
-  - major
