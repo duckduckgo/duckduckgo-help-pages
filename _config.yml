@@ -10,9 +10,9 @@ show_full_navigation: true
 logo: /siteicon.png
 description: "DuckDuckGo Help Pages POC"
 author: DuckDuckGo
-  name: DuckDuckGo
-  email:
-  twitter: duckduckgo
+  name: 
+  email: 
+  twitter:  
 social:
   name: DuckDuckGo
   links:
