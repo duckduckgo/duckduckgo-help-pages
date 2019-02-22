@@ -9,8 +9,8 @@ sections:
   label: Docs Pages
   create: all
   match: "**/*"
-upload_dir: _congif.yml/uploads
-public_path: "/uploads"
+upload_dir: _congif.yml/images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
