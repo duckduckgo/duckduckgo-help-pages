@@ -6,9 +6,9 @@ order: 70
 <p>
     </p><h2>Changing your search engine to DuckDuckGo</h2>
     
-    <ol><li>Touch the menu icon and then settings icon at the top left of the screen.<br><img alt="Brave mobile browser settings button." src="../images/296985270d1196c09b987214a5cf1020.png"></li>
-        <li>Touch the "Default Search Engine" setting.<br><img alt="Brave mobile browser settings page." src="../images/2fc6679425802f6f0c0b2dfa68403bf8.png"></li>
-        <li>In the "Default Search Engine" selection box select DuckDuckGo.<br><img alt="Brave mobile browser search engine selection page." src="../images/720727ba1b083155d6bd47484df6d655.png"></li>
+    <ol><li>Touch the menu icon and then settings icon at the top left of the screen.<br><img alt="Brave mobile browser settings button." src="../../images/296985270d1196c09b987214a5cf1020.png"></li>
+        <li>Touch the "Default Search Engine" setting.<br><img alt="Brave mobile browser settings page." src="../../images/2fc6679425802f6f0c0b2dfa68403bf8.png"></li>
+        <li>In the "Default Search Engine" selection box select DuckDuckGo.<br><img alt="Brave mobile browser search engine selection page." src="../../images/720727ba1b083155d6bd47484df6d655.png"></li>
     </ol><style type="text/css">
     img {
         border: solid 1px #444;

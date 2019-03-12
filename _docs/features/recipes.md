@@ -11,4 +11,4 @@ order: 705
 
 <p>Recipe search results are powered by <a href="http://www.yummly.com/">Yummly</a>.</p>
 
-<img src="../images/b1598abb66cc96eea33b7844a0fc2d12.png">
+<img src="../../images/b1598abb66cc96eea33b7844a0fc2d12.png">

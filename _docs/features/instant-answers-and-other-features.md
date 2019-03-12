@@ -7,7 +7,7 @@ order: 699
 
 <p>DuckDuckGo uses over <a href="https://duck.co/ia">100 sources to provide answers</a> to your searches, without the need to click on a result. Just look for the Instant Answer above the results:</p>
 
-<img src="../images/411bc9a9495387e1124d3721b7befe7b.png"><p>They're open source, so any developer can <a href="http://duckduckhack.com/">contribute new Instant Answers or fix current ones." This also means we have a wide variety of Instant Answers!</a></p>
+<img src="../../images/411bc9a9495387e1124d3721b7befe7b.png"><p>They're open source, so any developer can <a href="http://duckduckhack.com/">contribute new Instant Answers or fix current ones." This also means we have a wide variety of Instant Answers!</a></p>
 
 <p>Of course, things like <a href="https://duckduckgo.com/?q=2x+%2B+6+%3D+12+solve&amp;ia=calculator">calculations</a> and <a href="https://duckduckgo.com/?q=calories+in+2+eggs">factual information</a> are covered but what's more interesting are the surprises you'll find as Instant Answers:</p><p></p>
 
@@ -21,9 +21,9 @@ order: 699
 
     <p>For example, if you wanted to search on Amazon.com for, "shoes" you could simply type: <em>!amazon shoes</em></p>
 
-<img src="../images/028e3901ce00cfae77634090c4858b22.png"><p>...which would automatically take you to Amazon.com and search for shoes...</p>
+<img src="../../images/028e3901ce00cfae77634090c4858b22.png"><p>...which would automatically take you to Amazon.com and search for shoes...</p>
 
-<img src="../images/ee7aeb76c38a71bc938e5ef404023ae0.png"><p>Many of the !bangs even have short versions. Use 'a' for Amazon or 'w' for Wikipedia.</p>
+<img src="../../images/ee7aeb76c38a71bc938e5ef404023ae0.png"><p>Many of the !bangs even have short versions. Use 'a' for Amazon or 'w' for Wikipedia.</p>
 
     <p>For example: !a shoes   or   !w shoes</p>
     
@@ -37,6 +37,6 @@ order: 699
 
     <p><strong>Perform a search:</strong></p>
 
-<img src="../images/43069832e48ca363fdbdffa5707511c4.png"><p><strong>Hover over the search result and select the, <em>More from ....</em>option:</strong></p>
+<img src="../../images/43069832e48ca363fdbdffa5707511c4.png"><p><strong>Hover over the search result and select the, <em>More from ....</em>option:</strong></p>
     
-<img src="../images/8126cf5441c18f20850c7c72fc6a0f13.png">
+<img src="../../images/8126cf5441c18f20850c7c72fc6a0f13.png">

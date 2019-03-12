@@ -16,7 +16,7 @@ order: 1
 </ul><ol><li>Click the magnifying glass in the search box (at the top of the browser)</li>
 <li>Click <em>Change Search Settings</em> in the drop down</li>
 <li>Select <em>DuckDuckGo</em> in the Default Search Engine drop down</li>
-</ol><img src="../images/0414748c67b001952330a2278b6d904c.jpg"><p>
+</ol><img src="../../images/0414748c67b001952330a2278b6d904c.jpg"><p>
 </p><h2>Setting DuckDuckGo as your homepage</h2>
 Drag <a href="https://duckduckgo.com">this link</a> to the home icon in the browser toolbar.
 

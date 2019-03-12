@@ -9,4 +9,4 @@ order: 706
 
 <p>Place search results are powered by <a href="http://www.yelp.com/">Yelp</a>.</p>
 
-<img src="../images/c8ffda0dc0f580a44f770cabc94291a0.png">
+<img src="../../images/c8ffda0dc0f580a44f770cabc94291a0.png">

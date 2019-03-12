@@ -17,7 +17,7 @@ If you instead want to see results from the past day, week, or month, you can se
 
 <center>
 <p>
-<img alt="The date filter box in DuckDuckGo" src="../images/e0cd66e6832b37964547de7f5429a87b.png"></p>
+<img alt="The date filter box in DuckDuckGo" src="../../images/e0cd66e6832b37964547de7f5429a87b.png"></p>
 </center>
 
 <p>
@@ -26,7 +26,7 @@ On mobile, it's available in the menu by tapping the "3-line" icon at the top ri
 
 <center>
 <p>
-<img height="667" src="../images/0a871252f673b9a88eebad5b9f7b5ee8.png" width="379"></p>
+<img height="667" src="../../images/0a871252f673b9a88eebad5b9f7b5ee8.png" width="379"></p>
 </center>
 
 <p>

@@ -3,7 +3,7 @@ title: Regions
 category: Settings
 order: 69
 ---
-<p>To boost results for your region, click the region button - <img src="../images/c87b8ae4409fa8ddfd500a047b8f9c14.png" style="vertical-align: bottom"> - to the far right of the search results.</p>
+<p>To boost results for your region, click the region button - <img src="../../images/c87b8ae4409fa8ddfd500a047b8f9c14.png" style="vertical-align: bottom"> - to the far right of the search results.</p>
 
 <p>You can also change your region setting on <a href="https://duckduckgo.com/settings">the settings page</a>.</p>
 
