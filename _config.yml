@@ -2,19 +2,17 @@
 # Site
 
 title: DDG Help Pages POC
-url: "https://moollaza.github.io/edition-jekyll-template/"
-baseurl: "https://moollaza.github.io/edition-jekyll-template/"
+url: "https://duckduckgo.github.io"
+baseurl: "/duckduckgo-help-pages"
 show_full_navigation: false
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: "DuckDuckGo Help Pages POC"
+description: "DuckDuckGo Help Pages"
 author:
   name: DuckDuckGo
   email:
   twitter: duckduckgo
-# social:
-#  links:
 
 # -----
 # Build
@@ -61,10 +59,10 @@ defaults:
         content:
           width: 800
           height: 2000
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      _comments:
-        type: Marks the impact of this release
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     _comments:
+  #       type: Marks the impact of this release
