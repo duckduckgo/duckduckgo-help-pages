@@ -24,7 +24,6 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-menus
 
 exclude:
@@ -59,10 +58,3 @@ defaults:
         content:
           width: 800
           height: 2000
-  # -
-  #   scope:
-  #     path: ""
-  #     type: "posts"
-  #   values:
-  #     _comments:
-  #       type: Marks the impact of this release
