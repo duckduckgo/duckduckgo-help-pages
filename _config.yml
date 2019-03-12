@@ -7,7 +7,7 @@ baseurl:
 show_full_navigation: false
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: /logo.v108.svg
 description: "DuckDuckGo Help Pages"
 author:
   name: DuckDuckGo
