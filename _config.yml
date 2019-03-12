@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: DDG Help Pages POC
+title: DuckDuckGo Help Pages
 url: "https://duckduckgo.github.io"
 baseurl: "/duckduckgo-help-pages"
 show_full_navigation: false
