@@ -26,6 +26,7 @@ $full-width-break: $nav-width + ($space * 4) + $content-max-width;
 @import "mixins";
 @import "normalize";
 @import "pygments";
+@import "fonts";
 @import "typography";
 @import "code";
 @import "tables";
