@@ -6,24 +6,23 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		{% seo %}
-		{% feed_meta %}
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-		<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
+		<!-- <link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png"> -->
+		<!-- <link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192"> -->
+		<link rel="icon" type="image/ico" href="{{ site.baseurl }}/favicon.ico">
 	</head>
 
 	<body>
 		<header>
 			<h1>
-				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/emblem.svg" width="40" height="40" alt="{{ site.title }} logo"></a>
+				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/logo.v108.svg" width="40" height="40" alt="{{ site.title }} logo"></a>
 				{{ site.title }}
 				<button type="button" class="open-nav" id="open-nav"></button>
 			</h1>
 
 			<form action="{{ site.baseurl }}/search/" method="get">
-				<input type="text" name="q" id="search-input" placeholder="Search" autofocus>
+				<input type="text" name="q" id="nav-search-input" class="search-input" placeholder="Search" autofocus>
 				<input type="submit" value="Search" style="display: none;">
 			</form>
 
@@ -49,13 +48,6 @@
 						</li>
 					{% endfor %}
 				</ul>
-
-				<ul>
-					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
-						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
-						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
-					</li>
-				</ul>
 			</nav>
 		</header>
 
@@ -66,8 +58,26 @@
 			</div>
 			<article class="content">
 				{{ content }}
-			</article>
-		</section>
+            </article>
+
+            <footer class="footer">
+                <div class="content">
+                    <section class="copyright">DuckDuckGo © 2019</section>
+                    <div class="footer__nav">
+                        <a href="https://duckduckgo.com/" target="_blank">Search</a>
+                        <span class="footer__nav__sep"></span>
+                        <a href="https://twitter.com/duckduckgo" target="_blank" rel="noopener">Twitter</a>
+                        <span class="footer__nav__sep"></span>
+                        <a href="https://www.reddit.com/r/duckduckgo/" target="_blank" rel="noopener">Reddit</a>
+                        <!-- <span class="footer__nav__sep"></span> -->
+                        <!-- <a href="https://duckduckgo.com/newsletter" target="_blank" rel="noopener">Privacy Crash Course</a> -->
+                        <span class="footer__nav__sep"></span>
+                        <a href="https://duckduckgo.com/about" target="_blank">About DuckDuckGo</a>
+                    </div>
+                </div>
+            </footer>
+
+        </section>
 
 		<script>
 			document.getElementById("open-nav").addEventListener("click", function () {
