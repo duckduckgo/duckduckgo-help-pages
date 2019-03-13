@@ -11,6 +11,8 @@
 		<!-- <link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png"> -->
 		<!-- <link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192"> -->
 		<link rel="icon" type="image/ico" href="{{ site.baseurl }}/favicon.ico">
+
+		<base href="{{ site.url }}">
 	</head>
 
 	<body>
@@ -21,7 +23,7 @@
 				<button type="button" class="open-nav" id="open-nav"></button>
 			</h1>
 
-            {% include searchbox.html id="nav-search-input" autofocus="true" %}
+			{% include searchbox.html id="nav-search-input" autofocus="true" %}
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
 				<ul>
@@ -55,24 +57,24 @@
 			</div>
 			<article class="content">
 				{{ content }}
-            </article>
+			</article>
 
-            <footer class="footer">
-                <div class="content">
-                    <section class="copyright">DuckDuckGo © 2019</section>
-                    <div class="footer__nav">
-                        <a href="https://duckduckgo.com/" target="_blank">Search</a>
-                        <span class="footer__nav__sep"></span>
-                        <a href="https://twitter.com/duckduckgo" target="_blank" rel="noopener">Twitter</a>
-                        <span class="footer__nav__sep"></span>
-                        <a href="https://www.reddit.com/r/duckduckgo/" target="_blank" rel="noopener">Reddit</a>
-                        <span class="footer__nav__sep"></span>
-                        <a href="https://duckduckgo.com/about" target="_blank">About DuckDuckGo</a>
-                    </div>
-                </div>
-            </footer>
+			<footer class="footer">
+				<div class="content">
+					<section class="copyright">DuckDuckGo © 2019</section>
+					<div class="footer__nav">
+						<a href="https://duckduckgo.com/" target="_blank">Search</a>
+						<span class="footer__nav__sep"></span>
+						<a href="https://twitter.com/duckduckgo" target="_blank" rel="noopener">Twitter</a>
+						<span class="footer__nav__sep"></span>
+						<a href="https://www.reddit.com/r/duckduckgo/" target="_blank" rel="noopener">Reddit</a>
+						<span class="footer__nav__sep"></span>
+						<a href="https://duckduckgo.com/about" target="_blank">About DuckDuckGo</a>
+					</div>
+				</div>
+			</footer>
 
-        </section>
+		</section>
 
 		<script>
 			document.getElementById("open-nav").addEventListener("click", function () {
