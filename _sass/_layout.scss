@@ -55,7 +55,7 @@ body {
 			background-color: $nav-background-color;
 		}
 
-		#search-input,
+		#nav-search-input,
 		&::after {
 			box-shadow: inset -10px 0 10px -10px rgba(0, 0, 0, 0.1);
 		}
@@ -152,6 +152,7 @@ header {
 	}
 
 	@media (min-width: $mobile-break) {
+        position: fixed;
 		background-color: transparent;
 		width: $nav-width;
 		right: auto;
@@ -163,7 +164,13 @@ header {
 
 		h1 {
 			box-shadow: inset -10px 0 10px -10px rgba(0, 0, 0, 0.1);
-		}
+        }
+
+        // Enable scrolling of nav items
+        nav {
+            max-height: calc(100vh - 11rem);
+            overflow-y: auto;
+        }
 	}
 }
 
