@@ -1,0 +1,12 @@
+<form action="{{ site.baseurl }}/search/" method="get">
+    <input
+        type="text"
+        name="q"
+        class="search-input"
+        placeholder="Search help pages..."
+        autocomplete="off"
+        {% if include.id %}id="{{include.id}}"{% endif %}
+        {% if include.autofocus %}autofocus{% endif %}
+    >
+    <input type="submit" value="Search" class="hidden">
+</form>

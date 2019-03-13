@@ -21,10 +21,7 @@
 				<button type="button" class="open-nav" id="open-nav"></button>
 			</h1>
 
-			<form action="{{ site.baseurl }}/search/" method="get">
-				<input type="text" name="q" id="nav-search-input" class="search-input" placeholder="Search" autofocus>
-				<input type="submit" value="Search" style="display: none;">
-			</form>
+            {% include searchbox.html id="nav-search-input" autofocus="true" %}
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
 				<ul>
@@ -69,8 +66,6 @@
                         <a href="https://twitter.com/duckduckgo" target="_blank" rel="noopener">Twitter</a>
                         <span class="footer__nav__sep"></span>
                         <a href="https://www.reddit.com/r/duckduckgo/" target="_blank" rel="noopener">Reddit</a>
-                        <!-- <span class="footer__nav__sep"></span> -->
-                        <!-- <a href="https://duckduckgo.com/newsletter" target="_blank" rel="noopener">Privacy Crash Course</a> -->
                         <span class="footer__nav__sep"></span>
                         <a href="https://duckduckgo.com/about" target="_blank">About DuckDuckGo</a>
                     </div>
