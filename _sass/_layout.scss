@@ -4,25 +4,25 @@ input::-ms-reveal {
 }
 
 body {
-	height: auto;
-	overflow-x: hidden;
+    height: auto;
+    overflow-x: hidden;
 	background-color: $body-background-color;
 
 	&.nav-open {
-		overflow: hidden;
+        overflow: hidden;
 
 		nav,
 		header > form {
-			display: block;
+            display: block;
 		}
 
 		header {
-			bottom: 0;
+            bottom: 0;
 		}
 	}
 
 	&::before {
-		content: "";
+        content: "";
 		background-color: $content-background-color;
 		position: fixed;
 		top: 0;
@@ -33,6 +33,7 @@ body {
 	}
 
 	@media (min-width: $mobile-break) {
+        height: 100%;
 		padding: 0 0 0 $nav-width;
 
 		&.nav-open {
@@ -68,10 +69,19 @@ body {
 }
 
 .main {
-	margin-top: $space + $nav-header-height;
+    @include display-flex;
+    @include flex-direction(column);
+    height: auto;
+    margin-top: $space + $nav-header-height;
+
+    & > * {
+        width: 100%;
+        box-sizing: border-box;
+    }
 
 	@media (min-width: $mobile-break) {
-		margin-top: 0;
+        margin-top: 0;
+        height: 100%;
 	}
 }
 
@@ -117,7 +127,7 @@ header {
 		}
 	}
 
-$nav-image: $baseurl + "/images/menu.svg";
+    $nav-image: $baseurl + "/images/menu.svg";
 	.open-nav {
 		background-image: url($nav-image);
 		background-color: transparent;
@@ -230,7 +240,6 @@ nav > ul {
 
 .nav-item {
 	display: block;
-	font-family: "Open Sans", sans-serif;
 	line-height: 1;
 	margin: 0;
 
@@ -396,7 +405,6 @@ h4 svg {
 }
 
 .badge {
-	font-family: "Open Sans", sans-serif;
 	padding: 2px 5px;
 	text-transform: uppercase;
 	font-size: 0.8rem;
@@ -464,3 +472,52 @@ img {
 .cms-editor-active .editor-link {
 	display: block;
 }
+
+/* Page Footer */
+.footer {
+    $footer-text: #666;
+    border-top: 1px solid #ddd;
+    margin-top: auto;
+
+    .content {
+        @include display-flex;
+        color: $footer-text;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        font-size: 0.75em;
+    }
+
+    &__nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        a {
+            color: inherit;
+            text-decoration: none;
+            white-space: nowrap;
+
+            &:hover {
+                color: #222;
+                text-decoration: underline;
+            }
+        }
+
+        &__sep {
+            display: block;
+            width: 2px;
+            height: 2px;
+            background-color: $footer-text;
+            border-radius: 100%;
+            margin: 0 0.5em;
+        }
+    }
+
+    @media (max-width: $mobile-break) {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+}
+
