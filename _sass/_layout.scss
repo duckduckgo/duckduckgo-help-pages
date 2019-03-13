@@ -369,8 +369,7 @@ h4 svg {
 	}
 }
 
-
-#search-input {
+.search-input {
 	-webkit-appearance: none;
 	display: block;
 	margin: 0;
@@ -382,12 +381,21 @@ h4 svg {
 	border-left: 5px solid transparent;
 	font-size: 1.5rem;
 	font-weight: 600;
-	line-height: 1.8;
+    line-height: 1.8;
 
 	&:focus {
-		outline: none;
+        outline: none;
 		border-left-color: $brand-colour;
 	}
+
+    .main & {
+        border: 1px solid rgba(0, 0, 0, 0.075);
+        border-radius: 4px;
+
+        &:focus {
+            border: 1px solid $brand-colour;
+        }
+    }
 }
 
 .changelog {
@@ -475,13 +483,12 @@ img {
 
 /* Page Footer */
 .footer {
-    $footer-text: #666;
     border-top: 1px solid #ddd;
     margin-top: auto;
 
     .content {
         @include display-flex;
-        color: $footer-text;
+        color: $footer-color;
         justify-content: space-between;
         flex-wrap: wrap;
         font-size: 0.75em;
@@ -498,7 +505,7 @@ img {
             white-space: nowrap;
 
             &:hover {
-                color: #222;
+                color: $content-color;
                 text-decoration: underline;
             }
         }
@@ -507,7 +514,7 @@ img {
             display: block;
             width: 2px;
             height: 2px;
-            background-color: $footer-text;
+            background-color: $footer-color;
             border-radius: 100%;
             margin: 0 0.5em;
         }
@@ -521,3 +528,6 @@ img {
     }
 }
 
+.hidden {
+    display: none;
+}
