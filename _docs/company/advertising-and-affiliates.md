@@ -27,7 +27,7 @@ order: 48
 </p>
 
 <p>
-    <img alt="Screenshot showing ads in DuckDuckGo search results" src="/images/746267fd284b4953b0209e9d0d6a8fd0.png" />
+    <img alt="Screenshot showing ads in DuckDuckGo search results" src="{{ site.baseurl }}/images/746267fd284b4953b0209e9d0d6a8fd0.png" />
 </p>
 
 <p>
@@ -53,7 +53,7 @@ order: 48
     <li>Then, click <em>Save</em> at the bottom to finalize.</li>
 </ol>
 <p>
-    <img alt="Screenshot showing the Bing ad network settings" src="/images/72449caa010b8cc400157ef19833593f.png" />
+    <img alt="Screenshot showing the Bing ad network settings" src="{{ site.baseurl }}/images/72449caa010b8cc400157ef19833593f.png" />
 </p>
 
 <h2 id="affiliates">Affiliate revenue</h2>

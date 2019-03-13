@@ -26,9 +26,9 @@ order: 39
 </p>
 
 <p class="screenshots">
-    <img alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="/images/25a645563fb8f24957f82b4377b06f9b.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="/images/a7ecd474f7e725d71d72af6b8dc42174.jpg" /><img
-        alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="/images/193ed08bc4a6ea49e8883bce8728c2f0.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="/images/52b7bcfbf9a4b68d444268384c721170.jpg" /><img
-        alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="/images/35ba2f9c47deb4c3298458767771677e.jpg" />
+    <img alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="{{ site.baseurl }}/images/25a645563fb8f24957f82b4377b06f9b.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="{{ site.baseurl }}/images/a7ecd474f7e725d71d72af6b8dc42174.jpg" /><img
+        alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="{{ site.baseurl }}/images/193ed08bc4a6ea49e8883bce8728c2f0.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="{{ site.baseurl }}/images/52b7bcfbf9a4b68d444268384c721170.jpg" /><img
+        alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="{{ site.baseurl }}/images/35ba2f9c47deb4c3298458767771677e.jpg" />
 </p>
 
 <p>Protect your personal data across the web thanks to:</p>

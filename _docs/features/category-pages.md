@@ -27,4 +27,4 @@ order: 702
     else who draws on that information.
 </p>
 
-<img src="/images/8217129c368c3760f5d13eb8db7ae19f.png" />
+<img src="{{ site.baseurl }}/images/8217129c368c3760f5d13eb8db7ae19f.png" />

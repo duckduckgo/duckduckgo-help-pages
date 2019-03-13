@@ -23,8 +23,8 @@ order: 31
 </p>
 
 <p class="screenshots">
-    <img alt="Screenshot of the DuckDuckGo Privacy Browser for iOS" src="/images/21f7744514bad221ad0f8a766bdd2824.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for iOS" src="/images/5c8409e322afc6bb8ba1ad6f70e61faa.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for iOS"
-        src="/images/5d390db8fea3bde1d347ddcb1ee505ca.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for iOS" src="/images/fee84e7838000692cc17f63b809f86b9.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for iOS" src="/images/b8a3faa1bab69ac6f2b595c07cf86348.jpg" />
+    <img alt="Screenshot of the DuckDuckGo Privacy Browser for iOS" src="{{ site.baseurl }}/images/21f7744514bad221ad0f8a766bdd2824.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for iOS" src="{{ site.baseurl }}/images/5c8409e322afc6bb8ba1ad6f70e61faa.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for iOS"
+        src="{{ site.baseurl }}/images/5d390db8fea3bde1d347ddcb1ee505ca.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for iOS" src="{{ site.baseurl }}/images/fee84e7838000692cc17f63b809f86b9.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for iOS" src="{{ site.baseurl }}/images/b8a3faa1bab69ac6f2b595c07cf86348.jpg" />
 </p>
 
 <p>Protect your personal data across the web thanks to:</p>

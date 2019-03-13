@@ -13,7 +13,7 @@ order: 699
     Answer above the results:
 </p>
 
-<img src="/images/411bc9a9495387e1124d3721b7befe7b.png" />
+<img src="{{ site.baseurl }}/images/411bc9a9495387e1124d3721b7befe7b.png" />
 <p>
     They're open source, so any developer can
     <a href="http://duckduckhack.com/">contribute new Instant Answers or fix current ones." This also means we
@@ -56,12 +56,12 @@ order: 699
     simply type: <em>!amazon shoes</em>
 </p>
 
-<img src="/images/028e3901ce00cfae77634090c4858b22.png" />
+<img src="{{ site.baseurl }}/images/028e3901ce00cfae77634090c4858b22.png" />
 <p>
     ...which would automatically take you to Amazon.com and search for shoes...
 </p>
 
-<img src="/images/ee7aeb76c38a71bc938e5ef404023ae0.png" />
+<img src="{{ site.baseurl }}/images/ee7aeb76c38a71bc938e5ef404023ae0.png" />
 <p>
     Many of the !bangs even have short versions. Use 'a' for Amazon or 'w' for
     Wikipedia.

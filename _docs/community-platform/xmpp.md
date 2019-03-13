@@ -40,11 +40,11 @@ order: 30
 
 <p>1. <a href="http://pidgin.im/">Download and install Pidgin.</a></p>
 
-<p><img src="/images/30259c9bbee8dcac69749d92dbbcada1.png" /></p>
+<p><img src="{{ site.baseurl }}/images/30259c9bbee8dcac69749d92dbbcada1.png" /></p>
 
 <p>2. Click <em>Add</em>.</p>
 
-<p><img src="/images/5202b7a89d2352e6c3066efc801e0989.png" /></p>
+<p><img src="{{ site.baseurl }}/images/5202b7a89d2352e6c3066efc801e0989.png" /></p>
 
 <p>
     3. For protocol, choose <em>XMPP</em>. Then type in your Community Platform
@@ -53,14 +53,14 @@ order: 30
     <em>Add</em>.
 </p>
 
-<p><img src="/images/d33198cfc3aa895f97ffd1866427a3dd.png" /></p>
+<p><img src="{{ site.baseurl }}/images/d33198cfc3aa895f97ffd1866427a3dd.png" /></p>
 
 <p>4. Click <em>Register</em>.</p>
 
-<p><img src="/images/afceaecb6710a1f27575f67bfcf261ea.png" /></p>
+<p><img src="{{ site.baseurl }}/images/afceaecb6710a1f27575f67bfcf261ea.png" /></p>
 
 <p>5. Click <em>Close</em>.</p>
 
-<p><img src="/images/0d16b385ae369eaef02f39b190ae0d6e.png" /></p>
+<p><img src="{{ site.baseurl }}/images/0d16b385ae369eaef02f39b190ae0d6e.png" /></p>
 
 <p>6. You're ready to start chatting!</p>

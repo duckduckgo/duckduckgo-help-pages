@@ -29,7 +29,7 @@ order: 721
     </li>
 </ul>
 <p>
-    <img alt="Screenshot showing safe search option below the search box." src="/images/3ef517567542255d5cbd61f132f07e5e.png" />
+    <img alt="Screenshot showing safe search option below the search box." src="{{ site.baseurl }}/images/3ef517567542255d5cbd61f132f07e5e.png" />
 </p>
 <p>
     For more technical users, if you want to force safe search on (or off) you

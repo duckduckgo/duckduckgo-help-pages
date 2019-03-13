@@ -23,4 +23,4 @@ order: 706
     <a href="https://duckduckgo.com/bang">!bang page</a>.
 </p>
 
-<img src="/images/48948578df333b0cf93a46d3ddf9810b.png" />
+<img src="{{ site.baseurl }}/images/48948578df333b0cf93a46d3ddf9810b.png" />

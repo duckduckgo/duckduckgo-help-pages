@@ -11,22 +11,22 @@ order: 35
     <li>
         Open the settings app.
         <br>
-        <img src="/images/837a376e260a3c576519500e36e52913.png" />
+        <img src="{{ site.baseurl }}/images/837a376e260a3c576519500e36e52913.png" />
     </li>
     <li>
         Tap on <em>Safari</em>.
         <br>
-        <img src="/images/5abf4bfa8929da07b7f8deed1ea353d9.png" />
+        <img src="{{ site.baseurl }}/images/5abf4bfa8929da07b7f8deed1ea353d9.png" />
     </li>
     <li>
         Tap on <em>Search Engine</em>.
         <br>
-        <img src="/images/fe2bf703bdc3a6a0442cddace409b0db.png" />
+        <img src="{{ site.baseurl }}/images/fe2bf703bdc3a6a0442cddace409b0db.png" />
     </li>
     <li>
         Select <em>DuckDuckGo</em>.
         <br>
-        <img src="/images/f9e3886a7bebee1080f3057ded594bd7.png" />
+        <img src="{{ site.baseurl }}/images/f9e3886a7bebee1080f3057ded594bd7.png" />
     </li>
 </ol>
 

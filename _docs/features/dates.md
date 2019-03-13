@@ -21,7 +21,7 @@ order: 716
 </p>
 
 <p>
-    <img alt="The date filter box in DuckDuckGo" src="/images/e0cd66e6832b37964547de7f5429a87b.png" />
+    <img alt="The date filter box in DuckDuckGo" src="{{ site.baseurl }}/images/e0cd66e6832b37964547de7f5429a87b.png" />
 </p>
 
 <p>
@@ -30,7 +30,7 @@ order: 716
 </p>
 
 <p>
-    <img src="/images/0a871252f673b9a88eebad5b9f7b5ee8.png" />
+    <img src="{{ site.baseurl }}/images/0a871252f673b9a88eebad5b9f7b5ee8.png" />
 </p>
 
 <p>

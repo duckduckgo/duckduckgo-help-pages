@@ -25,7 +25,7 @@ order: 1
     <li>Click <em>Change Search Settings</em> in the drop down</li>
     <li>Select <em>DuckDuckGo</em> in the Default Search Engine drop down</li>
 </ol>
-<img src="/images/0414748c67b001952330a2278b6d904c.jpg" />
+<img src="{{ site.baseurl }}/images/0414748c67b001952330a2278b6d904c.jpg" />
 
 <h2>Setting DuckDuckGo as your homepage</h2>
 Drag <a href="https://duckduckgo.com">this link</a> to the home icon in the

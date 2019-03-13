@@ -39,7 +39,7 @@ order: 99
     with DuckDuckGo.
 </p>
 
-<img alt="screenshot of warning screen" src="/images/50a312f5339e7a84a7c99ad7d3e152f4.png" />
+<img alt="screenshot of warning screen" src="{{ site.baseurl }}/images/50a312f5339e7a84a7c99ad7d3e152f4.png" />
 <p>
     Major web browsers have access to more accurate location information using a
     variety of techniques, including WiFi databases, cell tower location
@@ -48,7 +48,7 @@ order: 99
     site.
 </p>
 
-<img alt="screenshot of browser location prompt" src="/images/6631305e26ef2563263b3eb1c83b2a9e.png" />
+<img alt="screenshot of browser location prompt" src="{{ site.baseurl }}/images/6631305e26ef2563263b3eb1c83b2a9e.png" />
 <p>
     If you allow DuckDuckGo to use this information, your browser’s more accurate
     location will be shared with us with your search request, leading to search

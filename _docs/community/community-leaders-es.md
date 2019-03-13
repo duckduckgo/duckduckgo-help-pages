@@ -38,7 +38,6 @@ order: 202
 </p>
 
 <ol>
-    <br /><br />
     <li>¿Cuánto tiempo llevas siendo usuario de DuckDuckGo?</li>
     <li>¿Cuál es tu nombre de usuario en duck.co?</li>
     <li>
@@ -73,8 +72,6 @@ order: 202
     No te preocupes si no eres aprobado en tu primera aplicación. ¡Siempre puedes
     reintentar cuando sientas que estás listo otra vez!
 </p>
-
-<br /><br />
 <p>
     Community Leaders actuales que nos ayudan con el código y la comunidad.
     Debemos agradecerle a:

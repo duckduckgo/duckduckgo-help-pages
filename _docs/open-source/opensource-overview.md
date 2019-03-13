@@ -4,7 +4,7 @@ category: Open-source
 order: 56
 ---
 
-<img alt="Giving back" src="/images/21c07cef6e61cf10afd25b0829284aaa.jpg" />
+<img alt="Giving back" src="{{ site.baseurl }}/images/21c07cef6e61cf10afd25b0829284aaa.jpg" />
 <h2>DuckDuckGo's Open Source Areas</h2>
 
 <p>

@@ -6,7 +6,7 @@ order: 69
 
 <p>
     To boost results for your region, click the region button -
-    <img src="/images/c87b8ae4409fa8ddfd500a047b8f9c14.png" style="vertical-align: bottom" />
+    <img src="{{ site.baseurl }}/images/c87b8ae4409fa8ddfd500a047b8f9c14.png" style="vertical-align: bottom" />
     - to the far right of the search results.
 </p>
 

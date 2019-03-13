@@ -34,7 +34,7 @@ order: 730
     <a href="https://duckduckgo.com/bang">!bang page</a>.
 </p>
 
-<img src="/images/gCLE4T6.png " />
+<img src="{{ site.baseurl }}/images/gCLE4T6.png " />
 <p>
     Map data is copyrighted by
     <a href="http://openstreetmap.org/">OpenStreetMap</a> contributors, licensed

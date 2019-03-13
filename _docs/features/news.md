@@ -38,4 +38,4 @@ order: 708
     <a href="https://duckduckgo.com/bang">bang page</a>.
 </p>
 
-<img src="/images/2207b1ad995926af41d5e366278f0f5c.png" />
+<img src="{{ site.baseurl }}/images/2207b1ad995926af41d5e366278f0f5c.png" />

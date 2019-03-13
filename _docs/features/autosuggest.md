@@ -18,4 +18,4 @@ order: 705
     doesn't impact your privacy!
 </p>
 
-<img src="/images/31b134d0c227539ea4a23b6e154b85d7.png" />
+<img src="{{ site.baseurl }}/images/31b134d0c227539ea4a23b6e154b85d7.png" />
