@@ -31,7 +31,8 @@ input::-ms-reveal {
 }
 
 body {
-    min-height: calc(100% - #{$space} - #{$nav-header-height});
+    @include display-flex;
+    @include flex-direction(column);
     overflow-x: hidden;
 	background-color: $body-background-color;
 
@@ -44,53 +45,21 @@ body {
 		}
 
 		header {
+            position: absolute;
             bottom: 0;
+            top: 0;
+            left: 0;
+            right: 0;
 		}
 	}
 
-	&::before {
-        content: "";
-		background-color: $content-background-color;
-		position: fixed;
-		top: 0;
-		right: 0;
-		bottom: 0;
-		left: 0;
-		z-index: -1;
-	}
-
-	@media (min-width: $mobile-break) {
+    // Desktop
+    @media (min-width: $mobile-break) {
         height: 100%;
 		padding: 0 0 0 $nav-width;
 
 		&.nav-open {
 			overflow: auto;
-		}
-
-		&::after,
-		&::before {
-			content: "";
-			position: fixed;
-			top: 0;
-			bottom: 0;
-			z-index: -1;
-		}
-
-		&::after {
-			left: 0;
-			width: $nav-width;
-			background-color: $nav-background-color;
-		}
-
-		#nav-search-input,
-		&::after {
-			box-shadow: inset -10px 0 10px -10px rgba(0, 0, 0, 0.1);
-		}
-
-		&::before {
-			left: $nav-width;
-			right: 0;
-			background-color: $content-background-color;
 		}
 	}
 }
@@ -98,31 +67,32 @@ body {
 .main {
     @include display-flex;
     @include flex-direction(column);
-    height: 100%;
-    margin-top: $space + $nav-header-height;
-    position: relative;
+    flex: 1;
 
     & > * {
         width: 100%;
     }
 
-	@media (min-width: $mobile-break) {
+    // Desktop
+    @media (min-width: $mobile-break) {
         margin-top: 0;
+        min-height: 100%;
 	}
 }
 
 header {
 	$emblem-size: 35px;
 	$emblem-vertical-padding: ($nav-header-height - $emblem-size) / 2;
-	$emblem-horizontal-padding: $space;
+    $emblem-horizontal-padding: $space;
 
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	overflow-x: hidden;
+	// overflow-x: hidden;
 	z-index: 1;
-	background-color: $nav-background-color;
+    background-color: $nav-background-color;
+    @include box-shadow;
+
+    #nav-search-input {
+        @include box-shadow;
+    }
 
 	ul {
 		padding: 0;
@@ -176,19 +146,20 @@ header {
 		}
 	}
 
-	@media (min-width: $mobile-break) {
+    // Desktop
+    @media (min-width: $mobile-break) {
         position: fixed;
-		background-color: transparent;
 		width: $nav-width;
-		right: auto;
-		bottom: auto;
+        top: 0;
+        left: 0;
+		bottom: 0;
 
 		.open-nav {
 			display: none;
 		}
 
 		h1 {
-			box-shadow: inset -10px 0 10px -10px rgba(0, 0, 0, 0.1);
+			@include box-shadow;
         }
 
         // Enable scrolling of nav items
@@ -238,7 +209,8 @@ header {
 		margin-left: -4px;
 	}
 
-	@media (min-width: $mobile-break) {
+    // Desktop
+    @media (min-width: $mobile-break) {
 		h2 {
 			font-size: 2.65rem;
 		}
@@ -257,7 +229,8 @@ nav,
 header > form {
 	display: none;
 
-	@media (min-width: $mobile-break) {
+    // Desktop
+    @media (min-width: $mobile-break) {
 		display: block;
 	}
 }

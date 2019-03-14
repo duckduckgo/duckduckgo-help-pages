@@ -32,3 +32,7 @@
 	display: -webkit-inline-flex;
 	display: inline-flex;
 }
+
+@mixin box-shadow() {
+    box-shadow: inset -10px 0 10px -10px rgba(0, 0, 0, 0.1);
+}
