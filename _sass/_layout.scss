@@ -8,7 +8,9 @@ html {
     box-sizing: border-box;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
     -webkit-box-sizing: inherit;
     -moz-box-sizing: inherit;
     box-sizing: inherit;
@@ -20,7 +22,6 @@ html {
 .hidden {
     display: none;
 }
-
 
 /*
 ** Theme Styles
@@ -184,9 +185,15 @@ header {
 
 .content,
 .page-header {
-    max-width: $content-max-width;
+    max-width: 100%;
     padding: 0 ($space + 5) $space;
     margin: $space auto 0 auto;
+    overflow-wrap: break-word;
+
+    // Desktop
+    @media (min-width: $mobile-break) {
+        max-width: $content-max-width;
+    }
 }
 
 .page-header {
@@ -325,7 +332,6 @@ h3 + .warning {
     margin-top: 1.75em;
 }
 
-
 h4 code {
     background: $nav-background-color;
     color: $content-color;
@@ -341,7 +347,7 @@ h4 svg {
     margin-right: 6px;
     position: relative;
     top: -2px;
-    fill: #2E2E2E;
+    fill: #2e2e2e;
     height: 23px;
 }
 
@@ -435,7 +441,7 @@ h4 svg {
 }
 
 blockquote {
-    border-left: 5px solid #FD0;
+    border-left: 5px solid #fd0;
     padding: 10px 15px;
     margin-left: -15px;
     margin-right: -10px;
@@ -481,7 +487,6 @@ img {
             color: #333;
         }
     }
-
 }
 
 .cms-editor-active .editor-link {
