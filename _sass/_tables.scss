@@ -1,5 +1,5 @@
 table {
-	width: 100%;
+    width: 100%;
     margin-bottom: 1.75em;
     border-collapse: collapse;
 
@@ -9,18 +9,18 @@ table {
 }
 
 tr {
-	border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
 }
 
 tr:nth-child(even) {
-	background: #fcfcfc;
+    background: #fcfcfc;
 }
 
 td, th {
-	padding: 8px;
-	text-align: left;
+    padding: 8px;
+    text-align: left;
 }
 
 th {
-	padding-bottom: 4px;
+    padding-bottom: 4px;
 }
