@@ -5,10 +5,6 @@ order: 718
 ---
 
 <style type="text/css">
-    table.logos-table {
-        padding: 10px;
-    }
-
     table.logos-table th {
         background: #f4f4f4;
     }

@@ -1,6 +1,7 @@
 table {
 	width: 100%;
     margin-bottom: 1.75em;
+    border-collapse: collapse;
 
     &.bordered {
         border: 1px solid #ddd;
