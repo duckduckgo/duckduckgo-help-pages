@@ -31,7 +31,7 @@ input::-ms-reveal {
 }
 
 body {
-    height: auto;
+    min-height: calc(100% - #{$space} - #{$nav-header-height});
     overflow-x: hidden;
 	background-color: $body-background-color;
 
@@ -98,8 +98,9 @@ body {
 .main {
     @include display-flex;
     @include flex-direction(column);
-    height: auto;
+    height: 100%;
     margin-top: $space + $nav-header-height;
+    position: relative;
 
     & > * {
         width: 100%;
@@ -107,7 +108,6 @@ body {
 
 	@media (min-width: $mobile-break) {
         margin-top: 0;
-        height: 100%;
 	}
 }
 
@@ -554,12 +554,5 @@ img {
             border-radius: 100%;
             margin: 0 0.5em;
         }
-    }
-
-    @media (max-width: $mobile-break) {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
     }
 }
