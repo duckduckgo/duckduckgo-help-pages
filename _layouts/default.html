@@ -1,6 +1,8 @@
 <!DOCTYPE html>
-
+<!--[if lt IE 9]><html class="lt-ie9 no-flex"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]>
 <html>
+<![endif]-->
 
     <head>
         <meta charset="utf-8">
@@ -12,6 +14,11 @@
         <!-- <link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png"> -->
         <!-- <link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192"> -->
         <link rel="icon" type="image/ico" href="{{ site.baseurl }}/favicon.ico">
+
+        <!-- Enable support for HTML5 elements (e.g. <nav>, <footer>) -->
+        <!--[if lt IE 9]>
+            <script src="{{ site.baseurl }}/scripts/html5shiv.js"></script>
+        <![endif]-->
 
         <base href="{{ site.baseurl }}">
     </head>
@@ -85,5 +92,4 @@
             });
         </script>
     </body>
-
 </html>
