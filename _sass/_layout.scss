@@ -37,7 +37,7 @@ body {
     background-color: $body-background-color;
 
     &.nav-open {
-        overflow: hidden;
+        overflow-y: auto;
 
         nav,
         header > form {
@@ -46,10 +46,10 @@ body {
 
         header {
             position: absolute;
-            bottom: 0;
             top: 0;
             left: 0;
             right: 0;
+            bottom: auto;
         }
     }
 
