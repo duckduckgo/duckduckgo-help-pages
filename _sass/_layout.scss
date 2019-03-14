@@ -276,10 +276,8 @@ nav > ul {
         padding-left: $space;
     }
 
-    @media (max-width: $full-width-break) {
-        nav:not(.full-navigation) & > ul {
-            display: initial;
-        }
+    .nav-open nav:not(.full-navigation) & > ul {
+        display: initial;
     }
 }
 
