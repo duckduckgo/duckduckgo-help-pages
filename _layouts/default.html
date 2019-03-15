@@ -47,11 +47,11 @@
                     {% for group in grouped %}
                     <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
                         {% assign items = group.items | sort: 'order' %}
-                        <a href="{{ items.first.url }}">{{ group.name }}</a>
+                        <a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
                         <ul>
                             {% for item in items %}
                             <li class="nav-item {% if item.url == page.url %}current{% endif %}"><a
-                                    href="{{ item.url }}">{{ item.title }}</a></li>
+                                    href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
                             {% endfor %}
                         </ul>
                     </li>
