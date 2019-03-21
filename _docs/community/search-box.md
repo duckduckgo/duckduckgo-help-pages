@@ -7,8 +7,8 @@ order: 58
 <p>
     You can integrate the DuckDuckGo search box to search your site using
     <a href="https://duckduckgo.com/search_box">this wizard</a>.
-    <a href="http://hardik.org/blog/stylising-duckduckgo-site-search/">There's a great writeup on how to change the style of that box over
-        here.</a>
+    <a href="https://web.archive.org/web/20160623174219/http://hardik.org/blog/stylising-duckduckgo-site-search/">There's a great writeup on how to change the style of that box over
+        here (archived).</a>
 </p>
 
 <p>

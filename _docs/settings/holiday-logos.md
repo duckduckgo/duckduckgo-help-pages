@@ -20,7 +20,7 @@ order: 718
 
 <p>
     For more DuckDuckGo images,
-    <a href="https://onedrive.live.com/?cid=D38146E6F54D5475&amp;id=D38146E6F54D5475%21107">see our press pictures</a>.
+    <a href="https://duckduckgo.com/press">see our press pictures</a>.
 </p>
 
 <table class="bordered logos-table">
@@ -309,8 +309,7 @@ order: 718
         </tr>
         <tr>
             <td>November 28, 2012</td>
-            <td>
-                <a href="http://www.vanishingrights.com/">In support of updating U.S. privacy laws</a>
+            <td>In support of updating U.S. privacy laws
             </td>
             <td>
                 <img src="{{ site.baseurl }}/images/ebca1c42063397647b263e4a5e26a373.95453" />
@@ -532,113 +531,71 @@ order: 718
         </tr>
         <tr>
             <td>December 10, 2011</td>
-            <td>
-                Human Rights Day
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/925-ddg-human-rights-sticker">Buy this holiday logo as a sticker.</a>
-            </td>
+            <td>Human Rights Day</td>
             <td><img src="{{ site.baseurl }}/images/e06a49bfc87aeacf3460e5e82ced7c57.42797" /></td>
         </tr>
         <tr>
             <td>November 18, 2011</td>
-            <td>
-                Official release of Minecraft
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/924-ddg-minecraft-sticker">Buy this holiday logo as a sticker.</a>
-            </td>
+            <td>Official release of Minecraft</td>
             <td><img src="{{ site.baseurl }}/images/ac63f70b851931b1da2a727e43c19faf.42798" /></td>
         </tr>
         <tr>
             <td>November 16, 2011</td>
-            <td>
-                American Censorship Day<br /><a href="https://duck.co/forum/thread/3340/logo-for-censorship-day-on-the-16th">(thanks to the forums)</a>
-            </td>
+            <td>American Censorship Day</td>
             <td><img src="{{ site.baseurl }}/images/1553c1648ad5e369159c09da8e8c0bde.42799" /></td>
         </tr>
         <tr>
             <td>October 31, 2011</td>
-            <td>
-                Halloween
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/915-ddg-frankenstein-sticker">Buy this holiday logo as a sticker.</a>
-            </td>
+            <td>Halloween</td>
             <td>
                 <img src="{{ site.baseurl }}/images/210537276b1312e81287ee5d325c1288.46439" />
             </td>
         </tr>
         <tr>
             <td>October 25, 2011</td>
-            <td>
-                Pablo Picasso's 130th birthday
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/923-ddg-picasso-sticker">Buy this holiday logo as a sticker.</a>
-            </td>
+            <td>Pablo Picasso's 130th birthday</td>
             <td>
                 <img src="{{ site.baseurl }}/images/f8c38e079cae508f5ecec2f2b5d61efa.46445" />
             </td>
         </tr>
         <tr>
             <td>October 24, 2011</td>
-            <td>
-                John McCarthy's passing<br /><a href="https://duck.co/forum/thread/2852/john-mccarthy-memorial-logo">(thanks to the forums)</a>
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/920-ddg-john-mccarthy-sticker">Buy this
-                    holiday logo as a sticker.</a>
-            </td>
+            <td>John McCarthy's passing</td>
             <td>
                 <img src="{{ site.baseurl }}/images/58c6fcac869e757e2f60305d85a9025b.46440" />
             </td>
         </tr>
         <tr>
             <td>October 22, 2011</td>
-            <td>
-                Franz Liszt's 200th birthday
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/918-ddg-franz-lizst-sticker">Buy this holiday logo as a sticker.</a>
-            </td>
+            <td>Franz Liszt's 200th birthday</td>
             <td>
                 <img src="{{ site.baseurl }}/images/2375b211f475811b67c01f7f529bc047.46441" />
             </td>
         </tr>
         <tr>
             <td>October 5, 2011</td>
-            <td>
-                Steve Jobs' passing
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/913-ddg-steve-jobs-sticker">Buy this holiday logo as a sticker.</a>
-            </td>
+            <td>Steve Jobs' passing</td>
             <td>
                 <img src="{{ site.baseurl }}/images/e91ab6e751ce6800363ec8fe244b6ed2.46451" />
             </td>
         </tr>
         <tr>
             <td>October 3, 2011</td>
-            <td>
-                German Unity Day<br /><a href="https://duck.co/forum/thread/3774/help-me-getting-a-duckduckgo-logo-for-the-german-u">(thanks to the forums)</a>
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/912-ddg-german-unity-day-sticker">Buy
-                    this holiday logo as a sticker.</a>
-            </td>
+            <td>German Unity Day</td>
             <td>
                 <img src="{{ site.baseurl }}/images/e14f8f26c0a62f1e2dc7092343e40c68.48645" />
             </td>
         </tr>
         <tr>
             <td>October 2, 2011</td>
-            <td>
-                Mohandas Karamchand Gandhi's 142nd birthday
-                <br /><br />
-                <br /><a href="https://www.stickermule.com/marketplace/917-ddg-gandhi-sticker">Buy this holiday logo as a sticker.</a>
-            </td>
+            <td>Mohandas Karamchand Gandhi's 142nd birthday</td>
             <td>
                 <img src="{{ site.baseurl }}/images/22eb791b1576d3ecf434e7aa27c985aa.46442" />
             </td>
         </tr>
         <tr>
             <td>July 24, 2011</td>
-            <td>
-                Amelia Earhart's 114th birthday<br /><a href="https://duck.co/forum/thread/3737/amelia-earhart-day-logo-july-24th">(thanks to the forums)</a>
-            </td>
+            <td>Amelia Earhart's 114th birthday</td>
             <td>
                 <img src="{{ site.baseurl }}/images/16e62f01aa856fcef809279cd44e1912.48649" />
             </td>
@@ -657,9 +614,7 @@ order: 718
             <td>July 10, 2011</td>
             <td>
                 Nikola Tesla's 155th birthday<br />
-                (thanks to the forums user "pchammer")
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/926-ddg-nikola-tesla-sticker">Buy this holiday logo as a sticker.</a>
+                (thanks to user "pchammer")
             </td>
             <td>
                 <img src="{{ site.baseurl }}/images/35a43840a6bafff8c5907c0c8f8b8c9b.48661" />
@@ -710,11 +665,7 @@ order: 718
         </tr>
         <tr>
             <td>April 12, 2011</td>
-            <td>
-                50th anniversary of the first human spaceflight
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/922-ddg-space-sticker">Buy this holiday logo as a sticker.</a>
-            </td>
+            <td>50th anniversary of the first human spaceflight</td>
             <td><img src="{{ site.baseurl }}/images/dab210827d72d683c673e9f353b6ffed.48639" /></td>
         </tr>
         <tr>
@@ -727,12 +678,7 @@ order: 718
         </tr>
         <tr>
             <td>March 12, 2011</td>
-            <td>
-                Request for donations to the Red Cross after the Japanese earthquake<br /><a href="https://duck.co/forum/thread/4171/japan-earthquake-logo-yegggggg">(thanks to the forums)</a>
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/921-ddg-red-cross-sticker">Buy
-                    this holiday logo as a sticker.</a>
-            </td>
+            <td>Request for donations to the Red Cross after the Japanese earthquake</td>
             <td><img src="{{ site.baseurl }}/images/89e31a510004a829fcc2d699a567af01.48643" /></td>
         </tr>
         <tr>
@@ -749,9 +695,7 @@ order: 718
             <td>February 14, 2011</td>
             <td>
                 Valentine's Day<br />
-                (thanks to the forums user "MrMagical")
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/914-ddg-valentines-sticker">Buy this holiday logo as a sticker.</a>
+                (thanks to user "MrMagical")
             </td>
             <td>
                 <img alt="" src="{{ site.baseurl }}/images/563b8a2aae0bb7fc5898637f2fa1094d.48648" />
@@ -761,7 +705,7 @@ order: 718
             <td>February 28, 2011</td>
             <td>
                 DuckDuckGo's third observed birthday<br />
-                (thanks to the forums user "MrMagical")
+                (thanks to user "MrMagical")
             </td>
             <td>
                 <img alt="" src="{{ site.baseurl }}/images/3961d737bf1f589d599e4c4d82b29d65.48662" />
@@ -771,9 +715,7 @@ order: 718
             <td>October 31, 2010</td>
             <td>
                 Halloween<br />
-                (thanks to the forums user "MrMagical")
-                <br /><br />
-                <a href='https://www.stickermule.com/marketplace/919-ddg-vampire-sticker"'>Buy this holiday logo as a sticker.</a>
+                (thanks to user "MrMagical")
             </td>
             <td>
                 <img alt="" src="{{ site.baseurl }}/images/97a707f14250e8e4782aff4ab640f97d.48651" />
@@ -783,9 +725,6 @@ order: 718
             <td>September 30, 2010</td>
             <td>
                 In honor of a DuckDuckGo-influenced logo on Reddit<br /><a href="https://twitter.com/markkata">(thanks to Mark Kata)</a>
-                <br /><br />
-                <a href="https://www.stickermule.com/marketplace/916-ddg-reddit-sticker">Buy this holiday logo as a
-                    sticker.</a>
             </td>
             <td>
                 <img alt="" src="{{ site.baseurl }}/images/f93d52277dd08d1b03dd01c2f020fb34.48659" />

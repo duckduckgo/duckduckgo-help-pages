@@ -73,7 +73,7 @@ order: 99
 <ul>
     <li>
         Firefox (uses Google Location Services):
-        <a href="https://www.mozilla.org/en-US/firefox/geolocation/">https://www.mozilla.org/en-US/firefox/geolocation/</a>
+        <a href="https://support.mozilla.org/en-US/kb/does-firefox-share-my-location-websites">https://support.mozilla.org/en-US/kb/does-firefox-share-my-location-websites</a>
     </li>
     <li>
         Chrome (uses Google Location Services):
