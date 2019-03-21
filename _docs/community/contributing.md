@@ -4,7 +4,7 @@ category: Community
 order: 26
 ---
 
-> If you're interested in our <a href="/company/hiring">hiring article</a>, you'll still want to read this page! :)
+> If you're interested in our <a href="https://duckduckgo.com/hiring">hiring page</a>, you'll still want to read this page! :)
 
 <h3>Improve:</h3>
 <h4>Develop Instant Answers</h4>

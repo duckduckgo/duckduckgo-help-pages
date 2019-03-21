@@ -9,7 +9,6 @@ order: 72
 <ul>
     <li><a href="http://www.backbox.org/">BackBox</a></li>
     <li><a href="http://bodhilinux.com/">Bodhi Linux</a></li>
-    <li><a href="https://chakraos.org/">Chakra Project</a></li>
     <li><a href="http://www.connochaetos.org/wiki/">ConnochaetOS</a></li>
     <li><a href="http://www.debian.org/">Debian</a></li>
     <li><a href="http://www.deftlinux.net/">DEFT</a></li>
@@ -26,21 +25,16 @@ order: 72
     <li><a href="http://luninuxos.com/">LuninuX OS</a></li>
     <li><a href="http://www.lxle.net">LXLE</a></li>
     <li><a href="http://www.mageia.org/en/">Mageia</a></li>
-    <li>
-        <a href="http://www.mozillux.org/mozillux-en.html#.UEfKhpb4L4Q">Mozillux</a>
-    </li>
     <li><a href="http://openmoko.com/">Openmoko</a></li>
     <li><a href="http://www.opensuse.org/">openSUSE</a></li>
-    <li><a href="http://www.parsix.org/">Parsix</a></li>
-    <li><a href="http://www.pcbsd.org/">PC-BSD</a></li>
     <li><a href="http://peppermintos.com/">Peppermint</a></li>
     <li><a href="http://porteus.org/">Porteus</a></li>
-    <li><a href="https://puri.sm/pureos/">PureOS</a></li>
+    <li><a href="https://www.pureos.net/">PureOS</a></li>
     <li><a href="http://www.raspberrypi.org/">Raspberry Pi</a></li>
     <li><a href="https://www.redhat.com/">Red Hat</a></li>
     <li><a href="http://www.salixos.org/">Salix OS</a></li>
     <li><a href="http://www.slitaz.org/en/">SliTaz</a></li>
-    <li><a href="http://www.snowlinux.de/">Snowlinux</a></li>
+    <li><a href="https://www.snowlinux.de/">Snowlinux</a></li>
     <li>
         <a href="http://www.sysresccd.org/SystemRescueCd_Homepage">SystemRescueCd</a>
     </li>
@@ -48,7 +42,6 @@ order: 72
     <li><a href="http://uberstudent.org/">UberStudent</a></li>
     <li><a href="http://www.ubuntu.com/">Ubuntu (Canonical)</a></li>
     <li><a href="http://webconverger.com/">Webconverger</a></li>
-    <li><a href="http://xdistro.xyz/download/">X Distro</a></li>
     <li><a href="http://www.zevenos.com/">ZevenOS</a></li>
 </ul>
 <p>

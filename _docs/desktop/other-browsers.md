@@ -23,7 +23,6 @@ order: 15
         <a href="https://itunes.apple.com/us/app/openweb/id519348697">openWeb</a>
     </li>
     <li><a href="http://www.palemoon.org/">Pale Moon</a></li>
-    <li><a href="https://qupzilla.com/">Qupzilla</a></li>
     <li><a href="https://www.seamonkey-project.org/">SeaMonkey</a></li>
     <li><a href="http://www.slimjet.com/">Slimjet</a></li>
     <li>

@@ -15,7 +15,6 @@ order: 710
 </p>
 
 <p>
-    If you are seeing a persistent problem, you can investigate further with
-    <a href="http://getfavicon.appspot.com">getFavicon</a>, which we use to
-    display them.
+    If you are seeing a persistent problem, please
+    <a href="https://duckduckgo.com/feedback">let us know</a>.
 </p>

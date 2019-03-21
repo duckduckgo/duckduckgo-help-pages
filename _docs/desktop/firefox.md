@@ -12,9 +12,6 @@ order: 1
         <a href="https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/">DuckDuckGo Plus add-on:</a>
         Changes your browser search engine to DuckDuckGo, along with other goodies
     </li>
-    <li>
-        <a href="http://mycroftproject.com/search-engines.html?name=duckduckgo">User-submitted plugins from the Mycroft Project</a>
-    </li>
 </ul>
 
 <h2>Changing your search engine to DuckDuckGo</h2>
