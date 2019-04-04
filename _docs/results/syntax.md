@@ -21,7 +21,7 @@ order: 401
         </tr>
         <tr>
             <td><code>"cats and dogs"</code></td>
-            <td>Results for exact term "cats and dogs"</td>
+            <td>Results for exact term "cats and dogs". If no results are found, we'll show related results.</td>
         </tr>
         <tr>
             <td><code>cats -dogs</code></td>
