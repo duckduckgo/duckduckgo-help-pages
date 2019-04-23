@@ -9,7 +9,7 @@ order: 1
 <h2>Installing our add-on:</h2>
 <ul>
     <li>
-        <a href="https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/">DuckDuckGo Plus add-on:</a>
+        <a href="https://addons.mozilla.org/firefox/addon/duckduckgo-for-firefox/">DuckDuckGo Privacy Essentials add-on:</a>
         Changes your browser search engine to DuckDuckGo, along with other goodies
     </li>
 </ul>

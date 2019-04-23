@@ -15,33 +15,11 @@ order: 699
 
 <img src="{{ site.baseurl }}/images/411bc9a9495387e1124d3721b7befe7b.png" />
 <p>
-    They're open source, so any developer can
-    <a href="http://duckduckhack.com/">contribute new Instant Answers or fix current ones." This also means we
-        have a wide variety of Instant Answers!</a>
+    They're open source, so any developer can view them or submit fixes through our <a href="https://github.com/duckduckgo">GitHub repository</a>. This also means we have a wide variety of Instant Answers!</a>
 </p>
 
 <p>
-    Of course, things like
-    <a href="https://duckduckgo.com/?q=2x+%2B+6+%3D+12+solve&amp;ia=calculator">calculations</a>
-    and
-    <a href="https://duckduckgo.com/?q=calories+in+2+eggs">factual information</a>
-    are covered but what's more interesting are the surprises you'll find as
-    Instant Answers:
-</p>
-
-
-<p>
-    From
-    <a href="https://duckduckgo.com/?q=AA+102">checking the status of a flight</a>
-    to finding
-    <a href="https://duckduckgo.com/?q=rhyme+list">words that rhyme together</a>,
-    we've got an Instant Answer for it.
-</p>
-
-<p>
-    Also, our platform for creating Instant Answers is open source so if you're a
-    developer, you can contribute! Check out
-    <a href="http://duckduckhack.com/">DuckDuckHack.com</a> for more info.
+    Of course, things like <a href="https://duckduckgo.com/?q=2x+%2B+6+%3D+12+solve&amp;ia=calculator">calculations</a> and <a href="https://duckduckgo.com/?q=people+in+space&ia=answer">factual information</a> are covered but what's more interesting are the surprises you'll find as Instant Answers. From <a href="https://duckduckgo.com/?q=AA+102">checking the status of a flight</a> to <a href="https://duckduckgo.com/?q=password+strong+12&ia=answer">generating a strong password</a>, we've got an Instant Answer for it.
 </p>
 
 <h3>!Bang Syntax</h3>
