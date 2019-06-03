@@ -15,5 +15,5 @@ order: 65
     <a href="https://duckduckgo.com/settings">privacy settings</a> (including POST
     &amp; RefControl), and we allow you to use
     <a href="https://duckduckgo.com/params">URL parameters</a> instead of cookies
-    our the Cloud Save feature to store settings.
+    for our Cloud Save feature to store settings.
 </p>
