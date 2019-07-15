@@ -5,6 +5,6 @@ order: 45
 ---
 
 <p>
-    Our <a href="http://duck-duck-go.myshopify.com/">MerchMo Shopify store</a> has
-    t-shirts and stickers available for purchase. More designs to come!
+    Our <a href="https://duckduckgo.merchmadeeasy.com//">FutureShirts store</a> has
+    t-shirts, stickers, and other merchandise available for purchase.
 </p>
