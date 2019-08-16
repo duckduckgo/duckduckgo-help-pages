@@ -20,4 +20,4 @@ It respects <a href="https://metacpan.org/module/WWW::RobotRules">WWW::RobotRule
 - 54.208.100.253
 - 23.21.227.69
 
-If you have any questions or concerns, please <a href="/feedback">let us know</a>..
+If you have any questions or concerns, please <a href="/feedback">let us know</a>.
