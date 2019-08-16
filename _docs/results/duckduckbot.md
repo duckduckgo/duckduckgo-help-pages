@@ -4,7 +4,7 @@ category: Results
 order: 484
 ---
 
-# What is DuckDuckBot and what does it do?
+## What is DuckDuckBot and what does it do?
 
 DuckDuckBot is the Web crawler for <a href="/">DuckDuckGo</a>.
 DuckDuckBot’s job is to constantly improve our search results and offer users the best and most secure.
