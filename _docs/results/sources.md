@@ -26,7 +26,7 @@ order: 400
 <p>
     In fact, DuckDuckGo gets its results from over
     <a href="https://duck.co/ia">four hundred sources</a>. These include hundreds
-    of vertical sources delivering niche Instant Answers, DuckDuckBot (our
+    of vertical sources delivering niche Instant Answers, <a href="https://duckduckgo.com/duckduckbot">DuckDuckBot</a> (our
     crawler) and crowd-sourced sites (like Wikipedia, stored in our answer
     indexes). We also of course have more traditional links in the search results,
     which we also source from a variety of partners, including Oath (formerly
