@@ -10,5 +10,4 @@ order: 282
 - For legal inquiries, contact [legal@duckduckgo.com](mailto:legal@duckduckgo.com).
 - For DMCA complaints, send your requests to [dmca@duckduckgo.com](mailto:dmca@duckduckgo.com).
 - If you find any malware, phishing, or suspicious-looking websites or ads on DuckDuckGo, report them at [abuse@duckduckgo.com](mailto:abuse@duckduckgo.com).
-- For privacy-related issues, ask or report at [privacy@duckduckgo.com](mailto:privacy@duckduckgo.com).
 - If you have general queries, we're listening at [open@duckduckgo.com](mailto:open@duckduckgo.com).
