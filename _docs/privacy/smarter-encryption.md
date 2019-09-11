@@ -52,7 +52,8 @@ order: 242
 
 <ol>
     <li>You click or navigate to an insecure (http) domain such as http://help.duckduckgo.com</li>
-    <li>The help.duckduckgo.com domain would first be looked up in your local list (the one on the device with the most trafficked sites) to see if it can be upgraded immediately.</li>
+    <li>The help.duckduckgo.com domain would first be looked up in your local list (the one on
+    the device with the most trafficked sites) to see if it can be upgraded immediately.</li>
     <li>If not, it will be converted to a SHA-1 hash: c3673b7f703ecd4890c81fb520b6697687276622
     (see https://en.wikipedia.org/wiki/Hash_function & https://en.wikipedia.org/wiki/SHA-1 for
     more details on how that conversion works)</li>
