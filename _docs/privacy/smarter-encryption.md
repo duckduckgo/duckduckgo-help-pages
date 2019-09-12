@@ -15,11 +15,13 @@ order: 242
 <p>
     We believe getting the privacy you deserve should be as easy as closing the
     blinds, and we make privacy protection tools to help you seamlessly control
-    your personal information online. These tools include the DuckDuckGo Privacy
-    Essentials browser extension for Firefox, Chrome and Safari, as well as the
-    DuckDuckGo Privacy Browser app for iOS and Android. They each contain several
-    leading privacy technologies we've developed to reduce your digital footprint,
-    such as DuckDuckGo Search, Tracker Blocking, and Smarter Encryption. 
+    your personal information online. These tools include the
+    <a href="https://duckduckgo.com/app">DuckDuckGo Privacy Essentials</a> browser
+    extension for Firefox, Chrome and Safari, as well as the
+    <a href="https://duckduckgo.com/app">DuckDuckGo Privacy Browser</a> app for
+    iOS and Android. They each contain several leading privacy technologies
+    we've developed to reduce your digital footprint, such as DuckDuckGo Search,
+    Tracker Blocking, and Smarter Encryption.
 </p>
 
 <p>
@@ -59,10 +61,11 @@ order: 242
     more details on how that conversion works)</li>
     <li>The first four characters of this hash (c367) are sent to our anonymous smarter_encryption.js
     service. Our logs never contain ip addresses or other personal information, so just like
-    anonymous search queries, we do not know anything about who is making these requests. Only you
-    and your device know. Nevertheless, we added another layer of privacy protection to this
-    anonymous service by only having your device send the first four characters of the hashed
-    domain, such that in any case the service cannot tell what exact domain you are visiting.</li>
+    anonymous queries on DuckDuckGo search, we do not know anything about who is making these
+    requests. Only you and your device know. Nevertheless, we added another layer of privacy
+    protection to this anonymous service by only having your device send the first four characters
+    of the hashed domain, such that in any case the service cannot tell what exact domain you
+    are visiting.</li>
     <li>The anonymous service sends back any hashed domains from the full Smarter Encryption list
     that match the first four characters of the hash sent (e.g. https://duckduckgo.com/smarter_encryption.js?pv1=c367).
     It's possible that it will send back nothing (if nothing matches).</li>
@@ -73,6 +76,7 @@ order: 242
 <p>
     <strong>To be clear, this means that your searches and browsing history are still completely anonymous.</strong>
 </p>
-    If you have any concerns, please feel free to reach out to us directly at
-    <a href="mailto:privacy@duckduckgo.com">privacy@duckduckgo.com</a>.
+    If you have any concerns, please feel free to
+    <a href="https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/">contact us</a>,
+    or join the discussion in the <a href="https://reddit.com/r/duckduckgo>DuckDuckGo subreddit</a>.
 </p>
