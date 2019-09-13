@@ -79,5 +79,5 @@ order: 242
 <p>
     If you have any concerns, please feel free to
     <a href="https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/">contact us</a>,
-    or join the discussion in the <a href="https://reddit.com/r/duckduckgo>DuckDuckGo subreddit</a>.
+    or join the discussion in the <a href="https://reddit.com/r/duckduckgo">DuckDuckGo subreddit</a>.
 </p>
