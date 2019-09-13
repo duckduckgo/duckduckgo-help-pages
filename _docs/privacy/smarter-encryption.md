@@ -60,8 +60,8 @@ order: 242
     (see https://en.wikipedia.org/wiki/Hash_function & https://en.wikipedia.org/wiki/SHA-1 for
     more details on how that conversion works)</li>
     <li>The first four characters of this hash (c367) are sent to our anonymous smarter_encryption.js
-    service. Our logs never contain ip addresses or other personal information, so just like
-    anonymous queries on DuckDuckGo search, we do not know anything about who is making these
+    service. Our logs never contain IP addresses or other personal information, so just like
+        anonymous queries on <a href="https://duckduckgo.com">DuckDuckGo Search</a>, we do not know anything about who is making these
     requests. Only you and your device know. Nevertheless, we added another layer of privacy
     protection to this anonymous service by only having your device send the first four characters
     of the hashed domain, such that in any case the service cannot tell what exact domain you
@@ -76,6 +76,7 @@ order: 242
 <p>
     <strong>To be clear, this means that your searches and browsing history are still completely anonymous.</strong>
 </p>
+<p>
     If you have any concerns, please feel free to
     <a href="https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/">contact us</a>,
     or join the discussion in the <a href="https://reddit.com/r/duckduckgo>DuckDuckGo subreddit</a>.
