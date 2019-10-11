@@ -29,14 +29,11 @@ order: 9
         <a href="/desktop/opera">Opera</a> (<a href="https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/">extension direct link</a>)
     </li>
     <li>
-        <a href="/desktop/safari">Safari</a> (<a href="https://safari-extensions.apple.com/details/?id=com.duckduckgo.safari-HKE973VLUW">extension direct link</a>)
+        <a href="/desktop/safari">Safari</a> (<a href="https://apps.apple.com/us/app/duckduckgo-privacy-essentials/id1482920575">extension direct link</a>)
     </li>
 </ul>
 <p>
-    If you use one of the above browsers, you can add DuckDuckGo directly from
-    <a href="https://duckduckgo.com/">the homepage</a>. Just click,
-    <em>Set DuckDuckGo as your default search engine</em> on the bottom of the
-    page and you'll be on the way to better, more private searching.
+    If you use one of the above browsers, please click the linked browser name to see instructions for adding DuckDuckGo.
 </p>
 
 <p>
