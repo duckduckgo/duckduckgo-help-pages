@@ -17,7 +17,7 @@ order: 3
     <li>
         Select the option for DuckDuckGo.
         <br>
-        <img alt="Screenshot showing how to select DuckDuckGo as the search engine for Safari." src="{{ site.baseurl }}/images/c614041fd7b154cd1633472476b23a18.png" />
+        <img alt="Screenshot showing how to select DuckDuckGo as the search engine for Safari." src="{{ site.baseurl }}/images/duckduckgo-default-in-safari.jpg" />
     </li>
 </ol>
 
@@ -39,11 +39,14 @@ order: 3
 <h2>Installing our extension</h2>
 <ol>
     <li>
-        <a href="https://safari-extensions.apple.com/details/?id=com.duckduckgo.safari-HKE973VLUW">Visit our extension's gallery page.</a>
+        <a href="https://apps.apple.com/us/app/duckduckgo-privacy-essentials/id1482920575">Visit our extension's gallery page.</a>
     </li>
     <li>
-        Click <em>Install now</em>.
-        <img alt="Screenshot of Safari's extensions gallery showing the DuckDuckGo extension." src="{{ site.baseurl }}/images/13f52d6ed7bb7ae14a9697f9c2d732e7.png" />
+        The App Store should open automatically. If not, click <em>View in Mac App Store</em> to install.
+        <!--<img alt="Screenshot of Safari's extensions gallery showing the DuckDuckGo extension." src="{{ site.baseurl }}/images/13f52d6ed7bb7ae14a9697f9c2d732e7.png" />-->
+    </li>
+    <li>
+        Once installed, follow the instructions within the extension to enable DuckDuckGo Privacy Protection, DuckDuckGo Privacy Protection and DuckDuckGo Private Search.
     </li>
 </ol>
 
