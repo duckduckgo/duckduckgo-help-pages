@@ -19,7 +19,7 @@ order: 241
 
 <p>
     First, you might notice that when you search DuckDuckGo, there may be an
-    "<code>&amp;atb=</code>" URL parameter in the web address at the top of your
+    "<code>&amp;atb=</code>", or "<code>&amp;ratb=</code>" URL parameter in the web address at the top of your
     browser. This parameter allows us to anonymously A/B (split) test product
     changes we make to DuckDuckGo. For example, users in the A group would get
     blue links and users in the B group would get red links, and we'd be able to
