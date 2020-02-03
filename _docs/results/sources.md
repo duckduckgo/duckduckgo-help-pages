@@ -15,16 +15,7 @@ order: 400
 </p>
 
 <p>
-    To do that, we've developed an open source Instant Answer platform called
-    <a href="http://duckduckhack.com/">DuckDuckHack</a>, which allows anyone to
-    propose and develop Instant Answers for DuckDuckGo. On the backend, we have a
-    classification and relevancy engine that selects the best sources for a
-    particular search and displays answers to you in real time, be it for recipes,
-    products, images, and hundreds of other categories.
-</p>
-
-<p>
-    In fact, DuckDuckGo gets its results from over
+    To do that, DuckDuckGo gets its results from over
     <a href="https://duck.co/ia">four hundred sources</a>. These include hundreds
     of vertical sources delivering niche Instant Answers, <a href="https://duckduckgo.com/duckduckbot">DuckDuckBot</a> (our
     crawler) and crowd-sourced sites (like Wikipedia, stored in our answer
