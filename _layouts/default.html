@@ -50,7 +50,7 @@
                         <a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
                         <ul>
                             {% for item in items %}
-                            <li class="nav-item {% if item.url == page.url %}current{% endif %}"><a
+                            <li class="nav-item {% if item.url == page.url %}current page{% endif %}"><a
                                     href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
                             {% endfor %}
                         </ul>

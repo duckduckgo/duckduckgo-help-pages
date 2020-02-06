@@ -274,7 +274,7 @@ nav > ul {
         display: block;
     }
 
-    &.current > a {
+    &.current.page > a {
       background-color: rgba(0, 0, 0, 0.05);
     }
 
