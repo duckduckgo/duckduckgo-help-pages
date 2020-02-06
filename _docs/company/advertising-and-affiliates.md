@@ -21,13 +21,11 @@ order: 49
 </p>
 
 <p>
-    Advertising on DuckDuckGo takes the form of sponsored links that appear above
-    search results. Sponsored links are currently syndicated through Yahoo!. They
-    look like this:
+    Advertising on DuckDuckGo takes the form of sponsored links that appear above search results. Viewing ads is privacy protected by DuckDuckGo and ad clicks are managed by Microsoft's ad network. They look like this:
 </p>
 
 <p>
-    <img alt="Screenshot showing ads in DuckDuckGo search results" src="{{ site.baseurl }}/images/746267fd284b4953b0209e9d0d6a8fd0.png" />
+    <img alt="Screenshot showing ads in DuckDuckGo search results" src="{{ site.baseurl }}/images/duckduckgo-sponsored-links.jpg" />
 </p>
 
 <p>
@@ -37,11 +35,7 @@ order: 49
 
 <h3 id="howto">How to advertise on DuckDuckGo</h3>
 <p>
-    The advertising we syndicate through Yahoo! is part of the Yahoo-Microsoft
-    search alliance. By default, when you sign up for a
-    <a href="http://advertise.bingads.microsoft.com/en-us/home">Bing Ads</a>
-    account, your ads should automatically enter rotation into all of Bing's
-    distribution channels including DuckDuckGo. If you'd like to double-check that
+    To advertise on DuckDuckGo, please visit <a href="https://about.ads.microsoft.com/">Microsoft Advertising</a>. By default, when you sign up for a Microsoft Advertising account, your ads should automatically enter rotation into all of Microsoft Advertising's distribution channels including DuckDuckGo. If you'd like to double-check that
     your ad is set up to run on DuckDuckGo, perform the following:
 </p>
 <ol>
