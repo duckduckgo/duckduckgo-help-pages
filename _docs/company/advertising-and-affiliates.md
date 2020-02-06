@@ -21,7 +21,7 @@ order: 49
 </p>
 
 <p>
-    Advertising on DuckDuckGo takes the form of sponsored links that appear above search results. Viewing ads is privacy protected by DuckDuckGo and ad clicks are managed by Microsoft's ad network (more info). They look like this:
+    Advertising on DuckDuckGo takes the form of sponsored links that appear above search results. Viewing ads is privacy protected by DuckDuckGo and ad clicks are managed by Microsoft's ad network. They look like this:
 </p>
 
 <p>
