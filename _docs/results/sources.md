@@ -19,9 +19,7 @@ order: 400
     <a href="https://duck.co/ia">four hundred sources</a>. These include hundreds
     of vertical sources delivering niche Instant Answers, <a href="https://duckduckgo.com/duckduckbot">DuckDuckBot</a> (our
     crawler) and crowd-sourced sites (like Wikipedia, stored in our answer
-    indexes). We also of course have more traditional links in the search results,
-    which we also source from a variety of partners, including Verizon Media (formerly
-    Yahoo) and Bing.
+    indexes). We also of course have more traditional links in the search results, which we also source from multiple partners, though most commonly from Bing (and none from Google).
 </p>
 
 <p>
