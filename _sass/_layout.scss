@@ -274,6 +274,10 @@ nav > ul {
         display: block;
     }
 
+    &.current.page > a {
+      background-color: rgba(0, 0, 0, 0.05);
+    }
+
     &.current > a,
     > a:active,
     > a:hover {
