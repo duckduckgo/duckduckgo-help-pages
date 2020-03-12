@@ -15,7 +15,7 @@ order: 699
 
 <img src="{{ site.baseurl }}/images/411bc9a9495387e1124d3721b7befe7b.png" />
 <p>
-    They're open source, so any developer can view them or submit fixes through our <a href="https://github.com/duckduckgo">GitHub repository</a>. This also means we have a wide variety of Instant Answers!</a>
+    They're open source, so any developer can view them or submit fixes through our <a href="https://github.com/duckduckgo">GitHub repository</a>. This also means we have a wide variety of Instant Answers!
 </p>
 
 <p>
