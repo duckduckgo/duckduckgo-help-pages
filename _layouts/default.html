@@ -44,7 +44,6 @@
 
                 <ul>
                     {% assign grouped = site.docs | group_by: 'category' %}
-                    {% if 'category' %}
                     {% for group in grouped %}
                     <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
                         {% assign items = group.items | sort: 'order' %}
@@ -57,7 +56,6 @@
                         </ul>
                     </li>
                     {% endfor %}
-                    {% endif %}
                 </ul>
             </nav>
         </header>
