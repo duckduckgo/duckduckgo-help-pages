@@ -10,7 +10,7 @@ polupracujeme s mnoha různými informačními zdroji pro poskytování vyhledá
 
 Když opustíte naše stránky, vztahují se na vás zásady jiných stránek, včetně postupů shromažďování údajů. V případě reklam od společnosti Microsoft procházíte také platformou společnosti Microsoft Advertising.
 
-Další informace naleznete v zásadách ochrany osobních údajů společnosti DuckDuckGo: https://duckduckgo.com/privacy.
+Další informace naleznete v zásadách ochrany osobních údajů společnosti DuckDuckGo: <https://duckduckgo.com/privacy>.
 
 **Kliknutí na reklamy jsou spravována reklamní sítí společnosti Microsoft (%svíce informací%s).**
 
@@ -18,4 +18,4 @@ Společnosti Microsoft a DuckDuckGo se spojily, aby vytvořily jedinečné vyhle
 
 Ostatní vyhledávače spojují chování při kliknutí na reklamu s vaším profilem, který lze později použít k cílení reklam na vás v daném vyhledávači nebo kdekoli na internetu. Naopak, když kliknete na reklamu poskytnutou společností Microsoft, která se zobrazí ve vyhledávači DuckDuckGo, služba Microsoft Advertising nespojuje vaše chování při kliknutí na reklamu s uživatelským profilem a tyto informace neukládá ani nesdílí jinak než pro účetní účely.
 
-Další informace naleznete v zásadách ochrany osobních údajů společnosti Microsoft: https://privacy.microsoft.com.
+Další informace naleznete v zásadách ochrany osobních údajů společnosti Microsoft: <https://privacy.microsoft.com>.

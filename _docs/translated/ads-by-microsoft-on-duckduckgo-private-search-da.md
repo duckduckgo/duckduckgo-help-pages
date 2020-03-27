@@ -10,7 +10,7 @@ Vi samarbejder med mange forskellige informationskilder om at levere søgeresult
 
 Når du forlader vores hjemmeside, er du underlagt andre hjemmesiders politikker, herunder deres praksis for dataindsamling. For annoncer fra Microsoft går du også gennem Microsoft Advertisings platform.
 
-Se DuckDuckGo's privatlivspolitik for flere oplysninger: https://duckduckgo.com/privacy.
+Se DuckDuckGo's privatlivspolitik for flere oplysninger: <https://duckduckgo.com/privacy>.
 
 **Annonceklik administreres af Microsofts annoncenetværk**
 
@@ -18,4 +18,4 @@ Microsoft og DuckDuckGo har indgået et partnerskab for at skabe en unik søgel�
 
 Andre søgemaskiner danner en profil på dig om din adfærd for klik på annoncer, som senere kan bruges til at målrette annoncer til dig på den pågældende søgemaskine eller rundt omkring på internettet. Hvis du derimod klikker på en annonce, som Microsoft leverer på DuckDuckGo, associerer Microsoft Advertising ikke din adfærd for klik på annoncer med en brugerprofil. De gemmer eller deler heller ikke disse oplysninger udover af regnskabsmæssige årsager.
 
-Få mere at vide i Microsofts fortrolighedspolitik: https://privacy.microsoft.com.
+Få mere at vide i Microsofts fortrolighedspolitik: <https://privacy.microsoft.com>.

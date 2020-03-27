@@ -10,7 +10,7 @@ DuckDuckGo Arama hizmetini sunmak için çok sayıda farklı bilgi kaynaklarıyl
 
 Bizim sitemizden ayrıldığınız zaman, veri toplama uygulamaları dahil olmak üzere diğer sitelerin politikalarına tabi olursunuz. Microsoft tarafından yayınlanan reklamlarda, ayrıca Microsoft Advertising'in platformu üzerinden geçersiniz.
 
-Daha fazla bilgi edinmek için DuckDuckGo gizlilik politikasını gözden geçirin: https://duckduckgo.com/privacy.
+Daha fazla bilgi edinmek için DuckDuckGo gizlilik politikasını gözden geçirin: <https://duckduckgo.com/privacy>.
 
 **Reklam tıklamaları, Microsoft'un reklam ağı tarafından yönetilir.**
 
@@ -18,4 +18,4 @@ Microsoft ve DuckDuckGo, gizliliğinizi korurken ilginizi çekebilecek reklamlar
 
 Diğer arama motorları, reklam tıklama davranışınız ile size ait bir profil arasında bağ kurar, bu da daha sonra ilgili arama motorunda veya İnternet üzerinde sizi hedefleyen reklamlar yayınlamak için kullanılabilir. Buna karşın, DuckDuckGo sayfasında görüntülenen, Microsoft tarafından yayınlanan bir reklama tıkladığınızda Microsoft Advertising, reklam tıklama davranışınız ile bir kullanıcı profili arasında bağ kurmaz. Bu bilgiyi muhasebe amaçları dışında saklamaz veya paylaşmaz.
 
-Daha fazla bilgi edinmek için Microsoft gizlilik politikasını gözden geçirin: https://privacy.microsoft.com.
+Daha fazla bilgi edinmek için Microsoft gizlilik politikasını gözden geçirin: <https://privacy.microsoft.com>.

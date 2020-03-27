@@ -10,7 +10,7 @@ Za zagotavljanje delovanja iskalnika DuckDuckGo uporabljamo več različnih viro
 
 Ko zapustite naše spletno mesto, veljajo pravilniki drugih spletnih mest, vključno z njihovimi praksami zbiranja podatkov. Za Microsoftove oglase boste preusmerjeni tudi skozi platformo Microsoft Advertising.
 
-Za več informacij si oglejte pravilnik o zasebnosti iskalnika DuckDuckGo: https://duckduckgo.com/privacy.
+Za več informacij si oglejte pravilnik o zasebnosti iskalnika DuckDuckGo: <https://duckduckgo.com/privacy>.
 
 **S kliki na oglase upravlja Microsoftovo oglaševalsko omrežje.**
 
@@ -18,4 +18,4 @@ Microsoft in DuckDuckGo sta združila moči in ustvarila edinstveno rešitev za 
 
 Drugi iskalniki povezujejo vaše ravnanje v zvezi s kliki na oglase z vašim profilom, ki ga lahko nato kasneje uporabljajo za zagotavljanje ciljnih oglasov v dotičnem iskalniku ali drugje na internetu. V nasprotju s tem pa Microsoft Advertising ob vašem kliku na oglas, prikazanem na DuckDuckGo, ki ga ponuja Microsoft, vašega ravnanja v zvezi s kliki na oglase ne povezuje z uporabniškim profilom. Prav tako ne shranjuje ali deli teh podatkov, razen za računovodske namene.
 
-Za več informacij si oglejte Microsoftov pravilnik o zasebnosti: https://privacy.microsoft.com.
+Za več informacij si oglejte Microsoftov pravilnik o zasebnosti: <https://privacy.microsoft.com>.

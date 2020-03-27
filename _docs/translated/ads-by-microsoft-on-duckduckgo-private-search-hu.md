@@ -10,7 +10,7 @@ Számos különböző partnerünk szolgál információforrásként a DuckDuckGo
 
 A weboldalunkat elhagyva más weboldalak irányelvei fognak rád vonatkozni, saját adatgyűjtési szokásaikkal együtt. A Microsoft által megjelenített hirdetések esetén a Microsoft Advertising platformján is áthaladsz.
 
-További információért tekintsd meg a DuckDuckGo adatvédelmi tájékoztatóját: https://duckduckgo.com/privacy.
+További információért tekintsd meg a DuckDuckGo adatvédelmi tájékoztatóját: <https://duckduckgo.com/privacy>.
 
 **A hirdetéskattintásokat a Microsoft hirdetési hálózata kezeli.**
 
@@ -18,4 +18,4 @@ A Microsoft és a DuckDuckGo olyan egyedi keresési megoldást hoztak együtt l�
 
 Más keresőmotorok a hirdetés-kattintási viselkedésedet társítják egy rád vonatkozó profillal, amely később felhasználható arra, hogy hirdetéseket irányítson hozzád az adott keresőmotoron, vagy bárhol az interneten. Ezzel szemben, ha a DuckDuckGo-n megjelenő, Microsoft által megjelenített hirdetésre kattintasz, a Microsoft Advertising nem társítja a hirdetés-kattintási viselkedésedet felhasználói profillal. Nem tárolja és nem osztja meg ezeket az információkat, kizárólag számlázási célból kerül erre sor.
 
-További információért tekintsd meg a Microsoft adatvédelmi tájékoztatóját: https://privacy.microsoft.com.
+További információért tekintsd meg a Microsoft adatvédelmi tájékoztatóját: <https://privacy.microsoft.com>.

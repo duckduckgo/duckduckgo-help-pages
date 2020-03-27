@@ -10,7 +10,7 @@ Lai nodrošinātu DuckDuckGo meklēšanu, mēs sadarbojamies ar daudziem dažād
 
 Kad atstājat mūsu vietni, uz jums attiecas citu vietņu politikas, tostarp to datu vākšanas prakse. Microsoft reklāmu gadījumā jūs šķērsojat arī Microsoft Advertising platformu.
 
-Lai iegūtu papildu informāciju, skatiet DuckDuckGo konfidencialitātes politiku: https://duckduckgo.com/privacy.
+Lai iegūtu papildu informāciju, skatiet DuckDuckGo konfidencialitātes politiku: <https://duckduckgo.com/privacy>.
 
 **Klikšķus uz reklāmām pārvalda Microsoft reklāmu tīkls.**
 
@@ -18,4 +18,4 @@ Microsoft un DuckDuckGo ir izveidojušas partnerību, lai radītu unikālu mekl�
 
 Citas meklētājprogrammas saista jūsu reklāmu klikšķus ar jūsu profilu, ko vēlāk var izmantot, lai atlasītu jums piemērotas reklāmas attiecīgajā meklētājprogrammā vai internetā. Turpretī, noklikšķinot uz Microsoft nodrošinātas reklāmas, kas tiek parādīta DuckDuckGo, Microsoft Advertising nesaista jūsu reklāmu klikšķus ar lietotāja profilu. Tā arī neglabā un nekopīgo šo informāciju, izņemot grāmatvedības nolūkos.
 
-Lai iegūtu papildu informāciju, skatiet Microsoft konfidencialitātes politiku: https://privacy.microsoft.com.
+Lai iegūtu papildu informāciju, skatiet Microsoft konfidencialitātes politiku: <https://privacy.microsoft.com>.

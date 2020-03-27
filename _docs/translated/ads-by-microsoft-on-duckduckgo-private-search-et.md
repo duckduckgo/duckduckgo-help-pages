@@ -10,7 +10,7 @@ DuckDuckGo otsingu pakkumiseks teeme koostööd mitmesuguste teabeallikatega (nt
 
 Meie saidilt lahkudes kehtivad teie jaoks teiste saitide eeskirjad, sealhulgas ka nende andmekogumistavad. Microsofti reklaamide puhul läbite ka Microsoft Advertisingu platvormi.
 
-Lisateavet leiate DuckDuckGo privaatsuspõhimõtetest: https://duckduckgo.com/privacy.
+Lisateavet leiate DuckDuckGo privaatsuspõhimõtetest: <https://duckduckgo.com/privacy>.
 
 **Reklaamiklõpse haldab Microsofti reklaamivõrgustik.**
 
@@ -18,4 +18,4 @@ Microsoft ja DuckDuckGo lõid koos ainulaadse otsingulahenduse, mis esitab teile
 
 Teised otsingumootorid seostavad teie reklaamiklõpse teie profiiliga, mida saab hiljem kasutada reklaamide sihtimiseks selles konkreetses otsingumootoris või mujal internetis. Kui aga klõpsate Microsofti esitatud reklaamil teenuses DuckDuckGo, ei seosta Microsoft Advertising teie reklaamiklõpse kasutajaprofiiliga. See teave salvestatakse või seda jagatakse ainult arvestuse eesmärgil.
 
-Lisateavet leiate Microsofti privaatsuspõhimõtetest: https://privacy.microsoft.com.
+Lisateavet leiate Microsofti privaatsuspõhimõtetest: <https://privacy.microsoft.com>.

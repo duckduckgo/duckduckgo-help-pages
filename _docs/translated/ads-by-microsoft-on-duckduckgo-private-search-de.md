@@ -10,7 +10,7 @@ Wir arbeiten mit vielen verschiedenen Informationsanbietern zusammen, um DuckDuc
 
 Wenn Sie unsere Website verlassen, unterliegen Sie den Richtlinien anderer Websites, einschließlich deren Datenerfassungsmethoden. Für Anzeigen von Microsoft werden Sie auch über die Plattform von Microsoft Advertising geleitet.
 
-Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von DuckDuckGo: https://duckduckgo.com/privacy.
+Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von DuckDuckGo: <https://duckduckgo.com/privacy>.
 
 **Ad clicks are managed by Microsoft's ad network.**
 
@@ -18,4 +18,4 @@ Microsoft und DuckDuckGo haben sich zusammengetan, um eine einzigartige Suchlös
 
 Andere Suchmaschinen verknüpfen Ihr Anzeigen-Klickverhalten mit einem Profil über Sie, das später verwendet werden kann, um für Sie zielgerichtete Anzeigen in dieser Suchmaschine oder im Internet zu schalten. Wenn Sie hingegen auf eine von Microsoft bereitgestellte Anzeige klicken, die auf DuckDuckGo erscheint, verknüpft Microsoft Advertising Ihr Anzeigen-Klickverhalten nicht mit einem Benutzerprofil. Diese Informationen werden auch nicht gespeichert oder geteilt, außer zu Abrechnungszwecken.
 
-Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Microsoft: https://privacy.microsoft.com.
+Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Microsoft: <https://privacy.microsoft.com>.

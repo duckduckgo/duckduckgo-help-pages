@@ -10,7 +10,7 @@ Temos parcerias com muitas fontes de informações diferentes para fornecer a pe
 
 Quando sair do nosso sítio Web, está sujeito às políticas de outros sítios Web, incluindo as respetivas práticas de recolha de dados. Para os anúncios da Microsoft, também passará pela plataforma Microsoft Advertising.
 
-Para mais informações, consulte a política de privacidade do DuckDuckGo: https://duckduckgo.com/privacy.
+Para mais informações, consulte a política de privacidade do DuckDuckGo: <https://duckduckgo.com/privacy>.
 
 **Os cliques em anúncios são geridos pela rede de publicidade da Microsoft.**
 
@@ -18,4 +18,4 @@ A Microsoft e o DuckDuckGo estabeleceram uma parceria para a criação de uma so
 
 Outros motores de pesquisa associam o seu comportamento de clique em anúncios a um perfil sobre si, o qual pode ser utilizdao posteriormente para direcionar anúncios para si nesse motor de pesquisa ou na Internet. Em contrapartida, quando clica num anúncio fornecido pela Microsoft que apareça no DuckDuckGo, o Microsoft Advertising não associa o seu comportamento de clique em anúncios com um perfil de utilizador. Também não armazena ou partilha essa informação a não ser para efeitos de contabilidade.
 
-Para mais informações, consulte a política de privacidade da Microsoft: https://privacy.microsoft.com.
+Para mais informações, consulte a política de privacidade da Microsoft: <https://privacy.microsoft.com>.

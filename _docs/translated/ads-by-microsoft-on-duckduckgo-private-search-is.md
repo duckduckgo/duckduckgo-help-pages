@@ -10,7 +10,7 @@ Við eigum í samstarfi við mismunandi upplýsingagjafa til að veita DuckDuckG
 
 Þegar þú yfirgefur vefsvæðið okkar ertu bundin(n) stefnu annarra vefsvæða, þar á meðal gagnasöfnunarferlum þeirra. Fyrir auglýsingar frá Microsoft ferðu einnig í gegnum verkvang Microsoft Advertising.
 
-Frekari upplýsingar er að finna í persónuverndarstefnu DuckDuckGo: https://duckduckgo.com/privacy.
+Frekari upplýsingar er að finna í persónuverndarstefnu DuckDuckGo: <https://duckduckgo.com/privacy>.
 
 **Auglýsingasmellum er stjórnað af auglýsinganeti Microsoft.**
 
@@ -18,4 +18,4 @@ Microsoft og DuckDuckGo hafa tekið höndum saman til að búa til einstaka leit
 
 Aðrar leitarvélar tengja hegðun þína þegar þú smellir á auglýsingar við notandaprófílinn þinn sem er svo hægt að nota síðar til að beina auglýsingum til þín í gegnum þá leitarvél eða á netinu. Þegar þú smellir hins vegar á Microsoft auglýsingu sem birtist í DuckDuckGo tengir Microsoft Advertising ekki hegðun þína við notandaprófíl. Það vistar ekki heldur þær upplýsingar né deilir þeim nema í bókhaldslegum tilgangi.
 
-Frekari upplýsingar er að finna í persónuverndarstefnu Microsoft: https://privacy.microsoft.com.
+Frekari upplýsingar er að finna í persónuverndarstefnu Microsoft: <https://privacy.microsoft.com>.

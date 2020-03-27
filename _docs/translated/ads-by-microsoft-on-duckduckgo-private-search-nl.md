@@ -10,7 +10,7 @@ We werken samen met veel verschillende informatiebronnen om DuckDuckGo Search aa
 
 Wanneer je onze site verlaat, ben je onderworpen aan het beleid van andere sites, waaronder hun gegevensverzamelingsbeleid. Voor advertenties van Microsoft word je ook door het platform van Microsoft Advertising geleid.
 
-Raadpleeg het privacybeleid van DuckDuckGo voor meer informatie: https://duckduckgo.com/privacy.
+Raadpleeg het privacybeleid van DuckDuckGo voor meer informatie: <https://duckduckgo.com/privacy>.
 
 **Advertentieklikken worden beheerd door het advertentienetwerk van Microsoft.**
 
@@ -18,4 +18,4 @@ Microsoft en DuckDuckGo hebben samengewerkt aan het creëren van een unieke zoek
 
 Andere zoekmachines profileren jouw klikgedrag op advertenties, waardoor ze je later als doelgroep voor specifieke advertenties gebruiken, zowel in diezelfde zoekmachine als elders op het internet. Wanneer je echter op een door Microsoft aangeboden advertentie klikt die op DuckDuckGo wordt weergegeven, koppelt Microsoft Advertising je klikgedrag op advertenties niet aan een gebruikersprofiel. Zij zullen deze informatie ook niet opslaan of delen, met uitzondering van administratieverwerking.
 
-Raadpleeg het privacybeleid van Microsoft voor meer informatie: https://privacy.microsoft.com.
+Raadpleeg het privacybeleid van Microsoft voor meer informatie: <https://privacy.microsoft.com>.
