@@ -4,7 +4,7 @@ category: Translated
 order: 803
 ---
 
-**Viewing ads is privacy protected by DuckDuckGo.**
+**Der Datenschutz beim Aufrufen von Anzeigen wird durch DuckDuckGo gewährleistet.**
 
 Wir arbeiten mit vielen verschiedenen Informationsanbietern zusammen, um DuckDuckGo Search bereitzustellen (z. B. mit Microsoft für Anzeigen, mit Apple für Karten usw.). Wenn Sie Suchergebnisse (einschließlich Anzeigen) ansehen, können Ihre Suchanfragen weder von uns noch von unseren Partnern mit Ihnen in Verbindung gebracht werden. Technisch funktioniert dies folgendermaßen: Wir speichern keine persönlichen Identifizierungsmerkmale (z. B. IP-Adresse) mit Ihren Suchbegriffen und alle Anfragen an Partner werden auch stellvertretend über uns abgewickelt.
 
@@ -12,7 +12,7 @@ Wenn Sie unsere Website verlassen, unterliegen Sie den Richtlinien anderer Websi
 
 Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von DuckDuckGo: <https://duckduckgo.com/privacy>.
 
-**Ad clicks are managed by Microsoft's ad network.**
+**Die Anzeigen-Klicks werden durch das Microsoft-Werbenetzwerk verwaltet.**
 
 Microsoft und DuckDuckGo haben sich zusammengetan, um eine einzigartige Suchlösung zu gestalten, die relevante Anzeigen liefert und gleichzeitig Ihre Privatsphäre schützt. Wenn Sie auf eine von Microsoft bereitgestellte Anzeige klicken, werden Sie über die Plattform von Microsoft Advertising auf die Zielseite des Werbetreibenden weitergeleitet. In diesem Moment verwendet Microsoft Advertising Ihre vollständige IP-Adresse und Zeichenfolge des Benutzer-Agenten, um das Anklicken der Anzeige ordnungsgemäß auszuführen und den Werbetreibenden ordnungsgemäß zu belasten.
 
