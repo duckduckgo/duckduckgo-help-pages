@@ -1,5 +1,7 @@
 ---
 title: Microsoft által megjelenített hirdetések a DuckDuckGo privát keresőben
+category: Translated
+order: 810
 ---
 
 **A hirdetéseket a DuckDuckGo adatvédelme keretében tekintheted meg.**

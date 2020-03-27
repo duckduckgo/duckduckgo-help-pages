@@ -1,5 +1,7 @@
 ---
 title: „„Microsoft“ skelbimai „DuckDuckGo“ privačioje paieškoje
+category: Translated
+order: 813
 ---
 
 **Peržiūrimų skelbimų privatumą saugo „DuckDuckGo“.**

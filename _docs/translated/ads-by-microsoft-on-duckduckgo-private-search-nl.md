@@ -1,5 +1,7 @@
 ---
 title: Advertenties van Microsoft in DuckDuckGo Private Search
+category: Translated
+order: 817
 ---
 
 **De weergave van advertenties wordt beschermd door DuckDuckGo.**

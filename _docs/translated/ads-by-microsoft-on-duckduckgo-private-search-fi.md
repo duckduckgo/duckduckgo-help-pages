@@ -1,5 +1,7 @@
 ---
 title: Microsoftin mainokset DuckDuckGo:n yksityisessä haussa
+category: Translated
+order: 807
 ---
 
 **Mainosten katselu on DuckDuckGo:n tietosuojaama.**

@@ -1,5 +1,7 @@
 ---
 title: Annunci di Microsoft sulla Ricerca privata di DuckDuckGo
+category: Translated
+order: 812
 ---
 
 **La privacy della visualizzazione degli annunci è protetta da DuckDuckGo.**

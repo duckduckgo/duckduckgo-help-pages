@@ -1,5 +1,7 @@
 ---
 title: Auglýsingar frá Microsoft á DuckDuckGo einkaleit
+category: Translated
+order: 811
 ---
 
 **Að skoða auglýsingar fellur undir persónuvernd frá DuckDuckGo.**

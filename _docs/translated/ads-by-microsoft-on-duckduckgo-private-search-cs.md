@@ -1,5 +1,7 @@
 ---
 title: Reklamy společnosti Microsoft v soukromém vyhledávání společnosti DuckDuckGo
+category: Translated
+order: 801
 ---
 
 **Při zobrazení reklam společnost DuckDuckGo chrání vaše soukromí.**

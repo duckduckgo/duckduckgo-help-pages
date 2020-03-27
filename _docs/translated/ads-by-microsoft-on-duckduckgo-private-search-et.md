@@ -1,5 +1,7 @@
 ---
 title: Microsofti reklaamid DuckDuckGo privaatses otsingus
+category: Translated
+order: 806
 ---
 
 **DuckDuckGo kaitseb reklaamide vaatamisel teie privaatsust.**

@@ -1,5 +1,7 @@
 ---
 title: Διαφημίσεις της Microsoft στην Ιδιωτική Αναζήτηση DuckDuckGo
+category: Translated
+order: 804
 ---
 
 **Στην προβολή διαφημίσεων υπάρχει προστασία απορρήτου από την DuckDuckGo.**

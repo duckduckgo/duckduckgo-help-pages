@@ -1,5 +1,7 @@
 ---
 title: Реклами от Microsoft при Частно търсене с DuckDuckGo
+category: Translated
+order: 800
 ---
 
 **Вашата поверителност при гледане на реклами е защитена от DuckDuckGo.**

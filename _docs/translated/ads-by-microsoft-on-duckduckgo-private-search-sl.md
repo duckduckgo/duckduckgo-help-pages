@@ -1,5 +1,7 @@
 ---
 title: Microsoftovi oglasi pri zasebnem iskanju z DuckDuckGo
+category: Translated
+order: 823
 ---
 
 **DuckDuckGo ščiti vašo zasebnost pri ogledu oglasov.**

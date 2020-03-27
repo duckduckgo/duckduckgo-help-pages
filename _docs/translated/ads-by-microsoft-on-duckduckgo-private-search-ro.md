@@ -1,5 +1,7 @@
 ---
 title: Reclame de la Microsoft în funcția de căutare privată DuckDuckGo
+category: Translated
+order: 820
 ---
 
 **Vizualizarea reclamelor este protejată de confidențialitatea DuckDuckGo.**

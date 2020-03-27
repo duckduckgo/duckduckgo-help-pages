@@ -1,5 +1,7 @@
 ---
 title: Microsoft reklāmas DuckDuckGo privātajā meklēšanā
+category: Translated
+order: 815
 ---
 
 **Reklāmu skatīšanu aizsargā DuckDuckGo konfidencialitāte.**

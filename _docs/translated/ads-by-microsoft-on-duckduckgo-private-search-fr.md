@@ -1,5 +1,7 @@
 ---
 title: Annonces de Microsoft sur DuckDuckGo Private Search
+category: Translated
+order: 808
 ---
 
 **Viewing ads is privacy protected by DuckDuckGo.**
