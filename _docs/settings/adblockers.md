@@ -10,7 +10,7 @@ Many DuckDuckGo users opt for ad-blocking software and browser extensions, like
 Adblock Plus, that prevent our advertisements from displaying. We understand and
 respect your decision to limit exposure to advertising, which is why DuckDuckGo
 allows users to disable ads through our
-<a href="https://duckduckgo.com/settings">Settings menu</a> ((under the General
+<a href="https://duckduckgo.com/settings">Settings menu</a> (under the General
 tab &gt; Advertisements).
 
 Because of our belief in a better search experience with less clutter, our ads
