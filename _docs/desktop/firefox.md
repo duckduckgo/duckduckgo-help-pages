@@ -6,7 +6,7 @@ order: 1
 
 > <a class="btn" href="/mobile/firefox-android">Did you mean Firefox Mobile instead?</a>
 
-<h2>Installing our add-on:</h2>
+<h2>Installing our add-on (recommended):</h2>
 <ul>
     <li>
         <a href="https://addons.mozilla.org/firefox/addon/duckduckgo-for-firefox/">DuckDuckGo Privacy Essentials add-on:</a>
