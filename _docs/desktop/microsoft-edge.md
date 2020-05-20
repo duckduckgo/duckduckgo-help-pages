@@ -7,7 +7,7 @@ order: 2
 <h2>Installing our add-on:</h2>
 <ul>
     <li>
-        <a href="https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk?hl=en-GB">DuckDuckGo Privacy Essentials add-on:</a>
+        <a href="https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk">DuckDuckGo Privacy Essentials add-on:</a>
         Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking, encrypted website connections (where possible) and a privacy grade for each site you visit.
     </li>
 </ul>
