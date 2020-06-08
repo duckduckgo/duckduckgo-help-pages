@@ -12,7 +12,7 @@ Když opustíte naše stránky, vztahují se na vás zásady jiných stránek, v
 
 Další informace naleznete v zásadách ochrany osobních údajů společnosti DuckDuckGo: <https://duckduckgo.com/privacy>.
 
-**Kliknutí na reklamy jsou spravována reklamní sítí společnosti Microsoft (%svíce informací%s).**
+**Kliknutí na reklamy jsou spravována reklamní sítí společnosti Microsoft.**
 
 Společnosti Microsoft a DuckDuckGo se spojily, aby vytvořily jedinečné vyhledávací řešení, které vám poskytne relevantní reklamy a zároveň ochrání vaše soukromí. Po kliknutí na reklamu poskytnutou společností Microsoft budete přesměrováni na vstupní stránku inzerenta prostřednictvím platformy Microsoft Advertising. V tomto okamžiku služba Microsoft Advertising použije celou vaši IP adresu a řetězec uživatelského agenta, aby mohla řádně zpracovat kliknutí na reklamu a účtovat inzerentovi poplatky.
 
