@@ -12,7 +12,7 @@ Lorsque vous quittez notre site, vous êtes soumis aux politiques des autres sit
 
 Pour en savoir plus, consultez la politique de confidentialité de DuckDuckGo: <https://duckduckgo.com/privacy>.
 
-**Les clics sur les annonces sont gérés par le réseau publicitaire Microsoft de.**
+**Les clics sur les annonces sont gérés par le réseau publicitaire de Microsoft.**
 
 Microsoft et DuckDuckGo se sont associés pour créer une solution de recherche unique qui vous fournit des publicités pertinentes tout en protégeant la confidentialité de vos données. Si vous cliquez sur une publicité fournie par Microsoft, vous serez redirigé(e) vers la page d'accueil de l'annonceur via la plate-forme de Microsoft Advertising. À ce moment-là, Microsoft Advertising utilisera votre adresse IP complète et la chaîne utilisateur-agent afin de pouvoir traiter correctement ce clic publicitaire et facturer l'annonceur qui a placé l'annonce.
 
