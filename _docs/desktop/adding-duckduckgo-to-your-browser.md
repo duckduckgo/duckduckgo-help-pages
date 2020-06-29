@@ -23,7 +23,7 @@ order: 9
         <a href="/desktop/internet-explorer">Internet Explorer</a>
     </li>
     <li>
-        <a href="/desktop/microsoft-edge">Microsoft Edge</a>
+        <a href="/desktop/microsoft-edge">Microsoft Edge</a> (<a href="https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk">extension direct link</a>)
     </li>
     <li>
         <a href="/desktop/opera">Opera</a> (<a href="https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/">extension direct link</a>)
