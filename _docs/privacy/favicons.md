@@ -5,7 +5,7 @@ order: 244
 ---
 
 <p>
-    Within <a href="https://duckduckgo.com">DuckDuckGo Search</a> and the <a href="https://duckduckgo.com/app">DuckDuckGo Privacy Browser</a>, we show favicons (small website logos) for a better user experience. These favicons are requested from our servers rather than from websites directly, because it can be surprisingly complicated to locate a favicon for a website — they can be stored in a variety of locations and in a variety of formats. We've developed our behind-the-scenes service to understand these edge cases and simplify retrieval within our app and search engine.
+    Within <a href="https://duckduckgo.com">DuckDuckGo Search</a> we show favicons (small website logos) for a better user experience. These favicons are requested from our servers rather than from websites directly, because it can be surprisingly complicated to locate a favicon for a website — they can be stored in a variety of locations and in a variety of formats. We've developed our behind-the-scenes service to understand these edge cases and simplify retrieval within our app and search engine.
 </p>
 
 <p>
