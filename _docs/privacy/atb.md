@@ -23,7 +23,12 @@ order: 241
     browser. This parameter allows us to anonymously A/B (split) test product
     changes we make to DuckDuckGo. For example, users in the A group would get
     blue links and users in the B group would get red links, and we'd be able to
-    measure how usage of DuckDuckGo is impacted by different color links.
+    measure how usage of DuckDuckGo is impacted by different color links. For
+    some experiments, we may need to ensure a consistent user experience across
+    additional pages after you interact with a page element. In those cases, we
+    may store non-personal data using <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API" target="_blank" rel="noopener noreferrer">local storage</a>
+    (e.g., the large and generalized user experience group you're in), but only
+    after your first interaction, only on your device, and never by default.
 </p>
 
 <p>
