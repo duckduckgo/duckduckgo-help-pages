@@ -28,7 +28,7 @@ order: 246
 
 <p>
     When searching on DuckDuckGo, you may occasionally see an additional request
-    made to https://duckduckgo.com/collect.js. This request sends us a report
+    made to https://duckduckgo.com/csp_report.js. This request sends us a report
     listing any potential CSP violations automatically, like when a legitimate
     resource fails to load, and helps us validate CSP updates we deploy.
 </p>
