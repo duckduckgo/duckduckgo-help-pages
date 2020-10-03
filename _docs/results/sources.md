@@ -8,7 +8,7 @@ order: 400
     When people search, we believe they're really looking for answers, as opposed
     to just links. For many categories of searches (restaurants, game of thrones,
     code documentation, etc.), there is usually a specialized search engine (e.g.
-    Yelp), content site (e.g. MetroLyrics) or other source (e.g. StackOverflow)
+    Tripadvisor), content site (e.g. MetroLyrics) or other source (e.g. StackOverflow)
     that does a better job at actually answering the searches than a general
     search engine does with just links. Our long-term goal is to get you Instant
     Answers from these best sources.
