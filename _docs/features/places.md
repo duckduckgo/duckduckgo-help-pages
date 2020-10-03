@@ -17,7 +17,7 @@ order: 706
 </p>
 
 <p>
-    Place search results are powered by <a href="http://www.yelp.com/">Yelp</a>.
+    Place search results are powered by <a href="https://www.tripadvisor.com/">Tripadvisor</a>.
 </p>
 
-<img src="{{ site.baseurl }}/images/c8ffda0dc0f580a44f770cabc94291a0.png" />
+<img src="{{ site.baseurl }}/images/map-with-tripadvisor.jpg" />
