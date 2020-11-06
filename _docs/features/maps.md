@@ -4,40 +4,11 @@ category: Features
 order: 730
 ---
 
-<p>
-    If a map is particularly relevant for your search, one will appear
-    automatically. (e.g.
-    <a href="https://duckduckgo.com/?q=3+ames+st%2C+02142"><em>3 ames st, 02142</em></a>,
-    <a href="https://duckduckgo.com/?q=map+philadelphia"><em>map philadelphia</em></a>)
-</p>
+If a map is particularly relevant for your search, one will appear automatically. Examples:
 
-<p>
-    Location results will not only give you the option for a map, but also for
-    directions. The directions option allows you to choose from the most-requested
-    map providers – Apple Maps Google Maps, Bing Maps, HERE Maps, and
-    OpenStreetMap. You can select your preferred provider from the dropdown menu,
-    and that selected map service will be used every time you click “Get
-    Directions.”
-</p>
+- [*coffee near me*](https://duckduckgo.com/?q=coffee+near+me)
+- [*map philadelphia*](https://duckduckgo.com/?q=map+philadelphia)
 
-<p>
-    DuckDuckGo's maps are interactive. You can pan, zoom, and expand the map
-    (click the expand icon at the bottom right of the map).
-</p>
+Location results will not only give you the option for an interactive map, where you can pan and zoom, but also for directions. DuckDuckGo map searches and route planning are powered by [Apple's MapKit JS framework](https://developer.apple.com/maps/web/).
 
-<p>
-    You can also use <a href="https://duckduckgo.com/bang">!bangs</a> to
-    map-search using other search engines right from the DuckDuckGo search box.
-    There are !bangs for Google Maps (!gm), Bing Maps (!bm), and Yahoo Maps (!ym).
-    For example, <em>!gm 3 ames st, 02142</em> would search for
-    <em>3 ames st, 02142</em> on Google Maps. The full list of !bangs are on the
-    <a href="https://duckduckgo.com/bang">!bang page</a>.
-</p>
-
-<img src="{{ site.baseurl }}/images/gCLE4T6.png " />
-<p>
-    Map data is copyrighted by
-    <a href="http://openstreetmap.org/">OpenStreetMap</a> contributors, licensed
-    under <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>.
-    The imagery is copyrighted by <a href="https://www.mapbox.com/">Mapbox</a>.
-</p>
+Note that our strict privacy policy of not collecting or sharing any personal information extends to location searches. We do not send any personally identifiable information such as IP address to Apple or other third parties. For local searches, where your approximate location information is sent by your browser to us, we discard it immediately after use. You are still anonymous when you perform map and address-related searches on DuckDuckGo. You can read more about our [anonymous localized results here](/privacy/anonymous-localized-results/).
