@@ -13,6 +13,20 @@ order: 2
 </ul>
 
 <h2>Set DuckDuckGo as the default search engine</h2>
+<h3>Current versions (version 79 and above):</h3>
+<ol>
+    <li>Click the <strong>...</strong> icon at the top right</li>
+    <li>Click <strong>Settings</strong></li>
+    <li>Click <strong>Privacy and Services</strong> in the left sidebar</li>
+    <li>Scroll down to the <strong>Services</strong> section and click <strong>Address bar</strong></li>
+    <li>Click the dropdown menu beside <strong>Search engine used in the address bar</strong> and select <strong>DuckDuckGo</strong></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ol>
+
+<h3>Older versions (up to version 44):</h3>
 <ol>
     <li>Click the <strong>...</strong> icon at the top right</li>
     <li>Click <strong>Settings</strong></li>
