@@ -20,10 +20,6 @@ order: 2
     <li>Click <strong>Privacy and Services</strong> in the left sidebar</li>
     <li>Scroll down to the <strong>Services</strong> section and click <strong>Address bar</strong></li>
     <li>Click the dropdown menu beside <strong>Search engine used in the address bar</strong> and select <strong>DuckDuckGo</strong></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
 </ol>
 
 <h3>Older versions (up to version 44):</h3>
