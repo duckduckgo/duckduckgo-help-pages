@@ -52,6 +52,10 @@ order: 241
 </p>
 
 <p>
+    Fourth, for certain elements in our search pages you may notice the <code>&vis</code> parameter being used in requests. This parameter allows us to measure usefulness by identifying which elements were actually visible on a page or received an interaction like hovering. Because of different screen sizes, visibility can be very different across devices (e.g., desktop vs. mobile vs. tablet). As users click on these elements, we use this interaction data to measure conversions effectively. The parameter values are anonymous, grouped together in batches, and are devoid of any personally identifiable information.
+</p>
+
+<p>
     All of these requests are all fully encrypted in transit to DuckDuckGo, such
     that nobody else but us can see them. And like with all other requests to
     DuckDuckGo, there is no personally identifiable information embedded in them,
