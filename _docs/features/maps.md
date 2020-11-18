@@ -4,12 +4,12 @@ category: Features
 order: 730
 ---
 
-If a map is particularly relevant for your search, one will appear automatically. Examples:
+You may see a map in your search results if it's particularly relevant to your search terms. For example:
 
 - [*coffee near me*](https://duckduckgo.com/?q=coffee+near+me)
 - [*map philadelphia*](https://duckduckgo.com/?q=map+philadelphia)
 
-You can click on these maps to expand them, giving you not just an interactive map where you can pan and zoom, but also a directions feature. DuckDuckGo map searches and route planning are powered by [Apple's MapKit JS framework](https://developer.apple.com/maps/web/).
+You can click on a map result to open an interactive map where you can pan, zoom, search, and look up directions. DuckDuckGo map searches and route planning are powered by [Apple's MapKit JS framework](https://developer.apple.com/maps/web/).
 
 ![Screenshot showing a map within DuckDuckGo Search results](/images/duckduckgo-map-example1.jpg)
 
