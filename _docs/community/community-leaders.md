@@ -16,58 +16,7 @@ order: 201
 </p>
 
 <p>
-    Through all the areas in
-    <a href="/community/contributing">our community</a>, we're
-    actively seeking Community Leaders. If you're able to demonstrate your
-    DuckDuckGo passion through contributions in any of those areas, we may select
-    you to be a Community Leader. (Developers who become Community Leaders can
-    also go on to earn a
-    <a href="/open-source/commit-bit">commit bit</a>).
-    Although there's no official length of time or amount of contributions
-    required, becoming a community leader is an accolade given to those who can
-    contribute to DuckDuckGo long-term and who've demonstrated that they have the
-    ability to do so.
-</p>
-
-<p>
-    <strong>If you're interested in being a Community Leader, please send an email to
-        <a href="mailto:comleaders@duckduckgo.com">comleaders@duckduckgo.com</a> and
-        help us get to know you by filling out the following:</strong>
-</p>
-
-<ol>
-    <li>How long have you been a DuckDuckGo user?</li>
-    <li>What's your duck.co or github username?</li>
-    <li>
-        Are you a developer? (yes/no) If yes, have you ever developed for
-        <a href="http://duckduckhack.com/">DuckDuckHack</a> or another of
-        <a href="/open-source/opensource-overview">our open source projects</a>?
-    </li>
-    <li>Why do you want to be a Community Leader?</li>
-    <li>
-        Which areas of the DuckDuckGo community are you most active in? (e.g.
-        forums, DuckDuckHack, translations, offline sharing, etc)
-    </li>
-    <li>
-        What skills or knowledge do you have that you think contribute to
-        DuckDuckGo's overall vision?
-    </li>
-    <li>
-        How do you anticipate improving the DuckDuckGo community as a Community
-        Leader?
-    </li>
-    <li>
-        What's your favorite non-DuckDuckGo website? This does not impact your
-        application--we just think it's fun :)
-    </li>
-</ol>
-<p>
-    Don't worry if you're not approved on your first application. You can always
-    retry when you feel you're ready again!
-</p>
-
-<p>
-    Current Community Leaders who help us with code and the community. We owe
+    Current Community Leaders who've helped us and the community. We owe
     thanks to:
 </p>
 
