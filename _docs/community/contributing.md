@@ -4,24 +4,11 @@ category: Community
 order: 26
 ---
 
-> If you're interested in our <a href="https://duckduckgo.com/hiring">hiring page</a>, you'll still want to read this page! :)
+> You might also be interested in our <a href="https://duckduckgo.com/hiring">hiring page</a>! :)
 
-<h3>Improve:</h3>
-<h4>Develop Instant Answers</h4>
-<p>
-    Every search should result in one perfect, "Instant Answer." Now, anyone can
-    develop Instant Answers with our open source DuckDuckHack platform.
-</p>
-<h5>To get started:</h5>
-<ul>
-    <li>
-        Check out the <a href="http://docs.duckduckhack.com/">developer docs</a>.
-    </li>
-    <li>See all the <a href="https://duck.co/ia">current Instant Answers</a>.</li>
-</ul>
+<p>DuckDuckGo is not just a search engine — it's for people who want to take back their online privacy now.</p>
 
-<h3>Spread:</h3>
-<h4>Tell others about DuckDuckGo</h4>
+<h3>Tell others about DuckDuckGo</h3>
 <p>
     Unfortunate fact: Most of the world has never heard about DuckDuckGo. Whether
     it's the Instant Answers, privacy, less clutter, !bangs, or just our duck
@@ -33,8 +20,9 @@ order: 26
 <h5>What to do:</h5>
 <ul>
     <li>
-        Set DuckDuckGo as the default search engine for your friends and family.
+        Set DuckDuckGo Search as the default search engine for your friends and family.
     </li>
+    <li>Help them install the <a href="https://duckduckgo.com/app">DuckDuckGo mobile app and desktop browser extension</a>.</li>
     <li>Flaunt your <a href="/community/swag">swag</a>.</li>
     <li>
         Let our microsites do the convincing by sending this link to others:
@@ -50,4 +38,9 @@ order: 26
     interested in being a Community Leader (and you think you're doing an awesome
     job in our community), check out
     <a href="/community/community-leaders">this page</a>.
+</p>
+
+<h3>Code of Conduct</h3>
+<p>
+    We, as a community, will not tolerate any offensive, malicious, spammy, or otherwise inappropriate behavior that degrades the experience of our community in any of its forms, online or offline.
 </p>

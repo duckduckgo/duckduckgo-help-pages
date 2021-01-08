@@ -9,6 +9,7 @@ order: 282
 - For business partnerships, see our [partnerships page](/company/partnerships).
 - For legal inquiries, contact [legal@duckduckgo.com](mailto:legal@duckduckgo.com).
 - For DMCA complaints, send your requests to [dmca@duckduckgo.com](mailto:dmca@duckduckgo.com).
+- For questions related to data processing, contact [privacy@duckduckgo.com](mailto:privacy@duckduckgo.com).
 - If you find any malware, phishing, or suspicious-looking websites or ads on DuckDuckGo, report them at [abuse@duckduckgo.com](mailto:abuse@duckduckgo.com).
 - For security vulnerabilities, submit a report via [HackerOne](https://hackerone.com/duckduckgo).
 - If you wish to add or update a !bang, use the [!bang submission form](https://duckduckgo.com/newbang).
