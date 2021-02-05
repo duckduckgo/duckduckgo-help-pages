@@ -4,7 +4,7 @@ category: Mobile
 order: 55
 ---
 
-<h2>Adding DuckDuckGo as a search engine in the default BlackBerry 10 browser</h2>
+<h2>Adding DuckDuckGo as a Search Engine in the Default BlackBerry 10 Browser</h2>
 
 <ol>
     <li>
@@ -32,7 +32,7 @@ order: 55
 </ol>
 
 <h2>
-    Adding DuckDuckGo as the default search engine in the BlackBerry 10 browser
+    Adding DuckDuckGo as the Default Search Engine in the BlackBerry 10 Browser
 </h2>
 
 <ol>
@@ -54,6 +54,6 @@ order: 55
     </li>
 </ol>
 
-<h2>Install the official DuckDuckGo app (BlackBerry 10)</h2>
-<a href="http://crackberry.com/how-install-android-app-apk-blackberry">Follow the instructions here.</a>
-<a href="http://duckduckgo.com/app/android.apk">You can get the DuckDuckGo app .apk file for installing here.</a>
+<h2>Install the Official DuckDuckGo App (BlackBerry 10)</h2>
+<a href="https://crackberry.com/how-install-android-app-apk-blackberry">Follow the instructions here.</a>
+<a href="https://duckduckgo.com/app/android.apk">You can get the DuckDuckGo app .apk file for installing here.</a>
