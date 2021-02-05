@@ -9,12 +9,9 @@ order: 72
 <ul>
     <li><a href="http://www.backbox.org/">BackBox</a></li>
     <li><a href="http://bodhilinux.com/">Bodhi Linux</a></li>
-    <li><a href="http://www.connochaetos.org/wiki/">ConnochaetOS</a></li>
     <li><a href="http://www.debian.org/">Debian</a></li>
     <li><a href="http://www.deftlinux.net/">DEFT</a></li>
-    <li>
-        <a href="http://doudoulinux.org/web/english/index.html">Doudou Linux</a>
-    </li>
+    <li><a href="http://doudoulinux.org/web/english/index.html">Doudou Linux</a></li>
     <li><a href="http://elementaryos.org/">elementary OS</a></li>
     <li><a href="http://fedoraproject.org/">Fedora</a></li>
     <li><a href="http://www.freebsd.org/">FreeBSD</a></li>
@@ -35,9 +32,7 @@ order: 72
     <li><a href="http://www.salixos.org/">Salix OS</a></li>
     <li><a href="http://www.slitaz.org/en/">SliTaz</a></li>
     <li><a href="https://www.snowlinux.de/">Snowlinux</a></li>
-    <li>
-        <a href="http://www.sysresccd.org/SystemRescueCd_Homepage">SystemRescueCd</a>
-    </li>
+    <li><a href="http://www.sysresccd.org/SystemRescueCd_Homepage">SystemRescueCd</a></li>
     <li><a href="http://trisquel.info/">Trisquel</a></li>
     <li><a href="http://uberstudent.org/">UberStudent</a></li>
     <li><a href="http://www.ubuntu.com/">Ubuntu (Canonical)</a></li>
@@ -46,6 +41,6 @@ order: 72
 </ul>
 <p>
     We could really use your help in getting in more distros. Please send an email
-    to <a href="malito:bd@duckduckgo.com">bd@duckduckgo.com</a> and check out our
+    to <a href="mailto:bd@duckduckgo.com">bd@duckduckgo.com</a> and check out our
     <a href="/company/partnerships">partnership page.</a>
 </p>
