@@ -6,7 +6,7 @@ order: 401
 
 <p>DuckDuckGo supports search syntax you can use to fine-tune your queries.</p>
 
-<h3>Search operators:</h3>
+<h3>Search Operators</h3>
 <table cellpadding="10">
     <thead>
         <tr>
@@ -56,7 +56,7 @@ order: 401
     </tbody>
 </table>
 
-<h3>Search directly on other sites:</h3>
+<h3>Search Directly on Other Sites</h3>
 <ul>
     <li>
         Use <code>\</code> to go to directly to the first search result. For
@@ -74,7 +74,7 @@ order: 401
     </li>
 </ul>
 
-<h3>Instant Answers:</h3>
+<h3>Instant Answers</h3>
 <ul>
     <li>
         Add <code>news</code> to your searches to generate Instant Answer news
@@ -89,7 +89,7 @@ order: 401
     <li>Find out more about <a href="https://duck.co/ia">Instant Answers</a>!</li>
 </ul>
 
-<h3>Safe search:</h3>
+<h3>Safe Search</h3>
 <ul>
     <li>
         Add <code>!safeon</code> or <code>!safeoff</code> to the end of your search
