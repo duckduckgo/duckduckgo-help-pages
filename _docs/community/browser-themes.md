@@ -1,5 +1,5 @@
 ---
-title: Browser themes
+title: Browser Themes
 category: Community
 order: 26
 ---
