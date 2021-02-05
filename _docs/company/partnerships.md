@@ -107,5 +107,5 @@ order: 74
     suggesting a potential partnership. We simply don't have enough time to do
     everything right now, and so what we work on has to be compelling. Please send
     an email to
-    <strong><a href="malito:bd@duckduckgo.com">bd@duckduckgo.com</a></strong>.
+    <strong><a href="mailto:bd@duckduckgo.com">bd@duckduckgo.com</a></strong>.
 </p>
