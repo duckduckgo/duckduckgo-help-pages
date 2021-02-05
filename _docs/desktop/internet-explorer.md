@@ -4,7 +4,7 @@ category: Desktop
 order: 2
 ---
 
-<h2>Making DuckDuckGo the default search engine (recommended)</h2>
+<h2>Making DuckDuckGo the Default Search Engine (Recommended)</h2>
 <ol>
     <li>
         Click
@@ -15,7 +15,7 @@ order: 2
     <li>Click <em>Add</em></li>
 </ol>
 
-<h2>Making DuckDuckGo the homepage</h2>
+<h2>Making DuckDuckGo Your Homepage</h2>
 <ol>
     <li>Click the arrow to the right of the home icon</li>
     <li>Click <em>Add or change home page...</em></li>
@@ -26,7 +26,7 @@ order: 2
     <li>Click <em>Yes</em></li>
 </ol>
 
-<h2>Changing to a different default search engine</h2>
+<h2>Changing to a Different Default Search Engine</h2>
 <ol>
     <li>Click the cog icon in the top toolbar</li>
     <li>Select <em>Manage add-ons</em></li>
@@ -38,7 +38,7 @@ order: 2
     <li>Select <em>Set as default</em></li>
 </ol>
 
-<h2>Removing DuckDuckGo as the homepage</h2>
+<h2>Removing DuckDuckGo as the Homepage</h2>
 <ol>
     <li>Click the cog icon in the top toolbar</li>
     <li>Select <em>Internet options</em></li>
