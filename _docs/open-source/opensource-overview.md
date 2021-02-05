@@ -1,6 +1,6 @@
 ---
 title: Open Source Overview
-category: Open-source
+category: Open-Source
 order: 56
 ---
 
