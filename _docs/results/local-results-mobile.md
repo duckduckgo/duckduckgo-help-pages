@@ -17,7 +17,7 @@ order: 411
     further improve the accuracy and relevancy of search results.
 </p>
 
-<h3>If you experience problems trying to enable your location:</h3>
+<h3>If You Experience Problems Trying to Enable Your Location:</h3>
 <ul>
     <li>Ensure you have a strong WiFi or Cellular connection.</li>
     <li>Try re-starting your web browser.</li>
