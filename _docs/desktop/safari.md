@@ -6,7 +6,7 @@ order: 3
 
 > <a class="button" href="/mobile/safari-ios">Did you mean iOS Safari instead?</a>
 
-<h2>Changing your search engine to DuckDuckGo (OS X Yosemite and beyond)</h2>
+<h2>Changing Your Search Engine to DuckDuckGo (OS X Yosemite and Newer)</h2>
 <ol>
     <li>
         Open a new tab.
@@ -36,7 +36,7 @@ order: 3
     </li>
 </ol>
 
-<h2>Installing our extension</h2>
+<h2>Installing Our Extension</h2>
 <ol>
     <li>
         <a href="https://apps.apple.com/us/app/duckduckgo-privacy-essentials/id1482920575">Visit our extension's gallery page.</a>
@@ -50,7 +50,7 @@ order: 3
     </li>
 </ol>
 
-<h2 id="uninstall">Uninstalling our extension</h2>
+<h2 id="uninstall">Uninstalling Our Extension</h2>
 <ol>
     <li>
         Select <em>Preferences</em> in Safari's menu.

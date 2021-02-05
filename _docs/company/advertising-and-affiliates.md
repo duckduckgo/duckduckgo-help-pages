@@ -33,7 +33,7 @@ order: 49
     <a href="https://duckduckgo.com/feedback">please report them</a>.
 </p>
 
-<h3 id="howto">How to advertise on DuckDuckGo</h3>
+<h3 id="howto">How to Advertise on DuckDuckGo</h3>
 <p>
     To advertise on DuckDuckGo, please visit <a href="https://about.ads.microsoft.com/">Microsoft Advertising</a>. By default, when you sign up for a Microsoft Advertising account, your ads should automatically enter rotation into all of Microsoft Advertising's distribution channels including DuckDuckGo. If you'd like to double-check that
     your ad is set up to run on DuckDuckGo, perform the following:
@@ -50,7 +50,7 @@ order: 49
     <img alt="Screenshot showing the Bing ad network settings" src="{{ site.baseurl }}/images/72449caa010b8cc400157ef19833593f.png" />
 </p>
 
-<h2 id="affiliates">Affiliate revenue</h2>
+<h2 id="affiliates">Affiliate Revenue</h2>
 
 <p>
     DuckDuckGo is part of the affiliate programs of the eCommerce websites Amazon

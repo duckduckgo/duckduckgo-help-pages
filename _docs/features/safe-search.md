@@ -1,5 +1,5 @@
 ---
-title: Safe search
+title: Safe Search
 category: Features
 order: 721
 ---
@@ -46,7 +46,7 @@ order: 721
     best to resolve it in a timely fashion.
 </p>
 
-<h3>Force safe search at a network level</h3>
+<h3>Force Safe Search at a Network Level</h3>
 
 <p>
     For network administrators, you can force strict safe search for everyone on

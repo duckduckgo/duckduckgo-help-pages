@@ -1,5 +1,5 @@
 ---
-title: Adding DuckDuckGo to your Browser
+title: Adding DuckDuckGo to Your Browser
 category: Desktop
 order: 9
 ---

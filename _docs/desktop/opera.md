@@ -5,7 +5,7 @@ order: 8
 ---
 
 <h2>
-    <a href="https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/">Install our extension (recommended)</a>
+    <a href="https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/">Install Our Extension (Recommended)</a>
 </h2>
 <ul>
     <li>✔ Adds DuckDuckGo's Instant Answers to Google and Bing search results</li>
@@ -15,7 +15,7 @@ order: 8
         <a href="#dial">(can be done manually)</a>
     </li>
 </ul>
-<h2>Making DuckDuckGo the default search engine</h2>
+<h2>Making DuckDuckGo the Default Search Engine</h2>
 <ol>
     <li>
         Select <em>Opera &gt; Preferences</em> (on Mac) or
@@ -24,7 +24,7 @@ order: 8
     <li>Under <em>Search</em> click the drop down and select DuckDuckGo</li>
 </ol>
 
-<h2>Making DuckDuckGo the homepage</h2>
+<h2>Making DuckDuckGo the Homepage</h2>
 <ol>
     <li>
         Select <em>Opera &gt; Preferences</em> (on Mac) or
@@ -36,18 +36,8 @@ order: 8
     </li>
     <li>Enter <em>https://duckduckgo.com</em></li>
 </ol>
-<h2 id="dial">Adding DuckDuckGo as a Speed Dial entry</h2>
-<ol>
-    <li>Visit <a href="https://duckduckgo.com">the DuckDuckGo homepage</a></li>
-    <li>Right click anywhere on the homepage</li>
-    <li>Select <em>Add to Speed Dial</em></li>
-    <li>
-        <a href="https://addons.opera.com/en/extensions/details/duckduckgo-speed-dial/">Alternatively, you can add a Speed Dial link to random Instant Answers
-            using this extension.</a>
-    </li>
-</ol>
 
-<h2>Uninstalling a DuckDuckGo extension</h2>
+<h2>Uninstalling the DuckDuckGo Extension</h2>
 <ol>
     <li>Select <em>Opera &gt; Extensions</em></li>
     <li>
@@ -55,7 +45,7 @@ order: 8
     </li>
 </ol>
 
-<h2>Changing to a different default search engine</h2>
+<h2>Changing to a Different Default Search Engine</h2>
 <ol>
     <li>
         Select <em>Opera &gt; Preferences</em> (on Mac) or
@@ -67,7 +57,7 @@ order: 8
     </li>
 </ol>
 
-<h2>Removing DuckDuckGo as the homepage</h2>
+<h2>Removing DuckDuckGo as the Homepage</h2>
 <ol>
     <li>
         Select <em>Opera &gt; Preferences</em> (on Mac) or
@@ -80,7 +70,7 @@ order: 8
     <li>Find DuckDuckGo in the displayed list and click the <em>X</em></li>
 </ol>
 
-<h2>Removing DuckDuckGo as a Speed Dial entry</h2>
+<h2>Removing DuckDuckGo as a Speed Dial Entry</h2>
 <ol>
     <li>Right click on the DuckDuckGo Speed Dial entry</li>
     <li>Select <em>Delete</em></li>

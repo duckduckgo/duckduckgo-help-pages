@@ -1,10 +1,10 @@
 ---
-title: Private vs. public accounts
-category: Community-platform
+title: Private vs. Public Accounts
+category: Community-Platform
 order: 0
 ---
 
-<h3>Comparing account types</h3>
+<h3>Comparing Account Types</h3>
 
 <p>
     When you register a new account on Duck.co, your account is automatically set
@@ -19,7 +19,7 @@ order: 0
     see your username and user page.
 </p>
 
-<h3>How to change your account type</h3>
+<h3>How to Change Your Account Type</h3>
 
 <ol>
     <li><a href="https://duck.co/my/account">Visit the My Account page.</a></li>

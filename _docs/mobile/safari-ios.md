@@ -6,7 +6,7 @@ order: 35
 
 > <a href="/desktop/safari">Did you mean OS X Safari instead?</a>
 
-<h2>Changing your search engine to DuckDuckGo (iOS 8)</h2>
+<h2>Changing Your Search Engine to DuckDuckGo (iOS 8 and Newer)</h2>
 <ol>
     <li>
         Open the settings app.
@@ -31,6 +31,6 @@ order: 35
 </ol>
 
 <h2>
-    <a href="https://itunes.apple.com/us/app/id663592361">Alternatively, install our app</a>
+    <a href="https://itunes.apple.com/us/app/id663592361">Alternatively, Install Our App</a>
 </h2>
 A better way to stay private online.

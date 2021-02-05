@@ -1,6 +1,6 @@
 ---
 title: XMPP
-category: Community-platform
+category: Community-Platform
 order: 30
 ---
 

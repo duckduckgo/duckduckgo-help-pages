@@ -1,5 +1,5 @@
 ---
-title: Short domain
+title: Short Domain
 category: Company
 order: 84
 ---

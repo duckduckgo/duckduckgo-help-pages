@@ -27,10 +27,7 @@ order: 66
     <li>you can store several sets of settings for different purposes</li>
 </ul>
 <p>
-    "Cloud computing" is an umbrella term for scalable third party data and
-    software services. We use <a href="http://aws.amazon.com/s3/">Amazon S3</a>.
-    As such we rely on Amazon's infrastructure for security and performance. In
-    the future we may let you host your own DuckDuckGo data.
+    "Cloud computing" is an umbrella term for scalable third party data and software services. For Cloud Save we use <a href="https://aws.amazon.com/s3/">Amazon S3</a>.
 </p>
 
 <h4>How does it work?</h4>

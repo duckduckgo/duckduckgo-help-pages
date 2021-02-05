@@ -1,5 +1,5 @@
 ---
-title: Traffic stats
+title: Traffic Stats
 category: Company
 order: 76
 ---

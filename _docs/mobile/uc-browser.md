@@ -4,7 +4,7 @@ category: Mobile
 order: 60
 ---
 
-<h2>Changing your search engine to DuckDuckGo</h2>
+<h2>Changing Your Search Engine to DuckDuckGo</h2>
 
 <ol>
     <li>

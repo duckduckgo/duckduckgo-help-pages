@@ -4,7 +4,7 @@ category: Desktop
 order: 2
 ---
 
-<h2>Installing our add-on:</h2>
+<h2>Installing Our Add-On</h2>
 <ul>
     <li>
         <a href="https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk">DuckDuckGo Privacy Essentials add-on:</a>
@@ -12,8 +12,8 @@ order: 2
     </li>
 </ul>
 
-<h2>Set DuckDuckGo as the default search engine</h2>
-<h3>Current versions (version 79 and above):</h3>
+<h2>Set DuckDuckGo as the Default Search Engine</h2>
+<h3>Current Versions (Version 79 and Above):</h3>
 <ol>
     <li>Click the <strong>...</strong> icon at the top right</li>
     <li>Click <strong>Settings</strong></li>
@@ -22,7 +22,7 @@ order: 2
     <li>Click the dropdown menu beside <strong>Search engine used in the address bar</strong> and select <strong>DuckDuckGo</strong></li>
 </ol>
 
-<h3>Older versions (up to version 44):</h3>
+<h3>Older Versions (Up to Version 44):</h3>
 <ol>
     <li>Click the <strong>...</strong> icon at the top right</li>
     <li>Click <strong>Settings</strong></li>
@@ -34,7 +34,7 @@ order: 2
     </li>
 </ol>
 
-<h2>Set DuckDuckGo as the homepage</h2>
+<h2>Set DuckDuckGo as the Homepage</h2>
 <ol>
     <li>Click the <strong>...</strong> icon at the top right</li>
     <li>Click <strong>Settings</strong></li>
