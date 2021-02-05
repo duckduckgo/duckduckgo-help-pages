@@ -7,17 +7,9 @@ order: 70
 <h3>Support DuckDuckGo by disabling ad blockers on our page:</h3>
 
 Many DuckDuckGo users opt for ad-blocking software and browser extensions, like
-Adblock Plus, that prevent our advertisements from displaying. We understand and
-respect your decision to limit exposure to advertising, which is why DuckDuckGo
-allows users to disable ads through our
-<a href="https://duckduckgo.com/settings">Settings menu</a> (under the General
-tab &gt; Advertisements).
-
-Because of our belief in a better search experience with less clutter, our ads
+Adblock Plus, that prevent our advertisements from displaying. Because of our belief in a better search experience with less clutter, our ads
 have always been extremely minimal, unintrusive, and clearly marked as different
-than the other results (they always have an Ad badge).
-
-Further, our ads should be relevant to your search, as they're meant to be
+than the other results (they always have an Ad badge). Further, our ads should be relevant to your search, as they're meant to be
 helpful. If you see a bad ad,
 <a href="https://duckduckgo.com/feedback">let us know!</a>
 
