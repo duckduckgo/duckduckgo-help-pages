@@ -1,5 +1,5 @@
 ---
-title: Removing unofficial add-ons
+title: Removing Unofficial Add-Ons
 category: Add-ons
 order: 99
 ---
