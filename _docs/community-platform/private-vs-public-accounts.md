@@ -1,6 +1,6 @@
 ---
 title: Private vs. Public Accounts
-category: Community-platform
+category: Community-Platform
 order: 0
 ---
 
