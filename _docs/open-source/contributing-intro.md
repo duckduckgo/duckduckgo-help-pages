@@ -1,5 +1,5 @@
 ---
-title: Contribute to DuckDuckGo's Open Source Community
+title: Contribute to DuckDuckGo's Open-Source Community
 category: Open-source
 order: 99
 ---
@@ -7,7 +7,7 @@ order: 99
 <h2>Contributing Is Awesome</h2>
 
 <p>
-    Whether you're looking to dip your toes in the world of open-source, seeking
+    Whether you're looking to dip your toes in the world of open source, seeking
     an interesting challenge, or excited to do something that instantly affects
     <a href="https://duckduckgo.com/traffic.html">millions every day</a> -
     contributing to DuckDuckGo's open-source community is a blast.
