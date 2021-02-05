@@ -5,7 +5,7 @@ order: 56
 ---
 
 <img alt="Giving back" src="{{ site.baseurl }}/images/21c07cef6e61cf10afd25b0829284aaa.jpg" />
-<h2>DuckDuckGo's Open Source Areas</h2>
+<h2>DuckDuckGo's Open-Source Areas</h2>
 
 <p>
     DuckDuckGo is increasingly open source and we'd love your help in a lot of
@@ -53,7 +53,7 @@ order: 56
 </ul>
 <p>
     DuckDuckGo is also largely built with
-    <a href="/company/architecture">Free and Open Source Software</a>
+    <a href="/company/architecture">Free and Open-Source Software</a>
     (FOSS). That's why we give back to open source as well as privacy-related
     projects — check out our
     <a href="https://duckduckgo.com/donations">history of donations</a>.
