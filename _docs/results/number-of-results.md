@@ -1,5 +1,5 @@
 ---
-title: Number of results
+title: Number of Results
 category: Results
 order: 411
 ---
