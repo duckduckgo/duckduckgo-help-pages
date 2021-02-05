@@ -4,7 +4,7 @@ category: Open-source
 order: 99
 ---
 
-<h2>Contributing is Awesome</h2>
+<h2>Contributing Is Awesome</h2>
 
 <p>
     Whether you're looking to dip your toes in the world of open-source, seeking
