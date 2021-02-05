@@ -1,6 +1,6 @@
 ---
 title: LMDDGTFY
-category: Add-ons
+category: Add-Ons
 order: 97
 ---
 
