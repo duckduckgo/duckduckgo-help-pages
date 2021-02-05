@@ -22,7 +22,7 @@ order: 39
     <strong>Get our Privacy Browser from
         <a href="https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android">Google Play</a>,
         <a href="https://f-droid.org/packages/com.duckduckgo.mobile.android/">F-Droid</a>, or
-        <a href="https://github.com/duckduckgo/Android/releases">as an APK file</a>.</strong>
+        <a href="https://github.com/duckduckgo/Android/releases">as an APK File</a>.</strong>
 </p>
 
 <p class="screenshots">
