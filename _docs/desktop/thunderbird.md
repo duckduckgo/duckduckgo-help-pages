@@ -5,7 +5,7 @@ order: 81
 ---
 
 
-<h2>Adding DuckDuckGo as a search engine option</h2>
+<h2>Adding DuckDuckGo as a Search Engine Option</h2>
 
 <ol>
     <li>In the menu bar, select <i>Help</i>.</li>
@@ -22,7 +22,7 @@ order: 81
     <li>Restart Thunderbird.</li>
 </ol>
 
-<h2>Making DuckDuckGo the default search engine option</h2>
+<h2>Making DuckDuckGo the Default Search Engine Option</h2>
 
 <ol>
     <li>
