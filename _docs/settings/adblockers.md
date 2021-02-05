@@ -1,10 +1,10 @@
 ---
-title: Ad Blocking Software
+title: Ad-Blocking Software
 category: Settings
 order: 70
 ---
 
-<h3>Support DuckDuckGo by disabling ad blockers on our page:</h3>
+<h3>Support DuckDuckGo by Disabling Ad Blockers on Our Page:</h3>
 
 Many DuckDuckGo users opt for ad-blocking software and browser extensions, like
 Adblock Plus, that prevent our advertisements from displaying. Because of our belief in a better search experience with less clutter, our ads
@@ -13,12 +13,12 @@ than the other results (they always have an Ad badge). Further, our ads should b
 helpful. If you see a bad ad,
 <a href="https://duckduckgo.com/feedback">let us know!</a>
 
-<h3>Support DuckDuckGo by disabling ad blockers on our domains. Here's how for Adblock Plus:</h3>
+<h3>How to Disable Adblock Plus on DuckDuckGo Domains</h3>
 
 <h4>Firefox</h4>
 <ol>
     <li>
-        On duckduckgo.com, locate the AdBlockPlus icon in the address bar at the top right of the browser.
+        On duckduckgo.com, locate the AdBlock Plus icon in the address bar at the top right of the browser.
     </li>
     <li>
         click on the icon and select <strong>"Disable on duckduckgo.com"</strong>
@@ -28,7 +28,7 @@ helpful. If you see a bad ad,
 <h4>Safari</h4>
 <ol>
     <li>
-        On <a href="https://duckduckgo.com/">duckduckgo.com</a>, locate the AdBlockPlus icon in the upper left of the
+        On <a href="https://duckduckgo.com/">duckduckgo.com</a>, locate the AdBlock Plus icon in the upper left of the
         screen beside the URL bar.
     </li>
     <li>
@@ -72,6 +72,6 @@ helpful. If you see a bad ad,
     </li>
     <li>
         Click the icon and ensure that <strong>"Displayed on this site"</strong> is the selected option. If it is not
-        you can click on "Enabled on this site" to switch AdBlockPlus off for this domain.
+        you can click on "Enabled on this site" to switch AdBlock Plus off for this domain.
     </li>
 </ol>
