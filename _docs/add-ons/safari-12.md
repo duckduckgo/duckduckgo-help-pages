@@ -1,6 +1,6 @@
 ---
 title: Safari 12 Update
-category: Add-ons
+category: Add-Ons
 order: 99
 ---
 
