@@ -1,6 +1,6 @@
 ---
 title: Contribute to DuckDuckGo's Open-Source Community
-category: Open-source
+category: Open-Source
 order: 99
 ---
 
