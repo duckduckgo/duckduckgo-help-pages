@@ -36,16 +36,6 @@ order: 8
     </li>
     <li>Enter <em>https://duckduckgo.com</em></li>
 </ol>
-<h2 id="dial">Adding DuckDuckGo as a Speed Dial Entry</h2>
-<ol>
-    <li>Visit <a href="https://duckduckgo.com">the DuckDuckGo homepage</a></li>
-    <li>Right click anywhere on the homepage</li>
-    <li>Select <em>Add to Speed Dial</em></li>
-    <li>
-        <a href="https://addons.opera.com/en/extensions/details/duckduckgo-speed-dial/">Alternatively, you can add a Speed Dial link to random Instant Answers
-            using this extension.</a>
-    </li>
-</ol>
 
 <h2>Uninstalling the DuckDuckGo Extension</h2>
 <ol>
