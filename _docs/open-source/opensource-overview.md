@@ -52,9 +52,8 @@ order: 56
     </li>
 </ul>
 <p>
-    DuckDuckGo is also largely built with
-    <a href="/company/architecture">Free and Open-Source Software</a>
-    (FOSS). That's why we give back to open source as well as privacy-related
+    DuckDuckGo is also largely built with Free and Open-Source Software (FOSS). 
+    That's why we give back to open source as well as privacy-related
     projects — check out our
     <a href="https://duckduckgo.com/donations">history of donations</a>.
 </p>
