@@ -5,12 +5,11 @@ order: 4
 ---
 
 <h2>
-    <a href="https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg">Install our extension (recommended)</a>
+    <a href="https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg">Install Our Extension (Recommended)</a>
 </h2>
 
 <h2 id="manual">
-    Making DuckDuckGo the default search engine for the omnibox and right-click
-    search
+    Making DuckDuckGo the Default Search Engine for the Omnibox and Right-Click Search
 </h2>
 <ol>
     <li>
@@ -23,11 +22,7 @@ order: 4
     <li>Find DuckDuckGo in the displayed list and click <em>Make Default</em></li>
 </ol>
 
-<h2>
-    <a href="https://chrome.google.com/webstore/detail/duckduckgo-home-page/ljkalbbbffedallekgkdheknngopfhif">Add DuckDuckGo to the apps page</a>
-</h2>
-
-<h2>Making DuckDuckGo the homepage</h2>
+<h2>Making DuckDuckGo the Homepage</h2>
 <ol>
     <li>Click the menu icon (three horizontal lines) in the top toolbar</li>
     <li>Select <em>Settings</em></li>
@@ -38,7 +33,7 @@ order: 4
     <li>Click <em>Use current pages</em> and then click <em>OK</em></li>
 </ol>
 
-<h2>Uninstalling the DuckDuckGo extension or app</h2>
+<h2>Uninstalling the DuckDuckGo Extension or App</h2>
 <ol>
     <li>Click the menu icon (three horizontal lines) in the top toolbar</li>
     <li>Select <em>More tools</em></li>
@@ -50,8 +45,7 @@ order: 4
 </ol>
 
 <h2>
-    Changing to a different default search engine for the omnibox and right-click
-    search
+    Changing to a Different Default Search Engine for the Omnibox and Right-Click Search
 </h2>
 <ol>
     <li>Click the menu icon (three horizontal lines) in the top toolbar</li>
@@ -64,7 +58,7 @@ order: 4
     </li>
 </ol>
 
-<h2>Removing DuckDuckGo as the homepage</h2>
+<h2>Removing DuckDuckGo as the Homepage</h2>
 <ol>
     <li>Click the menu icon (three horizontal lines) in the top toolbar</li>
     <li>Select <em>Settings</em></li>
