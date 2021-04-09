@@ -56,4 +56,4 @@ order: 55
 
 <h2>Install the Official DuckDuckGo App (BlackBerry 10)</h2>
 <a href="https://crackberry.com/how-install-android-app-apk-blackberry">Follow the instructions here.</a>
-<a href="https://duckduckgo.com/app/android.apk">You can get the DuckDuckGo app .apk file for installing here.</a>
+<a href="https://github.com/duckduckgo/Android/releases">You can get the DuckDuckGo app .apk file for installing here.</a>
