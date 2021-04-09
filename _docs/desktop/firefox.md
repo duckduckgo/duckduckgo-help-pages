@@ -24,7 +24,7 @@ order: 1
 </ol>
 <img src="{{ site.baseurl }}/images/0414748c67b001952330a2278b6d904c.jpg" />
 
-<h2>Setting DuckDuckGo as your homepage</h2>
+<h2>Setting DuckDuckGo as Your Homepage</h2>
 Drag <a href="https://duckduckgo.com">this link</a> to the home icon in the
 browser toolbar.
 

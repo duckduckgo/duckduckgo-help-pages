@@ -12,7 +12,7 @@ order: 44
 <p>
     It was self-funded until October 2011, when it was backed by Union Square
     Ventures and a handful of angel investors. Since that funding, and a
-    <a href="https://spreadprivacy.com/duckduckgo-partners-with-omers-ventures-to-expand-canadian-presence-and-global-impact/">second round of funding by OMERS Ventures in 2018</a>, the team has expanded to around 60 employees and a bunch of
+    <a href="https://spreadprivacy.com/duckduckgo-partners-with-omers-ventures-to-expand-canadian-presence-and-global-impact/">second round of funding by OMERS Ventures in 2018</a>, the team has expanded to over 100 employees and a bunch of
     <a href="/open-source/opensource-overview">open-source contributors</a>.
 </p>
 
