@@ -4,7 +4,7 @@ category: Privacy
 order: 90
 ---
 
-When you visit a website that contains embedded content from social media companies (such as videos, posts comments, or login buttons), that content often includes a tracking code that those companies use to link your user information (e.g., your IP address and browser details) with your browsing history.
+When you visit a website that contains embedded content from social media companies (such as videos, posts, comments, or login buttons), that content often includes a tracking code that those companies use to link your user information (e.g., your IP address and browser details) with your browsing history.
 
 In some cases, like with Facebook, this can happen [regardless of whether you have an account or not](https://www.makeuseof.com/tag/facebook-shadow-profiles/). They can detect and store your browsing activity and use it to target content and ads to you, despite whether the page you're on is related to that service. Sometimes this might be what you want, such as when you're playing a social game with your Facebook account. Most times, though, you likely prefer to keep your browsing activity private.
 
