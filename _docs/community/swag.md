@@ -5,6 +5,5 @@ order: 45
 ---
 
 <p>
-    Our <a href="https://duckduckgo.merchmadeeasy.com//">FutureShirts store</a> has
-    t-shirts, stickers, and other merchandise available for purchase.
+    Unfortunately we no longer offer merchandise for purchase through the DuckDuckGo store.
 </p>
