@@ -6,6 +6,8 @@ Welcome to DuckDuckGo Help - If you can't find an answer to your DuckDuckGo ques
 
 {% include searchbox.html %}
 
+<br>
+
 ## About DuckDuckGo
 
 [DuckDuckGo](https://duckduckgo.com/) is the Internet privacy company for everyone who's had enough of online tracking and wants to take back their privacy now. 
