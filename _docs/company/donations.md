@@ -5,7 +5,7 @@ order: 281
 ---
 
 <p>
-    DuckDuckGo has been profitable since 2014 and is experiencing tremendous growth around the world. Because of this, we don't accept donations. 
+    DuckDuckGo has been profitable since 2014 and is experiencing <a href="https://duckduckgo.com/traffic">tremendous growth</a> around the world. Because of this, we don't accept donations. 
 </p>
 
 <p>
