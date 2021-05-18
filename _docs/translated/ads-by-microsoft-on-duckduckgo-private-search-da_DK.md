@@ -1,6 +1,6 @@
 ---
 title: Annoncer fra Microsoft på DuckDuckGo privat søgning
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 802
 ---
 

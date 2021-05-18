@@ -1,6 +1,6 @@
 ---
 title: Microsoftovi oglasi na DuckDuckGo Private Search
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 809
 ---
 

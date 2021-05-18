@@ -1,6 +1,6 @@
 ---
 title: Реклами от Microsoft при Частно търсене с DuckDuckGo
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 800
 ---
 

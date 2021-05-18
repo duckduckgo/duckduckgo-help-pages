@@ -1,6 +1,6 @@
 ---
 title: Reklamy od spoločnosti Microsoft v súkromnom vyhľadávaní DuckDuckGo
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 822
 ---
 

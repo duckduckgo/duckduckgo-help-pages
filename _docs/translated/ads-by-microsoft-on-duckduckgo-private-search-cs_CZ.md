@@ -1,6 +1,6 @@
 ---
 title: Reklamy společnosti Microsoft v soukromém vyhledávání společnosti DuckDuckGo
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 801
 ---
 

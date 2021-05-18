@@ -1,6 +1,6 @@
 ---
 title: DuckDuckGo Gizli Arama sayfalarında Microsoft tarafından yayınlanan reklamlar
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 825
 ---
 

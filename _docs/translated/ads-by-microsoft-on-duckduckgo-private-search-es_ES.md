@@ -1,6 +1,6 @@
 ---
 title: Anuncios de Microsoft en las búsquedas privadas de DuckDuckGo
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 805
 ---
 

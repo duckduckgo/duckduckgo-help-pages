@@ -1,6 +1,6 @@
 ---
 title: Auglýsingar frá Microsoft á DuckDuckGo einkaleit
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 811
 ---
 

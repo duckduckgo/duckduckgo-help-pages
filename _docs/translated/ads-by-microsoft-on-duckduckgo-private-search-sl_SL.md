@@ -1,6 +1,6 @@
 ---
 title: Microsoftovi oglasi pri zasebnem iskanju z DuckDuckGo
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 823
 ---
 

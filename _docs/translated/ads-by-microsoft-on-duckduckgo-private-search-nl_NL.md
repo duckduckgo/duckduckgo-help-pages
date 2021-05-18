@@ -1,6 +1,6 @@
 ---
 title: Advertenties van Microsoft in DuckDuckGo Private Search
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 817
 ---
 
