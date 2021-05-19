@@ -1,6 +1,6 @@
 ---
 title: Microsoftin mainokset DuckDuckGo:n yksityisessä haussa
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 807
 ---
 

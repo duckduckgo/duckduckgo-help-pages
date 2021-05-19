@@ -1,6 +1,6 @@
 ---
 title: „„Microsoft“ skelbimai „DuckDuckGo“ privačioje paieškoje
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 813
 ---
 

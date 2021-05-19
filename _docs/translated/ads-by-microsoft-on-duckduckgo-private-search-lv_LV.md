@@ -1,6 +1,6 @@
 ---
 title: Microsoft reklāmas DuckDuckGo privātajā meklēšanā
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 815
 ---
 

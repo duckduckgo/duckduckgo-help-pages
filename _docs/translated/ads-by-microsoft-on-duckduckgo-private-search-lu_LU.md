@@ -1,6 +1,6 @@
 ---
 title: Annoncen duerch Microsoft op DuckDuckGo Private Search
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 814
 ---
 

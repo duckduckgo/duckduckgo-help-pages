@@ -1,6 +1,6 @@
 ---
 title: Annonser från Microsoft på DuckDuckGo Privat sökning
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 824
 ---
 
@@ -15,7 +15,6 @@ Mer information finns i DuckDuckGo:s sekretesspolicy: <https://duckduckgo.com/pr
 **Annonsklick hanteras av Microsofts annonsnätverk.**
 
 Microsoft och DuckDuckGo samarbetar för att skapa en unik söklösning som levererar relevanta annonser till dig samtidigt som din integritet skyddas. Om du klickar på en Microsoft-annons kommer du till annonsörens landningssida via Microsofts annonsplattform. Microsoft Advertising kommer att använda din fullständiga IP-adress och användaragentsträng så att annonsklick behandlas korrekt och annonsören kan debiteras.
-
 
 Andra sökmotorer kopplar ditt annonsklick-beteende till en profil på dig som kan användas senare för att rikta annonser till dig på den sökmotorn eller på nätet. När du däremot klickar på en Microsoft-annons som visas på DuckDuckGo kopplar Microsoft Advertising inte ditt annonsklick-beteende till en användarprofil. Den informationen lagras eller delas heller inte för annat än för redovisningsändamål.
 

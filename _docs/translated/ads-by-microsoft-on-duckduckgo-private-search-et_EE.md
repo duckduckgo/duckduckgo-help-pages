@@ -1,6 +1,6 @@
 ---
 title: Microsofti reklaamid DuckDuckGo privaatses otsingus
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 806
 ---
 

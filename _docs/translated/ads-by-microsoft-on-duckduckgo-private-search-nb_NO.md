@@ -1,6 +1,6 @@
 ---
 title: Annonser gjennom Microsoft på DuckDuckGos private søk
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 816
 ---
 

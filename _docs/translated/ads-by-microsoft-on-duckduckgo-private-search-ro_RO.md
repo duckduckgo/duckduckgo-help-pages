@@ -1,6 +1,6 @@
 ---
 title: Reclame de la Microsoft în funcția de căutare privată DuckDuckGo
-category: Translated
+category: Translated Microsoft Ads Notice
 order: 820
 ---
 
@@ -12,7 +12,7 @@ Când părăsiți site-ul nostru, vă supuneți politicilor altor site-uri, incl
 
 Pentru mai multe informații, consultați politica de confidențialitate DuckDuckGo: <https://duckduckgo.com/privacy>.
 
-**Clicurile pe reclame  sunt gestionate de rețeaua publicitară Microsoft.**
+**Clicurile pe reclame sunt gestionate de rețeaua publicitară Microsoft.**
 
 Microsoft și DuckDuckGo s-au asociat pentru a crea o soluție unică de căutare care vă oferă reclame relevante, protejându-vă în același timp confidențialitatea. Dacă dați clic pe un anunț furnizat de Microsoft, veți fi redirecționat către pagina de destinație a agentului de publicitate prin intermediul platformei Microsoft Advertising. În acel moment, Microsoft Advertising va folosi adresa dvs. IP completă și șirul de utilizator-agent, astfel încât să poată prelucra corect clicul pe anunț și să taxeze în mod corespunzător agentul de publicitate.
 
