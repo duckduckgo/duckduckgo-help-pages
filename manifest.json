@@ -1,4 +1,8 @@
 {
+    "name": "DuckDuckGo Help Pages",
+    "short_name": "DDG Help Pages",
+    "start_url": ".",
+    "display": "standalone",
     "icons": [
         {
             "src": "/192.png",
