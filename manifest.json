@@ -5,12 +5,12 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "/192.png",
+            "src": "/duckduckgo-help-pages/192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "/512.png",
+            "src": "/duckduckgo-help-pages/512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
