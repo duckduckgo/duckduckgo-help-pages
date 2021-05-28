@@ -10,7 +10,6 @@ order: 72
     <li><a href="http://www.backbox.org/">BackBox</a></li>
     <li><a href="http://bodhilinux.com/">Bodhi Linux</a></li>
     <li><a href="http://www.debian.org/">Debian</a></li>
-    <li><a href="http://www.deftlinux.net/">DEFT</a></li>
     <li><a href="http://doudoulinux.org/web/english/index.html">Doudou Linux</a></li>
     <li><a href="http://elementaryos.org/">elementary OS</a></li>
     <li><a href="http://fedoraproject.org/">Fedora</a></li>
