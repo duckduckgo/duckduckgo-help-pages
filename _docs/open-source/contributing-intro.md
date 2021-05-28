@@ -72,7 +72,7 @@ order: 99
 </p>
 
 <p>
-    <strong><a href="http://docs.duckduckhack.com/">Code an Instant Answer</a></strong>
+    <strong>Code an Instant Answer</strong>
 </p>
 
 <h3>Organize Co-Hacking Meetups</h3>
@@ -95,5 +95,5 @@ order: 99
 </p>
 
 <p>
-    <strong><a href="/contributing/organizing-meetups">Launch a Co-Hacking Meetup</a></strong>
+    <strong>Launch a Co-Hacking Meetup</strong>
 </p>
