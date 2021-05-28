@@ -71,10 +71,6 @@ order: 99
     modify it. Your pull request could go live in no time.<strong>You could make your first pull request by this afternoon.</strong>
 </p>
 
-<p>
-    <strong>Code an Instant Answer</strong>
-</p>
-
 <h3>Organize Co-Hacking Meetups</h3>
 
 <p>
@@ -92,8 +88,4 @@ order: 99
 <p>
     We have great, practical advice to help - plus our staff and community leaders
     will guide you at every step (including live support during the event!).
-</p>
-
-<p>
-    <strong>Launch a Co-Hacking Meetup</strong>
 </p>
