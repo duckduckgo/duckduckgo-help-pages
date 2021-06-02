@@ -10,7 +10,6 @@ order: 282
 - For legal inquiries, contact [legal@duckduckgo.com](mailto:legal@duckduckgo.com).
 - For DMCA complaints, send your requests to [dmca@duckduckgo.com](mailto:dmca@duckduckgo.com).
 - For user data rights under privacy laws or regulations (e.g., GDPR), contact [removalrequest@duckduckgo.com](mailto:removalrequest@duckduckgo.com). Inquiries sent to other DuckDuckGo email addresses will not receive a response.
-- You have the right to complain to us or a data protection authority.  If you or your authorized agent have questions or other requests regarding data rights, please contact us at [emailprotection@duckduckgo.com](mailto:emailprotection@duckduckgo.com).
 - For privacy questions not related to user data rights, contact [privacy@duckduckgo.com](mailto:privacy@duckduckgo.com).
 - If you find any malware, phishing, or suspicious-looking websites or ads on DuckDuckGo, report them at [abuse@duckduckgo.com](mailto:abuse@duckduckgo.com).
 - For security vulnerabilities, submit a report via [HackerOne](https://hackerone.com/duckduckgo).
