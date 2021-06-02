@@ -23,20 +23,20 @@ order: 201
 <ul>
     <li><a href="https://github.com/screapdk">ScreapDK</a></li>
     <li><a href="https://github.com/DavidMascio">DavidMascio</a></li>
-    <li><a href="https://duck.co/user/x.15a2">x.15a2</a></li>
+    <li><a href="https://github.com/x-15a2">x.15a2</a></li>
     <li><a href="https://github.com/mintsoft">mintsoft</a></li>
     <li><a href="https://github.com/TomBebbington">TomBebbington</a></li>
     <li><a href="https://github.com/loganom">loganom</a></li>
     <li><a href="https://github.com/garyrh">mithrandiragain</a></li>
     <li><a href="https://github.com/bradcater">bradcater</a></li>
     <li><a href="https://github.com/mattr555">mattr555</a></li>
-    <li><a href="https://duck.co/user/preemeijer">preemeijer</a></li>
+    <li><a href="https://github.com/preemeijer">preemeijer</a></li>
     <li><a href="https://github.com/javathunderman">javathunderman</a></li>
     <li><a href="https://github.com/mrchrisw">mrchrisw</a></li>
     <li><a href="https://github.com/killerfish">killerfish</a></li>
-    <li><a href="https://duck.co/user/sebasorribas">sebasorribas</a></li>
+    <li><a href="https://github.com/sebasorribas">sebasorribas</a></li>
     <li><a href="https://github.com/nickcalabs">nickcalabs</a></li>
-    <li><a href="https://duck.co/user/haseeb">haseeb</a></li>
+    <li>haseeb</li>
     <li><a href="https://github.com/iambibhas">iambibhas</a></li>
     <li><a href="https://github.com/codenirvana">codenirvana</a></li>
     <li><a href="https://github.com/Jedidiah">Jedidiah</a></li>

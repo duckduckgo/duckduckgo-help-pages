@@ -16,3 +16,7 @@ order: 282
 - If you wish to add or update a !bang, use the [!bang submission form](https://duckduckgo.com/newbang).
 - For feedback regarding DuckDuckGo Search, use the "Send feedback" link in the side of the results pages.
 - If you have general queries that don’t fall into the categories above, we’re listening at [open@duckduckgo.com](mailto:open@duckduckgo.com).
+
+- Our mailing address is 20 Paoli Pike, Paoli, Pennsylvania 19301, USA.
+- Our representative under Article 27 of the GDPR is IT Governance Europe Limited, 6th Floor, South Bank House, Barrow Street, Dublin 4, Ireland. [eurep@itgovernance.eu](mailto:eurep@itgovernance.eu).
+- Our representative under the UK’s GDPR is GRCI Law Limited, Unit 3, Clive Court, Bartholomew’s Walk, Cambridgeshire Business Park, Ely, CB7 4EA, UK. [ukrep@grcilaw.com](mailto:ukrep@grcilaw.com).
