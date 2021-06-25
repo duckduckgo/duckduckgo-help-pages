@@ -109,11 +109,15 @@
                 .then((commits) => {
                     var created_string = commits[commits.length - 1]['commit']['committer']['date'];
                     var created_date = new Date(created_string).toDateString();
+                    var date_message = 'Published ' + created_date + '.';
                     
-                    var modified_string = commits[0]['commit']['committer']['date'];
-                    var modified_date = new Date(modified_string).toDateString();
+                    if (commits.length > 1) {
+                        var modified_string = commits[0]['commit']['committer']['date'];
+                        var modified_date = new Date(modified_string).toDateString();
+                        date_message = date_message + ' Last edited ' + modified_date + '.';
+                    }
                     
-                    document.getElementById('page-dates').textContent = 'Published ' + created_date + '. Last edited ' + modified_date + '.';
+                    document.getElementById('page-dates').textContent = date_message;
                 })
                 .catch(error => {
                     console.error('There was a problem with the Fetch operation: ', error);
