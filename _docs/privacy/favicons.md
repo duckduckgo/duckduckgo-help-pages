@@ -13,5 +13,5 @@ order: 244
 </p>
 
 <p>
-     Updates to favicons should occur automatically over a period of a few weeks. If you are seeing a persistent problem, please [let us know](https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/).
+     Updates to favicons should occur automatically over a period of a few weeks. If you are seeing a persistent problem, please <a href="https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/">let us know</a>.
 </p>
