@@ -89,6 +89,5 @@ order: 99
     </li>
 </ul>
 <p>
-    If you have any concerns, please feel free to reach out to us directly at
-    <a href="mailto:privacy@duckduckgo.com">privacy@duckduckgo.com</a>.
+    If you have any concerns, please feel free to <a href="https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/">contact us</a>.
 </p>
