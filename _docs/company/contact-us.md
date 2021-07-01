@@ -5,7 +5,7 @@ order: 282
 ---
 
 
-- Journalists (including bloggers or anyone publishing breaking news), reach out to [press@duckduckgo.com](mailto:press@duckduckgo.com). Visit our [press center](https://duckduckgo.com/press) for more information.
+- Journalists (including bloggers or anyone publishing content), reach out to [press@duckduckgo.com](mailto:press@duckduckgo.com). Visit our [press center](https://duckduckgo.com/press) for more information.
 - For business partnerships, see our [partnerships page](/company/partnerships).
 - For legal inquiries, contact [legal@duckduckgo.com](mailto:legal@duckduckgo.com).
 - For DMCA complaints, send your requests to [dmca@duckduckgo.com](mailto:dmca@duckduckgo.com).
