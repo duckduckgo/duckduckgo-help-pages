@@ -39,7 +39,7 @@ order: 99
     with DuckDuckGo.
 </p>
 
-<img alt="screenshot of warning screen" src="{{ site.baseurl }}/images/50a312f5339e7a84a7c99ad7d3e152f4.png" />
+<img alt="screenshot of warning screen" src="{{ site.baseurl }}/images/desktop_pul_prompt.png" />
 <p>
     Major web browsers have access to more accurate location information using a
     variety of techniques, including WiFi databases, cell tower location
@@ -48,7 +48,7 @@ order: 99
     site.
 </p>
 
-<img alt="screenshot of browser location prompt" src="{{ site.baseurl }}/images/desktop_pul_prompt.png" />
+<img alt="screenshot of browser location prompt" src="{{ site.baseurl }}/images/6631305e26ef2563263b3eb1c83b2a9e.png" />
 <p>
     When you allow DuckDuckGo to use this information, the location returned by the browser is stored locally on your device and is never sent to our servers. The       next time you perform a search on DuckDuckGo.com like "restaurants near me," code that runs locally in your browser hides your actual location from DuckDuckGo       and sends us a random location nearby instead. This is all we need to get you better nearby results. The outcome is that DuckDuckGo never sees your actual           location.
 </p>
