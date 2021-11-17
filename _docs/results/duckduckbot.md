@@ -10,16 +10,17 @@ DuckDuckBot is the Web crawler for <a href="https://duckduckgo.com">DuckDuckGo</
 DuckDuckBot’s job is to constantly improve our search results and offer users the best and most secure search experience possible. It respects <a href="https://metacpan.org/module/WWW::RobotRules">WWW::RobotRules</a> and originates from these IP addresses:
 
 - 20.191.45.212
-- 23.21.227.69
 - 40.88.21.235
-- 50.16.241.113
-- 50.16.241.114
-- 50.16.241.117
-- 50.16.247.234
-- 52.5.190.19
-- 52.204.97.54
-- 54.197.234.188
-- 54.208.100.253
+- 40.76.173.151
+- 40.76.163.7
+- 20.185.79.47
+- 52.142.26.175
+- 20.185.79.15
+- 52.142.24.149
+- 40.76.162.208
+- 40.76.163.23
+- 40.76.162.191
+- 40.76.162.247
 - 54.208.102.37 
 - 107.21.1.8
 
