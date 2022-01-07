@@ -32,7 +32,7 @@ Partners and Privacy: As per our strict
 <a href="https://duckduckgo.com/privacy">privacy policy</a>, we never share any
 personal information with any of our partners. The way it works is when we call
 a partner for information, it is proxied through our servers so it stays
-completely anonymous. That is, any call to a partner looks to the partner as it
+completely anonymous. That is, any call to a partner looks to the partner as if
 is from us and not the user itself, and no user personal information is passed
 in that process (e.g. their IP address). That way we can build our search result
 pages using these 100s of partner sources, while still keeping them completely
