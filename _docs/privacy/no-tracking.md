@@ -11,7 +11,7 @@ order: 65
     In addition to <a href="https://duckduckgo.com/">our default version</a>, we
     also offer two non-JavaScript versions (<a href="https://duckduckgo.com/html">HTML</a>
     &amp; <a href="https://duckduckgo.com/lite">lite</a>), a
-    <a href="http://3g2upl4pq6kufc4m.onion/">Tor hidden service</a>, several
+    <a href="https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/">Tor onion service</a>, several
     <a href="https://duckduckgo.com/settings">privacy settings</a> (including POST
     &amp; RefControl), and we allow you to use
     <a href="https://duckduckgo.com/params">URL parameters</a> instead of cookies
