@@ -17,3 +17,12 @@ You can use the DuckDuckGo app knowing that no personal data is being collected 
 It's important to be aware that even two apps that share the same data privacy label may have different levels of privacy protection under the surface. So our long-standing advice remains: Only install apps from companies and developers that you truly trust, and remove those that you don't use, to reduce your digital footprint.
 
 You can get more tips in our [privacy newsletters](https://duckduckgo.com/newsletter), and if you have any concerns, please feel free to <a href="https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/">contact us</a>.
+
+## Data collected by Apple 
+You should also be aware that if you have opted in, Apple collects crashes and performance metrics for all apps, including ours, and that we have access to this data.
+
+If you don't want us to receive this data, here's how you can opt out:
+1. Open **Settings**.
+1. Tap on "Privacy".
+1. Tap on "Analytics & Improvements".
+1. Disable "Share iPhone Analytics" entirely, or just disable "Share with App Developers".
