@@ -34,8 +34,8 @@ order: 716
 </p>
 
 <p>
-    We're monitoring comments that we receive from the "Send feedback" button on
-    desktop, so feel free to let us know how it's working for you. We listen!
+    We're monitoring comments that we receive from the <em>"Share Feedback"</em> button,
+    so feel free to let us know how it's working for you. We listen!
 </p>
 
 <p>
