@@ -21,7 +21,5 @@ DuckDuckBot’s job is to constantly improve our search results and offer users 
 - 40.76.163.23
 - 40.76.162.191
 - 40.76.162.247
-- 54.208.102.37 
-- 107.21.1.8
 
 If you have any questions or concerns, please <a href="https://duckduckgo.com/feedback">let us know</a>.
