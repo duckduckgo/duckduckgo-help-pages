@@ -14,11 +14,15 @@ order: 49
 </ol>
 <h2 id="advertising">Advertising</h2>
 <p>
-    It is a myth that search engines need to track you to make money. We make our money from private ads on our search engine. On other search engines, ads are based on profiles compiled from your personal information, such as search, browsing, and purchase history. Since we don’t collect that information, search ads on DuckDuckGo are based on the search results page you're viewing instead of being based on you as a person. For example, if you search for cars, we’ll show you ads about cars. We've even created a way to show localized ads while still keeping you completely anonymous. See the <a href="https://help.duckduckgo.com/privacy/anonymous-localized-results/">Anonymous Localized Results</a> help page for more information on how we do this technically.
+    It is a myth that search engines need to track you to make money. We make our money from private ads on our search engine. On most other search engines, ads are based on profiles compiled from your personal information, such as search, browsing, and purchase history. Since we don’t collect that information, search ads on DuckDuckGo are based on the search results page you're viewing instead of being based on you as a person. For example, if you search for cars, we’ll show you ads about cars. We've even created a way to show localized ads while still keeping you completely anonymous. See the <a href="https://help.duckduckgo.com/privacy/anonymous-localized-results/">Anonymous Localized Results</a> help page for more information on how we do this technically.
 </p>
 
 <p>
-    Advertising on DuckDuckGo takes the form of sponsored links that appear adjacent to search results. Viewing ads is privacy protected by DuckDuckGo and most ad clicks are managed by Microsoft's ad network, though <a href="https://help.duckduckgo.com/duckduckgo-help-pages/company/ads-by-microsoft-on-duckduckgo-private-search/">even in that case</a>, “Microsoft Advertising does not associate your ad-click behavior with a user profile. It also does not store or share that information other than for accounting purposes.” We have a similar relationship (and privacy protections) with TripAdvisor. For Amazon ads, we utilize their affiliate program, which is also privacy-protected as described below.
+    Advertising on DuckDuckGo takes the form of sponsored links that appear adjacent to search results. Viewing ads is privacy protected by DuckDuckGo and most ad clicks are managed by Microsoft's ad network, though <a href="https://help.duckduckgo.com/duckduckgo-help-pages/company/ads-by-microsoft-on-duckduckgo-private-search/">even in that case</a>, “Microsoft Advertising does not associate your ad-click behavior with a user profile. It also does not store or share that information other than for accounting purposes.” We have a similar arrangement with TripAdvisor. For Amazon ads, we utilize their affiliate program, which is also privacy-protected as described below, under “Affiliate Revenue.”
+</p>
+
+<p>
+    This is generally how advertising appears on DuckDuckGo:
 </p>
 
 <p>
