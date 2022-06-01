@@ -6,7 +6,7 @@ order: 400
 
 When people search, we believe they're really looking for answers, as opposed to just links. For many categories of searches (restaurants, game of thrones, code documentation, etc.), there is usually a specialized search engine (e.g. Tripadvisor), content site (e.g. Musixmatch) or other source (e.g. StackOverflow) that does a better job at actually answering the searches than a general search engine does with just links. Our long-term goal is to get you Instant Answers from these best sources.
 
-To do that, DuckDuckGo gets its results from over four hundred sources. These include hundreds of vertical sources delivering niche Instant Answers, [DuckDuckBot](https://duckduckgo.com/duckduckbot) (our crawler) and crowd-sourced sites (like Wikipedia, stored in our answer indexes). We also of course have more traditional links in the search results, which we also source from multiple partners, though most commonly from Bing (and none from Google).
+To do that, DuckDuckGo gets its results from many sources, including specialized vertical sources delivering Instant Answers on niche topics and crowd-sourced sites like Wikipedia. We also of course have more traditional links in the search results, which we largely source from Bing.
 
 We continue to partner with more and more sources to bring you the best Instant Answers from the best sources. Our focus is on synthesizing it all together into a superior search experience.
 
