@@ -4,38 +4,27 @@ category: Features
 order: 708
 ---
 
-<p>
-    If news search results are particularly relevant for your search, they will
-    appear automatically. (e.g.
-    <a href="https://duckduckgo.com/?q=weekend+box+office"><em>weekend box office</em></a>)
-</p>
+If news search results are particularly relevant for your search, they should
+appear automatically in the search results as traditional links or as links
+within our news module, for example, [weekend box office][1]. If you add the
+word *news* to your search, more news search results should appear
+automatically, for example, [cat news][2]. If not enough news results are
+appearing automatically, you can get more by clicking *News* under the search
+box, for example, [Philadelphia][3].
 
-<p>
-    For some searches, news search results are particularly relevant, but are not
-    the best Instant Answer for that search. In those cases, you can get news
-    search results by clicking <em>News</em> under the search box. (e.g.
-    <a href="https://duckduckgo.com/?q=philadelphia"><em>philadelphia</em></a>)
-</p>
+If you want to narrow your news search to a particular media outlet, the best
+way to do that is to include their name or domain name in your search terms.
+You can also use our [bangs][4] to more easily navigate to the news search
+results on other websites directly, right from the DuckDuckGo search box. There
+are bangs for most major media outlets. The full list of bangs are on the
+[bangs page][4].
 
-<p>
-    If you add the word <em>news</em> to your search, news search results will
-    appear automatically no matter the search. (e.g.
-    <a href="https://duckduckgo.com/?q=cat+news"><em>cat news</em></a>)
-</p>
+For more info on news rankings, please see our [News Rankings][5] page.
 
-<p>
-    To expand the news search results, click the grid icon at the top right of the
-    news search results. To then collapse the results, click the <em>X</em> icon
-    at the top right of the results.
-</p>
+![Screenshot of news results]({{ site.baseurl }}{% link images/news.jpg %})
 
-<p>
-    You can also use <a href="https://duckduckgo.com/bang">bangs</a> to search for
-    news using other websites right from the DuckDuckGo search box. There are
-    bangs for The New York Times (!nyt), The Wall Street Journal (!wsj), and CNN
-    (!cnn). For example, <em>!cnn politics</em> would search for
-    <em>politics</em> on CNN. The full list of bangs are on the
-    <a href="https://duckduckgo.com/bang">bang page</a>.
-</p>
-
-<img src="{{ site.baseurl }}/images/2207b1ad995926af41d5e366278f0f5c.png" />
+[1]: https://duckduckgo.com/?q=weekend+box+office
+[2]: https://duckduckgo.com/?q=cat+news
+[3]: https://duckduckgo.com/?q=philadelphia&iar=news&ia=news
+[4]: https://duckduckgo.com/bang
+[5]: /duckduckgo-help-pages/results/news-rankings/
