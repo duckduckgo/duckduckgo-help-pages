@@ -19,3 +19,5 @@ Microsoft and DuckDuckGo have partnered to provide a search solution that delive
 Other search engines associate your ad-click behavior with a profile on you, which can be used later to target ads to you on that search engine or around the Internet. By contrast, when you click on a Microsoft-provided ad that appears on DuckDuckGo, Microsoft Advertising does not associate your ad-click behavior with a user profile. It also does not store or share that information other than for accounting purposes.
 
 For more info, check out the [Microsoft privacy policy](https://privacy.microsoft.com).
+
+_This page is composed by DuckDuckGo and Microsoft._
