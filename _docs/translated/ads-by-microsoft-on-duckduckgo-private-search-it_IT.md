@@ -19,3 +19,5 @@ Microsoft e DuckDuckGo hanno stretto una collaborazione per dare vita a una solu
 Altri motori di ricerca associano il comportamento "ad-click" a un profilo utente, che potrà essere successivamente utilizzato per l'invio di annunci pertinenti all'attività dell'utente sul motore di ricerca utilizzato o su Internet. Di contro, quando si clicca su un annuncio fornito da Microsoft e visualizzato su DuckDuckGo, Microsoft Advertising non associa il comportamento ad-click a un profilo utente. Inoltre, non memorizza né condivide tali informazioni se non per finalità contabili.
 
 Per maggiori informazioni, consultare [l'informativa sulla privacy di Microsoft](https://privacy.microsoft.com).
+
+_Questa pagina è creata da DuckDuckGo e Microsoft._

@@ -19,3 +19,5 @@ Microsoft ve DuckDuckGo, gizliliğinizi korurken ilginizi çekebilecek reklamlar
 Diğer arama motorları, reklam tıklama davranışınız ile size ait bir profil arasında bağ kurar, bu da daha sonra ilgili arama motorunda veya İnternet üzerinde sizi hedefleyen reklamlar yayınlamak için kullanılabilir. Buna karşın, DuckDuckGo sayfasında görüntülenen, Microsoft tarafından yayınlanan bir reklama tıkladığınızda Microsoft Advertising, reklam tıklama davranışınız ile bir kullanıcı profili arasında bağ kurmaz. Bu bilgiyi muhasebe amaçları dışında saklamaz veya paylaşmaz.
 
 Daha fazla bilgi edinmek için Microsoft gizlilik politikasını gözden geçirin: <https://privacy.microsoft.com>.
+
+_Bu sayfa DuckDuckGo ve Microsoft tarafından oluşturulmuştur._

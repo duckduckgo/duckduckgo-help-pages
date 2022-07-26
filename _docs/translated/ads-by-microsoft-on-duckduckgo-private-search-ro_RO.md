@@ -18,3 +18,5 @@ Microsoft și DuckDuckGo s-au asociat pentru a crea o soluție unică de căutar
 
 Alte motoare de căutare asociază comportamentul dvs. legat de clicurile pe reclame cu un profil al dvs. care poate fi utilizat ulterior pentru a direcționa reclame către dvs. în motorul de căutare respectiv sau în conținutul vizualizat pe internet. În schimb, atunci când dați clic pe o reclamă furnizată de Microsoft care apare pe DuckDuckGo, Microsoft Advertising nu asociază comportamentul dvs. legat de clicurile pe reclame cu un profil de utilizator. De asemenea, nu stochează și nu distribuie aceste informații decât în scopuri de contabilitate.
 Pentru mai multe informații, consultați politica de confidențialitate Microsoft: <https://privacy.microsoft.com>.
+
+_Această pagină este creată de DuckDuckGo și Microsoft._

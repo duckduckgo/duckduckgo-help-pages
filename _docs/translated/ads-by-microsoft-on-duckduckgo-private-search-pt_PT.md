@@ -19,3 +19,5 @@ A Microsoft e o DuckDuckGo estabeleceram uma parceria para a criação de uma so
 Outros motores de pesquisa associam o seu comportamento de clique em anúncios a um perfil sobre si, o qual pode ser utilizdao posteriormente para direcionar anúncios para si nesse motor de pesquisa ou na Internet. Em contrapartida, quando clica num anúncio fornecido pela Microsoft que apareça no DuckDuckGo, o Microsoft Advertising não associa o seu comportamento de clique em anúncios com um perfil de utilizador. Também não armazena ou partilha essa informação a não ser para efeitos de contabilidade.
 
 Para mais informações, consulte a política de privacidade da Microsoft: <https://privacy.microsoft.com>.
+
+_Esta página foi criada pela DuckDuckGo e pela Microsoft._

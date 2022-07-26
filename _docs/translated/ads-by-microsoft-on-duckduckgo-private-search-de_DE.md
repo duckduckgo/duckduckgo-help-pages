@@ -19,3 +19,5 @@ Microsoft und DuckDuckGo haben sich zusammengetan, um eine einzigartige Suchlös
 Andere Suchmaschinen verknüpfen Ihr Anzeigen-Klickverhalten mit einem Profil über Sie, das später verwendet werden kann, um für Sie zielgerichtete Anzeigen in dieser Suchmaschine oder im Internet zu schalten. Wenn Sie hingegen auf eine von Microsoft bereitgestellte Anzeige klicken, die auf DuckDuckGo erscheint, verknüpft Microsoft Advertising Ihr Anzeigen-Klickverhalten nicht mit einem Benutzerprofil. Diese Informationen werden auch nicht gespeichert oder geteilt, außer zu Abrechnungszwecken.
 
 Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Microsoft: <https://privacy.microsoft.com>.
+
+_Diese Seite wurde von DuckDuckGo und Microsoft erstellt._

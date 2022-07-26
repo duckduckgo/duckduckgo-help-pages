@@ -19,3 +19,5 @@ Microsoft och DuckDuckGo samarbetar för att skapa en unik söklösning som leve
 Andra sökmotorer kopplar ditt annonsklick-beteende till en profil på dig som kan användas senare för att rikta annonser till dig på den sökmotorn eller på nätet. När du däremot klickar på en Microsoft-annons som visas på DuckDuckGo kopplar Microsoft Advertising inte ditt annonsklick-beteende till en användarprofil. Den informationen lagras eller delas heller inte för annat än för redovisningsändamål.
 
 Mer information finns i Microsofts sekretesspolicy: <https://privacy.microsoft.com>.
+
+_Den här sidan är sammanställd av DuckDuckGo och Microsoft._

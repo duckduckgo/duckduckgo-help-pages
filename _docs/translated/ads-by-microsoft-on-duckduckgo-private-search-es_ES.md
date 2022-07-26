@@ -19,3 +19,5 @@ Microsoft y DuckDuckGo se han asociado para crear una solución de búsqueda ún
 Otros motores de búsqueda crean un perfil tuyo con tu comportamiento al hacer clic en anuncios y después utilizan estos datos para enviarte anuncios específicos en dicho motor de búsqueda o por Internet. Por el contrario, cuando haces clic en un anuncio proporcionado por Microsoft que aparece en DuckDuckGo, Microsoft Advertising no asocia tu comportamiento relativo a cuando haces clic en un anuncio con un perfil de usuario. Tampoco almacena ni comparte dicha información salvo para fines de contabilidad.
 
 Para obtener más información, consulta la política de privacidad de Microsoft: <https://privacy.microsoft.com>.
+
+_Esta página ha sido creada por DuckDuckGo y Microsoft._

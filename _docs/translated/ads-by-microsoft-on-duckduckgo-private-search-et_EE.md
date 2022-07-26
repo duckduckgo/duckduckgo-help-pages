@@ -19,3 +19,5 @@ Microsoft ja DuckDuckGo lõid koos ainulaadse otsingulahenduse, mis esitab teile
 Teised otsingumootorid seostavad teie reklaamiklõpse teie profiiliga, mida saab hiljem kasutada reklaamide sihtimiseks selles konkreetses otsingumootoris või mujal internetis. Kui aga klõpsate Microsofti esitatud reklaamil teenuses DuckDuckGo, ei seosta Microsoft Advertising teie reklaamiklõpse kasutajaprofiiliga. See teave salvestatakse või seda jagatakse ainult arvestuse eesmärgil.
 
 Lisateavet leiate Microsofti privaatsuspõhimõtetest: <https://privacy.microsoft.com>.
+
+_Selle lehe on koostanud DuckDuckGo ja Microsoft._

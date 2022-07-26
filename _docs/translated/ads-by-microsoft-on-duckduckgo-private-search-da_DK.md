@@ -19,3 +19,5 @@ Microsoft og DuckDuckGo har indgået et partnerskab for at skabe en unik søgel�
 Andre søgemaskiner danner en profil på dig om din adfærd for klik på annoncer, som senere kan bruges til at målrette annoncer til dig på den pågældende søgemaskine eller rundt omkring på internettet. Hvis du derimod klikker på en annonce, som Microsoft leverer på DuckDuckGo, associerer Microsoft Advertising ikke din adfærd for klik på annoncer med en brugerprofil. De gemmer eller deler heller ikke disse oplysninger udover af regnskabsmæssige årsager.
 
 Få mere at vide i Microsofts fortrolighedspolitik: <https://privacy.microsoft.com>.
+
+_Denne side er sammensat af DuckDuckGo og Microsoft._
