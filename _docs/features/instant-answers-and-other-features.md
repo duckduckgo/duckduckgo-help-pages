@@ -55,7 +55,7 @@ order: 699
 
 <p>
     If you're using our
-    <a href="/desktop/adding-duckduckgo-to-your-browser">browser extension</a>
+    <a href="{{ site.baseurl }}/desktop/adding-duckduckgo-to-your-browser">browser extension</a>
     or, if you have DuckDuckGo as your browser's default search-engine, the !bang
     commands will even work from the address bar or search bar.
     <strong>WARNING: Use of !bangs will forever change the way you search, leaving you

@@ -1,7 +1,9 @@
 table {
-    width: 100%;
-    margin-bottom: 1.75em;
     border-collapse: collapse;
+    font-size: 0.85em;
+    line-height: 1.5;
+    margin-bottom: 1.75em;
+    width: 100%;
 
     &.bordered {
         border: 1px solid #ddd;
@@ -19,8 +21,20 @@ tr:nth-child(even) {
 td, th {
     padding: 8px;
     text-align: left;
+
+    &:first-child {
+        white-space: nowrap;
+    }
 }
 
 th {
     padding-bottom: 4px;
+}
+
+@media only screen and (max-width: 640px) {
+    td, th {
+        &:first-child {
+            white-space: normal;
+        }
+    }
 }

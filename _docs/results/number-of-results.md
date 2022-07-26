@@ -6,7 +6,7 @@ order: 411
 
 <p>
     We get results from a variety of
-    <a href="/results/sources">sources</a> (including our
+    <a href="{{ site.baseurl }}/results/sources">sources</a> (including our
     own). Because of this unique way of generating results, we cannot easily
     determine the number of results for a particular search ahead of time. That's
     why we do not display such a number in our search results.
@@ -19,14 +19,14 @@ order: 411
 <ul>
     <li>
         We try to be
-        <a href="/results/autocorrect">very exact</a> based on
+        <a href="{{ site.baseurl }}/results/autocorrect">very exact</a> based on
         what you type in, whereas other search engines often change your query
         around a bit. So that is the first thing to look at. That is, if you
         slightly change your query do you get more results?
     </li>
     <li>
         Related to exactness, it could be your use of
-        <a href="/results/punctuation">punctuation</a>.
+        <a href="{{ site.baseurl }}/results/punctuation">punctuation</a>.
     </li>
     <li>
         We could have had a brief outage on our side. You could try a hard refresh

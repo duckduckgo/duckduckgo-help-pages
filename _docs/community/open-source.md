@@ -14,7 +14,7 @@ order: 27
 
 <p>
     Please see the
-    <a href="/open-source/opensource-overview">overview of our open source projects.</a>
+    <a href="{{ site.baseurl }}/open-source/opensource-overview">overview of our open source projects.</a>
 </p>
 
 <p>

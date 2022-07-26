@@ -11,7 +11,7 @@ order: 413
 
 <p>
     Because we generate results using a variety
-    <a href="/results/sources">of sources</a>, information on
+    <a href="{{ site.baseurl }}/results/sources">of sources</a>, information on
     our site is generally flowing from one of those sources. If it is in our
     Instant Answer box, you can identify the source by looking at the
     <em>More at</em> link within the box. It is best to correct misinformation at

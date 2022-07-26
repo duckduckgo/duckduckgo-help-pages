@@ -3,8 +3,8 @@
 
 title: DuckDuckGo Help Pages
 url: "https://help.duckduckgo.com"
-baseurl: "/duckduckgo-help-pages"
 show_full_navigation: false
+markdown: kramdown
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /logo.v108.svg

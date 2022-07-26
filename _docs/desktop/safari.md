@@ -4,7 +4,7 @@ category: Desktop
 order: 3
 ---
 
-> <a class="button" href="/mobile/safari-ios">Did you mean iOS Safari instead?</a>
+> <a class="button" href="{{ site.baseurl }}/mobile/safari-ios">Did you mean iOS Safari instead?</a>
 
 <h2>Changing Your Search Engine to DuckDuckGo (OS X Yosemite and Newer)</h2>
 <ol>

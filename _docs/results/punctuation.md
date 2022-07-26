@@ -11,7 +11,7 @@ order: 483
 
 <p>
     However, most of the APIs
-    <a href="/results/sources">we use</a> to help generate
+    <a href="{{ site.baseurl }}/results/sources">we use</a> to help generate
     results don't, and so it can be a bit sparse in that regard. That's why in the
     example search you don't see any traditional looking results below our Instant
     Answer box.

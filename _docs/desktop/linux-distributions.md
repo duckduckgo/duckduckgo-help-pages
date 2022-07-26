@@ -41,5 +41,5 @@ order: 72
 <p>
     We could really use your help in getting in more distros. Please send an email
     to <a href="mailto:bd@duckduckgo.com">bd@duckduckgo.com</a> and check out our
-    <a href="/company/partnerships">partnership page.</a>
+    <a href="{{ site.baseurl }}/company/partnerships">partnership page.</a>
 </p>

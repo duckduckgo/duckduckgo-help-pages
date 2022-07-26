@@ -4,7 +4,7 @@ category: Desktop
 order: 1
 ---
 
-> <a class="btn" href="/mobile/firefox-android">Did you mean Firefox Mobile instead?</a>
+> <a class="btn" href="{{ site.baseurl }}/mobile/firefox-android">Did you mean Firefox Mobile instead?</a>
 
 <h2>Installing Our Add-On</h2>
 <ul>
