@@ -18,3 +18,5 @@ Daugiau informacijos rasite „DuckDuckGo“ privatumo politikoje: <https://duck
 
 Kitos paieškos sistemos susieja jūsų skelbimų paspaudimų elgseną su jūsų profiliu – tai padeda vėliau geriau pritaikyti jums skelbimus tame ieškos modulyje arba internete. Kai spustelėsite „Microsoft“ pateiktą skelbimą, kuris paskelbiamas „DuckDuckGo“ – priešingai, „Microsoft Advertising“ nesusies jūsų skelbimų paspaudimų su jūsų vartotojo profiliu. Bendrovė taip pat nesaugos tokios informacijos ir ja nesidalins kitais nei apskaitos tikslais.
 Daugiau informacijos rasite „Microsoft“ privatumo politikoje: <https://privacy.microsoft.com>.
+
+Šį puslapį sudarė „DuckDuckGo“ ir „Microsoft“.

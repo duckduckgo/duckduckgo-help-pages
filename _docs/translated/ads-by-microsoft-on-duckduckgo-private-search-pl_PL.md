@@ -18,3 +18,5 @@ Microsoft i DuckDuckGo współpracują ze sobą w celu stworzenia unikalnego roz
 Inne wyszukiwarki kojarzą zachowanie związane z klikaniem reklam z Twoim profilem, który można później wykorzystać do kierowania reklam do Ciebie w tej wyszukiwarce lub w Internecie. Natomiast po kliknięciu reklamy dostarczonej przez Microsoft, która pojawia się w DuckDuckGo, Microsoft Advertising nie skojarzy kliknięcia reklamy z profilem użytkownika. Co więcej, nie przechowuje ani nie udostępnia tych informacji w celach innych niż związanych z księgowością.
 
 Aby uzyskać więcej informacji, zapoznaj się z polityką prywatności Microsoft: <https://privacy.microsoft.com>.
+
+_Ta strona została utworzona przez DuckDuckGo i Microsoft._

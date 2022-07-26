@@ -19,3 +19,5 @@ Microsoft ja DuckDuckGo ovat tehneet yhteistyötä luodakseen ainutlaatuisen hak
 Muut hakukoneet yhdistävät mainosklikkauskäyttäytymisesi profiiliisi, jota voidaan käyttää myöhemmin mainosten kohdistamiseen kyseisessä hakukoneessa tai yleisesti internetissä. Kun sitä vastoin napsautat DuckDuckGo:ssa näkyvää Microsoftin tarjoamaa mainosta, Microsoft Advertising ei liitä mainosklikkauksiasi käyttäjäprofiiliin. Se ei myöskään tallenna tai jaa kyseisiä tietoja muuhun kuin kirjanpitotarkoitukseen.
 
 Lisätietoja saat tutustumalla Microsoft-tietosuojaselosteeseen: <https://privacy.microsoft.com>.
+
+_Tämän sivun tekijät ovat DuckDuckGo ja Microsoft._

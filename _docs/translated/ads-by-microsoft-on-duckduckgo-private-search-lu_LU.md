@@ -18,3 +18,5 @@ Microsoft an DuckDuckGo schaffen zesumme fir Iech eng Sichléisung unzebidden, d
 Aner Sichmaschinne verknëppen Äert Werbeklickverhale mat engem User-Profil, dee spéider benotzt ka gi fir Iech geziilt Annoncen op där Sichmaschinn oder am Internet unzeweisen. Wann Dir awer op eng Annonce duerch Microsoft klickt, déi op DuckDuckGo ugewise gëtt, verknëppt Microsoft Advertising Äert Werbeklickverhalen net mat engem User-Profil. Dës Informatioune ginn ausserdeem nëmme fir Comptabilitéitszwecker gespäichert oder gedeelt.
 
 Fir méi Informatiounen, liest d'Dateschutzpolitik vu Microsoft: <https://privacy.microsoft.com>.
+
+_This page is composed by DuckDuckGo and Microsoft._

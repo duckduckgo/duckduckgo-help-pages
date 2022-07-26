@@ -19,3 +19,5 @@ Microsoft in DuckDuckGo sta združila moči in ustvarila edinstveno rešitev za 
 Drugi iskalniki povezujejo vaše ravnanje v zvezi s kliki na oglase z vašim profilom, ki ga lahko nato kasneje uporabljajo za zagotavljanje ciljnih oglasov v dotičnem iskalniku ali drugje na internetu. V nasprotju s tem pa Microsoft Advertising ob vašem kliku na oglas, prikazanem na DuckDuckGo, ki ga ponuja Microsoft, vašega ravnanja v zvezi s kliki na oglase ne povezuje z uporabniškim profilom. Prav tako ne shranjuje ali deli teh podatkov, razen za računovodske namene.
 
 Za več informacij si oglejte Microsoftov pravilnik o zasebnosti: <https://privacy.microsoft.com>.
+
+_To stran sestavljata DuckDuckGo in Microsoft._

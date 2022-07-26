@@ -19,3 +19,5 @@ Microsoft en DuckDuckGo hebben samengewerkt aan het creëren van een unieke zoek
 Andere zoekmachines profileren jouw klikgedrag op advertenties, waardoor ze je later als doelgroep voor specifieke advertenties gebruiken, zowel in diezelfde zoekmachine als elders op het internet. Wanneer je echter op een door Microsoft aangeboden advertentie klikt die op DuckDuckGo wordt weergegeven, koppelt Microsoft Advertising je klikgedrag op advertenties niet aan een gebruikersprofiel. Zij zullen deze informatie ook niet opslaan of delen, met uitzondering van administratieverwerking.
 
 Raadpleeg het privacybeleid van Microsoft voor meer informatie: <https://privacy.microsoft.com>.
+
+_This page is composed by DuckDuckGo and Microsoft._

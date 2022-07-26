@@ -19,3 +19,5 @@ Microsoft og DuckDuckGo hafa tekið höndum saman til að búa til einstaka leit
 Aðrar leitarvélar tengja hegðun þína þegar þú smellir á auglýsingar við notandaprófílinn þinn sem er svo hægt að nota síðar til að beina auglýsingum til þín í gegnum þá leitarvél eða á netinu. Þegar þú smellir hins vegar á Microsoft auglýsingu sem birtist í DuckDuckGo tengir Microsoft Advertising ekki hegðun þína við notandaprófíl. Það vistar ekki heldur þær upplýsingar né deilir þeim nema í bókhaldslegum tilgangi.
 
 Frekari upplýsingar er að finna í persónuverndarstefnu Microsoft: <https://privacy.microsoft.com>.
+
+_This page is composed by DuckDuckGo and Microsoft._

@@ -19,3 +19,5 @@ A Microsoft és a DuckDuckGo olyan egyedi keresési megoldást hoztak együtt l�
 Más keresőmotorok a hirdetés-kattintási viselkedésedet társítják egy rád vonatkozó profillal, amely később felhasználható arra, hogy hirdetéseket irányítson hozzád az adott keresőmotoron, vagy bárhol az interneten. Ezzel szemben, ha a DuckDuckGo-n megjelenő, Microsoft által megjelenített hirdetésre kattintasz, a Microsoft Advertising nem társítja a hirdetés-kattintási viselkedésedet felhasználói profillal. Nem tárolja és nem osztja meg ezeket az információkat, kizárólag számlázási célból kerül erre sor.
 
 További információért tekintsd meg a Microsoft adatvédelmi tájékoztatóját: <https://privacy.microsoft.com>.
+
+_Ezt az oldalt a DuckDuckGo és a Microsoft állította össze._
