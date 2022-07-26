@@ -58,10 +58,12 @@ h1 {
 h2 {
     font-size: 3.6rem;
     letter-spacing: -1px;
+    margin-top: 1.6em;
 }
 
 h3 {
     font-size: 3rem;
+    margin-top: 1.2em;
 }
 
 h4 {
@@ -160,6 +162,16 @@ kbd {
     background: #F4F4F4;
     border-radius: 4px;
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 0 0 #fff inset;
+}
+
+strong code {
+    font-weight: bolder;
+    padding: 4px 6px;
+    white-space: nowrap;
+}
+
+.content h3:not(:first-child):before {
+    display: none;
 }
 
 @media only screen and (max-width: 900px) {

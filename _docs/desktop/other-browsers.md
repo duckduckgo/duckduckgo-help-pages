@@ -34,5 +34,5 @@ order: 15
     We could really use your help in getting in more browsers. Please send an
     email to <a href="mailto:bd@duckduckgo.com">bd@duckduckgo.com</a> and check
     out our
-    <a href="/company/partnerships">page on partnerships.</a>
+    <a href="{{ site.baseurl }}/company/partnerships">page on partnerships.</a>
 </p>

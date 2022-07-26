@@ -4,7 +4,7 @@ category: Mobile
 order: 35
 ---
 
-> <a href="/desktop/safari">Did you mean OS X Safari instead?</a>
+> <a href="{{ site.baseurl }}/desktop/safari">Did you mean OS X Safari instead?</a>
 
 <h2>Changing Your Search Engine to DuckDuckGo (iOS 8 and Newer)</h2>
 <ol>

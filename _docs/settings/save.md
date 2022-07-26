@@ -40,6 +40,6 @@ order: 65
 
 <p>
     Finally, you can use the
-    <a href="/settings/cloud-save">Cloud Save</a> system to
+    <a href="{{ site.baseurl }}/settings/cloud-save">Cloud Save</a> system to
     save your settings.
 </p>

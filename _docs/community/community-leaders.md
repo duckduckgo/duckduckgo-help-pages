@@ -50,5 +50,5 @@ order: 201
 </ul>
 <p>
     <em>This article has been translated into Spanish
-        <a href="/community/community-leaders-es">here</a>.</em>
+        <a href="{{ site.baseurl }}/community/community-leaders-es">here</a>.</em>
 </p>

@@ -94,7 +94,7 @@ order: 401
     <li>
         Add <code>!safeon</code> or <code>!safeoff</code> to the end of your search
         to turn on and off
-        <a href="/features/safe-search">safe search</a> for that
+        <a href="{{ site.baseurl }}/features/safe-search">safe search</a> for that
         search.
     </li>
 </ul>

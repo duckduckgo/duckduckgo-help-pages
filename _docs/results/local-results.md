@@ -7,7 +7,7 @@ order: 411
 <p>
     We will sometimes serve localized results (for searches like
     <a href="https://duckduckgo.com/?q=restaurants+nearby">"restaurants nearby"</a>) while still keeping you completely anonymous.
-    <a href="/privacy/anonymous-localized-results">Read more about how it works</a>.
+    <a href="{{ site.baseurl }}/privacy/anonymous-localized-results">Read more about how it works</a>.
 </p>
 
 <p>
@@ -27,7 +27,7 @@ order: 411
 </ul>
 <p>
     Desktop |
-    <a href="/results/local-results-mobile">Mobile</a>:
+    <a href="{{ site.baseurl }}/results/local-results-mobile">Mobile</a>:
 </p>
 
 <p><strong>Chrome &amp; Firefox:</strong></p>

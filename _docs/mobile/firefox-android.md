@@ -4,7 +4,7 @@ category: Mobile
 order: 41
 ---
 
-> <a href="/desktop/firefox">Did you mean desktop Firefox instead?</a>
+> <a href="{{ site.baseurl }}/desktop/firefox">Did you mean desktop Firefox instead?</a>
 
 <h2>Changing Your Search Engine to DuckDuckGo</h2>
 <ol>
