@@ -20,4 +20,4 @@ Andere zoekmachines profileren jouw klikgedrag op advertenties, waardoor ze je l
 
 Raadpleeg het privacybeleid van Microsoft voor meer informatie: <https://privacy.microsoft.com>.
 
-_This page is composed by DuckDuckGo and Microsoft._
+_Deze pagina is aangemaakt door DuckDuckGo en Microsoft._
