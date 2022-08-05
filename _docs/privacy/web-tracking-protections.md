@@ -242,7 +242,7 @@ We aim to deliver privacy, simplified. Part of our ethos of simplicity is not br
 
 ### Surrogates
 
-Sometimes sites depend on code that loads from embedded 3rd-party tracking script requests in order to function properly. When our [3rd-Party Tracking Loading Protection][3rd-party-tracker-loading-protection] stops these from loading, it can cause sites to behave unexpectedly. However, we can sometimes create small pieces of code called “surrogates” that work around this tracker-dependent breakage so that we can still stop those trackers from loading.
+Sometimes sites depend on code that loads from embedded 3rd-party tracking script requests in order to function properly. When our [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection] stops these from loading, it can cause sites to behave unexpectedly. However, we can sometimes create small pieces of code called “surrogates” that work around this tracker-dependent breakage so that we can still stop those trackers from loading.
 
 A surrogate works locally on your device, pretending to be a particular 3rd-party tracking script without actually doing any tracking. Surrogates replicate the expected script’s API structure with all tracking components removed, including any remote server calls. This lets us neutralize the parts that would have tried to track you while allowing websites to load and function properly. You can [review our open source code][github-surrogates] for this feature. Surrogates are not offered in most popular browsers by default.
 
@@ -255,7 +255,7 @@ A surrogate works locally on your device, pretending to be a particular 3rd-part
 | Safari extension | Unsupported, but on our product roadmap. |
 | iPhone & iPad app | Surrogates preserve privacy and usability for tracker-dependant breakage on our list, but some usability issues may still occur due to platform limitations that cause 3rd-Party Tracker Loading Protection to block scripts before we have a chance to apply Surrogates. |
 | Android app | Surrogates preserve privacy and usability for tracker-dependant breakage on our list. |
-| Mac app | Unsupported, but on our product roadmap. |
+| Mac app | Surrogates preserve privacy and usability for tracker-dependant breakage on our list, but some usability issues may still occur due to platform limitations that cause 3rd-Party Tracker Loading Protection to block scripts before we have a chance to apply Surrogates. |
 
 
 ### Remotely Configured Exceptions
