@@ -20,4 +20,4 @@ Aðrar leitarvélar tengja hegðun þína þegar þú smellir á auglýsingar vi
 
 Frekari upplýsingar er að finna í persónuverndarstefnu Microsoft: <https://privacy.microsoft.com>.
 
-_This page is composed by DuckDuckGo and Microsoft._
+_Þessi síða er saman sett af DuckDuckGo og Microsoft._
