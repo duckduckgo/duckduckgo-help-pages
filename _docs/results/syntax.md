@@ -86,7 +86,7 @@ order: 401
         For example,
         <a href="https://duckduckgo.com/?q=philadelphia+map"><code>Philadelphia map</code></a>
     </li>
-    <li>Find out more about <a href="https://duck.co/ia">Instant Answers</a>!</li>
+    <li>Find out more about <a href="https://help.duckduckgo.com/duckduckgo-help-pages/features/instant-answers-and-other-features/">Instant Answers</a>!</li>
 </ul>
 
 <h3>Safe Search</h3>
