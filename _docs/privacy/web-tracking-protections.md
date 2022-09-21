@@ -92,7 +92,7 @@ We identify 3rd-party domains trying to track you in this way through our open s
 | Opera extension | Treats 1st-party requests on our CNAME list as 3rd parties. |
 | Safari extension | Unsupported, but on our product roadmap. |
 | iPhone & iPad app | Treats 1st-party requests on a subset of our CNAME list as 3rd parties. On our product roadmap to address usability issues limiting domain coverage. |
-| Android app | Unsupported, but on our product roadmap. |
+| Android app | Treats 1st-party requests on our CNAME list as 3rd parties. |
 | Mac app | Treats 1st-party requests on a subset of our CNAME list as 3rd parties. On our product roadmap to address usability issues limiting domain coverage. |
 
 
@@ -111,7 +111,7 @@ To protect against this, we block many fingerprinting scripts before they can ev
 | Safari extension | Fingerprinting scripts from 3rd-party trackers on our list blocked from loading. Browser APIs overridden through WebKit’s [built-in fingerprinting protection][webkit-fingerprinting-protection]. Additional fingerprinting protections unsupported due to limitations of the current [App Extensions][safari-app-extensions] architecture, but on our product roadmap to adopt the [Web Extensions][safari-web-extensions] architecture and expand this protection. |
 | iPhone & iPad app | Fingerprinting scripts from 3rd-party trackers on our list blocked from loading. Browser APIs overridden through WebKit’s [built-in fingerprinting protection][webkit-fingerprinting-protection]. We apply additional overrides to expand this protection. |
 | Android app | Fingerprinting scripts from 3rd-party trackers on our list blocked from loading. Additional browser API overrides unsupported due to platform limitations, but additional overrides on our product roadmap. |
-| Mac app | Fingerprinting scripts from 3rd-party trackers on our list blocked from loading. Browser APIs overridden through WebKit’s [built-in fingerprinting protection][webkit-fingerprinting-protection]. Additional overrides unsupported, but on our product roadmap. |
+| Mac app | Fingerprinting scripts from 3rd-party trackers on our list blocked from loading. Browser APIs on our list overridden. |
 
 
 ## Smarter Encryption (HTTPS Upgrading)
