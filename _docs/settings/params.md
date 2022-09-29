@@ -35,17 +35,17 @@ Video Playback | k5 | <ul><li>1 for Always play on DuckDuckGo</li><li>2 for Open
 ## Colour Settings
 Name | Parameter | Values
 --- | --- | ---
-Header | kj | <ul><li>r3 for Muted red (default)</li><li>d for Light green</li><li>g for Intense green</li><li>g2 for Green</li><li>b for Light blue</li><li>b2 for Blue</li><li>r for Intense red</li><li>r2 for Red</li><li>p for Purple</li><li>o for Orange</li><li>w for White</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char).</li></ul>
-URLs | kx | <ul><li>r for Red (default)</li><li>g for Green</li><li>l for Black</li><li>b for Blue</li><li>p for Purple</li><li>o for Orange</li><li>e for Grey</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char).</li></ul>
+Header | kj | <ul><li>r3 for Muted red (default)</li><li>d for Light green</li><li>g for Intense green</li><li>g2 for Green</li><li>b for Light blue</li><li>b2 for Blue</li><li>r for Intense red</li><li>r2 for Red</li><li>p for Purple</li><li>o for Orange</li><li>w for White</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char)</li></ul>
+URLs | kx | <ul><li>r for Red (default)</li><li>g for Green</li><li>l for Black</li><li>b for Blue</li><li>p for Purple</li><li>o for Orange</li><li>e for Grey</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char)</li></ul>
 Background | k7 | <ul><li>w for White (default)</li><li>d for Light green</li><li>g for Intense green</li><li>g2 for Green</li><li>b for Light blue</li><li>b2 for Blue</li><li>r for Intense red</li><li>r2 for Red</li><li>p for Purple</li><li>o for Orange</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char). </li></ul>
-Text | k8 | <ul><li>g for Grey (default)</li><li> | or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char).</li></ul>
-Links | k9 | <ul><li>g for Dark Grey (default)</li><li>b for Blue</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char).</li></ul>
+Text | k8 | <ul><li>g for Grey (default)</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char)</li></ul>
+Links | k9 | <ul><li>g for Dark Grey (default)</li><li>b for Blue</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char)</li></ul>
 Visited links | kaa | <ul><li>p for Grey with checkmark (default)</li><li>p for Purple</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char). </li></ul>
 
 ## Look &amp; Feel Settings
 Name | Parameter | Values
 --- | --- | ---
-Theme | kae | <ul><li>-1 for Default (default)</li><li>c for Contrast</li><li>r for Retro</li><li>d for Dark</li><li>t for Terminal</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char).</li></ul>
+Theme | kae | <ul><li>-1 for Default (default)</li><li>c for Contrast</li><li>r for Retro</li><li>d for Dark</li><li>t for Terminal</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char)</li></ul>
 Size | ks | <ul><li>n for Large (default)</li><li>l for Larger</li><li>t for Largest</li><li>m for Medium</li><li>s for Small</li></ul>
 Width | kw | <ul><li>n for Normal (default)</li><li>w for Wide</li><li>s for Super wide</li></ul> 
 Placement | km | <ul><li>m for Middle (default)</li><li>l for Left</li></ul> 
@@ -60,5 +60,5 @@ Header | ko | <ul><li>1 for On &amp; floating</li><li>s for On &amp; scrolling (
 Advertisements | k1 | <ul><li>1 for On (default)</li><li>-1 for Off</li></ul> |
 Page #s | kv | <ul><li>1 for On</li><li>n for On but no numbers</li><li>-1 for Off (default)</li></ul> |
 Units of Measure | kaj | <ul><li>m for Metric (Kilograms, Meters, Celsius)</li><li>u for US based (Pounds, Feet, Fahrenheit)</li><li>-1 for No Preference (default)</li></ul>
-Source | t | <ul><li>A string to identify the source.</li><li> See <a href="https://help.duckduckgo.com/privacy/t/">this help page</a> for more info.</li></ul>
+Source | t | <ul><li>A string to identify the source</li><li> See <a href="https://help.duckduckgo.com/privacy/t/">this help page</a> for more info</li></ul>
 Directions Source | kam | <ul><li>apple-maps for Apple Maps</li><li>bing-maps for Bing Maps</li><li>google-maps for Google Maps</li><li>here-maps for HERE Maps</li><li>osm for OpenStreetMap</li></ul>
