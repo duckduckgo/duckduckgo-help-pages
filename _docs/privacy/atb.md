@@ -16,7 +16,7 @@ Fourth, for certain elements in our search pages you may notice the `&vis` param
 
 All of these requests are fully encrypted in transit to DuckDuckGo, so  that nobody else but us can see them. And like with all other requests to DuckDuckGo, there is no personally identifiable information embedded in them, and we do not store IP addresses associated with them. 
 
-To be clear, this means we cannot ever tell what individual people are doing since everyone is anonymous, and that is a limit of our statistical methods since we are private by design. We can, however, within this anonymous limitation, reliably determine what changes are generally working, using these anonymous methods. 
+To be clear, this means **we cannot ever tell what individual people are doing since everyone is anonymous**, and that is a limit of our statistical methods since we are private by design. We can, however, within this anonymous limitation, reliably determine what changes are generally working, using these anonymous methods. 
 
 We have developed these systems from scratch, instead of using third-party services, because of our privacy promise not to track you. We're proud to be able to improve our site for you in a completely anonymous way! 
 
