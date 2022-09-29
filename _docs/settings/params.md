@@ -1,3 +1,9 @@
+---
+title: Params
+category: Settings
+order: 1
+---
+
 # URL Parameters
 
 You can change DuckDuckGo settings via URL parameters by adding them after the search query, for example: `https://duckduckgo.com/?q=search&kp=-1&kl=us-en`.
