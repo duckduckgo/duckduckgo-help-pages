@@ -1,7 +1,7 @@
 ---
 title: Holiday Logos
 category: Settings
-order: 718
+order: 72
 ---
 
 <style type="text/css">

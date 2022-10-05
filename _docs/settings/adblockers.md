@@ -1,7 +1,7 @@
 ---
 title: Ad-Blocking Software
 category: Settings
-order: 70
+order: 71
 ---
 
 <h3>Support DuckDuckGo by Disabling Ad Blockers on Our Page:</h3>
