@@ -13,7 +13,7 @@ order: 282
 - If you find any malware, phishing, or suspicious-looking websites or ads on DuckDuckGo, report them at [abuse@duckduckgo.com](mailto:abuse@duckduckgo.com).
 - For security vulnerabilities, submit a report via [HackerOne](https://hackerone.com/duckduckgo).
 - If you wish to add or update a !bang, use the [!bang submission form](https://duckduckgo.com/newbang).
-- For feedback regarding DuckDuckGo Search, use the "Send feedback" link in the side of the results pages.
+- For feedback regarding DuckDuckGo Search, use the <em>Share Feedback</em> link at the bottom of the results pages.
 - If you have general queries that don’t fall into the categories above, we’re listening at [open@duckduckgo.com](mailto:open@duckduckgo.com).
 
 - Our mailing address is 20 Paoli Pike, Paoli, Pennsylvania 19301, USA.

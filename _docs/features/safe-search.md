@@ -41,8 +41,8 @@ order: 721
 <p>
     We try hard to respect your safe search preference, but sometimes content does
     get through that is not appropriately restricted. If you notice this
-    happening, we'd appreciate you letting us know via the "Send feedback" button
-    on the right-hand side of our search results (on desktop), and we'll do our
+    happening, we'd appreciate you letting us know via the <em>"Share Feedback"</em> button
+    in the bottom right-hand corner of our search results (on desktop), and we'll do our
     best to resolve it in a timely fashion.
 </p>
 
