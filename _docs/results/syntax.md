@@ -2,6 +2,7 @@
 title: DuckDuckGo Search Syntax
 category: Results
 order: 401
+published: false
 ---
 
 <p>DuckDuckGo supports search syntax you can use to fine-tune your queries.</p>
