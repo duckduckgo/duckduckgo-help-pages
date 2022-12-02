@@ -2,6 +2,7 @@
 title: Microsoftin mainokset DuckDuckGo:n yksityisessä haussa
 category: Translated Microsoft Ads Notice
 order: 807
+excluded_in_search: true
 ---
 
 **Mainosten katselu on DuckDuckGo:n tietosuojaama.**

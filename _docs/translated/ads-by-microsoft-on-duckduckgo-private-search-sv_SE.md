@@ -2,6 +2,7 @@
 title: Annonser från Microsoft på DuckDuckGo Privat sökning
 category: Translated Microsoft Ads Notice
 order: 824
+excluded_in_search: true
 ---
 
 **Visning av annonser är sekretessskyddat av DuckDuckGo.**

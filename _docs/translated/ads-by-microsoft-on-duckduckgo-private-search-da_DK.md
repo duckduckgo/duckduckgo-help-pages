@@ -2,6 +2,7 @@
 title: Annoncer fra Microsoft på DuckDuckGo privat søgning
 category: Translated Microsoft Ads Notice
 order: 802
+excluded_in_search: true
 ---
 
 **DuckDuckGo beskytter dine personoplysninger, når du ser annoncer.**

@@ -2,6 +2,7 @@
 title: „„Microsoft“ skelbimai „DuckDuckGo“ privačioje paieškoje
 category: Translated Microsoft Ads Notice
 order: 813
+excluded_in_search: true
 ---
 
 **Peržiūrimų skelbimų privatumą saugo „DuckDuckGo“.**

@@ -2,6 +2,7 @@
 title: Реклами от Microsoft при Частно търсене с DuckDuckGo
 category: Translated Microsoft Ads Notice
 order: 800
+excluded_in_search: true
 ---
 
 **Вашата поверителност при гледане на реклами е защитена от DuckDuckGo.**

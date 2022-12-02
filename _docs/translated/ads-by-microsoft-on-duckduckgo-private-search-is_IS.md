@@ -2,6 +2,7 @@
 title: Auglýsingar frá Microsoft á DuckDuckGo einkaleit
 category: Translated Microsoft Ads Notice
 order: 811
+excluded_in_search: true
 ---
 
 **Að skoða auglýsingar fellur undir persónuvernd frá DuckDuckGo.**
