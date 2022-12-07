@@ -48,10 +48,10 @@ Whenever App Tracking Protection recognizes a tracker on [our list](https://gith
 
 App Tracking Protection works on your device and doesn’t send your personal data off your device to DuckDuckGo or other companies.
 
-### How to Get Our App Tracking Protection 
+## How to Get Our App Tracking Protection 
 
 To get the privacy protections described above, install the relevant DuckDuckGo app or extension:
 
--   **Android**: [get the app](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) \| [view open source code](https://github.com/duckduckgo/Android)
+-   **Android:** [get the app](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) \| [view open source code](https://github.com/duckduckgo/Android)
 
 For questions, comments, or concerns, please feel free to [contact us](https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/).
