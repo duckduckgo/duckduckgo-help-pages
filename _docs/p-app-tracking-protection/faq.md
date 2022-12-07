@@ -4,7 +4,7 @@ category: App Tracking Protection
 order: 99
 ---
 
-App Tracking Protection is a beta feature in DuckDuckGo for Android that helps block 3rd-party trackers in your apps, even when you’re not using them. When App Tracking Protection is enabled, it will detect when other apps on your phone are about to send data to any of the 3rd-party tracking companies in [our list](https://github.com/duckduckgo/tracker-blocklists/blob/main/app/README.md) of app trackers, and block most of those requests.
+App Tracking Protection is a beta feature in [DuckDuckGo for Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) that helps block 3rd-party trackers in your apps, even when you’re not using them. When App Tracking Protection is enabled, it will detect when other apps on your phone are about to send data to any of the 3rd-party tracking companies in [our list](https://github.com/duckduckgo/tracker-blocklists/blob/main/app/README.md) of app trackers, and block most of those requests.
 
 #### How does App Tracking Protection work?
 
