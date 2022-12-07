@@ -2,6 +2,7 @@
 title: Διαφημίσεις της Microsoft στην Ιδιωτική Αναζήτηση DuckDuckGo
 category: Translated Microsoft Ads Notice
 order: 804
+excluded_in_search: true
 ---
 
 **Στην προβολή διαφημίσεων υπάρχει προστασία απορρήτου από την DuckDuckGo.**

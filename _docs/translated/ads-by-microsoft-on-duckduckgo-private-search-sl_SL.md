@@ -2,6 +2,7 @@
 title: Microsoftovi oglasi pri zasebnem iskanju z DuckDuckGo
 category: Translated Microsoft Ads Notice
 order: 823
+excluded_in_search: true
 ---
 
 **DuckDuckGo ščiti vašo zasebnost pri ogledu oglasov.**

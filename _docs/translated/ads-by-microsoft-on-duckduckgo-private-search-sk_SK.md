@@ -2,6 +2,7 @@
 title: Reklamy od spoločnosti Microsoft v súkromnom vyhľadávaní DuckDuckGo
 category: Translated Microsoft Ads Notice
 order: 822
+excluded_in_search: true
 ---
 
 **Zobrazenie reklám je chránené ochranou osobných údajov DuckDuckGo.**

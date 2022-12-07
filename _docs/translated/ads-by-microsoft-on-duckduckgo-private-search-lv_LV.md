@@ -2,6 +2,7 @@
 title: Microsoft reklāmas DuckDuckGo privātajā meklēšanā
 category: Translated Microsoft Ads Notice
 order: 815
+excluded_in_search: true
 ---
 
 **Reklāmu skatīšanu aizsargā DuckDuckGo konfidencialitāte.**

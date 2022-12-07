@@ -2,6 +2,7 @@
 title: Microsoft által megjelenített hirdetések a DuckDuckGo privát keresőben
 category: Translated Microsoft Ads Notice
 order: 810
+excluded_in_search: true
 ---
 
 **A hirdetéseket a DuckDuckGo adatvédelme keretében tekintheted meg.**

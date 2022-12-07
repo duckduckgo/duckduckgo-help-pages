@@ -2,6 +2,7 @@
 title: Annunci di Microsoft sulla Ricerca privata di DuckDuckGo
 category: Translated Microsoft Ads Notice
 order: 812
+excluded_in_search: true
 ---
 
 **La privacy della visualizzazione degli annunci è protetta da DuckDuckGo.**

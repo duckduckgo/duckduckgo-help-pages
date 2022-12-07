@@ -2,6 +2,7 @@
 title: DuckDuckGo Gizli Arama sayfalarında Microsoft tarafından yayınlanan reklamlar
 category: Translated Microsoft Ads Notice
 order: 825
+excluded_in_search: true
 ---
 
 **Reklam görüntüleme, DuckDuckGo'nun gizlilik koruması altındadır.**
