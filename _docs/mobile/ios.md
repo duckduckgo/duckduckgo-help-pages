@@ -51,9 +51,3 @@ order: 31
     Read more about our
     <a href="https://duckduckgo.com/app">Privacy Browser for iOS</a>.
 </p>
-
-<p>
-    We also love feedback. You can always reach us through the
-    <a href="https://duckduckgo.com/feedback">feedback page</a>, or via email at
-    <a href="mailto:ios@duckduckgo.com">ios@duckduckgo.com</a>. We listen!
-</p>
