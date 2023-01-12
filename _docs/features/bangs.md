@@ -18,5 +18,5 @@ order: 701
     amazon.de.<br /><br />
     For more information and the full categorized list of !bang commands (over a
     thousand), check out our
-    <a href="https://duckduckgo.com/bangs">!bang page</a>.
+    <a href="https://duckduckgo.com/bangs">!bangs page</a>.
 </p>
