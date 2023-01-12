@@ -26,7 +26,7 @@ order: 699
 
 <p>
     You can search other sites directly from DuckDuckGo, just by using our
-    available <a href="https://duckduckgo.com/bang.html">!bangs</a>.
+    available <a href="https://duckduckgo.com/bangs">!bangs</a>.
 </p>
 
 <p>
@@ -49,7 +49,7 @@ order: 699
 
 <p>
     There are
-    <a href="https://duckduckgo.com/bang.html">thousands of sites covered</a> and
+    <a href="https://duckduckgo.com/bangs">thousands of sites covered</a> and
     you can even <a href="https://duckduckgo.com/newbang">submit your own!</a>
 </p>
 
