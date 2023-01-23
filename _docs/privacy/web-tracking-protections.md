@@ -370,8 +370,8 @@ For questions, comments, or concerns, please feel free to [contact us][contact-u
 [product-chrome]: https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg
 [product-edge]: https://microsoftedge.microsoft.com/addons/detail/duckduckgo-privacy-essent/caoacbimdbbljakfhgikoodekdnlcgpk
 [product-opera]: https://addons.opera.com/extensions/details/duckduckgo-for-opera-2/
-[product-safari]: https://apps.apple.com/us/app/duckduckgo-privacy-essentials/id1482920575
-[product-ios]: https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361
+[product-safari]: https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575
+[product-ios]: https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361
 [product-android]: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android
 [product-mac]: https://spreadprivacy.com/introducing-duckduckgo-for-mac/
 

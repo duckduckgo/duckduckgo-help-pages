@@ -29,7 +29,7 @@ order: 9
         <a href="{{ site.baseurl }}/desktop/opera">Opera</a> (<a href="https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/">extension direct link</a>)
     </li>
     <li>
-        <a href="{{ site.baseurl }}/desktop/safari">Safari</a> (<a href="https://apps.apple.com/us/app/duckduckgo-privacy-essentials/id1482920575">extension direct link</a>)
+        <a href="{{ site.baseurl }}/desktop/safari">Safari</a> (<a href="https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575">extension direct link</a>)
     </li>
 </ul>
 <p>
