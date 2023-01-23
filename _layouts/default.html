@@ -78,7 +78,7 @@
 
         <footer class="footer">
             <div class="content">
-                <section class="copyright">DuckDuckGo © 2022</section>
+                <section class="copyright" id="copyright">DuckDuckGo</section>
                 <div class="footer__nav">
                     <a href="https://duckduckgo.com/" target="_blank">Search</a>
                     <span class="footer__nav__sep"></span>
@@ -97,6 +97,7 @@
         document.getElementById("open-nav").addEventListener("click", function () {
             document.body.classList.toggle("nav-open");
         });
+        document.getElementById("copyright").innerHTML = `DuckDuckGo © ${new Date().getFullYear()}`;
     </script>
 </body>
 
