@@ -65,4 +65,3 @@ Advertisements | k1 | {::nomarkdown}<ul><li>1 for On (default)</li><li>-1 for Of
 Page #s | kv | {::nomarkdown}<ul><li>1 for On</li><li>n for On but no numbers</li><li>-1 for Off (default)</li></ul>{:/} |
 Units of Measure | kaj | {::nomarkdown}<ul><li>m for Metric (Kilograms, Meters, Celsius)</li><li>u for US based (Pounds, Feet, Fahrenheit)</li><li>-1 for No Preference (default)</li></ul>{:/}
 Source | t | {::nomarkdown}<ul><li>A string to identify the source</li><li> See <a href="https://help.duckduckgo.com/privacy/t/">this help page</a> for more info</li></ul>{:/}
-Directions Source | kam | {::nomarkdown}<ul><li>apple-maps for Apple Maps</li><li>bing-maps for Bing Maps</li><li>google-maps for Google Maps</li><li>here-maps for HERE Maps</li><li>osm for OpenStreetMap</li></ul>{:/}
