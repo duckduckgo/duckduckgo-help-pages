@@ -6,7 +6,9 @@ This site was built using the excellent, open-source, [Edition template](https:/
 
 ## Develop
 
-[Jekyll](http://jekyllrb.com/) version >= 3.3.1 is required.
+- Ruby version 2.7.4 is required
+  - [RVM](https://rvm.io/) is available in GitHub codepspaces and can be used to install this
+- [Jekyll](http://jekyllrb.com/) version >= 3.3.1 is required
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
