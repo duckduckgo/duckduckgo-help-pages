@@ -24,7 +24,7 @@ Most browsers that offer web tracking protections are usually talking about cook
 
 This protection is particularly difficult to provide without causing usability issues because some websites depend on code that loads from these embedded requests. We can sometimes work around this with [Surrogates][surrogates]. In other cases, we may make a limited exception when it would prevent you from signing in to a site or to preserve essential usability. It’s also important to note that the intention of 3rd-Party Tracker Loading Protection is not to stop all 3rd-party requests from loading, just those used for 3rd-party tracking.
 
-Previously, we were limited in how we could apply our 3rd-Party Tracker Loading Protection on Microsoft tracking scripts due to a policy requirement related to our use of Bing as a source for our private search results. This is no longer the case and as of October 2022 we block Microsoft scripts from loading on 3rd-party websites in our browsing apps (MacOS, iOS, and Android) and in our browser extensions (Chrome, Firefox, Safari, Edge and Opera).
+Previously, we were limited in how we could apply our 3rd-Party Tracker Loading Protection on Microsoft tracking scripts due to a policy requirement related to our use of Bing as a source for our private search results. This is no longer the case and as of October 2022 we block Microsoft scripts from loading on 3rd-party websites in our browsing apps (MacOS, Windows, iOS, and Android) and in our browser extensions (Chrome, Firefox, Safari, Edge and Opera).
 
 Currently, if an advertiser wants to detect conversions for their own ads that are shown on DuckDuckGo via the `bat.bing.com` domain, [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection] will not block `bat.bing.com` requests from loading on the advertiser’s website following [DuckDuckGo ad clicks][ads-by-microsoft-on-duckduckgo-private-search], but these requests are blocked in all other contexts. This is because DuckDuckGo private search advertising is in partnership with Microsoft and some advertisers use this domain for conversion measurement. For anyone who wants to avoid this, it’s possible to disable ads in DuckDuckGo search settings. To eventually replace the reliance on `bat.bing.com` for evaluating ad effectiveness, we’ve started working on an architecture for private ad conversions that can be externally validated as non-profiling. [Read more on our blog][post-private-ad-conversions].
 
@@ -38,6 +38,7 @@ Currently, if an advertiser wants to detect conversions for their own ads that a
 | iPhone & iPad app | 3rd-party scripts on our list blocked from loading. |
 | Android app | 3rd-party scripts on our list blocked from loading. |
 | Mac app | 3rd-party scripts on our list blocked from loading. |
+| Windows app | 3rd-party scripts on our list blocked from loading. |
 
 
 ## 3rd-Party Cookie Protection
@@ -50,14 +51,15 @@ To protect against this, we first block most 3rd-party tracking requests with [3
 
 | Platform | Support |
 |---|---|
-| Firefox extension | 3rd-party scripts on our list blocked from setting or accessing 3rd-party cookies. |
-| Chrome extension | 3rd-party scripts on our list blocked from setting or accessing 3rd-party cookies. |
-| Edge extension | 3rd-party scripts on our list blocked from setting or accessing 3rd-party cookies. |
-| Opera extension | 3rd-party scripts on our list blocked from setting or accessing 3rd-party cookies. |
+| Firefox extension | 3rd-party cookies from domains on our list blocked. 3rd-party scripts on our list blocked from setting or accessing 3rd-party cookies. |
+| Chrome extension | 3rd-party cookies from domains on our list blocked. 3rd-party scripts on our list blocked from setting or accessing 3rd-party cookies. |
+| Edge extension | 3rd-party cookies from domains on our list blocked. 3rd-party scripts on our list blocked from setting or accessing 3rd-party cookies. |
+| Opera extension | 3rd-party cookies from domains on our list blocked. 3rd-party scripts on our list blocked from setting or accessing 3rd-party cookies. |
 | Safari extension | 3rd-party scripts on our list blocked from creating or accessing 3rd-party cookies, and 3rd-party cookies also blocked through WebKit’s [built-in cookie tracking protection][webkit-cookie-tracking-protection]. |
 | iPhone & iPad app | 3rd-party scripts on our list blocked from creating or accessing 3rd-party cookies, and 3rd-party cookies also blocked through WebKit’s [built-in cookie tracking protection][webkit-cookie-tracking-protection]. |
 | Android app | 3rd-party scripts on our list blocked from creating or accessing 3rd-party cookies. All 3rd-party cookies also blocked through the [Android WebView API][android-webview-api-cookies], except when a [Google Single-Sign On (SSO)][github-google-sso] is in progress. |
 | Mac app | 3rd-party scripts on our list blocked from creating or accessing 3rd-party cookies, and 3rd-party cookies also blocked through WebKit’s [built-in cookie tracking protection][webkit-cookie-tracking-protection]. |
+| Windows app | 3rd-party cookies from domains on our list blocked. 3rd-party scripts on our list blocked from setting or accessing 3rd-party cookies. |
 
 
 ## 1st-Party Cookie Protection
@@ -76,6 +78,7 @@ To protect against this, we first block most embedded 3rd-party tracking request
 | iPhone & iPad app | 3rd-party scripts on our list blocked from creating or accessing 1st-party cookies, including a subset of those impersonating 1st parties on our CNAME list. Automatic 24-hour or 7-day expiry enforced for all 1st-party cookies through WebKit’s [built-in cookie tracking protection][webkit-cookie-tracking-protection]. |
 | Android app | 3rd-party scripts on our list blocked from creating or accessing 1st-party cookies, including those impersonating 1st parties on our CNAME list. Automatic 7-day expiry enforced for all 1st-party cookies created by scripts. |
 | Mac app | 3rd-party scripts on our list blocked from creating or accessing 1st-party cookies, including a subset of those impersonating 1st parties on our CNAME list. Automatic 24-hour or 7-day expiry enforced for all 1st-party cookies through WebKit’s [built-in cookie tracking protection][webkit-cookie-tracking-protection]. |
+| Windows app | 3rd-party scripts on our list blocked from creating or accessing 1st-party cookies, including those impersonating 1st parties on our CNAME list. Automatic 7-day expiry enforced for all 1st-party cookies created by scripts on our product roadmap. |
 
 
 ## CNAME Cloaking Protection
@@ -94,6 +97,7 @@ We identify 3rd-party domains trying to track you in this way through our open s
 | iPhone & iPad app | Treats 1st-party requests on a subset of our CNAME list as 3rd parties. On our product roadmap to address usability issues limiting domain coverage. |
 | Android app | Treats 1st-party requests on our CNAME list as 3rd parties. |
 | Mac app | Treats 1st-party requests on a subset of our CNAME list as 3rd parties. On our product roadmap to address usability issues limiting domain coverage. |
+| Windows app | Treats 1st-party requests on our CNAME list as 3rd parties. |
 
 
 ## Fingerprinting Protection
@@ -112,6 +116,7 @@ To protect against this, we block many fingerprinting scripts before they can ev
 | iPhone & iPad app | Fingerprinting scripts from 3rd-party trackers on our list blocked from loading. Browser APIs on our list overridden. |
 | Android app | Fingerprinting scripts from 3rd-party trackers on our list blocked from loading. Browser APIs on our list overriden, except in iframes, where JavaScript injection is unsupported by the [Android WebView API][android-webview-api-js]. |
 | Mac app | Fingerprinting scripts from 3rd-party trackers on our list blocked from loading. Browser APIs on our list overridden. |
+| Windows app | Fingerprinting scripts from 3rd-party trackers on our list blocked from loading. Browser API overrides on our product roadmap. |
 
 
 ## Smarter Encryption (HTTPS Upgrading)
@@ -132,6 +137,7 @@ Except for Safari, most popular browsers only direct users to encrypted versions
 | iPhone & iPad app | Upgrades a subset of our full list of domains that covers approximately 90% of search engine clicks. Platform limitations restrict us from upgrading additional requests loaded by websites (such as those used to load additional content). |
 | Android app | Upgrades a subset of our full list of domains that covers approximately 90% of search engine clicks. Platform limitations restrict us from upgrading additional requests loaded by websites (such as those used to load additional content). |
 | Mac app | Upgrades a subset of our full list of domains that covers approximately 90% of search engine clicks. Platform limitations restrict us from upgrading additional requests loaded by websites (such as those used to load additional content). |
+| Windows app | Upgrades a subset of our full list of domains that covers approximately 90% of search engine clicks. |
 
 
 ## Link Tracking Protection
@@ -150,6 +156,7 @@ We help protect against this type of tracking by removing [many tracking paramet
 | iPhone & iPad app | Removes URL parameters on our list from the first navigation request. Applying protection to subsequent links in a series of automatic redirects unsupported due to platform limitations. |
 | Android app | Removes URL parameters on our list. |
 | Mac app | Removes URL parameters on our list from the first navigation request. Applying protection to subsequent links in a series of automatic redirects unsupported due to platform limitations. |
+| Windows app | Unsupported, but on our product roadmap. |
 
 
 ## Referrer Tracking Protection
@@ -162,12 +169,13 @@ By default, we “trim” (remove) some of the metadata in the “referrer heade
 |---|---|
 | Firefox extension | Referrer headers in tracking requests on our list trimmed to top-level domain. |
 | Chrome extension | Referrer headers in tracking requests on our list trimmed to top-level domain. |
-| Edge extension | Referrer headers in tracking requests on our list trimmed to top-level domain. |
+| Edge extension | Unsupported due to [platform limitations][chromium-mv3-referrer-bug]. |
 | Opera extension | Referrer headers in tracking requests on our list trimmed to top-level domain. |
 | Safari extension | Referrer headers trimmed to the hostname for all requests originating from a different domain than the visited site through WebKit’s [built-in referrer tracking protection][webkit-referrer-tracking-protection]. Further Referrer Tracking Protections unsupported due to limitations of the current [App Extensions][safari-app-extensions] architecture, but on our product roadmap to adopt the [Web Extensions][safari-web-extensions] architecture and expand this protection. |
-| iPhone & iPad app | Referrer headers trimmed to hostname for all requests originating from a different domain than the visited site through WebKit’s [built-in referrer tracking protection][webkit-referrer-tracking-protection]. |
+| iPhone & iPad app | Referrer headers trimmed to the hostname for all requests originating from a different domain than the visited site through WebKit’s [built-in referrer tracking protection][webkit-referrer-tracking-protection]. |
 | Android app | Unsupported due to [Android WebView][android-webview-api] limitations. |
 | Mac app | Referrer headers trimmed to the hostname for all requests originating from a different domain than the visited site through WebKit’s [built-in referrer tracking protection][webkit-referrer-tracking-protection]. Further trimming of navigational referrer headers and the referrer property of webpages down to top-level domain. |
+| Windows app | Unsupported, but on our product roadmap. |
 
 
 ## Embedded Social Content Tracking Protection
@@ -186,6 +194,7 @@ By default, we block social media embedded content from Facebook on [our list of
 | iPhone & iPad app | Unsupported, but on our product roadmap. |
 | Android app | Unsupported, but on our product roadmap. |
 | Mac app | Embedded Facebook content on our list of content types blocked. Additional social networks on our product roadmap. |
+| Windows app | Unsupported, but on our product roadmap. |
 
 
 ## Google-Specific Web Tracking Protections
@@ -209,6 +218,7 @@ To do this, we extract the original publisher link where possible by recognizing
 | iPhone & iPad app | Google AMP links replaced wherever detected. |
 | Android app | Google AMP links replaced wherever detected. |
 | Mac app | Google AMP links replaced wherever detected. |
+| Windows app | Unsupported, but on our product roadmap. |
 
 
 ### Google Topics Protection
@@ -251,6 +261,7 @@ To help protect against being misled into unwanted tracking, we block these anno
 | iPhone & iPad app | Google sign-in pop-ups hidden wherever detected. |
 | Android app | Google sign-in pop-ups hidden wherever detected. |
 | Mac app | Google sign-in pop-ups hidden wherever detected. |
+| Windows app | Google sign-in pop-ups hidden wherever detected. |
 
 
 ## Preserving Usability
@@ -274,13 +285,14 @@ A surrogate works locally on your device, pretending to be a particular 3rd-part
 | iPhone & iPad app | Surrogates preserve privacy and usability for tracker-dependent breakage on our list, but some usability issues may still occur due to platform limitations that cause 3rd-Party Tracker Loading Protection to block scripts before we have a chance to apply Surrogates. |
 | Android app | Surrogates preserve privacy and usability for tracker-dependent breakage on our list. |
 | Mac app | Surrogates preserve privacy and usability for tracker-dependent breakage on our list, but some usability issues may still occur due to platform limitations that cause 3rd-Party Tracker Loading Protection to block scripts before we have a chance to apply Surrogates. |
+| Windows app | Surrogates preserve privacy and usability for tracker-dependent breakage on our list. |
 
 
 ### Remotely Configured Exceptions
 
 If you’re using our app or extension and suspect that a website usability issue was caused by one of the Web Tracking Protections detailed on this page, you can let us know by submitting a Broken Site Report. You can also temporarily disable DuckDuckGo’s Privacy Protection for individual websites to troubleshoot the issue you’re experiencing.
 
-We review user-reported Broken Site Reports daily, and work to address these usability issues continuously. When one of our Web Tracking Protections causes issues to occur (for example, if users can’t sign in or can’t use a popular website), we may add that site domain to a temporary exclusion list for that protection. This preserves essential usability for all users as we work toward a better solution. All of our privacy apps and extensions rely on these [open source lists][github-privacy-configuration], which vary by platform and protection, to maintain a seamless online experience.
+We review user-reported Broken Site Reports daily, and work to address these usability issues continuously. When one of our Web Tracking Protections causes issues to occur (for example, if users can’t sign in or can’t use a popular website), we may add a site domain or cookie to a temporary exclusion list for that protection. This preserves essential usability for all users as we work toward a better solution. All of our privacy apps and extensions rely on these [open source lists][github-privacy-configuration], which vary by platform and protection, to maintain a seamless online experience.
 
 | Platform | Support |
 |---|---|
@@ -308,6 +320,7 @@ From DuckDuckGo app Settings, you can manage your Fireproof Sites and choose whe
 | iPhone & iPad app | Clears all browsing history and data. Supports automatic clearing on restart. |
 | Android app | Clears all browsing history and data. Supports automatic clearing on restart. |
 | Mac app | Clears all browsing history and data. Can also clear data for visited sites per-tab and per-window. Automatic clearing on restart on our product roadmap. |
+| Windows app | Clears all browsing history and data. Additional data clearing options on our product roadmap. |
 
 
 ### Cookie Consent Pop-up Management
@@ -323,9 +336,10 @@ Visit Settings in our supported apps and extensions to enable this feature. You 
 | Edge extension | Unsupported, but on our product roadmap. |
 | Opera extension | Unsupported, but on our product roadmap. |
 | Safari extension | Unsupported, but on our product roadmap. |
-| iPhone & iPad app | Unsupported, but on our product roadmap. |
+| iPhone & iPad app | Minimizes cookies, maximizes privacy, and closes cookie consent pop-ups on our list. Additional coverage on our product roadmap. |
 | Android app | Minimizes cookies, maximizes privacy, and closes cookie consent pop-ups on our list. Platform limitations prevent us from injecting scripts into iframes, which means we can’t handle consent on some sites. Additional coverage on our product roadmap. |
 | Mac app | Minimizes cookies, maximizes privacy, and closes cookie consent pop-ups on our list. Additional coverage on our product roadmap. |
+| Windows app | Minimizes cookies, maximizes privacy, and closes cookie consent pop-ups on our list. Additional coverage on our product roadmap. |
 
 
 ### Global Privacy Control (GPC)
@@ -342,6 +356,7 @@ Global Privacy Control (GPC) intends to help you express your opt-out rights aut
 | iPhone & iPad app | GPC signal sent via JavaScript to all sites. Sending GPC header signal only supported for websites known to respect GPC due to platform limitations that would cause page load interruptions during back navigation. |
 | Android app | GPC signal sent via JavaScript to all sites. Sending GPC header signal only supported for websites known to respect GPC due to platform limitations that would cause page load interruptions during back navigation. |
 | Mac app | GPC signal sent via JavaScript to all sites. Sending GPC header signal only supported for websites known to respect GPC due to platform limitations that would cause page load interruptions during back navigation. |
+| Windows app | GPC signal sent via header and JavaScript to all sites. |
 
 
 ## How to Get our Web Tracking Protections
@@ -356,6 +371,7 @@ To get the privacy protections as described above, install the relevant DuckDuck
 - **iPhone & iPad:** [get the app][product-ios] \| [view open source code][github-ios]
 - **Android:** [get the app][product-android] \| [view open source code][github-android]
 - **Mac:** [get the app][product-mac-download] \| [read the announcement][product-mac]
+- **Windows:** Visit app settings in DuckDuckGo for iOS or Android to join the private waitlist and get an invite code to try the beta.
 
 If you use another Chromium-based browser like Vivaldi, you can usually install the [Chrome][product-chrome] version. 
 
@@ -392,7 +408,7 @@ For questions, comments, or concerns, please feel free to [contact us][contact-u
 [product-ios]: https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361
 [product-android]: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android
 [product-mac]: https://spreadprivacy.com/introducing-duckduckgo-for-mac/
-[product-mac-download]: https://duckduckgo.com/mac
+[product-mac-download]: https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361
 
 [//]: # (DuckDuckGo GitHub links)
 [github-duckduckgo]: https://github.com/duckduckgo
@@ -434,3 +450,4 @@ For questions, comments, or concerns, please feel free to [contact us][contact-u
 [android-webview-api-cookies]: https://developer.android.com/reference/android/webkit/CookieManager#setAcceptThirdPartyCookies(android.webkit.WebView,%20boolean)
 [android-webview-api-js]: https://developer.android.com/reference/android/webkit/WebView#evaluateJavascript(java.lang.String,%20android.webkit.ValueCallback%3Cjava.lang.String%3E)
 [social-ctp-config]: https://staticcdn.duckduckgo.com/useragents/social_ctp_configuration.json
+[chromium-mv3-referrer-bug]: https://bugs.chromium.org/p/chromium/issues/detail?id=1149619
