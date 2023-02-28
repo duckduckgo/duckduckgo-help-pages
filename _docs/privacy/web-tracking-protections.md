@@ -371,7 +371,7 @@ To get the privacy protections as described above, install the relevant DuckDuck
 - **iPhone & iPad:** [get the app][product-ios] \| [view open source code][github-ios]
 - **Android:** [get the app][product-android] \| [view open source code][github-android]
 - **Mac:** [get the app][product-mac-download] \| [read the announcement][product-mac]
-- **Windows:** Visit app settings in DuckDuckGo for iOS or Android to join the private waitlist and get an invite code to try the beta
+- **Windows:** Visit app settings in DuckDuckGo for iOS or Android to join the private waitlist and get an invite code to try the beta.
 
 If you use another Chromium-based browser like Vivaldi, you can usually install the [Chrome][product-chrome] version. 
 
