@@ -12,7 +12,7 @@ order: 401
         Use <code>site:</code> to limit your search results to pages from a specific website. For example, <code>dogs site:example.com</code> will return pages about dogs from the website example.com.
     </li>
     <li>
-        Use <code>–site:</code> to eliminate pages from a specific website from showing up in search results. For example, <code>cats –site.example.com</code> will remove any example.com pages from your list of search results about cats.
+        Use <code>–site:</code> to eliminate pages from a specific website from showing up in search results. For example, <code>cats –site:example.com</code> will remove any example.com pages from your list of search results about cats.
     </li>
 </ul>
 
