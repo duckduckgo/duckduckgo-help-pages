@@ -1,0 +1,28 @@
+---
+title: Advertise on DuckDuckGo Search
+category: Company
+order: 50
+---
+
+DuckDuckGo delivers privacy respecting advertising to users while providing excellent return on investment for advertisers.
+
+As privacy awareness becomes more pervasive, consumers are making more informed technology choices, including which online search engine they use.
+
+Today DuckDuckGo has become a key platform for advertisers, with a growing user base of over 30M in the US and 100M+ worldwide, and a growing list of reasons why it’s the smart choice to include in any search media plan.
+
+#### Higher return on investment vs other search engines
+
+-   DuckDuckGo offers fewer ads than other major search engines to create a differentiated user-experience. This gives the ads we show greater prominence on the page and increases the likelihood that customers will click through and continue their purchasing journey.
+-   Choosing to advertise on DuckDuckGo lets advertisers tap into the broader Microsoft Advertising Network, which leverages AI and numerous auction signals to identify the best click for your campaign and measure conversions.
+
+#### A leader in US and international mobile market share
+
+-   DuckDuckGo owns the #2 position in mobile market share in the US, and 18 other markets including Australia, Austria, Belgium, Canada, Denmark, Finland, France, Ireland, Italy, Malta, New Zealand, Portugal, Slovenia, Spain, Sweden, Switzerland.
+
+#### Reach valuable users who can’t be found on Google (or other search engines)  
+
+-   Our research suggests that there are millions of DuckDuckGo users who don’t use Google Search. By advertising on DuckDuckGo, advertisers can extend their campaign reach and access even more customers who they otherwise might miss.
+
+If you have any questions about advertising on DuckDuckGo, please contact [advertising@duckduckgo.com](mailto:advertising@duckduckgo.com).
+
+To advertise on DuckDuckGo, visit [Microsoft Advertising](https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising).
