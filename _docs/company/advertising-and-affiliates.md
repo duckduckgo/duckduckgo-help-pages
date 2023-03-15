@@ -19,19 +19,11 @@ This is generally how advertising appears on DuckDuckGo:
 
 ![Screenshot showing ads in DuckDuckGo search results]({{ site.baseurl }}/images/duckduckgo-sponsored-links.jpg)
 
-If you see any low-quality ads, [please report them](https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/).
+If you think you see low-quality ads, for example, ads that seem irrelevant or suspicious, please use the 'Report Ad' link for the ad in question on the search results page and follow the prompts.
 
-### How to Advertise on DuckDuckGo
+Visit [Advertise on DuckDuckGo Search](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/) to learn more about why you should advertise on DuckDuckGo.
 
-To advertise on DuckDuckGo, please visit [Microsoft Advertising](https://about.ads.microsoft.com/). By default, when you sign up for a Microsoft Advertising account, your ads should automatically enter rotation into all of Microsoft Advertising's distribution channels including DuckDuckGo. If you'd like to double-check that your ad is set up to run on DuckDuckGo, perform the following:
-
-1.  When signed in to Microsoft Advertising, click _Ad groups_.
-2.  Next, click on your ad group's name.
-3.  Click _Settings_.
-4.  Click _Ad distribution_.
-5.  Confirm that _All search networks_ is selected and click _Save_ at the bottom to finalize.
-
-![Screenshot showing Microsoft Advertising settings]({{ site.baseurl }}/images/72449caa010b8cc400157ef19833593f.png)
+Visit [Microsoft Advertising](https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising?) to start buying search advertising on DuckDuckGo.
 
 ## Affiliate Revenue
 
