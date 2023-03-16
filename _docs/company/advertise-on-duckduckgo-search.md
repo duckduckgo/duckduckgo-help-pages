@@ -4,7 +4,7 @@ category: Company
 order: 50
 ---
 
-DuckDuckGo delivers privacy respecting advertising to users while providing excellent return on investment for advertisers.
+DuckDuckGo delivers [privacy respecting advertising](/company/ads-by-microsoft-on-duckduckgo-private-search) to users while providing excellent return on investment for advertisers.
 
 As privacy awareness becomes more pervasive, consumers are making more informed technology choices, including which online search engine they use.
 
@@ -13,7 +13,7 @@ Today DuckDuckGo has become a key platform for advertisers, with a growing user 
 #### Higher return on investment vs other search engines
 
 -   DuckDuckGo offers fewer ads than other major search engines to create a differentiated user-experience. This gives the ads we show greater prominence on the page and increases the likelihood that customers will click through and continue their purchasing journey.
--   Choosing to advertise on DuckDuckGo lets advertisers tap into the broader Microsoft Advertising Network, which leverages AI and numerous auction signals to identify the best click for your campaign and measure conversions.
+-   Choosing to advertise on DuckDuckGo lets advertisers tap into the broader Microsoft Advertising Network which helps deliver the best click for a campaign to reach customers efficiently.
 
 #### A leader in US and international mobile market share
 
