@@ -37,18 +37,18 @@ Video Playback | k5 | {::nomarkdown}<ul><li>1 for Always play on DuckDuckGo</li>
 
 Name | Parameter | Values
 --- | --- | ---
-Header | kj | {::nomarkdown}<ul><li>r3 for Muted red (default)</li><li>d for Light green</li><li>g for Intense green</li><li>g2 for Green</li><li>b for Light blue</li><li>b2 for Blue</li><li>r for Intense red</li><li>r2 for Red</li><li>p for Purple</li><li>o for Orange</li><li>w for White</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char)</li></ul>{:/}
-URLs | kx | {::nomarkdown}<ul><li>r for Red (default)</li><li>g for Green</li><li>l for Black</li><li>b for Blue</li><li>p for Purple</li><li>o for Orange</li><li>e for Grey</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char)</li></ul>{:/}
-Background | k7 | {::nomarkdown}<ul><li>w for White (default)</li><li>d for Light green</li><li>g for Intense green</li><li>g2 for Green</li><li>b for Light blue</li><li>b2 for Blue</li><li>r for Intense red</li><li>r2 for Red</li><li>p for Purple</li><li>o for Orange</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char). </li></ul>{:/}
-Text | k8 | {::nomarkdown}<ul><li>g for Grey (default)</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char)</li></ul>{:/}
-Links | k9 | {::nomarkdown}<ul><li>g for Dark Grey (default)</li><li>b for Blue</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char)</li></ul>{:/}
-Visited links | kaa | {::nomarkdown}<ul><li>p for Grey with checkmark (default)</li><li>p for Purple</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char). </li></ul>{:/}
+Header | kj | {::nomarkdown}<ul><li>r3 for Muted red (default)</li><li>d for Light green</li><li>g for Intense green</li><li>g2 for Green</li><li>b for Light blue</li><li>b2 for Blue</li><li>r for Intense red</li><li>r2 for Red</li><li>p for Purple</li><li>o for Orange</li><li>w for White</li><li>or write out the colour code you want, e.g. 395323</li></ul>{:/}
+URLs | kx | {::nomarkdown}<ul><li>r for Red (default)</li><li>g for Green</li><li>l for Black</li><li>b for Blue</li><li>p for Purple</li><li>o for Orange</li><li>e for Grey</li><li>or write out the colour code you want, e.g. 395323</li></ul>{:/}
+Background | k7 | {::nomarkdown}<ul><li>w for White (default)</li><li>d for Light green</li><li>g for Intense green</li><li>g2 for Green</li><li>b for Light blue</li><li>b2 for Blue</li><li>r for Intense red</li><li>r2 for Red</li><li>p for Purple</li><li>o for Orange</li><li>or write out the colour code you want, e.g. 395323. </li></ul>{:/}
+Text | k8 | {::nomarkdown}<ul><li>g for Grey (default)</li><li>or write out the colour code you want, e.g. 395323</li></ul>{:/}
+Links | k9 | {::nomarkdown}<ul><li>g for Dark Grey (default)</li><li>b for Blue</li><li>or write out the colour code you want, e.g. 395323</li></ul>{:/}
+Visited links | kaa | {::nomarkdown}<ul><li>p for Grey with checkmark (default)</li><li>p for Purple</li><li>or write out the colour code you want, e.g. 395323. </li></ul>{:/}
 
 ## Look &amp; Feel Settings
 
 Name | Parameter | Values
 --- | --- | ---
-Theme | kae | {::nomarkdown}<ul><li>-1 for Default (default)</li><li>c for Contrast</li><li>r for Retro</li><li>d for Dark</li><li>t for Terminal</li><li>or write out the colour code you want, e.g. %23395323 (%23 is an encoded # char)</li></ul>{:/}
+Theme | kae | {::nomarkdown}<ul><li>-1 for Default (default)</li><li>c for Contrast</li><li>r for Retro</li><li>d for Dark</li><li>t for Terminal</li><li>or write out the colour code you want, e.g. 395323</li></ul>{:/}
 Size | ks | {::nomarkdown}<ul><li>n for Large (default)</li><li>l for Larger</li><li>t for Largest</li><li>m for Medium</li><li>s for Small</li></ul>{:/}
 Width | kw | {::nomarkdown}<ul><li>n for Normal (default)</li><li>w for Wide</li><li>s for Super wide</li></ul>{:/} 
 Placement | km | {::nomarkdown}<ul><li>m for Middle (default)</li><li>l for Left</li></ul>{:/} 
