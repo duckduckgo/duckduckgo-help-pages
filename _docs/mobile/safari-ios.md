@@ -31,6 +31,6 @@ order: 35
 </ol>
 
 <h2>
-    <a href="https://itunes.apple.com/us/app/id663592361">Alternatively, Install Our App</a>
+    <a href="https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361">Alternatively, Install Our App</a>
 </h2>
 A better way to stay private online.

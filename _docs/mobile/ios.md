@@ -19,7 +19,7 @@ order: 31
 <h2>DuckDuckGo Privacy Browser</h2>
 <p>
     <strong>Get our
-        <a href="https://itunes.apple.com/us/app/duckduckgo-search-stories/id663592361">Privacy Browser from the App Store</a></strong>
+        <a href="https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361">Privacy Browser from the App Store</a></strong>
 </p>
 
 <p class="screenshots">

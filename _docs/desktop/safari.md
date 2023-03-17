@@ -39,7 +39,7 @@ order: 3
 <h2>Installing Our Extension</h2>
 <ol>
     <li>
-        <a href="https://apps.apple.com/us/app/duckduckgo-privacy-essentials/id1482920575">Visit our extension's gallery page.</a>
+        <a href="https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575">Visit our extension's gallery page.</a>
     </li>
     <li>
         The App Store should open automatically. If not, click <em>View in Mac App Store</em> to install.
