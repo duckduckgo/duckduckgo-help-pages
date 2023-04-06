@@ -23,7 +23,7 @@ If you think you see low-quality ads, for example, ads that seem irrelevant or s
 
 Visit [Advertise on DuckDuckGo Search](/company/advertise-on-duckduckgo-search/) to learn more about why you should advertise on DuckDuckGo.
 
-Visit [Microsoft Advertising](https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising?) to start buying search advertising on DuckDuckGo.
+Visit [Microsoft Advertising](https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising) to start buying search advertising on DuckDuckGo.
 
 ## Affiliate Revenue
 

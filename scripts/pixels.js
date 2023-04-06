@@ -92,8 +92,7 @@
     // Example: helppages.link.quora.https-spreadprivacy-com.google-filter-bubble-study
     document.querySelectorAll('article a').forEach(function (link) {
       link.addEventListener('click', function () {
-        var href = sanitizeUrl(link.href);
-        firePixel('link', source, pathname, href, {
+        firePixel('link', sanitizeUrl(source), sanitizeUrl(pathname), sanitizeUrl(link.href), {
           once: false
         });
       });
