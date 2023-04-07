@@ -9,6 +9,7 @@
 // Pixel format:
 // -------------
 // Link click: helppages.link.[source].[article].[link]
+// Loading: helppages.load.[source].[article]
 
 (function ready(fn) {
   document.readyState !== 'loading' ? fn() : document.addEventListener('DOMContentLoaded', fn);
@@ -86,6 +87,11 @@
   // --------------------
   // III. Event Listeners
   // --------------------
+
+  // Page loads
+  // ----------
+  // Fire straight away as we're already in an onload event!
+  firePixel('load', sanitizeUrl(source), sanitizeUrl(pathname), {once: true});
 
   // Link Clicks
   // -----------
