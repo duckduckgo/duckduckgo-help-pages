@@ -100,7 +100,7 @@
   Array.prototype.slice.call(document.querySelectorAll('article a'), 0).forEach(function (link) {
     link.addEventListener('click', function () {
       firePixel('link', sanitizeUrl(source), sanitizeUrl(pathname), sanitizeUrl(link.href), {
-        once: false
+        once: true
       });
     });
   });
