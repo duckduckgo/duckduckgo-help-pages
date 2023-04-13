@@ -15,83 +15,95 @@ help.company-advertising-and-affiliates.click?link-url=https-reddit-com-r-duckdu
 */
 
 (function ready(fn) {
-  document.readyState !== 'loading' ? fn() : document.addEventListener('DOMContentLoaded', fn);
+    document.readyState !== "loading"
+        ? fn()
+        : document.addEventListener("DOMContentLoaded", fn);
 })(function () {
-  var externalLinkAllowList = {
-    'https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising': true,
-  };
+    var externalLinkAllowList = {
+        "https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising": true,
+    };
 
-  var hasFired = {}; // Fire pixels only once
-  var pathname = location.pathname.replace(/\/(.+)\//, '$1');
-  var basePixelUrl = 'https://improving.duckduckgo.com/t/help_' + sanitize(pathname === '/' ? 'home' : pathname);
+    var hasFired = {}; // Fire pixels only once
+    var pathname = location.pathname.replace(/\/(.+)\//, "$1");
+    var basePixelUrl =
+        "https://improving.duckduckgo.com/t/help_" +
+        sanitize(pathname === "/" ? "home" : pathname);
 
-  /**
-   * Fires the pixel
-   * @param {event, extraData} ops 
-   */
-  function firePixel(event, extraData) {
-    extraData = extraData || {};
+    /**
+     * Fires the pixel
+     * @param {event, extraData} ops
+     */
+    function firePixel(event, extraData) {
+        extraData = extraData || {};
 
-    var pixelUrl = basePixelUrl + '_' + event;
-    var extraDataString = '';
+        var pixelUrl = basePixelUrl + "_" + event;
+        var extraDataString = "";
 
-    Object.keys(extraData).forEach(function (extraDataKey) {
-      extraDataString = extraDataString
-        + (extraDataString === '' ? '?' : '&')
-        + encodeURIComponent(sanitize(extraDataKey))
-        + '='
-        + encodeURIComponent(sanitize(extraData[extraDataKey]));
-    });
+        Object.keys(extraData).forEach(function (extraDataKey) {
+            extraDataString =
+                extraDataString +
+                (extraDataString === "" ? "?" : "&") +
+                encodeURIComponent(sanitize(extraDataKey)) +
+                "=" +
+                encodeURIComponent(sanitize(extraData[extraDataKey]));
+        });
 
-    pixelUrl = pixelUrl + extraDataString;
+        pixelUrl = pixelUrl + extraDataString;
 
-    if (hasFired[pixelUrl]) {
-      return;
+        if (hasFired[pixelUrl]) {
+            return;
+        }
+        hasFired[pixelUrl] = true;
+
+        if ("sendBeacon" in navigator) {
+            // https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API
+            navigator.sendBeacon(pixelUrl);
+        } else {
+            // sendBeacon fallback: img tag
+            var pixel = document.createElement("img");
+            pixel.setAttribute("src", pixelUrl);
+        }
     }
-    hasFired[pixelUrl] = true;
 
-    if ('sendBeacon' in navigator) {
-      // https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API
-      navigator.sendBeacon(pixelUrl);
-    } else {
-      // sendBeacon fallback: img tag
-      var pixel = document.createElement('img');
-      pixel.setAttribute('src', pixelUrl);
+    function sanitize(str) {
+        return (
+            str
+                // strip 'duckduckgo-help-pages-'
+                .replace(/^duckduckgo-help-pages-/, "")
+                // strip leading/trailing slash
+                .replace(/^\/|\/$/, "")
+                // strip unsafe chars for grafana
+                .replace(/[^a-z0-9_-]+/gi, "-")
+                // strip underscores as well
+                .replace(/_/g, "-")
+        );
     }
-  }
 
+    // --------------------
+    // Event Listeners
+    // --------------------
 
-  function sanitize(str) {
-    return str
-      // strip 'duckduckgo-help-pages-'
-      .replace(/^duckduckgo-help-pages-/, "")
-      // strip leading/trailing slash
-      .replace(/^\/|\/$/, '')
-      // strip unsafe chars for grafana
-      .replace(/[^a-z0-9_-]+/ig, '-')
-      // strip underscores as well
-      .replace(/_/g, '-');
-  }
+    // Page loads: Fire here as we're already in an onload event
+    firePixel("load");
 
-  // --------------------
-  // Event Listeners
-  // --------------------
-
-  // Page loads: Fire here as we're already in an onload event
-  firePixel('load');
-
-  // Link clicks: Fire when links within the article are clicked
-  Array.prototype.slice.call(document.querySelectorAll('article a'), 0).forEach(function (link) {
-    link.addEventListener('click', function () {
-      var href = link.href;
-      var hostname = link.hostname
-      if (hostname === location.hostname || hostname === 'help.duckduckgo.com' || externalLinkAllowList[href]) {
-        // internal link clicks and allow-listed external links can send the href
-        firePixel('click', { 'link-url': href });
-      } else {
-        // otherwise we don't send the href but fire a click pixel for measuring engagement
-        firePixel('click');
-      }
-    });
-  });
+    // Link clicks: Fire when links within the article are clicked
+    Array.prototype.slice
+        .call(document.querySelectorAll("article a"), 0)
+        .forEach(function (link) {
+            link.addEventListener("click", function () {
+                var href = link.href;
+                var hostname = link.hostname;
+                if (
+                    hostname === location.hostname ||
+                    hostname === "help.duckduckgo.com" ||
+                    externalLinkAllowList[href]
+                ) {
+                    // internal link clicks and allow-listed external links can send the href
+                    firePixel("click", { "link-url": href });
+                } else {
+                    // otherwise we don't send the href but fire a click pixel for measuring engagement
+                    firePixel("click");
+                }
+            });
+        });
 });
