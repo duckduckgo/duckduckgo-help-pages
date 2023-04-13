@@ -68,12 +68,12 @@ help.company-advertising-and-affiliates.click?link-url=https-reddit-com-r-duckdu
     function sanitize(str) {
         return (
             str
-                // strip 'duckduckgo-help-pages-'
-                .replace(/^duckduckgo-help-pages-/, "")
                 // strip leading/trailing slash
                 .replace(/^\/|\/$/, "")
                 // strip unsafe chars for grafana
                 .replace(/[^a-z0-9_-]+/gi, "-")
+                // strip 'duckduckgo-help-pages-'
+                .replace(/^duckduckgo-help-pages-/, "")
                 // strip underscores as well
                 .replace(/_/g, "-")
         );
