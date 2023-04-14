@@ -24,7 +24,8 @@ help.company-advertising-and-affiliates.click?link-url=https-reddit-com-r-duckdu
     };
 
     var hasFired = {}; // Fire pixels only once
-    var pathname = location.pathname.replace(/\/(.+)\//, "$1");
+    var pathname = location.pathname.replace(/^\/duckduckgo-help-pages/,'')
+                                    .replace(/\/(.+)\//, "$1");
     var basePixelUrl =
         "https://improving.duckduckgo.com/t/help_" +
         sanitize(pathname === "/" ? "home" : pathname);
