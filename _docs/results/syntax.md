@@ -7,14 +7,56 @@ order: 401
 <p>DuckDuckGo supports search syntax you can use to fine-tune your queries.</p>
 
 <h3>Search Operators</h3>
-<ul>
-    <li>
-        Use <code>site:</code> to limit your search results to pages from a specific website. For example, <code>dogs site:example.com</code> will return pages about dogs from the website example.com.
-    </li>
-    <li>
-        Use <code>–site:</code> to eliminate pages from a specific website from showing up in search results. For example, <code>cats –site:example.com</code> will remove any example.com pages from your list of search results about cats.
-    </li>
-</ul>
+<table cellpadding="10">
+    <thead>
+        <tr>
+            <th>Example</th>
+            <th>Result</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><code>cats dogs</code></td>
+            <td>Results about cats or dogs</td>
+        </tr>
+        <tr>
+            <td><code>"cats and dogs"</code></td>
+            <td>Results for exact term "cats and dogs". If no results are found, we'll try to show related results.</td>
+        </tr>
+        <tr>
+            <td><code>cats -dogs</code></td>
+            <td>Fewer dogs in results</td>
+        </tr>
+        <tr>
+            <td><code>cats +dogs</code></td>
+            <td>More dogs in results</td>
+        </tr>
+        <tr>
+            <td><code>cats filetype:pdf</code></td>
+            <td>
+                PDFs about cats. Supported file types: pdf, doc(x), xls(x), ppt(x), html
+            </td>
+        </tr>
+        <tr>
+            <td><code>dogs site:example.com</code></td>
+            <td>Pages about dogs from example.com</td>
+        </tr>
+        <tr>
+            <td><code>cats -site:example.com</code></td>
+            <td>Pages about cats, excluding example.com</td>
+        </tr>
+        <tr>
+            <td><code>intitle:dogs</code></td>
+            <td>Page title includes the word "dogs"</td>
+        </tr>
+        <tr>
+            <td><code>inurl:cats</code></td>
+            <td>Page url includes the word "cats"</td>
+        </tr>
+    </tbody>
+</table>
+
+<i>Please note: we are aware some of our advanced syntax isn't operating 100% correctly on all queries and are actively working on it. It is unfortunately a non-trivial issue given we get our private results from a <a href="{{ site.baseurl }}/results/sources">variety of sources</a>.</i>
 
 <h3>Search Directly on Other Sites</h3>
 <ul>
