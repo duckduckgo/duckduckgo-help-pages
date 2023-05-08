@@ -7,12 +7,12 @@ show_full_navigation: false
 markdown: kramdown
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /logo.v108.svg
+logo: /logo.v109.svg
 description: "DuckDuckGo Help Pages"
 author:
-  name: DuckDuckGo
-  email:
-  twitter: duckduckgo
+    name: DuckDuckGo
+    email:
+    twitter: duckduckgo
 
 # -----
 # Build
@@ -22,39 +22,37 @@ timezone: Etc/UTC
 permalink: pretty
 
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-menus
+    - jekyll-sitemap
+    - jekyll-seo-tag
+    - jekyll-menus
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENCE
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - LICENCE
 
 collections:
-  docs:
-    title: Help Pages
-    permalink: /:path/
-    output: true
+    docs:
+        title: Help Pages
+        permalink: /:path/
+        output: true
 
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: default
-  -
-    scope:
-      path: ""
-      type: "docs"
-    values:
-      seo:
-        type: Article
-      _comments:
-        category: Group navigation links with this field
-        order: Used to sort links in the navigation
-      _options:
-        content:
-          width: 800
-          height: 2000
+    - scope:
+          path: ""
+      values:
+          layout: default
+    - scope:
+          path: ""
+          type: "docs"
+      values:
+          seo:
+              type: Article
+          _comments:
+              category: Group navigation links with this field
+              order: Used to sort links in the navigation
+          _options:
+              content:
+                  width: 800
+                  height: 2000
