@@ -30,7 +30,7 @@ order: 716
 </p>
 
 <p>
-    <img src="{{ site.baseurl }}/images/0a871252f673b9a88eebad5b9f7b5ee8.png" />
+    <img src="{{ site.baseurl }}/images/dates.png" />
 </p>
 
 <p>

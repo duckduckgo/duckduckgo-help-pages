@@ -20,4 +20,4 @@ order: 706
     Place search results are powered by <a href="https://www.tripadvisor.com/">Tripadvisor</a>.
 </p>
 
-<img src="{{ site.baseurl }}/images/map-with-tripadvisor.jpg" />
+<img src="{{ site.baseurl }}/images/map-with-tripadvisor.png" />

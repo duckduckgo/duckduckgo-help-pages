@@ -7,9 +7,9 @@ order: 708
 If news search results are particularly relevant for your search, they should
 appear automatically in the search results as traditional links or as links
 within our news module, for example, [weekend box office][1]. If you add the
-word *news* to your search, more news search results should appear
+word _news_ to your search, more news search results should appear
 automatically, for example, [cat news][2]. If not enough news results are
-appearing automatically, you can get more by clicking *News* under the search
+appearing automatically, you can get more by clicking _News_ under the search
 box, for example, [Philadelphia][3].
 
 If you want to narrow your news search to a particular media outlet, the best
@@ -21,7 +21,7 @@ are bangs for most major media outlets. The full list of bangs are on the
 
 For more info on news rankings, please see our [News Rankings][5] page.
 
-![Screenshot of news results]({{ site.baseurl }}{% link images/news.jpg %})
+![Screenshot of news results]({{ site.baseurl }}{% link images/news.png %})
 
 [1]: https://duckduckgo.com/?q=weekend+box+office
 [2]: https://duckduckgo.com/?q=cat+news
