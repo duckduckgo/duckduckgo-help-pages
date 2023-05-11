@@ -13,6 +13,6 @@ order: 281
 </p>
 
 <ul>
-    <li><a href="https://help.duckduckgo.com/duckduckgo-help-pages/settings/adblockers/">disabling ad blockers</a> so you see our <a href="https://help.duckduckgo.com/duckduckgo-help-pages/company/advertising-and-affiliates/">private ads</a>;</li>
+    <li><a href="https://help.duckduckgo.com/duckduckgo-help-pages/settings/adblockers/">disabling ad blockers</a> so you see our <a href="https://help.duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money/">private ads</a>;</li>
     <li><a href="https://duckduckgo.com/spread">telling friends and family</a> about DuckDuckGo.</li>
 </ul>

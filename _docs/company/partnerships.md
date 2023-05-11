@@ -4,7 +4,7 @@ category: Company
 order: 74
 ---
 
-For information on ads please go [here.](/company/advertising-and-affiliates)
+For information on ads please go [here.](/company/how-duckduckgo-makes-money)
 
 We're always looking for innovative ways to improve and [spread DuckDuckGo](https://duckduckgo.com/spread). Below lists the main areas where we partner and guidelines for using our technology.
 
