@@ -1,7 +1,9 @@
 ---
-title: Smarter Encryption
-category: Privacy
-order: 242
+title: DuckDuckGo Smarter Encryption
+nav_title: Smarter Encryption
+description: DuckDuckGo never tracks you. And when you leave our search engine and use our apps or extensions to browse other sites, we aim to protect your privacy as much as possible.
+category: DuckDuckGo Web Browsing Privacy
+order: 200
 ---
 
 At DuckDuckGo, we don’t track you, ever. That’s our [privacy policy](https://duckduckgo.com/privacy) in a nutshell. For example, we do not create unique cookies and, more generally, architect our product so that we do not even have the ability to create a search or browsing history for any individual — it’s privacy by design.

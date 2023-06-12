@@ -1,6 +1,7 @@
 ---
 title: Microsoft reklāmas DuckDuckGo privātajā meklēšanā
-category: Translated Microsoft Ads Notice
+category: Legal
+sub_category: Translated Microsoft Ads Notice
 order: 815
 excluded_in_search: true
 ---

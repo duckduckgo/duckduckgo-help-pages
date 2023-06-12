@@ -1,7 +1,9 @@
 ---
-title: Favicons
-category: Privacy
-order: 244
+title: How DuckDuckGo keeps favicons anonymous
+nav_title: Anonymous Favicons
+description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
+category: DuckDuckGo Search Privacy
+order: 1000
 ---
 
 Within [DuckDuckGo Search](https://duckduckgo.com) we show favicons (small website logos) for a better user experience. These favicons are requested from our servers rather than from websites directly, because it can be surprisingly complicated to locate a favicon for a website — they can be stored in a variety of locations and in a variety of formats. We've developed our behind-the-scenes service to understand these edge cases and simplify retrieval within our search engine.

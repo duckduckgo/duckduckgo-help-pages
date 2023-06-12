@@ -1,7 +1,9 @@
 ---
-title: Dates
-category: Features
-order: 716
+title: How to sort DuckDuckGo search results by date
+nav_title: Sort Results by Date
+description: Learn how to use advanced sorting features on DuckDuckGo Private Search to get the search results you want.
+category: DuckDuckGo Search Results
+order: 500
 ---
 
 <p>

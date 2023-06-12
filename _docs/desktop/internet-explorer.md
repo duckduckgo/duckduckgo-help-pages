@@ -1,7 +1,8 @@
 ---
-title: Internet Explorer
-category: Desktop
-order: 2
+layout: redirect
+sitemap: false
+excluded_in_search: true
+redirect: /desktop/adding-duckduckgo-to-your-browser
 ---
 
 <h2>Making DuckDuckGo the Default Search Engine (Recommended)</h2>

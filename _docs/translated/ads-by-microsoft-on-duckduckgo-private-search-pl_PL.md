@@ -1,6 +1,7 @@
 ---
 title: Reklamy firmy Microsoft w chroniącej prywatność wyszukiwarce DuckDuckGo
-category: Translated Microsoft Ads Notice
+category: Legal
+sub_category: Translated Microsoft Ads Notice
 order: 818
 excluded_in_search: true
 ---

@@ -1,7 +1,9 @@
 ---
-title: Number of Results
-category: Results
-order: 411
+title: Why doesn't DuckDuckGo Search display the number of results?
+nav_title: Number of Results
+description: Find answers to this and more DuckDuckGo frequently asked questions.
+category: DuckDuckGo Search Results
+order: 1200
 ---
 
 <p>

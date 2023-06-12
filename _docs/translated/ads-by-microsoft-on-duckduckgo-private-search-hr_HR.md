@@ -1,6 +1,7 @@
 ---
 title: Microsoftovi oglasi na DuckDuckGo Private Search
-category: Translated Microsoft Ads Notice
+category: Legal
+sub_category: Translated Microsoft Ads Notice
 order: 809
 excluded_in_search: true
 ---

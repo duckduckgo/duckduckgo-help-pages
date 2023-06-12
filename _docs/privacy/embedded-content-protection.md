@@ -1,7 +1,9 @@
 ---
-title: Embedded Social Media Protection
-category: Privacy
-order: 90
+title: DuckDuckGo Embedded Social Media Protection
+nav_title: Embedded Social Media Protection
+description: DuckDuckGo never tracks you. And when you leave our search engine and use our apps or extensions to browse other sites, we aim to protect your privacy as much as possible.
+category: DuckDuckGo Web Browsing Privacy
+order: 300
 ---
 
 When you visit a website that contains embedded content from social media sites (such as videos, posts, comments, or login buttons), that content often includes tracking code that those social media companies can use to link your user or device information (e.g., your IP address and browser details) with your browsing history.

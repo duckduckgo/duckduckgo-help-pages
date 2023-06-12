@@ -1,7 +1,9 @@
 ---
-title: Anonymous Localized Results
-category: Privacy
-order: 99
+title: How DuckDuckGo keeps your local search results anonymous
+nav_title: How We Keep Local Results Anonymous
+description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
+category: DuckDuckGo Search Privacy
+order: 200
 ---
 
 <p>

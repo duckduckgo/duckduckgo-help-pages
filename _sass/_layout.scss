@@ -290,6 +290,16 @@ nav > ul {
         padding-left: $space;
     }
 
+    &.second-level>a {
+        line-height: 1.5;
+        font-weight: 600;
+        padding-left: $space * 2;
+    }
+
+    &.second-level>ul>li>a {
+        padding-left: $space * 3;
+    }
+
     .nav-open nav:not(.full-navigation) & > ul {
         display: initial;
     }

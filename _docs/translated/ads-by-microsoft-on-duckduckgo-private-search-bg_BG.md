@@ -1,6 +1,7 @@
 ---
 title: Реклами от Microsoft при Частно търсене с DuckDuckGo
-category: Translated Microsoft Ads Notice
+category: Legal
+sub_category: Translated Microsoft Ads Notice
 order: 800
 excluded_in_search: true
 ---

@@ -1,7 +1,9 @@
 ---
-title: Contact Us
+title: Contact DuckDuckGo
+nav_title: Contact Us
+description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
 category: Company
-order: 282
+order: 700
 ---
 
 -   If you have feedback regarding our search results, or think you’ve encountered results that look suspicious, please use the “Share Feedback” button located at the bottom of the search results page and follow the prompts. You can also send feedback about specific instant answers where a corresponding feedback option is shown.

@@ -1,7 +1,9 @@
 ---
-title: Microsoft Edge
-category: Desktop
-order: 2
+title: How to get the DuckDuckGo Edge extension
+nav_title: Get the DuckDuckGo Edge extension
+description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
+category: How To Get DuckDuckGo
+order: 600
 ---
 
 <h2>Installing Our Add-On</h2>

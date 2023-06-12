@@ -1,7 +1,9 @@
 ---
-title: Safari (iOS)
-category: Mobile
-order: 35
+title: How to add DuckDuckGo to Safari on mobile
+nav_title: Add DuckDuckGo to Safari on mobile
+description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
+category: How To Get DuckDuckGo
+order: 800
 ---
 
 > <a href="{{ site.baseurl }}/desktop/safari">Did you mean OS X Safari instead?</a>

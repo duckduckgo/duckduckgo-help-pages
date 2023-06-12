@@ -1,9 +1,10 @@
 ---
-title: iOS
-category: Mobile
-order: 31
+title: How to get the DuckDuckGo app on iOS
+nav_title: Get the DuckDuckGo app on iOS
+description: The free private browser from DuckDuckGo. Get seamless protection while you search and browse, plus access to tracking protection for emails you receive.
+category: How To Get DuckDuckGo
+order: 100
 ---
-
 
 <style>
     .screenshots {

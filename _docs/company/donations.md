@@ -1,7 +1,8 @@
 ---
-title: Can I Donate to DuckDuckGo?
+title: Can I donate to DuckDuckGo?
+description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
 category: Company
-order: 281
+order: 600
 ---
 
 <p>

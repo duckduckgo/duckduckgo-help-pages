@@ -1,17 +1,23 @@
+{% if page.external_redirect != true %}
+    {% assign redirect_url = page.redirect | prepend: site.baseurl %}
+{% else %}
+    {% assign redirect_url = page.redirect %}
+{% endif %}
+
 <html>
 
 <head>
     <meta charset="utf-8" />
-    <meta http-equiv="refresh" content="1;url={{ site.baseurl }}{{ page.redirect }}" />
-    <link rel="canonical" href="{{ site.baseurl }}{{ page.redirect }}" />
+    <meta http-equiv="refresh" content="1;url={{ redirect_url }}" />
+    <link rel="canonical" href="{{ redirect_url }}" />
     <script type="text/javascript">
-        window.location.href = "{{ site.baseurl }}{{ page.redirect }}"
+        window.location.href = "{{ redirect_url }}"
     </script>
     <title>Page Redirection</title>
 </head>
 
 <body>
-    If you are not redirected automatically, follow <a href='{{ site.baseurl }}{{ page.redirect }}'>this link</a>.
+    If you are not redirected automatically, follow <a href='{{ redirect_url }}'>this link</a>.
 </body>
 
 </html>

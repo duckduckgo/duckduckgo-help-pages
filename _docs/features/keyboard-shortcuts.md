@@ -1,7 +1,9 @@
 ---
-title: Keyboard Shortcuts
-category: Features
-order: 707
+title: How to use keyboard shortcuts on DuckDuckGo Search
+nav_title: Keyboard Shortcuts
+description: Learn how to use keyboard shortcuts for DuckDuckGo Private Search.
+category: DuckDuckGo Search Results
+order: 800
 ---
 
 <p>

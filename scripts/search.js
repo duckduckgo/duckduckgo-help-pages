@@ -86,6 +86,7 @@ layout: null
         this.field("category");
         this.field("url");
         this.field("content");
+        this.field("layout");
     });
 
     var query = decodeURIComponent((getQueryVariable("q") || "").replace(/\+/g, "%20")),
