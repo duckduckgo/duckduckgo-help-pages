@@ -26,8 +26,8 @@ If you have any questions about applying these guidelines in your specific situa
 
 We have many partnerships with apps, browsers and distributions that include us as a search option:
 
--   [Browsers](/desktop/other-browsers)
--   [Linux distributions](/desktop/linux-distributions)
+-   [Browsers](/desktop/adding-duckduckgo-to-your-browser)
+-   Linux distributions
 -   [iOS](/mobile/ios)
 -   [Android](/mobile/android)
 

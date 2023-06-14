@@ -22,9 +22,6 @@ order: 300
         <a href="{{ site.baseurl }}/desktop/firefox">Firefox</a> (<a href="https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/">extension direct link</a>)
     </li>
     <li>
-        <a href="{{ site.baseurl }}/desktop/internet-explorer">Internet Explorer</a>
-    </li>
-    <li>
         <a href="{{ site.baseurl }}/desktop/microsoft-edge">Microsoft Edge</a> (<a href="https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk">extension direct link</a>)
     </li>
     <li>
