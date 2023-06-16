@@ -1,7 +1,9 @@
 ---
-title: Local Results (Mobile)
-category: Results
-order: 411
+title: How to improve your local search results on DuckDuckGo (mobile)
+nav_title: Improve Local Results on Mobile
+description: Learn how to adjust settings for DuckDuckGo Private Search to get the search results you want.
+category: DuckDuckGo Search Results
+order: 300
 ---
 
 <p>

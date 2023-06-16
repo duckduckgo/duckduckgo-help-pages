@@ -1,7 +1,9 @@
 ---
-title: Opera
-category: Desktop
-order: 8
+title: How to get the DuckDuckGo Opera extension
+nav_title: Get the DuckDuckGo Opera extension
+description: "The DuckDuckGo extension offers seamless privacy protection: tracker blocking, cookie protection, private search, and much more."
+category: How To Get DuckDuckGo
+order: 1000
 ---
 
 <h2>

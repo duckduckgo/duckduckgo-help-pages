@@ -1,7 +1,9 @@
 ---
-title: DuckDuckGo Search Syntax
-category: Results
-order: 401
+title: How to use advanced syntax on DuckDuckGo Search
+nav_title: Advanced Search Syntax
+description: Learn how to use syntax on DuckDuckGo Private Search to get the search results you want.
+category: DuckDuckGo Search Results
+order: 700
 ---
 
 <p>DuckDuckGo supports search syntax you can use to fine-tune your queries.</p>

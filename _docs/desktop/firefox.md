@@ -1,7 +1,9 @@
 ---
-title: Firefox
-category: Desktop
-order: 1
+title: How to get the DuckDuckGo Firefox extension
+nav_title: Get the DuckDuckGo Firefox extension
+description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
+category: How To Get DuckDuckGo
+order: 400
 ---
 
 > <a class="btn" href="{{ site.baseurl }}/mobile/firefox-android">Did you mean Firefox Mobile instead?</a>
@@ -27,7 +29,6 @@ order: 1
 <h2>Setting DuckDuckGo as Your Homepage</h2>
 Drag <a href="https://duckduckgo.com">this link</a> to the home icon in the
 browser toolbar.
-
 
 <h2>Removing an Add-On</h2>
 <ol>

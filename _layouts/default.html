@@ -45,17 +45,38 @@
 
             <ul>
                 {% assign grouped = site.docs | where_exp:"item", "item.layout != 'redirect'" | group_by: 'category' %}
-                {% for group in grouped %}
-                <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
-                    {% assign items = group.items | sort: 'order' %}
-                    <a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
-                    <ul>
-                        {% for item in items %}
-                        <li class="nav-item {% if item.url == page.url %}current page{% endif %}"><a
-                                href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
-                        {% endfor %}
-                    </ul>
-                </li>
+                {% for category in site.categories_order %}
+                    {% assign group = grouped | where: 'name', category | first %}
+                    {% if group %}
+                    <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
+                        {% assign items = group.items | where_exp:"item", "item.sub_category == undefined" | sort: 'order' %}
+                        <a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
+                        <ul>
+                            {% for item in items %}
+                            <li class="nav-item {% if item.url == page.url %}current page{% endif %}"><a
+                                    href="{{ site.baseurl }}{{ item.url }}">
+                                    {% if item.nav_title %}{{ item.nav_title }}{% else %}{{ item.title }}{% endif %}
+                                </a></li>
+                            {% endfor %}
+
+                            <!-- Sub-categories -->
+                            {% assign sub_groups = site.docs | where_exp:"item", "item.category == category"| where_exp:"item", "item.sub_category" | group_by: 'sub_category' %}
+                            {% for sub_group in sub_groups %}
+                            <li class="nav-item second-level {% if sub_group.name == page.sub_category %}current{% endif %}">
+                                <a href="{{ site.baseurl }}{{ sub_group.items.first.url }}">{{ sub_group.name }}</a>
+                                <ul>
+                                    {% for item in sub_group.items %}
+                                    <li class="nav-item {% if item.url == page.url %}current page{% endif %}"><a
+                                            href="{{ site.baseurl }}{{ item.url }}">
+                                            {% if item.nav_title %}{{ item.nav_title }}{% else %}{{ item.title }}{% endif %}
+                                        </a></li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    {% endif %}
                 {% endfor %}
             </ul>
         </nav>
@@ -63,7 +84,10 @@
 
     <section class="main">
         <div class="page-header">
-            <h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
+            <h2>
+                {% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}
+                {% if page.sub_category %} / {{ page.sub_category }}{% endif %}
+            </h2>
             <h3>{{ page.title }}</h3>
         </div>
         <article class="content">

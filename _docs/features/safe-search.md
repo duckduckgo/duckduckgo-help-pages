@@ -1,7 +1,9 @@
 ---
-title: Safe Search
-category: Features
-order: 721
+title: How to use the Safe Search setting to adjust adult content in DuckDuckGo search results
+nav_title: Safe Search
+description: Learn how to use advanced filtering features on DuckDuckGo Private Search to get the search results you want.
+category: DuckDuckGo Search Results
+order: 600
 ---
 
 <p>

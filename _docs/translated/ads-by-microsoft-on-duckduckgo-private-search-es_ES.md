@@ -1,6 +1,7 @@
 ---
 title: Anuncios de Microsoft en las búsquedas privadas de DuckDuckGo
-category: Translated Microsoft Ads Notice
+category: Legal
+sub_category: Translated Microsoft Ads Notice
 order: 805
 excluded_in_search: true
 ---

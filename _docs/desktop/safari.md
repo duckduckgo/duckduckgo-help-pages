@@ -1,7 +1,9 @@
 ---
-title: Safari
-category: Desktop
-order: 3
+title: How to get the DuckDuckGo Safari extension
+nav_title: Get the DuckDuckGo Safari extension
+description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
+category: How To Get DuckDuckGo
+order: 700
 ---
 
 > <a class="button" href="{{ site.baseurl }}/mobile/safari-ios">Did you mean iOS Safari instead?</a>
@@ -34,6 +36,7 @@ order: 3
     <li>
         Click <em>DuckDuckGo</em> under the <em>Search engine</em> dropdown.
     </li>
+
 </ol>
 
 <h2>Installing Our Extension</h2>
@@ -62,4 +65,5 @@ order: 3
     <li>
         Click <em>Uninstall</em> for our extension.
     </li>
+
 </ol>

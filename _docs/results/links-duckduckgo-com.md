@@ -1,7 +1,9 @@
 ---
-title: links.duckduckgo.com
-category: Results
-order: 420
+title: What does the ‘links.duckduckgo.com’ domain do?
+nav_title: About the ‘links.duckduckgo.com’ Domain
+description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
+category: DuckDuckGo Search Privacy
+order: 800
 ---
 
 At DuckDuckGo, we don’t track you, ever. That’s our [privacy policy](https://duckduckgo.com/privacy) in a nutshell. For example, we do not create unique cookies and, more generally, architect our product so that we do not even have the ability to create a search or browsing history for any individual — it’s privacy by design.

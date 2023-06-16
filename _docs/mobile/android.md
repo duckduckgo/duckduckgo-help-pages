@@ -1,7 +1,9 @@
 ---
-title: Android
-category: Mobile
-order: 39
+title: How to get the DuckDuckGo app on Android
+nav_title: Get the DuckDuckGo app on Android
+description: The free private browser from DuckDuckGo. Get seamless protection while you search and browse, plus access to tracking protection for emails you receive.
+category: How To Get DuckDuckGo
+order: 200
 ---
 
 <head>
@@ -15,6 +17,7 @@ order: 39
             max-width: 220px;
         }
     </style>
+
 </head>
 <h2>DuckDuckGo Privacy Browser</h2>
 

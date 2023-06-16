@@ -1,7 +1,9 @@
 ---
-title: Adding DuckDuckGo to Your Browser
-category: Desktop
-order: 9
+title: How to add DuckDuckGo to your browser
+nav_title: Add DuckDuckGo to your browser
+description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
+category: How To Get DuckDuckGo
+order: 300
 ---
 
 <p>
@@ -18,9 +20,6 @@ order: 9
     </li>
     <li>
         <a href="{{ site.baseurl }}/desktop/firefox">Firefox</a> (<a href="https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/">extension direct link</a>)
-    </li>
-    <li>
-        <a href="{{ site.baseurl }}/desktop/internet-explorer">Internet Explorer</a>
     </li>
     <li>
         <a href="{{ site.baseurl }}/desktop/microsoft-edge">Microsoft Edge</a> (<a href="https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk">extension direct link</a>)

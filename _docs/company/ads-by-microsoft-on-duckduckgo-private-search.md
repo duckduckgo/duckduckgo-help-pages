@@ -1,7 +1,8 @@
 ---
 title: Ads by Microsoft on DuckDuckGo Private Search
-category: Company
-order: 48
+description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
+category: DuckDuckGo Search Privacy
+order: 1100
 ---
 
 **Viewing ads is privacy protected by DuckDuckGo.**

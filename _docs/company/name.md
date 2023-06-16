@@ -1,7 +1,8 @@
 ---
-title: Name
+title: Where is the name DuckDuckGo from?
+description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
 category: Company
-order: 46
+order: 300
 ---
 
 <p>

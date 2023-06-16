@@ -38,11 +38,24 @@ collections:
         permalink: /:path/
         output: true
 
+categories_order:
+    - Company
+    - How To Get DuckDuckGo
+    - DuckDuckGo Search Results
+    - DuckDuckGo Search Privacy
+    - DuckDuckGo Web Browsing Privacy
+    - DuckDuckGo Email Protection
+    - DuckDuckGo App Tracking Protection
+    - Misconceptions About DuckDuckGo
+    - Legal
+
 defaults:
     - scope:
           path: ""
       values:
           layout: default
+          image: /logo.v109.svg
+          description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
     - scope:
           path: ""
           type: "docs"

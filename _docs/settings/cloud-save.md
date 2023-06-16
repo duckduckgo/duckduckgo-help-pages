@@ -1,7 +1,9 @@
 ---
-title: Cloud Save
-category: Settings
-order: 66
+title: How to use Cloud Save to save and sync your DuckDuckGo Search settings
+nav_title: Save Settings with Cloud Save
+description: Learn how to save and sync your settings for DuckDuckGo Private Search.
+category: DuckDuckGo Search Results
+order: 1000
 ---
 
 <h4>Where are my settings stored?</h4>

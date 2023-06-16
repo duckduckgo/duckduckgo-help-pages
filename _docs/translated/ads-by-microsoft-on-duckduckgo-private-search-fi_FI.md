@@ -1,6 +1,7 @@
 ---
 title: Microsoftin mainokset DuckDuckGo:n yksityisessä haussa
-category: Translated Microsoft Ads Notice
+category: Legal
+sub_category: Translated Microsoft Ads Notice
 order: 807
 excluded_in_search: true
 ---

@@ -1,6 +1,7 @@
 ---
 title: Reclame de la Microsoft în funcția de căutare privată DuckDuckGo
-category: Translated Microsoft Ads Notice
+category: Legal
+sub_category: Translated Microsoft Ads Notice
 order: 820
 excluded_in_search: true
 ---

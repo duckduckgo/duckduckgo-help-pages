@@ -1,6 +1,7 @@
 ---
 title: Auglýsingar frá Microsoft á DuckDuckGo einkaleit
-category: Translated Microsoft Ads Notice
+category: Legal
+sub_category: Translated Microsoft Ads Notice
 order: 811
 excluded_in_search: true
 ---

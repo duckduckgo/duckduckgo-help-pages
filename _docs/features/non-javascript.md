@@ -1,7 +1,9 @@
 ---
-title: Non-JavaScript
-category: Features
-order: 725
+title: How to use the non-JavaScript version of DuckDuckGo Search
+nav_title: Non-JavaScript Search
+description: Learn how to use the non-JavaScript versions of DuckDuckGo Private Search.
+category: DuckDuckGo Search Privacy
+order: 900
 ---
 
 <p>

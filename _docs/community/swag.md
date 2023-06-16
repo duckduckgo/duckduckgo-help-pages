@@ -1,7 +1,8 @@
 ---
-title: DuckDuckGo Gear
-category: Community
-order: 45
+title: Where can I buy DuckDuckGo gear?
+description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
+category: Company
+order: 400
 ---
 
 <p>

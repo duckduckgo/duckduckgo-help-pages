@@ -1,7 +1,8 @@
 ---
-title: Advertise on DuckDuckGo Search
-category: Company
-order: 50
+title: How To Advertise on DuckDuckGo Search
+description: "DuckDuckGo owns the #2 position in mobile market share in the US, and 18 other markets."
+category: DuckDuckGo Search Results
+order: 1500
 ---
 
 DuckDuckGo delivers [privacy respecting advertising](/company/ads-by-microsoft-on-duckduckgo-private-search) to users while providing excellent return on investment for advertisers.
