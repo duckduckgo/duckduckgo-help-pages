@@ -8,7 +8,7 @@ order: 700
 
 -   If you have feedback regarding our search results, or think you’ve encountered results that look suspicious, please use the “Share Feedback” button located at the bottom of the search results page and follow the prompts. You can also send feedback about specific instant answers where a corresponding feedback option is shown.
 -   Media inquiries: please visit our [press page](https://duckduckgo.com/press) or reach out to [press@duckduckgo.com](mailto:press@duckduckgo.com).
--   Business partnership inquiries: please visit our [partnerships page](/company/partnerships).
+-   Business partnership inquiries: please visit our <a href="{{ site.baseurl }}/company/partnerships">partnerships page</a>.
 -   Legal inquiries: please contact [legal@duckduckgo.com](mailto:legal@duckduckgo.com).
 -   DMCA complaints: please send requests to [dmca@duckduckgo.com](mailto:dmca@duckduckgo.com).
 -   For user data rights under privacy laws or regulations (e.g., GDPR), please contact [privacy@duckduckgo.com](mailt:privacy@duckduckgo.com). Inquiries sent to other DuckDuckGo email addresses will not receive a separate response.

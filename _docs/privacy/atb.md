@@ -24,4 +24,4 @@ To be clear, this means **we cannot ever tell what individual people are doing s
 
 We have developed these systems from scratch, instead of using third-party services, because of our privacy promise not to track you. We're proud to be able to improve our site for you in a completely anonymous way!
 
-If you have any concerns, please feel free to [contact us](https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/).
+If you have any concerns, please feel free to <a href="{{ site.baseurl }}/company/contact-us/">contact us</a>.

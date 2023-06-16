@@ -6,7 +6,7 @@ category: DuckDuckGo Web Browsing Privacy
 order: 100
 ---
 
-DuckDuckGo [never tracks you][no-tracking]. And when you leave our search engine and use our apps or extensions to browse other sites, we aim to protect your privacy as much as possible. To be effective, browser tracking protection needs to continually evolve to mitigate how trackers attempt to evade specific protections. That’s why we offer multiple types of web tracking protections. Other browsers offer some of these by default, like cookie and fingerprinting protections, but we also provide many other protections that most browsers do not offer by default, like [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection], [Global Privacy Control][global-privacy-control-gpc], [Link Tracking Protection][link-tracking-protection], [CNAME Cloaking Protection][cname-cloaking-protection], [Google AMP Protection][google-amp-protection], and more, which all help cover different tracking angles.
+DuckDuckGo <a href="{{ site.baseurl }}/privacy/no-tracking/">never tracks you</a>. And when you leave our search engine and use our apps or extensions to browse other sites, we aim to protect your privacy as much as possible. To be effective, browser tracking protection needs to continually evolve to mitigate how trackers attempt to evade specific protections. That’s why we offer multiple types of web tracking protections. Other browsers offer some of these by default, like cookie and fingerprinting protections, but we also provide many other protections that most browsers do not offer by default, like [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection], [Global Privacy Control][global-privacy-control-gpc], [Link Tracking Protection][link-tracking-protection], [CNAME Cloaking Protection][cname-cloaking-protection], [Google AMP Protection][google-amp-protection], and more, which all help cover different tracking angles.
 
 For example, most browsers’ default tracking protection focuses on cookie and fingerprinting protections that only restrict trackers after they load in your browser. Unfortunately, that level of protection leaves information like your IP address and other identifiers sent with loading requests vulnerable to profiling. We offer our [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection] to help address this vulnerability, which stops most 3rd-party trackers from loading in the first place, providing significantly more protection.
 
@@ -27,7 +27,7 @@ This protection is particularly difficult to provide without causing usability i
 
 Previously, we were limited in how we could apply our 3rd-Party Tracker Loading Protection on Microsoft tracking scripts due to a policy requirement related to our use of Bing as a source for our private search results. This is no longer the case and as of October 2022 we block Microsoft scripts from loading on 3rd-party websites in our browsing apps (MacOS, Windows, iOS, and Android) and in our browser extensions (Chrome, Firefox, Safari, Edge and Opera).
 
-Currently, if an advertiser wants to detect conversions for their own ads that are shown on DuckDuckGo via the `bat.bing.com` domain, [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection] will not block `bat.bing.com` requests from loading on the advertiser’s website following [DuckDuckGo ad clicks][ads-by-microsoft-on-duckduckgo-private-search], but these requests are blocked in all other contexts. This is because DuckDuckGo private search advertising is in partnership with Microsoft and some advertisers use this domain for conversion measurement. For anyone who wants to avoid this, it’s possible to disable ads in DuckDuckGo search settings. To eventually replace the reliance on `bat.bing.com` for evaluating ad effectiveness, we’ve started working on an architecture for private ad conversions that can be externally validated as non-profiling. [Read more on our blog][post-private-ad-conversions].
+Currently, if an advertiser wants to detect conversions for their own ads that are shown on DuckDuckGo via the `bat.bing.com` domain, [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection] will not block `bat.bing.com` requests from loading on the advertiser’s website following <a href="{{ site.baseurl }}/company/ads-by-microsoft-on-duckduckgo-private-search/">DuckDuckGo ad clicks</a>, but these requests are blocked in all other contexts. This is because DuckDuckGo private search advertising is in partnership with Microsoft and some advertisers use this domain for conversion measurement. For anyone who wants to avoid this, it’s possible to disable ads in DuckDuckGo search settings. To eventually replace the reliance on `bat.bing.com` for evaluating ad effectiveness, we’ve started working on an architecture for private ad conversions that can be externally validated as non-profiling. [Read more on our blog][post-private-ad-conversions].
 
 | Platform          | Support                                             |
 | ----------------- | --------------------------------------------------- |
@@ -177,7 +177,7 @@ By default, we “trim” (remove) some of the metadata in the “referrer heade
 
 When you visit a website that contains embedded content from social media companies (such as YouTube videos, Tweets, Facebook comments, or sign-in buttons), that content often includes tracking code that those companies use to link your user information (like IP address and browser details) with your browsing history.
 
-By default, we block social media embedded content from Facebook on [our list of content types][social-ctp-config], which includes: sign-in buttons, videos, comments, posts, pages, and groups. We plan to expand this protection to additional social media content, including YouTube videos. You can easily unblock a particular piece of content to view it if desired. While social media companies will receive some user information each time you unblock a piece of content, this protection will help reduce what they know about you overall by default. You can learn more about [Embedded Social Content Tracking Protection][embedded-content-protection]. This type of protection is not offered in most popular browsers by default.
+By default, we block social media embedded content from Facebook on [our list of content types][social-ctp-config], which includes: sign-in buttons, videos, comments, posts, pages, and groups. We plan to expand this protection to additional social media content, including YouTube videos. You can easily unblock a particular piece of content to view it if desired. While social media companies will receive some user information each time you unblock a piece of content, this protection will help reduce what they know about you overall by default. You can learn more about <a href="{{ site.baseurl }}/privacy/embedded-content-protection/">Embedded Social Content Tracking Protection</a>. This type of protection is not offered in most popular browsers by default.
 
 | Platform          | Support                                                                                                                                                                                                                                               |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -357,7 +357,7 @@ To get the privacy protections as described above, install the relevant DuckDuck
 
 If you use another Chromium-based browser like Vivaldi, you can usually install the [Chrome][product-chrome] version.
 
-For questions, comments, or concerns, please feel free to [contact us][contact-us].
+For questions, comments, or concerns, please feel free to <a href="{{ site.baseurl }}/company/contact-us/">contact us</a>.
 
 [//]: # "Links internal to this document."
 [3rd-party-tracker-loading-protection]: #3rd-party-tracker-loading-protection
@@ -368,11 +368,6 @@ For questions, comments, or concerns, please feel free to [contact us][contact-u
 [cname-cloaking-protection]: #cname-cloaking-protection
 [google-amp-protection]: #google-amp-protection
 [surrogates]: #surrogates
-[//]: # "Links internal to this help site"
-[no-tracking]: /duckduckgo-help-pages/privacy/no-tracking/
-[ads-by-microsoft-on-duckduckgo-private-search]: /duckduckgo-help-pages/company/ads-by-microsoft-on-duckduckgo-private-search/
-[embedded-content-protection]: /duckduckgo-help-pages/privacy/embedded-content-protection/
-[contact-us]: /duckduckgo-help-pages/company/contact-us/
 [//]: # "Spread Privacy blog post links"
 [post-tracker-radar]: https://spreadprivacy.com/duckduckgo-tracker-radar/
 [post-private-ad-conversions]: https://spreadprivacy.com/more-privacy-and-transparency/
