@@ -13,7 +13,7 @@ For example, most browsers’ default tracking protection focuses on cookie and 
 We created this page to explain how each of our web tracking protections works, how our protections work across supported platforms, and how they work together to provide overlapping protection. Our non-beta apps and extensions are also [open source][github-duckduckgo], which means that anyone can examine their source code and how our web tracking protections are coded. To identify trackers, we crawl the web with our [Tracker Radar][post-tracker-radar], which is also [open source][github-tracker-radar], as is our [list of trackers][github-list-of-trackers]. While no one can eliminate _all_ hidden tracking or _all_ profiling online, we aim to prevent most 3rd-party tracking through the overlapping protections described on this page.
 
 -   TOC
-    {:toc}
+{:toc}
 
 ## 3rd-Party Tracker Loading Protection
 
