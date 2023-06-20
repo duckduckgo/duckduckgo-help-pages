@@ -18,13 +18,13 @@ Our Smarter Encryption list is quite large: over 10 million sites and growing. D
 
 Here's how it works:
 
-1.  You click or navigate to an insecure (http) domain such as http://help.duckduckgo.com
-2.  The help.duckduckgo.com domain would first be looked up in your local list (the one on the device with the most trafficked sites) to see if it can be upgraded immediately.
-3.  If not, it will be converted to a SHA-1 hash: c3673b7f703ecd4890c81fb520b6697687276622 (see https://en.wikipedia.org/wiki/Hash\_function & https://en.wikipedia.org/wiki/SHA-1 for more details on how that conversion works)
-4.  The first four characters of this hash (c367) are sent to our anonymous smarter_encryption.js service. Our logs never contain IP addresses or other personal information, so just like anonymous queries on [DuckDuckGo Search](https://duckduckgo.com), we do not know anything about who is making these requests. Only you and your device know. Nevertheless, we added another layer of privacy protection to this anonymous service by only having your device send the first four characters of the hashed domain, such that in any case the service cannot tell what exact domain you are visiting.
-5.  The anonymous service sends back any hashed domains from the full Smarter Encryption list that match the first four characters of the hash sent (e.g. https://duckduckgo.com/smarter\_encryption.js?pv1=c367). It's possible that it will send back nothing (if nothing matches).
+1.  You click or navigate to an insecure (http) domain such as http://spreadprivacy.com
+2.  The spreadprivacy.com domain would first be looked up in your local list (the one on the device with the most trafficked sites) to see if it can be upgraded immediately.
+3.  If not, it will be converted to a SHA-1 hash: 194a8d7aa538455b8c3a2ff68dcd3a4c5d80743a (see https://en.wikipedia.org/wiki/Hash\_function & https://en.wikipedia.org/wiki/SHA-1 for more details on how that conversion works)
+4.  The first four characters of this hash (194a) are sent to our anonymous smarter_encryption.js service. Our logs never contain IP addresses or other personal information, so just like anonymous queries on [DuckDuckGo Search](https://duckduckgo.com), we do not know anything about who is making these requests. Only you and your device know. Nevertheless, we added another layer of privacy protection to this anonymous service by only having your device send the first four characters of the hashed domain, such that in any case the service cannot tell what exact domain you are visiting.
+5.  The anonymous service sends back any hashed domains from the full Smarter Encryption list that match the first four characters of the hash sent (e.g. https://duckduckgo.com/smarter\_encryption.js?pv1=194a). It's possible that it will send back nothing (if nothing matches).
 6.  Your device looks through the returned hashed domains to see if the hash of the domain you are visiting exactly matches one of hashed domains returned. If so, it is upgraded!
 
 **To be clear, this means that your searches and browsing history are still completely anonymous.**
 
-If you have any concerns, please feel free to [contact us](https://help.duckduckgo.com/duckduckgo-help-pages/company/contact-us/), or join the discussion in the [DuckDuckGo subreddit](https://reddit.com/r/duckduckgo).
+If you have any concerns, please feel free to <a href="{{ site.baseurl }}/company/contact-us/">contact us</a>, or join the discussion in the [DuckDuckGo subreddit](https://reddit.com/r/duckduckgo).
