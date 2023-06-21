@@ -354,7 +354,7 @@ To get the privacy protections as described above, install the relevant DuckDuck
 -   **iPhone & iPad:** [get the app][product-ios] \| [view open source code][github-ios]
 -   **Android:** [get the app][product-android] \| [view open source code][github-android]
 -   **Mac:** [get the app][product-mac-download] \| [read the announcement][product-mac]
--   **Windows:** Visit app settings in DuckDuckGo for iOS or Android to join the private waitlist and get an invite code to try the beta.
+-   **Windows:** [get the app][product-windows-download] \| [read the announcement][product-windows]
 
 If you use another Chromium-based browser like Vivaldi, you can usually install the [Chrome][product-chrome] version.
 
@@ -382,7 +382,9 @@ For questions, comments, or concerns, please feel free to <a href="{{ site.baseu
 [product-ios]: https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361
 [product-android]: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android
 [product-mac]: https://spreadprivacy.com/introducing-duckduckgo-for-mac/
+[product-windows]: https://spreadprivacy.com/windows-browser-open-beta/
 [product-mac-download]: https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361
+[product-windows-download]: https://duckduckgo.com/windows
 [//]: # "DuckDuckGo GitHub links"
 [github-duckduckgo]: https://github.com/duckduckgo
 [github-tracker-radar]: https://github.com/duckduckgo/tracker-radar
