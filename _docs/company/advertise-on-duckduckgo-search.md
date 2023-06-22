@@ -1,5 +1,5 @@
 ---
-title: How To Advertise on DuckDuckGo Search
+title: Advertise on DuckDuckGo Search
 description: "DuckDuckGo owns the #2 position in mobile market share in the US, and 18 other markets."
 category: DuckDuckGo Search Results
 order: 1500
