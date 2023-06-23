@@ -23,7 +23,7 @@ order: 700
         </tr>
         <tr>
             <td><code>"cats and dogs"</code></td>
-            <td>Results for exact term "cats and dogs". If no results are found, we'll try to show related results.</td>
+            <td>Results for exact term "cats and dogs". If no or few results are found, we'll try to show related results. You can also try +"cats and dogs" for an alternate algorithm that on average is worse but may work better in certain circumstances.</td>
         </tr>
         <tr>
             <td><code>cats -dogs</code></td>
@@ -53,10 +53,12 @@ order: 700
         </tr>
         <tr>
             <td><code>inurl:cats</code></td>
-            <td>Page url includes the word "cats"</td>
+            <td>Page URL includes the word "cats"</td>
         </tr>
     </tbody>
 </table>
+
+<p>If advanced syntax was used in a query and no results are found, we’ll try to show related results.</p>
 
 <i>Please note: we are aware some of our advanced syntax isn't operating 100% correctly on all queries and are actively working on it. It is unfortunately a non-trivial issue given we get our private results from a <a href="{{ site.baseurl }}/results/sources">variety of sources</a>.</i>
 
