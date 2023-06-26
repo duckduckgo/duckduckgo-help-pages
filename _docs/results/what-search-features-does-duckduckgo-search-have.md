@@ -1,6 +1,6 @@
 ---
 title: What search features does DuckDuckGo Search have?
-nav_title: What features does DuckDuckGo Search have?
+nav_title: Search Features
 description: DuckDuckGo Search has all the features you’d expect from a search engine, including image, video, news, instant answers, and more.
 category: DuckDuckGo Search Results
 order: 50
