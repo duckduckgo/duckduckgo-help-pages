@@ -23,7 +23,11 @@ order: 700
         </tr>
         <tr>
             <td><code>"cats and dogs"</code></td>
-            <td>Results for exact term "cats and dogs". If no or few results are found, we'll try to show related results. You can also try +"cats and dogs" for an alternate algorithm that on average is worse but may work better in certain circumstances.</td>
+            <td>Results for exact term "cats and dogs". If no or few results are found, we'll try to show related results.</td>
+        </tr>
+        <tr>
+            <td><code>~"cats and dogs"</code></td>
+            <td>Experimental syntax: more results that are semantically similar to "cats and dogs", like "cats & dogs" and "dogs and cats" in addition to "cats and dogs".</td>
         </tr>
         <tr>
             <td><code>cats -dogs</code></td>
