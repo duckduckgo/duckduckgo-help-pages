@@ -3,7 +3,7 @@ title: How to get the DuckDuckGo Chrome extension
 nav_title: Get the DuckDuckGo Chrome extension
 description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
 category: How To Get DuckDuckGo
-order: 900
+order: 550
 ---
 
 <h2>
