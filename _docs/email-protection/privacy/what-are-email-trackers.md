@@ -2,7 +2,8 @@
 title: What are email trackers?
 nav_title: What are email trackers?
 description: Companies embed trackers in images and links within email messages, letting them collect information like when you’ve opened a message, where you were when you opened it, and what device you were using.
-category: DuckDuckGo Email Protection Privacy
+category: DuckDuckGo Email Protection
+sub_category: Privacy
 order: 100
 ---
 

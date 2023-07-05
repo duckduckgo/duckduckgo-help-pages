@@ -2,7 +2,8 @@
 title: Do private Duck Addresses expire?
 nav_title: Do private Duck Addresses expire?
 description: No, private Duck Addresses do not expire.
-category: DuckDuckGo Email Protection Duck Addresses
+category: DuckDuckGo Email Protection
+sub_category: Duck Addresses
 order: 800
 ---
 

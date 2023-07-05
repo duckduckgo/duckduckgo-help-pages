@@ -2,7 +2,8 @@
 title: How do I reply from my Duck Addresses?
 nav_title: How do I reply from my Duck Addresses?
 description: Replying to any email sent to one of your Duck Addresses should automatically send the reply from that Duck address.
-category: DuckDuckGo Email Protection Duck Addresses
+category: DuckDuckGo Email Protection
+sub_category: Duck Addresses
 order: 200
 ---
 

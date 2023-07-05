@@ -2,7 +2,8 @@
 title: Does DuckDuckGo save my email messages?
 nav_title: Does DuckDuckGo save my messages?
 description: No. DuckDuckGo does not save the content of Email Protection users’ emails.
-category: DuckDuckGo Email Protection Privacy
+category: DuckDuckGo Email Protection
+sub_category: Privacy
 order: 200
 ---
 

@@ -2,7 +2,8 @@
 title: What are private Duck Addresses?
 nav_title: What are private Duck Addresses?
 description: "Private Duck Addresses are unique duck.com addresses that are automatically generated for you (example: avtzqdr@duck.com)."
-category: DuckDuckGo Email Protection Duck Addresses
+category: DuckDuckGo Email Protection
+sub_category: Duck Addresses
 order: 400
 ---
 

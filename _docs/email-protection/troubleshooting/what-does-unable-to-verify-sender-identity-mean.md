@@ -2,7 +2,8 @@
 title: Why am I getting an email message that says DuckDuckGo was unable to verify sender identity?
 nav_title: What does unable to verify sender identity mean?
 description: We follow DMARC industry standards to authenticate messages sent through our Email Protection service so we can let you know if a message's sender is unverified.
-category: DuckDuckGo Email Protection Troubleshooting
+category: DuckDuckGo Email Protection
+sub_category: Troubleshooting
 order: 700
 ---
 

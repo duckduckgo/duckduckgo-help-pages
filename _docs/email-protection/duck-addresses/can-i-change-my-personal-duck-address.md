@@ -2,7 +2,8 @@
 title: Can I change my personal Duck Address?
 nav_title: Can I change my personal Duck Address?
 description: Once created, personal Duck Addresses can’t be changed.
-category: DuckDuckGo Email Protection Duck Addresses
+category: DuckDuckGo Email Protection
+sub_category: Duck Addresses
 order: 1000
 ---
 

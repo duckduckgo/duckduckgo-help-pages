@@ -2,7 +2,8 @@
 title: How do I delete my DuckDuckGo Email Protection account?
 nav_title: How do I delete my account?
 description: Visit Email Protection Settings in a supported browser.
-category: DuckDuckGo Email Protection Troubleshooting
+category: DuckDuckGo Email Protection
+sub_category: Troubleshooting
 order: 900
 ---
 

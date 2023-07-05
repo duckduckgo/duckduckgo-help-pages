@@ -2,7 +2,8 @@
 title: Where can I see and manage my private Duck Addresses?
 nav_title: Where can I see and manage my private Duck Addresses?
 description: While there is no single place you can view and manage all your addresses, they can be managed individually through your inbox.
-category: DuckDuckGo Email Protection Duck Addresses
+category: DuckDuckGo Email Protection
+sub_category: Duck Addresses
 order: 1100
 ---
 

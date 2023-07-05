@@ -2,7 +2,8 @@
 title: How do I compose a new email from my personal Duck Address?
 nav_title: How do I compose a new email?
 description: The easiest way to compose a new email from your personal Duck Address is to reply to a message sent to it. You can also do so by using a special recipient address format.
-category: DuckDuckGo Email Protection Duck Addresses
+category: DuckDuckGo Email Protection
+sub_category: Duck Addresses
 order: 300
 ---
 

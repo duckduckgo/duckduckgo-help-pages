@@ -2,7 +2,8 @@
 title: How do I change my Email Protection forwarding address?
 nav_title: How do I change my Email Protection forwarding address?
 description: Your forwarding address can be changed from the Email Protection Settings “Account” tab in a supported browser.
-category: DuckDuckGo Email Protection Troubleshooting
+category: DuckDuckGo Email Protection
+sub_category: Troubleshooting
 order: 300
 ---
 
