@@ -6,36 +6,14 @@ category: How To Get DuckDuckGo
 order: 300
 ---
 
-<p>
-    We often receive requests to develop a Web browser and, although we've got our
-    hands tied with search, there are various ways to add DuckDuckGo to many
-    existing browsers, either manually or by installing our browser extension.
-</p>
+Visit your browser’s extension store to install our free Privacy Essentials extension:
 
-<p>To start, please select your browser from the list below:</p>
+-   [Chrome extension direct link](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) (<a href="{{ site.baseurl }}/desktop/chrome">instructions</a>)
+-   [Firefox extension direct link](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) (<a href="{{ site.baseurl }}/desktop/firefox">instructions</a>)
+-   [Edge extension direct link](https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk) (<a href="{{ site.baseurl }}/desktop/microsoft-edge">instructions</a>)
+-   [Opera extension direct link](https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/) (<a href="{{ site.baseurl }}/desktop/opera">instructions</a>)
+-   [Safari extension direct link](https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575) (<a href="{{ site.baseurl }}/desktop/safari">instructions</a>)
 
-<ul>
-    <li>
-        <a href="{{ site.baseurl }}/desktop/chrome">Chrome</a> (<a href="https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg">extension direct link</a>)
-    </li>
-    <li>
-        <a href="{{ site.baseurl }}/desktop/firefox">Firefox</a> (<a href="https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/">extension direct link</a>)
-    </li>
-    <li>
-        <a href="{{ site.baseurl }}/desktop/microsoft-edge">Microsoft Edge</a> (<a href="https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk">extension direct link</a>)
-    </li>
-    <li>
-        <a href="{{ site.baseurl }}/desktop/opera">Opera</a> (<a href="https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/">extension direct link</a>)
-    </li>
-    <li>
-        <a href="{{ site.baseurl }}/desktop/safari">Safari</a> (<a href="https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575">extension direct link</a>)
-    </li>
-</ul>
-<p>
-    If you use one of the above browsers, please click the linked browser name to see instructions for adding DuckDuckGo.
-</p>
+If you use one of the above browsers, please click the linked browser name to see instructions for adding DuckDuckGo.
 
-<p>
-    For integrating DuckDuckGo with other browsers,
-    <a href="{{ site.baseurl }}/desktop/other-browsers">check out the full list here</a>.
-</p>
+Alternatively, try our free web browser for {% include ddg-browser-os-list-linked.md %}. {% include browser-features.md %}
