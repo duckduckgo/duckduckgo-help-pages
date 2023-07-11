@@ -10,7 +10,7 @@ order: 500
 
 ## Installing our Android Add-On
 
--   DuckDuckGo Privacy Essentials add-on: Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking and encrypted website connections (where possible). <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">Learn more about our Web Tracking Protections</a>.
+-   [DuckDuckGo Privacy Essentials add-on](https://addons.mozilla.org/en-US/android/addon/duckduckgo-for-firefox/): Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking and encrypted website connections (where possible). <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">Learn more about our Web Tracking Protections</a>.
 
 ## Changing Your Search Engine to DuckDuckGo
 
