@@ -10,13 +10,13 @@ order: 75
 
 We don’t track you and we help you block other companies from tracking you.
 
-If you’re like most people on the internet, you use Google to search the web and Google Chrome to browse the web. That means by default Google can keep track of every single search you make and website you visit. DuckDuckGo is an independent Google alternative that also lets you search and browse the web, but we don’t track your searches or browsing history, and help you block other companies from trying to track you as well, all by default. That’s how DuckDuckGo protects your privacy in a nutshell.
+If you’re like most people on the Internet, you use Google to search the web and Google Chrome to browse the web. That means by default Google can keep track of every single search you make and website you visit. DuckDuckGo is an independent Google alternative that also lets you search and browse the web, but we don’t track your searches or browsing history, and help you block other companies from trying to track you as well, all by default. That’s how DuckDuckGo protects your privacy in a nutshell.
 
 **Detailed Answer:**
 
 Our product vision is to be the “easy button” for online privacy.
 
-Our free web browser for {% include ddg-browser-os-list-linked.md %} allows you to search and browse the internet just like Google search and Chrome, but comes packed with unique privacy protections working behind the scenes to protect your personal data and security. These overlapping protections work together seamlessly to give you more peace of mind about privacy harms like companies getting your personal information without your consent, creepy ads following you around, and unsettling content targeting.
+Our free web browser for {% include ddg-browser-os-list-linked.md %} allows you to search and browse the internet just like Google search and Chrome, but comes packed with unique privacy protections working behind the scenes to protect and secure your personal data. These overlapping protections work together seamlessly to give you more peace of mind about privacy harms like companies getting your personal information without your consent, creepy ads following you around, and unsettling content targeting.
 
 DuckDuckGo protects your privacy through a uniquely comprehensive set of privacy protections:
 

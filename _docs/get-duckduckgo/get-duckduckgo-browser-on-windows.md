@@ -6,9 +6,9 @@ category: How To Get DuckDuckGo
 order: 60
 ---
 
-[Click here](http://ttps://duckduckgo.com/windows) to download the DuckDuckGo Private Browser for Windows.
+[Click here](http://duckduckgo.com/windows) to download the DuckDuckGo Private Browser for Windows. (Requires Windows 10 or later.)
 
-Our free web browser for iOS, Android, Mac, and Windows is a privacy-protecting alternative to Google Chrome and Search. {% include browser-features.md %}
+Our free web browser for {% include ddg-browser-os-list-linked.md %} is a privacy-protecting alternative to Google Chrome and Search. {% include browser-features.md %}
 
 **Problems with installation?**
 
@@ -25,4 +25,4 @@ If you are getting an error message that says "Error parsing application package
 1. Once downloaded, open the DuckDuckGo MSIXbundle in Downloads
 1. Select Install
 
-Learn more about [DuckDuckGo for Mac](https://spreadprivacy.com/windows-browser-open-beta).
+Learn more about [DuckDuckGo for Windows](https://spreadprivacy.com/windows-browser-open-beta).
