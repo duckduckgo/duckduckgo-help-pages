@@ -10,4 +10,5 @@ Get the DuckDuckGo Private Browser from the [App Store](https://apps.apple.com/u
 
 Our free web browser for {% include ddg-browser-os-list-linked.md %} is a privacy-protecting alternative to Google Chrome and Search. {% include browser-features.md %}
 
-Read more about our [DuckDuckGo for iOS](https://duckduckgo.com/app).
+-   Learn more about our [DuckDuckGo Private Browser](https://duckduckgo.com/app).
+-   Review the DuckDuckGo Private Browser app listing in the [Apple App Store](https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361).

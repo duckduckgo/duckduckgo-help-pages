@@ -10,4 +10,5 @@ Get the DuckDuckGo Private Browser from [Google Play](https://play.google.com/st
 
 Our free web browser for {% include ddg-browser-os-list-linked.md %} is a privacy-protecting alternative to Google Chrome and Search. {% include browser-features.md %}
 
-Read more about our [DuckDuckGo for Android](https://duckduckgo.com/app).
+-   Learn more about our [DuckDuckGo Private Browser](https://duckduckgo.com/app).
+-   Review the DuckDuckGo Private Browser app listing in the [Google Play Store](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android).
