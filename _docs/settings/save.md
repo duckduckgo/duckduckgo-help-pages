@@ -1,5 +1,5 @@
 ---
-title: How DuckDuckGo keeps your search settings anonymous
+title: How DuckDuckGo Keeps Your Search Settings Anonymous
 nav_title: How We Save Settings Anonymously
 description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
 category: DuckDuckGo Search Privacy
