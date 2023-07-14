@@ -1,6 +1,6 @@
 ---
 title: How much does DuckDuckGo cost?
-description: DuckDuckGo Search and DuckDuckGo Private Browser are both free.
+description: DuckDuckGo Search, our browser extensions, and DuckDuckGo Private Browser are all free.
 category: How To Get DuckDuckGo
 order: 25
 ---
