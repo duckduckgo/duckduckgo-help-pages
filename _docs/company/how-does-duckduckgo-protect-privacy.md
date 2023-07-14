@@ -10,7 +10,7 @@ order: 75
 
 We don’t track you and we help you block other companies from tracking you.
 
-If you’re like most people on the Internet, you use Google to search the web and Google Chrome to browse the web. That means by default Google can keep track of every single search you make and website you visit. On those websites, other companies may also track you. DuckDuckGo is an independent Google alternative that also lets you search and browse the web, but we don’t track your searches or browsing history, and our [browsers](https://duckduckgo.com/browser) and <a href="{{ site.baseurl }}/desktop/adding-duckduckgo-to-your-browser/">extensions</a> help you block other companies from trying to track you as well, all by default. That’s how DuckDuckGo protects your privacy in a nutshell.
+If you’re like most people on the Internet, you use Google to search the web and Google Chrome to browse the web. That means by default Google can keep track of every single search you make and website you visit. On those websites, other companies may also track you. DuckDuckGo is an independent Google alternative that also lets you search and browse the web, but we don’t track your searches or browsing history, and our <a href="{{ site.baseurl }}/get-duckduckgo/does-duckduckgo-make-a-browser/">browsers</a> and <a href="{{ site.baseurl }}/desktop/adding-duckduckgo-to-your-browser/">extensions</a> help you block other companies from trying to track you as well, all by default. That’s how DuckDuckGo protects your privacy in a nutshell.
 
 **Detailed Answer:**
 
