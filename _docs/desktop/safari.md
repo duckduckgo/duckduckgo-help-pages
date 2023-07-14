@@ -1,6 +1,6 @@
 ---
-title: How to get the DuckDuckGo Safari extension
-nav_title: Get the DuckDuckGo Safari extension
+title: How To Get the DuckDuckGo Safari Extension
+nav_title: Get the DuckDuckGo Safari Extension
 description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
 category: How To Get DuckDuckGo
 order: 700

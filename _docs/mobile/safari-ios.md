@@ -1,6 +1,6 @@
 ---
-title: How to add DuckDuckGo to Safari on mobile
-nav_title: Add DuckDuckGo to Safari on mobile
+title: How To Add DuckDuckGo to Safari on Mobile
+nav_title: Add DuckDuckGo to Safari on Mobile
 description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
 category: How To Get DuckDuckGo
 order: 800

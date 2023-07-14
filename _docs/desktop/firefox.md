@@ -1,6 +1,6 @@
 ---
-title: How to get the DuckDuckGo Firefox extension
-nav_title: Get the DuckDuckGo Firefox extension
+title: How To Get the DuckDuckGo Firefox Extension
+nav_title: Get the DuckDuckGo Firefox Extension
 description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
 category: How To Get DuckDuckGo
 order: 400

@@ -1,6 +1,6 @@
 ---
-title: How to get the DuckDuckGo app on iOS
-nav_title: Get the DuckDuckGo app on iOS
+title: How To Get the DuckDuckGo App on iOS
+nav_title: Get the DuckDuckGo App on iOS
 description: The free browser from DuckDuckGo has the speed you need, the features you expect, and comes packed with our best-in-class privacy protections.
 category: How To Get DuckDuckGo
 order: 100

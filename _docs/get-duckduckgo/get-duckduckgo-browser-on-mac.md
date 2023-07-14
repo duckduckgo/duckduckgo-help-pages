@@ -1,6 +1,6 @@
 ---
-title: How to get the DuckDuckGo browser on Mac
-nav_title: Get the DuckDuckGo browser on Mac
+title: How To Get the DuckDuckGo Browser on Mac
+nav_title: Get the DuckDuckGo Browser on Mac
 description: The free browser from DuckDuckGo has the speed you need, the features you expect, and comes packed with our best-in-class privacy protections.
 category: How To Get DuckDuckGo
 order: 60

@@ -1,6 +1,6 @@
 ---
-title: How to add DuckDuckGo to your browser
-nav_title: Add DuckDuckGo to your browser
+title: How To Add DuckDuckGo to Your Browser
+nav_title: Add DuckDuckGo to Your Browser
 description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
 category: How To Get DuckDuckGo
 order: 300
