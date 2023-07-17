@@ -1,6 +1,6 @@
 ---
-title: How to get the DuckDuckGo Safari extension
-nav_title: Get the DuckDuckGo Safari extension
+title: How To Get the DuckDuckGo Safari Extension
+nav_title: Get the DuckDuckGo Safari Extension
 description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
 category: How To Get DuckDuckGo
 order: 700
@@ -8,62 +8,12 @@ order: 700
 
 > <a class="button" href="{{ site.baseurl }}/mobile/safari-ios">Did you mean iOS Safari instead?</a>
 
-<h2>Changing Your Search Engine to DuckDuckGo (OS X Yosemite and Newer)</h2>
-<ol>
-    <li>
-        Open a new tab.
-    </li>
-    <li>
-        Click the magnifying glass in the search bar.
-    </li>
-    <li>
-        Select the option for DuckDuckGo.
-        <br>
-        <img alt="Screenshot showing how to select DuckDuckGo as the search engine for Safari." src="{{ site.baseurl }}/images/duckduckgo-default-in-safari.jpg" />
-    </li>
-</ol>
+## Installing Our Extension
 
-<h4>Alternatively, you can:</h4>
-<ol>
-    <li>
-        Select <em>Preferences</em>.
-    </li>
+-   [DuckDuckGo Privacy Essentials extension](https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575): Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking and encrypted website connections (where possible). <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">Learn more about our Web Tracking Protections</a>.
 
-    <li>
-        Choose the <em>Search</em> tab.
-    </li>
+## Changing Your Search Engine to DuckDuckGo
 
-    <li>
-        Click <em>DuckDuckGo</em> under the <em>Search engine</em> dropdown.
-    </li>
+[Click here](https://support.apple.com/en-ca/guide/safari/sfria1042d31/mac) for instructions on how to change the default search engine in Safari
 
-</ol>
-
-<h2>Installing Our Extension</h2>
-<ol>
-    <li>
-        <a href="https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575">Visit our extension's gallery page.</a>
-    </li>
-    <li>
-        The App Store should open automatically. If not, click <em>View in Mac App Store</em> to install.
-        <!--<img alt="Screenshot of Safari's extensions gallery showing the DuckDuckGo extension." src="{{ site.baseurl }}/images/13f52d6ed7bb7ae14a9697f9c2d732e7.png" />-->
-    </li>
-    <li>
-        Once installed, follow the instructions within the extension to enable DuckDuckGo Privacy Protection, DuckDuckGo Privacy Protection and DuckDuckGo Private Search.
-    </li>
-</ol>
-
-<h2 id="uninstall">Uninstalling Our Extension</h2>
-<ol>
-    <li>
-        Select <em>Preferences</em> in Safari's menu.
-    </li>
-    <li>
-        Click <em>Extensions</em>.
-    </li>
-
-    <li>
-        Click <em>Uninstall</em> for our extension.
-    </li>
-
-</ol>
+{% include default-search-disclaimer.md %}

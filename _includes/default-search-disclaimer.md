@@ -1,0 +1,1 @@
+However, please know that if you just use the search engine, we cannot offer our web tracking protections when you visit other web sites. To get that protection, you need to use our extension or browser. Our free web browser is available for {% include ddg-browser-os-list-linked.md %}. {% include browser-features.md %}
