@@ -38,16 +38,35 @@ collections:
         permalink: /:path/
         output: true
 
-categories_order:
-    - Company
-    - How To Get DuckDuckGo
-    - DuckDuckGo Search Results
-    - DuckDuckGo Search Privacy
-    - DuckDuckGo Web Browsing Privacy
-    - DuckDuckGo Email Protection
-    - DuckDuckGo App Tracking Protection
-    - Misconceptions About DuckDuckGo
-    - Legal
+categories_data:
+    - name: Company
+      path: /company
+    - name: How To Get DuckDuckGo
+      path: /get-duckduckgo
+    - name: DuckDuckGo Search Results
+      path: /results
+    - name: DuckDuckGo Search Privacy
+      path: /search-privacy
+    - name: DuckDuckGo Web Browsing Privacy
+      path: /web-browsing-privacy
+    - name: DuckDuckGo Email Protection
+      path: /email-protection
+      sub_categories:
+          - name: Duck Addresses
+            path: /email-protection/duck-addresses
+          - name: Privacy
+            path: /email-protection/privacy
+          - name: Troubleshooting
+            path: /email-protection/troubleshooting
+    - name: DuckDuckGo App Tracking Protection
+      path: /p-app-tracking-protection
+    - name: Misconceptions About DuckDuckGo
+      path: /misconceptions
+    - name: Legal
+      path: /r-legal
+      sub_categories:
+          - name: Translated Microsoft Ads Notice
+            path: /translated
 
 defaults:
     - scope:
