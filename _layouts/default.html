@@ -86,8 +86,16 @@
     <section class="main">
         <div class="page-header">
             <h2>
-                {% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}
-                {% if page.sub_category %} / {{ page.sub_category }}{% endif %}
+                {% if page.isIndex %}
+                    {% if page.sub_category %}
+                        {{ page.category }}
+                    {% else %}
+                        {{ site.title }}
+                    {% endif %}
+                {% else %}
+                    {% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}
+                    {% if page.sub_category %} / {{ page.sub_category }}{% endif %}
+                {% endif %}
             </h2>
             <h3>{{ page.title }}</h3>
         </div>
