@@ -1,5 +1,5 @@
 ---
-title: How to use keyboard shortcuts on DuckDuckGo Search
+title: How To Use Keyboard Shortcuts on DuckDuckGo Search
 nav_title: Keyboard Shortcuts
 description: Learn how to use keyboard shortcuts for DuckDuckGo Private Search.
 category: DuckDuckGo Search Results

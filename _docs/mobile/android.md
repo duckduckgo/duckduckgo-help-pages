@@ -1,60 +1,14 @@
 ---
-title: How to get the DuckDuckGo app on Android
-nav_title: Get the DuckDuckGo app on Android
+title: How To Get the DuckDuckGo App on Android
+nav_title: Get the DuckDuckGo App on Android
 description: The free private browser from DuckDuckGo. Get seamless protection while you search and browse, plus access to tracking protection for emails you receive.
 category: How To Get DuckDuckGo
 order: 200
 ---
 
-<head>
-    <style>
-        .screenshots {
-            text-align: center;
-        }
+Get the DuckDuckGo Private Browser from [Google Play](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android), [F-Droid](https://f-droid.org/packages/com.duckduckgo.mobile.android/), or [as an APK File](https://github.com/duckduckgo/Android/releases).
 
-        .screenshots img {
-            margin: 2px;
-            max-width: 220px;
-        }
-    </style>
+Our free web browser for {% include ddg-browser-os-list-linked.md %} is a privacy-protecting alternative to Google Chrome and Search. {% include browser-features.md %}
 
-</head>
-<h2>DuckDuckGo Privacy Browser</h2>
-
-<p>
-    <strong>Get our Privacy Browser from
-        <a href="https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android">Google Play</a>,
-        <a href="https://f-droid.org/packages/com.duckduckgo.mobile.android/">F-Droid</a>, or
-        <a href="https://github.com/duckduckgo/Android/releases">as an APK File</a>.</strong>
-</p>
-
-<p class="screenshots">
-    <img alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="{{ site.baseurl }}/images/25a645563fb8f24957f82b4377b06f9b.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="{{ site.baseurl }}/images/a7ecd474f7e725d71d72af6b8dc42174.jpg" /><img
-        alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="{{ site.baseurl }}/images/193ed08bc4a6ea49e8883bce8728c2f0.jpg" /><img alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="{{ site.baseurl }}/images/52b7bcfbf9a4b68d444268384c721170.jpg" /><img
-        alt="Screenshot of the DuckDuckGo Privacy Browser for Android" src="{{ site.baseurl }}/images/35ba2f9c47deb4c3298458767771677e.jpg" />
-</p>
-
-<p>Protect your personal data across the web thanks to:</p>
-
-<ul>
-    <li>
-        A Privacy Grade showing how much a site can be trusted, before and after our
-        Privacy Protection is applied.
-    </li>
-    <li>
-        Smarter encryption, forcing sites to use encrypted connections when
-        available, protecting your data from prying eyes.
-    </li>
-    <li>
-        Our tracker blocker, stopping advertisers from tracking you on the sites you
-        visit.
-    </li>
-    <li>
-        Private search built in. Other search engines track your search history. We
-        don't track you. Ever.
-    </li>
-</ul>
-<p>
-    Read more about our
-    <a href="https://duckduckgo.com/app">Privacy Browser for Android</a>.
-</p>
+-   Learn more about our [DuckDuckGo Private Browser](https://duckduckgo.com/app).
+-   Review the DuckDuckGo Private Browser app listing in the [Google Play Store](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android).

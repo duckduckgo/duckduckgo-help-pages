@@ -1,6 +1,6 @@
 ---
-title: How to add DuckDuckGo to Firefox mobile
-nav_title: Add DuckDuckGo to Firefox mobile
+title: How To Add DuckDuckGo to Firefox Mobile
+nav_title: Add DuckDuckGo Search to Firefox Mobile
 description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
 category: How To Get DuckDuckGo
 order: 500
@@ -8,36 +8,15 @@ order: 500
 
 > <a href="{{ site.baseurl }}/desktop/firefox">Did you mean desktop Firefox instead?</a>
 
-<h2>Changing Your Search Engine to DuckDuckGo</h2>
-<ol>
-    <li>
-        Tap the settings icon.
-        <br>
-        <img src="{{ site.baseurl }}/images/5046954db927139cc9a2edc9f0c163f9.png" />
-    </li>
-    <li>
-        Tap <em>Settings</em>.
-        <br>
-        <img src="{{ site.baseurl }}/images/05b58a5b7fc4bd3d135e2761d6c92b0f.png" />
-    </li>
-    <li>
-        Tap <em>Customize</em>.
-        <br>
-        <img src="{{ site.baseurl }}/images/0589a4f2a7c6061630b9dddcb519f297.png" />
-    </li>
-    <li>
-        Tap <em>Search</em>.
-        <br>
-        <img src="{{ site.baseurl }}/images/79d6174dcadfc05cbea5daad5ae1dd49.png" />
-    </li>
-    <li>
-        Tap <em>DuckDuckGo</em>.
-        <br>
-        <img src="{{ site.baseurl }}/images/9edff75ac42af4f229615cbcf9eba4f5.png" />
-    </li>
-    <li>
-        Tap <em>Set as default</em>.
-        <br>
-        <img src="{{ site.baseurl }}/images/fc876500dfbf28dad80f661d99d055e0.png" />
-    </li>
-</ol>
+## Installing our Android Add-On
+
+-   [DuckDuckGo Privacy Essentials add-on](https://addons.mozilla.org/en-US/android/addon/duckduckgo-for-firefox/): Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking and encrypted website connections (where possible). <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">Learn more about our Web Tracking Protections</a>.
+
+## Changing Your Search Engine to DuckDuckGo
+
+Instructions on how to change the default search engine:
+
+-   [Firefox for iOS](https://support.mozilla.org/en-US/kb/change-your-default-search-engine-firefox-ios)
+-   [Firefox for Android](https://support.mozilla.org/en-US/kb/manage-my-default-search-engines-firefox-android)
+
+{% include default-search-disclaimer.md %}

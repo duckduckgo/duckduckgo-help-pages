@@ -19,3 +19,5 @@ If you think App Tracking Protection might be causing usability issues in one of
 **Note about App Tracking Protection in DuckDuckGo Private Browser versions 5.164.0 and later.**
 
 In app version 5.164.0, we implemented a more efficient method of blocking in-app trackers. The number of tracking attempts blocked may appear lower in the dashboard because this new method minimizes tracking attempt retries, however we are still blocking just as many trackers as before. This improvement aims to reduce app breakage, improve performance, and enhance battery life by eliminating the need to repeatedly block trackers that attempt to re-connect again.
+
+{% include category-footer-nav.md %}

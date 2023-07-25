@@ -1,79 +1,21 @@
 ---
-title: How to get the DuckDuckGo Opera extension
-nav_title: Get the DuckDuckGo Opera extension
+title: How To Get the DuckDuckGo Opera Extension
+nav_title: Get the DuckDuckGo Opera Extension
 description: "The DuckDuckGo extension offers seamless privacy protection: tracker blocking, cookie protection, private search, and much more."
 category: How To Get DuckDuckGo
 order: 1000
 ---
 
-<h2>
-    <a href="https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/">Install Our Extension (Recommended)</a>
-</h2>
-<ul>
-    <li>✔ Adds DuckDuckGo's Instant Answers to Google and Bing search results</li>
-    <li>✔ Adds a toolbar button that lets you search with DuckDuckGo</li>
-    <li>
-        ✗ Does not add DuckDuckGo as a Speed Dial entry
-        <a href="#dial">(can be done manually)</a>
-    </li>
-</ul>
-<h2>Making DuckDuckGo the Default Search Engine</h2>
-<ol>
-    <li>
-        Select <em>Opera &gt; Preferences</em> (on Mac) or
-        <em>Opera &gt; Options</em> (on Windows)
-    </li>
-    <li>Under <em>Search</em> click the drop down and select DuckDuckGo</li>
-</ol>
+## Installing Our Extension
 
-<h2>Making DuckDuckGo the Homepage</h2>
-<ol>
-    <li>
-        Select <em>Opera &gt; Preferences</em> (on Mac) or
-        <em>Opera &gt; Options</em> (on Windows)
-    </li>
-    <li>
-        Under <em>On startup</em> select
-        <em>Open a specific page or set of pages</em>
-    </li>
-    <li>Enter <em>https://duckduckgo.com</em></li>
-</ol>
+-   [DuckDuckGo Privacy Essentials extension](https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg): Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking and encrypted website connections (where possible). <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">Learn more about our Web Tracking Protections</a>.
 
-<h2>Uninstalling the DuckDuckGo Extension</h2>
-<ol>
-    <li>Select <em>Opera &gt; Extensions</em></li>
-    <li>
-        Find the DuckDuckGo extension in the displayed list and click the <em>X</em>
-    </li>
-</ol>
+## Changing Your Search Engine to DuckDuckGo
 
-<h2>Changing to a Different Default Search Engine</h2>
-<ol>
-    <li>
-        Select <em>Opera &gt; Preferences</em> (on Mac) or
-        <em>Opera &gt; Options</em> (on Windows)
-    </li>
-    <li>
-        Under <em>Search</em> click the drop down and select your new desired
-        default search engine
-    </li>
-</ol>
+[Click here](https://help.opera.com/en/latest/search/#defaultSearchEngine) for instructions on how to change the default search engine in Opera.
 
-<h2>Removing DuckDuckGo as the Homepage</h2>
-<ol>
-    <li>
-        Select <em>Opera &gt; Preferences</em> (on Mac) or
-        <em>Opera &gt; Options</em> (on Windows)
-    </li>
-    <li>
-        Under <em>On startup</em> select
-        <em>Open a specific page or set of pages</em>
-    </li>
-    <li>Find DuckDuckGo in the displayed list and click the <em>X</em></li>
-</ol>
+## Adding DuckDuckGo to Speed Dial
 
-<h2>Removing DuckDuckGo as a Speed Dial Entry</h2>
-<ol>
-    <li>Right click on the DuckDuckGo Speed Dial entry</li>
-    <li>Select <em>Delete</em></li>
-</ol>
+[Click here](https://help.opera.com/en/latest/start-page/#speedDial) for instructions on how to add DuckDuckGo to Speed Dial.
+
+{% include default-search-disclaimer.md %}

@@ -1,5 +1,5 @@
 ---
-title: How to use “!Bang” shortcuts on DuckDuckGo Search
+title: How To Use “!Bang” Shortcuts on DuckDuckGo Search
 nav_title: "!Bang Shortcuts"
 description: "!Bang commands perform your searches directly on other search engines. Learn how to use these powerful shortcuts on DuckDuckGo Private Search."
 category: DuckDuckGo Search Results
