@@ -22,5 +22,4 @@
 
 {% endif %}
 {% endfor %}
-
 </ul>

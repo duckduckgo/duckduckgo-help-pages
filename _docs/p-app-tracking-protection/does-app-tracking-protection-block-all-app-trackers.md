@@ -15,3 +15,9 @@ In other cases, we can preserve essential usability by making limited exceptions
 We also don’t block trackers belonging to an app’s parent company (known as 1st-party trackers) because doing so would likely cause the app to behave unexpectedly. This means that protection may be automatically disabled for apps like those installed by default on your Android device.
 
 If you think App Tracking Protection might be causing usability issues in one of your apps, you can manually disable protection for apps in Settings > App Tracking Protection > Manage > View Apps and report the issue you experienced to us. We review user-reported app issues daily, and work to address them continuously by updating our open source [list of app trackers and exceptions](https://github.com/duckduckgo/tracker-blocklists/blob/main/app/README.md) like those described above to preserve usability.
+
+**Note about App Tracking Protection in DuckDuckGo Private Browser versions 5.164.0 and later.**
+
+In app version 5.164.0, we implemented a more efficient method of blocking in-app trackers. The number of tracking attempts blocked may appear lower in the dashboard because this new method minimizes tracking attempt retries, however we are still blocking just as many trackers as before. This improvement aims to reduce app breakage, improve performance, and enhance battery life by eliminating the need to repeatedly block trackers that attempt to re-connect again.
+
+{% include category-footer-nav.md %}

@@ -29,3 +29,5 @@ This permission allows App Tracking Protection, which just works locally on your
 Unfortunately, no because Android only allows one active VPN connection at a time. That means you can’t use App Tracking Protection while a VPN app on your device is running or set to “Always-on.”
 
 We recommend that you enable App Tracking Protection when you are not using a VPN app. Just make sure your VPN app isn’t set to “Always-on.” Go to Android Network settings > VPN. Then, check the gear icon for any listed VPN apps and disable “Always-on.” Some VPN apps may also have an auto-connect setting which must be disabled.
+
+{% include category-footer-nav.md %}
