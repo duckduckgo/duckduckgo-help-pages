@@ -2,7 +2,7 @@
 title: Are DuckDuckGo apps and extensions open source?
 nav_title: DuckDuckGo Open Source
 description: We make the source code and data for many of our products and features available under open source licenses.
-category: Company
+category: About DuckDuckGo
 order: 250
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: About DuckDuckGo
-nav_title: Company
+nav_title: About DuckDuckGo
 description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
 permalink: /company/index.html
-category: Company
+category: About DuckDuckGo
 isIndex: true
 ---
 

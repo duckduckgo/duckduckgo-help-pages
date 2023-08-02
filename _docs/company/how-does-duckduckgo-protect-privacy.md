@@ -2,7 +2,7 @@
 title: How does DuckDuckGo protect my privacy?
 nav_title: How does DuckDuckGo protect my privacy?
 description: We don’t track you and we help you block other companies from tracking you via our privacy-protecting alternatives to Google Search & Chrome.
-category: Company
+category: About DuckDuckGo
 order: 75
 ---
 

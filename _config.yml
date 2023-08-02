@@ -39,7 +39,7 @@ collections:
         output: true
 
 categories_data:
-    - name: Company
+    - name: About DuckDuckGo
       path: /company
     - name: How To Get DuckDuckGo
       path: /get-duckduckgo

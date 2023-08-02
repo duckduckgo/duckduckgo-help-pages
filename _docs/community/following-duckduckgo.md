@@ -2,7 +2,7 @@
 title: Follow DuckDuckGo on Social
 nav_title: Follow Us on Social Media
 description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
-category: Company
+category: About DuckDuckGo
 order: 200
 ---
 
