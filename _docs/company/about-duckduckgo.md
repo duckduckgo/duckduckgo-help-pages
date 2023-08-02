@@ -1,7 +1,7 @@
 ---
 title: What is DuckDuckGo?
 description: DuckDuckGo is an independent internet privacy company that makes free, privacy-protecting alternatives to Google Chrome and Search.
-category: Company
+category: About DuckDuckGo
 order: 50
 ---
 

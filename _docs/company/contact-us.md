@@ -2,7 +2,7 @@
 title: Contact DuckDuckGo
 nav_title: Contact Us
 description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
-category: Company
+category: About DuckDuckGo
 order: 700
 ---
 

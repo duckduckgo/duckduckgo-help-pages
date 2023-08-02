@@ -1,7 +1,7 @@
 ---
 title: Who owns DuckDuckGo?
 description: DuckDuckGo has been an independent, privately-owned company since 2008.
-category: Company
+category: About DuckDuckGo
 order: 150
 ---
 
