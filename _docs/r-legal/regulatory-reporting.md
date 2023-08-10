@@ -4,7 +4,7 @@ category: Legal
 order: 99
 ---
 
-# Digital Services Act (EU 2022/2065) Regulatory Reporting
+### Digital Services Act (EU 2022/2065) Regulatory Reporting
 
 At DuckDuckGo, we don’t track you, ever. That’s our privacy policy in a nutshell. For example, we do not create unique cookies and, more generally, architect our product so that we do not even have the ability to create a search or browsing history for any individual — it’s privacy by design.
 
