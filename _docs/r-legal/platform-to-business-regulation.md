@@ -3,7 +3,7 @@ title: Platform to Business Regulation (EU 2019/1150)
 nav_title: Platform to Business Regulation
 description: How DuckDuckGo Search ranks results and whether we apply differentiated treatment to our own products and services compared to those offered by other online services.
 category: Legal
-order: 200
+order: 125
 ---
 
 As required by the [EU Platform to Business Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1150), this page contains information about how DuckDuckGo Search ranks results and whether we apply differentiated treatment to our own products and services compared to those offered by other online services.
