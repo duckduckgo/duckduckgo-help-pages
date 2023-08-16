@@ -22,9 +22,9 @@ Most organic links and images in our search results are sourced from [Bing](http
 
 Like all search engines, we try to rank egregious spam lower in our search results, and in the rare situation that DuckDuckGo alters the ranking order of organic links or delists a particular organic link, you may request further information by contacting [legal@duckduckgo.com](mailto:legal@duckduckgo.com). Subject to applicable law, you may have the right to inspect the contents of any relevant third-party notification or request to alter the ranking order or delist an organic link.
 
-**Sponsored Links**
+**Ads**
 
-We also display sponsored links adjacent to search results, as explained in our Help Page on <a href="{{ site.baseurl}}/company/how-duckduckgo-makes-money/">How DuckDuckGo Makes Money</a>. Outside of these clearly labelled ads, DuckDuckGo does not accept compensation to influence search result rankings. We also provide information about advertising on DuckDuckGo through our Help Page on <a href="{{ site.baseurl}}/company/advertise-on-duckduckgo-search/">Advertise on DuckDuckGo Search</a>.
+We also display ads adjacent to search results, as explained in our Help Page on <a href="{{ site.baseurl}}/company/how-duckduckgo-makes-money/">How DuckDuckGo Makes Money</a>. Outside of these clearly labelled ads, DuckDuckGo does not accept compensation to influence search result rankings. We also provide information about advertising on DuckDuckGo through our Help Page on <a href="{{ site.baseurl}}/company/advertise-on-duckduckgo-search/">Advertise on DuckDuckGo Search</a>.
 
 Date of Publication: August 10, 2023
 
