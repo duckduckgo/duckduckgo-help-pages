@@ -26,6 +26,6 @@ Like all search engines, we try to rank egregious spam lower in our search resul
 
 We also display ads adjacent to search results, as explained in our Help Page on <a href="{{ site.baseurl}}/company/how-duckduckgo-makes-money/">How DuckDuckGo Makes Money</a>. Outside of these clearly labelled ads, DuckDuckGo does not accept compensation to influence search result rankings. We also provide information about advertising on DuckDuckGo through our Help Page on <a href="{{ site.baseurl}}/company/advertise-on-duckduckgo-search/">Advertise on DuckDuckGo Search</a>.
 
-Date of Publication: August 10, 2023
+Date of Publication: August 18, 2023
 
-Date of Last Update: August 10, 2023
+Date of Last Update: August 18, 2023
