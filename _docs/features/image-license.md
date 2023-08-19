@@ -3,7 +3,7 @@ title: DuckDuckGo Image Licenses
 nav_title: Image Licenses
 description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
 category: Legal
-order: 100
+order: 150
 ---
 
 You can use the _License_ filter to get image search results that can be reused in various ways. The filter options are based on the [Creative Commons](https://creativecommons.org/about/cclicenses/) licensing system.
