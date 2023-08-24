@@ -13,6 +13,6 @@ To get the DuckDuckGo Private Browser for Mac:
 -   Download [directly from DuckDuckGo](http://duckduckgo.com/mac) (compatible with macOS 10.15 or later)
 -   Download from the [Mac App Store](https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361) (compatible with macOS 12.3 or later)
     -   Bitwarden users should download from us directly instead of the Mac App Store, because the App Store version does not include a Bitwarden integration.
-    -   If you use your browser to open local files, you should download us directly. The Mac App Store version does not have access to local files.
+    -   If you use your browser to open local files, you should download from us directly. The Mac App Store version does not have access to local files.
 
 Learn more about [DuckDuckGo for Mac](https://spreadprivacy.com/duckduckgo-for-mac-open-beta/).
