@@ -1,5 +1,5 @@
 ---
-title: DuckDuckGo App’s Use of Device Location Services
+title: Use of Device Location Services in the DuckDuckGo Browser
 nav_title: Device Location Services
 description: Learn how the DuckDuckGo browser uses location services.
 category: DuckDuckGo Web Browsing Privacy
