@@ -6,7 +6,7 @@ category: DuckDuckGo Search Privacy
 order: 550
 ---
 
-At DuckDuckGo, we don’t track you, ever. That’s our [privacy policy](https://duckduckgo.com/privacy) in a nutshell. For example, we do not create unique cookies and, more generally, architect our product so that we do not even have the ability to create a search or browsing history for any individual — it’s privacy by design.
+At DuckDuckGo, we don’t track you, ever. That’s our privacy policy in a nutshell. For example, we do not create unique cookies and, more generally, architect our product so that we do not even have the ability to create a search or browsing history for any individual — it’s privacy by design.
 
 To protect you (our users) and ensure a bug-free search experience, we use a standardized computer security specification called a [Content Security Policy](https://en.wikipedia.org/wiki/Content_Security_Policy) or "CSP". Our CSP tells your browser which resources (for example, JavaScript code, images, etc.) it should trust, fetch, and execute on DuckDuckGo.com, helping us detect and block malicious third-party attacks, like [Cross-Site-Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting) (XSS) attacks, [code injection attacks](https://en.wikipedia.org/wiki/Code_injection), [clickjacking](https://en.wikipedia.org/wiki/Clickjacking), and more.
 
