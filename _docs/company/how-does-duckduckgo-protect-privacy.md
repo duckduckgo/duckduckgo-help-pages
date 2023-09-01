@@ -8,11 +8,9 @@ order: 75
 
 **Quick Answer:**
 
-We don’t track you and we help you block other companies from tracking you.
-
 If you’re like most people on the Internet, you use Google to search the web and Google Chrome to browse the web. That means by default Google can keep track of every single search you make and website you visit. On those websites, other companies may also track you.
 
-DuckDuckGo is an independent Google alternative that **also** lets you search and browse the web, but we don’t track your searches or browsing history, and our <a href="{{ site.baseurl }}/get-duckduckgo/does-duckduckgo-make-a-browser/">browsers</a> and <a href="{{ site.baseurl }}/desktop/adding-duckduckgo-to-your-browser/">extensions</a> help you block other companies from trying to track you as well, all by default. That’s how DuckDuckGo protects your privacy in a nutshell.
+DuckDuckGo is an independent Google alternative that also lets you search and browse the web, but we don’t track your searches or browsing history, and our <a href="{{ site.baseurl }}/get-duckduckgo/does-duckduckgo-make-a-browser/">browsers</a> and <a href="{{ site.baseurl }}/desktop/adding-duckduckgo-to-your-browser/">extensions</a> help you block other companies from trying to track you as well, all by default. Our browser comes with seamless privacy protection built-in, including <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">tracker blocking</a>, <a href="{{ site.baseurl }}/privacy/web-tracking-protections/#smarter-encryption-https-upgrading">increased encryption</a>, <a href="{{ site.baseurl}}/email-protection/what-is-duckduckgo-email-protection/">email protection</a>, and more. That’s how DuckDuckGo protects your privacy in a nutshell.
 
 **Detailed Answer:**
 
@@ -27,7 +25,7 @@ DuckDuckGo protects your privacy through a uniquely comprehensive set of privacy
 -   <a href="{{ site.baseurl }}/privacy/web-tracking-protections/#smarter-encryption-https-upgrading">Smarter Encryption</a> to ensure that more of the websites you visit and links you click are securely encrypted, relative to other browsers.
 -   <a href="{{ site.baseurl }}/privacy/web-tracking-protections/#cookie-pop-up-management">Cookie Pop-up Protection</a>, which automatically selects the most private option from the cookie consent pop-ups it finds, and then hides them.
 -   <a href="{{ site.baseurl }}/privacy/web-tracking-protections/#the-fire-button">The Fire Button</a>, which allows you to easily burn recent on device browsing data in one click.
--   [Email Protection](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), which can hide your email address with unique @duck.com addresses when signing up for things online that forward to your existing email address, after removing email trackers.
+-   <a href="{{ site.baseurl}}/email-protection/what-is-duckduckgo-email-protection/">Email Protection</a>, which can hide your email address with unique @duck.com addresses when signing up for things online that forward to your existing email address, after removing email trackers.
 -   Duck Player, a YouTube player that limits invasive ads and keeps video views from impacting your YouTube recommendations.
 -   [App Tracking Protection](https://spreadprivacy.com/app-tracking-protection-open-beta/), currently available in our Android browser, that helps block 3rd-party trackers in your other apps, even when you’re not using them.
 -   <a href="{{ site.baseurl }}/privacy/web-tracking-protections/#global-privacy-control-gpc">Global Privacy Control</a> (GPC) to help you express your opt-out rights automatically by telling websites (through a header and/or JavaScript-based signal) not to sell or share your personal information.
