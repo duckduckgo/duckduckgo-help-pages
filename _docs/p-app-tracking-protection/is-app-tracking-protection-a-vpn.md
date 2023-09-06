@@ -2,6 +2,7 @@
 title: Is App Tracking Protection a VPN?
 nav_title: Is App Tracking Protection a VPN?
 description: No. Instead of sending your data to a VPN server, App Tracking Protection works locally on your device, sitting between your apps and the servers they talk to.
+image: /images/apptp-vpn.png
 category: DuckDuckGo App Tracking Protection
 order: 400
 ---

@@ -2,6 +2,7 @@
 title: How do news rankings work on DuckDuckGo Search?
 nav_title: How News Rankings Work
 description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
+image: /images/news-rankings-metadata.png
 category: DuckDuckGo Search Results
 order: 1150
 ---
