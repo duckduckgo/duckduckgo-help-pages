@@ -1,6 +1,7 @@
 ---
 title: How does DuckDuckGo make money?
 description: DuckDuckGo makes money from private ads on our search engine.
+image: /images/money.png
 category: About DuckDuckGo
 order: 100
 ---
