@@ -10,7 +10,7 @@ Our free web browser for {% include ddg-browser-os-list-linked.md %} is a privac
 
 To get the DuckDuckGo Private Browser for Mac:
 
--   Download [directly from DuckDuckGo](http://duckduckgo.com/mac) (compatible with macOS 10.15 or later)
+-   Download [directly from DuckDuckGo](http://duckduckgo.com/mac) (compatible with macOS 11.4 or later)
 -   Download from the [Mac App Store](https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361) (compatible with macOS 12.3 or later)  
 
 Learn more about [DuckDuckGo for Mac](https://spreadprivacy.com/duckduckgo-for-mac-open-beta/).
