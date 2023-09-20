@@ -21,7 +21,7 @@ As explained below, you retain rights to the limited personal information we may
 You may use the contact information below for any of the rights listed above, or to submit a general privacy related inquiry or complaint.
 
 -   Email [privacy@duckduckgo.com](mailto:privacy@duckduckgo.com).
--   Telephone: [1-888-395-0534](tel:18883950534) (toll-free from the US; international cell phone roaming charges may apply)
+-   Telephone: [1-888-395-0534](tel:18883950534) (toll-free from the US; international cell phone roaming charges may apply).
 -   Mailing address: DuckDuckGo, 20 Paoli Pike, Paoli, PA 19301 U.S.A.
 
 **Local Representatives:**
