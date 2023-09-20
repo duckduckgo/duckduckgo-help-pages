@@ -21,12 +21,14 @@ As explained below, you retain rights to the limited personal information we may
 You may use the contact information below for any of the rights listed above, or to submit a general privacy related inquiry or complaint.
 
 -   Email [privacy@duckduckgo.com](mailto:privacy@duckduckgo.com).
+-   Telephone: [1-888-395-0534](tel:18883950534) (toll-free from the US; international cell phone roaming charges may apply).
 -   Mailing address: DuckDuckGo, 20 Paoli Pike, Paoli, PA 19301 U.S.A.
 
 **Local Representatives:**
 
 -   Our representative under Article 27 of the GDPR is:
-    -   IT Governance Europe Limited, Third Floor, The Boyne Tower, Bull Ring, Lagavooren, Drogheda, Co. Louth, A92 F682<br/>[eurep@itgovernance.eu](mailto:eurep@itgovernance.eu)
+    -   GRCI Law Limited, The Mill, Newtown Link Rd, Stagreenan, Drogheda, Co. Louth, A92 CD3D, Ireland.<br/>
+        [eurep@itgovernance.eu](mailto:eurep@itgovernance.eu)
 -   Our representative under the UK GDPR is:
     -   GRCI Law Limited, Unit 3, Clive Court, Bartholomew’s Walk, Cambridgeshire Business Park, Ely, CB7 4EA, UK<br />
         [ukrep@grcilaw.com](mailto:ukrep@grcilaw.com)
