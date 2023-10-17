@@ -5,8 +5,19 @@ category: About DuckDuckGo
 order: 50
 ---
 
-DuckDuckGo is an independent internet privacy company that aims to make getting privacy simple and accessible for everyone. Our <a href="{{ site.baseurl }}/get-duckduckgo/does-duckduckgo-make-a-browser/">free web browser</a> for {% include ddg-browser-os-list-linked.md %} lets you search and browse the web, but &ndash;&ndash; unlike Google Search and Chrome &ndash;&ndash; we don’t track your searches or browsing history, and we block other companies from trying to track you, all by default.
+DuckDuckGo is the independent Internet privacy company for anyone who’s tired of being tracked online and wants an easy solution.
 
-Our browser comes with seamless privacy protection built-in, including [private search](https://duckduckgo.com/), <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">tracker blocking</a>, <a href="{{ site.baseurl }}/privacy/web-tracking-protections/#smarter-encryption-https-upgrading">increased encryption</a>, <a href="{{ site.baseurl}}/email-protection/what-is-duckduckgo-email-protection/">email protection</a>, and more. Our private search engine is also independently accessible at [duckduckgo.com](https://duckduckgo.com/) and as a built-in option in other popular browsers.
+Unlike Chrome and other browsers, our free, go-to browser comes with over a dozen powerful privacy protections built-in, including our search engine that replaces Google and doesn't track your search history, and our best-in-class tracker blocker that blocks cookies and creepy ads that follow you around. This unique combination of protections makes our browser the most comprehensive privacy protection you can get with one download.
+
+Every day, tens of millions of people rely on DuckDuckGo to protect their online activities, from searching to browsing, emailing, and more. The DuckDuckGo browser is available for download on desktop and mobile devices ({% include ddg-browser-os-list-linked.md %}). Our private search engine is built into the DuckDuckGo browser, but it can also be accessed independently at duckduckgo.com or as a built-in option on other popular browsers.
+
+Learn more about some of the other privacy protections built into the DuckDuckGo browser:
+- [Private Search]({{ site.baseurl }}/search-privacy/)
+- [Web Tracking Protections]({{ site.baseurl }}/privacy/web-tracking-protections/)
+- [Email Protection]({{ site.baseurl }}/email-protection/)
+- [App Tracking Protection]({{ site.baseurl }}/p-app-tracking-protection/)
+- [Smarter Encryption]({{ site.baseurl }}/privacy/smarter-encryption/)
 
 All of our products are backed by the same, straightforward [Privacy Policy](https://duckduckgo.com/privacy): We don’t track you.
+
+Welcome to the Duck Side!

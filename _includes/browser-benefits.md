@@ -1,0 +1,1 @@
+[tracker blocking]({{ site.baseurl }}/privacy/web-tracking-protections/), [increased encryption]({{ site.baseurl }}/privacy/web-tracking-protections/#smarter-encryption-https-upgrading), [email protection]({{ site.baseurl }}/email-protection/what-is-duckduckgo-email-protection/)
