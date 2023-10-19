@@ -1,1 +1,1 @@
-<a href="{{site.baseurl}}/mobile/ios">iOS</a>, <a href="{{site.baseurl }}/mobile/android">Android</a>, <a href="{{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-mac">Mac</a>, and <a href="{{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-windows">Windows</a>
+[Mac]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-mac), [Windows]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-windows), [iOS]({{site.baseurl}}/mobile/ios), and [Android]({{site.baseurl }}/mobile/android)

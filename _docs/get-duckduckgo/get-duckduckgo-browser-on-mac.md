@@ -6,7 +6,7 @@ category: How To Get DuckDuckGo
 order: 60
 ---
 
-Our free web browser for {% include ddg-browser-os-list-linked.md %} is a privacy-protecting alternative to Google Chrome and Search. {% include browser-features.md %}
+Our free web browser is a privacy-protecting alternative to Google Chrome and other browsers. It comes with seamless privacy protection built-in, including our search engine that replaces Google and doesn’t track your search history, plus {% include browser-benefits.md %}, and more. The DuckDuckGo browser is available for {% include ddg-browser-os-list-linked.md %}. 
 
 To get the DuckDuckGo Private Browser for Mac:
 

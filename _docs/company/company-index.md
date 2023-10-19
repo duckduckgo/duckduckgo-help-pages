@@ -7,6 +7,6 @@ category: About DuckDuckGo
 isIndex: true
 ---
 
-DuckDuckGo is an independent internet privacy company. We help protect your privacy through our free web browser for {% include ddg-browser-os-list-linked.md %} that lets you search and browse the web, but – unlike Google – we don’t track your searches or browsing history. We block many other companies from trying to track you, too – all by default.
+DuckDuckGo is the independent Internet privacy company for anyone who’s tired of being tracked online and wants an easy solution. We help protect your privacy through our free go-to browser, available for download on {% include ddg-browser-os-list-linked.md %}. Unlike Chrome and other browsers, our browser comes with over a dozen powerful privacy protections built-in, including our search engine that replaces Google and doesn't track your search history. The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities, from searching to browsing, emailing, and more.  
 
 {% include category-footer-nav.md %}
