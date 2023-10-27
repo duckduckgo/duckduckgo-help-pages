@@ -10,7 +10,7 @@ At DuckDuckGo, we don’t track you, ever. That’s our privacy policy in a nuts
 
 At the same time, we are required to comply with regulatory requirements in the European Union (EU). One such requirement is to publish the average number of monthly active recipients of our search engine service in the EU every six months. As we do not track you, ever, the average number of monthly active recipients set out below is based on anonymized data. We have calculated the figures using survey data, which tells us the average number of searches conducted by users, applied against an estimate of the total number of searches conducted from the EU which we also estimate using <a href="{{ site.baseurl }}/privacy/anonymous-localized-results/">Anonymous Localized Results</a>.
 
-| Reporting Period                    | Estimated Average Monthly Active Recipients in the EU |
-| ----------------------------------- | ----------------------------------------------------- |
-| August 17, 2022 – February 17, 2023 | 11,000,000                                            |
-| February 17, 2023 – August 17, 2023 | 10,100,000                                            |
+| Reporting Period | Estimated Average Monthly Active Recipients in the EU |
+| ---------------- | ----------------------------------------------------- |
+| 17 February 2023 | 13.8MM +/-1.1MM                                       |
+| 30 June 2023     | 14.8MM +/-1.1MM                                       |
