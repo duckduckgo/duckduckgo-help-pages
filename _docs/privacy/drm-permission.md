@@ -6,7 +6,7 @@ category: DuckDuckGo Web Browsing Privacy
 order: 500
 ---
 
-Many websites which stream music or video content (e.g. Netflix or Spotify) require browsers to support Digital Rights Management (DRM) technology. This technology is used to control playback of copyrighted content.
+Many websites which stream music or video content (e.g., Netflix or Spotify) require browsers to support Digital Rights Management (DRM) technology. This technology is used to control playback of copyrighted content.
 
 We assess the privacy and usability implications of supporting features in our browsers, including DRM. 
 In the DuckDuckGo browser for Android, DRM permissions are only available for websites that use [Widevine](https://widevine.com/), which is one of the most popular industry standards, but is also [known to provide access to device identifiers](https://petsymposium.org/popets/2023/popets-2023-0112.pdf) on Android. 
