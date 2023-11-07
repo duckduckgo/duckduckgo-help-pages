@@ -8,13 +8,13 @@ order: 500
 
 Many websites which stream music or video content (e.g. Netflix or Spotify) require browsers to support Digital Rights Management (DRM) technology. This technology is used to control playback of copyrighted content.
 
+We assess the privacy and usability implications of supporting features in our browsers, including DRM. 
+In the DuckDuckGo browser for Android, DRM permissions are only available for websites that use [Widevine](https://widevine.com/), which is one of the most popular industry standards, but is also [known to provide access to device identifiers](https://petsymposium.org/popets/2023/popets-2023-0112.pdf) on Android. 
+Over time, we'll investigate the privacy risks and protection for DRM on other platforms, as well as other DRM providers.
+
 If you see the following permission prompt on a website and click “Allow” in a DuckDuckGo browser, this allows the website to access the DRM technology provided by your device.
 
 ![Screenshot of a browser location permission dialog]({{ site.baseurl }}/images/drm-permission-prompt.png)
-
-Currently, DRM permissions are supported by our Android browser, and only when a website is attempting to use [Widevine](https://widevine.com/) DRM technology. 
-Widevine is the most popular DRM provider and public research has shown that it provides a stable device identifier in its Android implementation. 
-We are in the process of investigating the privacy risks of and protection for DRM on other platforms, as well as other DRM providers. 
 
 **When should you allow DRM permissions?**
 
