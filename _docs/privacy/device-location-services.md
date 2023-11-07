@@ -3,7 +3,7 @@ title: Use of Device Location Services in the DuckDuckGo Browser
 nav_title: Device Location Services
 description: Learn how the DuckDuckGo browser uses location services.
 category: DuckDuckGo Web Browsing Privacy
-order: 500
+order: 600
 ---
 
 At DuckDuckGo, we don’t track you, ever. That’s our privacy policy in a nutshell. For example, we do not create unique cookies when using DuckDuckGo search and, more generally, architect our product so that we do not even have the ability to create a search or browsing history for any individual — it’s privacy by design.
