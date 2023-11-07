@@ -9,7 +9,7 @@ order: 1400
 ## What Is DuckDuckBot and What Does It Do?
 
 DuckDuckBot is the Web crawler for <a href="https://duckduckgo.com">DuckDuckGo</a>.
-DuckDuckBot’s job is to constantly improve our search results and offer users the best and most secure search experience possible. It respects <a href="https://metacpan.org/module/WWW::RobotRules">WWW::RobotRules</a> and originates from these IP addresses:
+DuckDuckBot’s job is to constantly improve our search results and offer users the best and most secure search experience possible. The crawler's user agent will appear as `DuckDuckBot-Https/1.1; (+https://duckduckgo.com/duckduckbot)`. It respects <a href="https://metacpan.org/module/WWW::RobotRules">WWW::RobotRules</a> and originates from these IP addresses:
 
 -   20.191.45.212
 -   40.88.21.235
@@ -23,5 +23,14 @@ DuckDuckBot’s job is to constantly improve our search results and offer users 
 -   40.76.163.23
 -   40.76.162.191
 -   40.76.162.247
+-   40.80.242.63
+-   20.12.141.99
+-   20.49.136.28
+-   51.116.131.221
+-   51.107.40.209
+-   20.40.133.240
+-   20.50.168.91
+-   51.120.48.122
+-   20.193.45.113
 
 If you have any questions or concerns, please <a href="https://duckduckgo.com/feedback">let us know</a>.
