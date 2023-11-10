@@ -8,7 +8,7 @@ order: 100
 
 ## How do I subscribe to Privacy Pro?
 
-You can subscribe to Privacy Pro directly from the DuckDuckGo browser (available on [iOS]({{site.baseurl}}/mobile/ios), [Android]({{site.baseurl }}/mobile/android), [Mac]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-mac), and [Windows]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-windows)). Open the Settings menu and select “Privacy Pro”.
+You can subscribe to Privacy Pro directly from the DuckDuckGo browser (available on [iOS]({{ site.baseurl }}/mobile/ios), [Android]({{ site.baseurl }}/mobile/android), [Mac]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-mac), and [Windows]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-windows)). Open the Settings menu and select “Privacy Pro”.
 
 ## Why can’t I see the Privacy Pro subscription in my browser?
 

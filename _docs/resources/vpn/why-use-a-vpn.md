@@ -118,6 +118,6 @@ Double VPNs route your internet traffic through two VPN servers, instead of one.
 
 When picking a VPN, you can sign up for a standalone service, typically accessed through an app, or you can choose a browser that has a VPN built right in, removing the need for an extra app.
 
-(The [DuckDuckGo VPN]({{ site.baseurl}}/privacy-pro/vpn/) works this way; sign up for [DuckDuckGo Privacy Pro](http://duckduckgo.com/pro) through [our browser](http://duckduckgo.com/app) and get full coverage for up to five devices at once.)
+(The [DuckDuckGo VPN]({{ site.baseurl }}/privacy-pro/vpn/) works this way; sign up for [DuckDuckGo Privacy Pro](http://duckduckgo.com/pro) through [our browser](http://duckduckgo.com/app) and get full coverage for up to five devices at once.)
 
 The ideal browser VPN won’t interfere with your browsing experience. It should be seamlessly integrated and easy to use. Browser VPNs and standalone VPNs work in almost the same way, so you’ll want to evaluate a browser VPN with the same criteria in mind: speed, privacy and security, server locations, price, and so on.

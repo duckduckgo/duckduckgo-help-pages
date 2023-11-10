@@ -5,7 +5,7 @@
 {% for doc in docs %}
     {% if doc.url != page.url %}
         <li class="footer-nav-item">
-            <a href="{{ site.baseurl}}{{ doc.url }}">{{ doc.title }}</a>
+            <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
         </li>
     {% endif %}
 {% endfor %}
@@ -17,7 +17,7 @@
 {% if subcat.name != page.sub_category %}
 
 <li class="footer-nav-item">
-    <a href="{{ site.baseurl}}{{ subcat.path }}">{{ category.name }} - {{ subcat.name }}</a>
+    <a href="{{ site.baseurl }}{{ subcat.path }}">{{ category.name }} - {{ subcat.name }}</a>
 </li>
 
 {% endif %}

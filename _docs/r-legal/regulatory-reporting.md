@@ -13,7 +13,7 @@ DuckDuckGo’s single point of contact is <a href="mailto:legal@duckduckgo.com">
 
 #### How DuckDuckGo users can contact us
 
-You can reach out to us in various ways. Just reference the [Contact Us]({{site.baseurl}}/company/contact-us/) page to find the applicable details.
+You can reach out to us in various ways. Just reference the [Contact Us]({{ site.baseurl }}/company/contact-us/) page to find the applicable details.
 
 If your request relates to the DSA, please state this in the title and body of the email.
 
