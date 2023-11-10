@@ -27,7 +27,7 @@ To recover your data, you’ll either need your Recovery Code or another device 
     - Scan the QR code
     - Enter the alphanumeric code from your recovery PDF
 
-To recover your data using a second device, follow the steps outlined in [Syncing New Devices]({{site.baseurl}}/sync-and-backup/syncing-new-devices) to add the new device to Sync & Backup.
+To recover your data using a second device, follow the steps outlined in [Syncing New Devices]({{ site.baseurl }}/sync-and-backup/syncing-new-devices) to add the new device to Sync & Backup.
 
 ## I lost my device, lost my Recovery Code, and do not have Sync & Backup currently enabled on any of my other devices. Is there any way to recover my data?
 
