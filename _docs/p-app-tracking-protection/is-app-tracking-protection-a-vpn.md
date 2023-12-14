@@ -7,7 +7,7 @@ category: DuckDuckGo App Tracking Protection
 order: 400
 ---
 
-App Tracking Protection is a beta feature in the [DuckDuckGo Private Browser for Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) that helps block 3rd-party trackers in your apps, even when you’re not using them. App Tracking Protection is not a VPN.
+App Tracking Protection is a feature in the [DuckDuckGo Private Browser for Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) that helps block 3rd-party trackers in your apps, even when you’re not using them. App Tracking Protection is not a VPN.
 
 A VPN sends your data from the device to its own server, where it secures and anonymizes your data from prying eyes. However, this allows the VPN company to see your network traffic.
 
