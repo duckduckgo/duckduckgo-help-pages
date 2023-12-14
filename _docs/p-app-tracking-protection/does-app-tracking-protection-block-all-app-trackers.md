@@ -1,12 +1,12 @@
 ---
 title: Does App Tracking Protection block trackers in all my apps?
 nav_title: Does App Tracking Protection block all app trackers?
-description: App Tracking Protection is a beta feature in DuckDuckGo for Android that helps block 3rd-party trackers in your apps, even when you’re not using them.
+description: App Tracking Protection is a feature in DuckDuckGo for Android that helps block 3rd-party trackers in your apps, even when you’re not using them.
 category: DuckDuckGo App Tracking Protection
 order: 300
 ---
 
-App Tracking Protection is a beta feature in the [DuckDuckGo Private Browser for Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) that helps block 3rd-party trackers in your apps, even when you’re not using them. We aim to protect your privacy as much as possible, but no service can eliminate all hidden app tracking or profiling. To be effective, App Tracking Protection needs to continually evolve to mitigate how trackers attempt to evade us without disrupting essential usability. Some apps depend on code delivered by 3rd-party trackers to function and blocking these trackers can cause apps to behave unexpectedly.
+App Tracking Protection is a feature in the [DuckDuckGo Private Browser for Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) that helps block 3rd-party trackers in your apps, even when you’re not using them. We aim to protect your privacy as much as possible, but no service can eliminate all hidden app tracking or profiling. To be effective, App Tracking Protection needs to continually evolve to mitigate how trackers attempt to evade us without disrupting essential usability. Some apps depend on code delivered by 3rd-party trackers to function and blocking these trackers can cause apps to behave unexpectedly.
 
 To preserve essential usability, we may make limited exceptions and automatically disable protection for individual apps. For example, we automatically disable protection for browsers and other apps that load websites so content appears normally.
 

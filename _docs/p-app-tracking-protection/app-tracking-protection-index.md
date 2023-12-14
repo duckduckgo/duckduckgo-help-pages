@@ -6,6 +6,6 @@ category: DuckDuckGo App Tracking Protection
 isIndex: true
 ---
 
-Available in [DuckDuckGo Private Browser for Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android), App Tracking Protection is a beta feature that helps block 3rd-party trackers in your apps, even when you’re not using them. It works locally on your device and does not collect personal data.
+Available in [DuckDuckGo Private Browser for Android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android), App Tracking Protection is a feature that helps block 3rd-party trackers in your apps, even when you’re not using them. It works locally on your device and does not collect personal data.
 
 {% include category-footer-nav.md %}
