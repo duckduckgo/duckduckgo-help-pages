@@ -3,7 +3,7 @@ title: Ads by TripAdvisor on DuckDuckGo Private Search
 nav_title: Ads by TripAdvisor on DuckDuckGo Private Search
 description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
 category: DuckDuckGo Search Privacy
-order: 1200
+order: 1050
 ---
 
 **Viewing ads is privacy protected by DuckDuckGo.**
