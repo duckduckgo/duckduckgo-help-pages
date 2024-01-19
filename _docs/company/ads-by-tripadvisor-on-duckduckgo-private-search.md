@@ -12,7 +12,7 @@ We partner with many different information sources to deliver DuckDuckGo Search 
 
 Whenever you interact with ads and leave our site, you are subject to other sites’ policies, including their data collection practices. For ads from Tripadvisor, you also pass through Tripadvisor’s advertising platform. 
 
-For more info, check out the [DuckDuckGo privacy policy](https://duckduckgo.com/privacy).
+For more info, please read our [Privacy Policy](https://duckduckgo.com/privacy).
 
 **Hotel ad clicks are managed by Tripadvisor’s ad network.**
 
