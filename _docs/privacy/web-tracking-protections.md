@@ -227,7 +227,7 @@ The DuckDuckGo Chrome extension disables the Google Protected Audience API from 
 
 | Platform         | Support                            |
 | ---------------- | ---------------------------------- |
-| Chrome extension | Google Protected Audience API disabled.            |
+| Chrome extension | Google Protected Audience API disabled. |
 | Others           | Not applicable to other platforms. |
 
 ### Google Sign-in Pop-up Protection
