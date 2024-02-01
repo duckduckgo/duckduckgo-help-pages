@@ -118,7 +118,7 @@ If the web address you are visiting starts with `http://`, that means the Intern
 
 To offer Smarter Encryption (automatic HTTPS upgrading), we crawl the web continuously, look for sites that fully support HTTPS across their entire website, and maintain a list of the sites we find within our apps and extensions. You can review the [open source code][github-smarter-encryption] for our crawler. If you try to navigate to one of these sites unencrypted (http), for example from a social media link, we automatically change to encrypted (https) for any site on our list.
 
-Except for Safari, most popular browsers only direct users to encrypted versions of pages in specific circumstances, such as when you navigate directly to a page in the address bar. Otherwise, they only offer additional HTTPS upgrading functionality if you opt-in to advanced settings or use certain modes (like private browsing). By contrast, Smarter Encryption covers all clicks and interactions as you browse the web, including clicks from social media, search engines, and other websites.
+Most popular browsers only direct users to encrypted versions of pages in specific circumstances, such as when you navigate directly to a page in the address bar. Otherwise, they only offer additional HTTPS upgrading functionality if you opt-in to advanced settings or use certain modes (like private browsing). By contrast, Smarter Encryption covers all clicks and interactions as you browse the web, including clicks from social media, search engines, and other websites.
 
 | Platform          | Support                                                                                                                                                                                                                                      |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -219,15 +219,15 @@ The DuckDuckGo Chrome extension disables Topics from running in Google Chrome. W
 | Chrome extension | Google Topics disabled.            |
 | Others           | Not applicable to other platforms. |
 
-### Google FLEDGE Protection
+### Google Protected Audience API Protection
 
-Like Topics, Google [FLEDGE][fledge] is another Google mechanism meant to replace 3rd-party cookies. Its ultimate goal is also to “re-target” you with ads — in other words, letting Google ads [follow you from website to website][topics-fledge-announcement]. FLEDGE works directly in the Chrome browser and [uses your browsing history][fledge-browsing-history] to run ad auctions in order to re-target you better and without you realizing it.
+Like Topics, the Google [Protected Audience API][protected-audience-api] (previously known as FLEDGE) is another Google mechanism meant to replace 3rd-party cookies. Its ultimate goal is also to “re-target” you with ads — in other words, letting Google ads [follow you from website to website][topics-fledge-announcement]. The Google Protected Audience API works directly in the Chrome browser and [uses your browsing history][fledge-browsing-history] to run ad auctions in order to re-target you better and without you realizing it.
 
-The DuckDuckGo Chrome extension disables FLEDGE from running in Google Chrome. We may make a [limited exception][remotely-configured-exceptions] when this protection would prevent you from signing in to a site or to otherwise preserve essential site functionality. You can [learn more about Google FLEDGE Protection][post-topics-fledge-protection] and [review our open source code][github-topics-fledge-disable] for this feature.
+The DuckDuckGo Chrome extension disables the Google Protected Audience API from running in Google Chrome. We may make a [limited exception][remotely-configured-exceptions] when this protection would prevent you from signing in to a site or to otherwise preserve essential site functionality. You can [learn more about Google Protected Audience API Protection][post-topics-fledge-protection] (previously known as FLEDGE) and [review our open source code][github-topics-fledge-disable] for this feature.
 
 | Platform         | Support                            |
 | ---------------- | ---------------------------------- |
-| Chrome extension | Google FLEDGE disabled.            |
+| Chrome extension | Google Protected Audience API disabled.            |
 | Others           | Not applicable to other platforms. |
 
 ### Google Sign-in Pop-up Protection
@@ -443,7 +443,7 @@ For questions, comments, or concerns, please feel free to <a href="{{ site.baseu
 [webkit-referrer-tracking-protection]: https://webkit.org/tracking-prevention/#downgraded-third-party-referrers
 [amp-about]: https://amp.dev/about/websites-2021/
 [topics-fledge-announcement]: https://blog.chromium.org/2022/03/what-to-expect-from-ps-testing.html
-[fledge]: https://developer.chrome.com/docs/privacy-sandbox/fledge/
+[protected-audience-api]: https://developers.google.com/privacy-sandbox/relevance/protected-audience
 [fledge-browsing-history]: https://github.com/patcg-individual-drafts/topics/blob/main/taxonomy_v1.md
 [gpc]: https://globalprivacycontrol.org
 [android-webview-api]: https://developer.android.com/reference/android/webkit/WebView
