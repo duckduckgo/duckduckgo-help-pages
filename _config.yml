@@ -49,6 +49,8 @@ categories_data:
       path: /search-privacy
     - name: DuckDuckGo Web Browsing Privacy
       path: /web-browsing-privacy
+    - name: DuckDuckGo Duck Player
+      path: /duck-player
     - name: DuckDuckGo Email Protection
       path: /email-protection
       sub_categories:
