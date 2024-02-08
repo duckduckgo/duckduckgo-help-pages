@@ -49,8 +49,6 @@ categories_data:
       path: /search-privacy
     - name: DuckDuckGo Web Browsing Privacy
       path: /web-browsing-privacy
-    - name: DuckDuckGo Duck Player
-      path: /duck-player
     - name: DuckDuckGo Email Protection
       path: /email-protection
       sub_categories:
@@ -62,6 +60,8 @@ categories_data:
             path: /email-protection/troubleshooting
     - name: DuckDuckGo App Tracking Protection
       path: /p-app-tracking-protection
+    - name: Duck Player
+      path: /duck-player
     - name: Misconceptions About DuckDuckGo
       path: /misconceptions
     - name: Legal

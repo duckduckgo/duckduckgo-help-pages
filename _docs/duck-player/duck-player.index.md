@@ -3,7 +3,7 @@ title: About Duck Player
 nav_title: About Duck Player
 description: Duck Player is a free YouTube player available in the DuckDuckGo browser that lets you watch videos on YouTube without privacy-invading ads and keeps what you watch from impacting your recommendations.‌‌
 permalink: /duck-player/index.html
-category: DuckDuckGo Duck Player
+category: Duck Player
 ---
 
 Duck Player is a free YouTube player available in the DuckDuckGo browser for [Mac]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-mac//) and [Windows]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-windows) that lets you watch videos on YouTube without privacy-invading ads and keeps what you watch from impacting your recommendations.‌‌
