@@ -60,6 +60,8 @@ categories_data:
             path: /email-protection/troubleshooting
     - name: DuckDuckGo App Tracking Protection
       path: /p-app-tracking-protection
+    - name: Duck Player
+      path: /duck-player
     - name: Misconceptions About DuckDuckGo
       path: /misconceptions
     - name: Legal
