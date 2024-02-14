@@ -58,6 +58,8 @@ categories_data:
             path: /email-protection/privacy
           - name: Troubleshooting
             path: /email-protection/troubleshooting
+    - name: DuckDuckGo Sync & Backup
+      path: /sync-and-backup
     - name: DuckDuckGo App Tracking Protection
       path: /p-app-tracking-protection
     - name: Duck Player
