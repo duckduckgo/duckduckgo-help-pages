@@ -8,7 +8,7 @@ order: 300
 
 Visit your browser’s extension store to install our free Privacy Essentials extension:
 
--   [Install Chrome extension](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) (<a href="{{ site.baseurl }}/desktop/chrome">Installation instructions</a>)
+-   [Install Chrome extension](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) (<a href="{{ site.baseurl }}/desktop/chrome">Installation instructions</a>)
 -   [Install Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) (<a href="{{ site.baseurl }}/desktop/firefox">Installation instructions</a>)
 -   [Install Edge extension](https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk) (<a href="{{ site.baseurl }}/desktop/microsoft-edge">Installation instructions</a>)
 -   [Install Opera extension](https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/) (<a href="{{ site.baseurl }}/desktop/opera">Installation instructions</a>)

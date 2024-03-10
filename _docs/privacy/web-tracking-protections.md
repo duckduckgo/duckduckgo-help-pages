@@ -404,7 +404,7 @@ For questions, comments, or concerns, please feel free to <a href="{{ site.baseu
 [post-topics-fledge-protection]: https://spreadprivacy.com/topics-and-fledge-blocked/
 [//]: # "DuckDuckGo product pages"
 [product-firefox]: https://addons.mozilla.org/firefox/addon/duckduckgo-for-firefox/
-[product-chrome]: https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg
+[product-chrome]: https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg
 [product-edge]: https://microsoftedge.microsoft.com/addons/detail/duckduckgo-privacy-essent/caoacbimdbbljakfhgikoodekdnlcgpk
 [product-opera]: https://addons.opera.com/extensions/details/duckduckgo-for-opera-2/
 [product-safari]: https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575
