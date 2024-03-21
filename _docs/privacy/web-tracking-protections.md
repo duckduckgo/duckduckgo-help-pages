@@ -310,11 +310,11 @@ We’ve chosen this approach because it allows us to continue shipping best-in-c
 
 ### The Fire Button
 
-As you visit websites, everyday data, like regular cookies and browser storage, builds up locally in the browser. We’ve made it simple to clear data like this from the DuckDuckGo app’s local storage on your device with the “Fire Button.”
+As you visit websites, everyday data, like regular cookies and browser storage, builds up locally in the browser. We’ve made it simple to clear data like this from the DuckDuckGo app’s local storage on your device with the “Fire Button.” This type of protection is not offered in most popular browsers by default.
 
 The Fire Button erases traces of websites that you’ve visited (like cookies, website caches, and favicons), browsing session information (like open tabs, back button history, and visited URLs), and permissions you’ve granted to websites (like geolocation, camera, and microphone settings). Our apps offer additional control, where you can also make specific sites partially immune to the Fire Button by “Fireproofing” them. Fireproofing a website keeps some helpful data around, like 1st-party cookies and storage that would otherwise be cleared out by the Fire Button, so you can stay signed in.
 
-From DuckDuckGo app Settings, you can manage your Fireproof Sites and choose whether you’d like to automatically clear tabs and data on restart. It’s important to note that the Fire Button will not clear the following: 1st-party cookies and storage for Fireproof Sites, bookmarks, downloaded files, or DuckDuckGo Search settings. This type of protection is not offered in most popular browsers by default.
+From DuckDuckGo app Settings, you can manage your Fireproof Sites and choose whether you’d like to automatically clear tabs and data on restart. It’s important to note that the Fire Button will not clear the following: 1st-party cookies and storage for Fireproof Sites, bookmarks, downloaded files, or DuckDuckGo Search settings and associated storage. For example, we might use local storage to anonymously remember the fact that you’ve already dismissed a prompt to install our app so that we don’t annoy you by showing it again.
 
 | Platform          | Support                                                                                                                                                   |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -330,7 +330,7 @@ From DuckDuckGo app Settings, you can manage your Fireproof Sites and choose whe
 
 ### Cookie Pop-up Management
 
-Cookie consent pop-ups often use dark design patterns to get you to accept the least private option. When DuckDuckGo detects a cookie pop-up on sites you visit, we can try to automatically set your cookie preferences to instead maximize privacy and minimize cookies, then close the pop-up. For sites that don't provide an option to manage cookie preferences, we simply try to hide the pop-up. In these cases, automatically hiding the pop-up is often still more private than selecting one of the limited options made available (e.g., “Accept All Cookies”). We currently offer coverage for approximately 80% of the top 250 websites in the UK and Germany and plan to expand coverage to additional websites over time.
+Cookie consent pop-ups often use dark design patterns to get you to accept the least private option. When DuckDuckGo detects a cookie pop-up on sites you visit, we can try to automatically set your cookie preferences to instead maximize privacy and minimize cookies, then close the pop-up. For sites that don't provide an option to manage cookie preferences, we simply try to hide the pop-up. In these cases, automatically hiding the pop-up is often still more private than selecting one of the limited options made available (e.g., “Accept All Cookies”). We currently offer coverage for most of the top 10,000 websites in the US, UK and EU and plan to expand coverage to additional websites over time.
 
 Visit Settings in our supported apps and extensions to enable this feature. You can review [our open source code][github-autoconsent] for this feature. This type of protection is not offered in most popular browsers by default.
 
