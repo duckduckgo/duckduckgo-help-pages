@@ -18,4 +18,4 @@ Some extensions we suspect to be malicious are also listed below, where the comp
 
 If you have one of these extensions installed or suspect you may have installed a malicious extension, you can help DuckDuckGo identify and mitigate fraudulent requests to our search engine (sometimes known as “botty traffic”) by letting us know. 
 
-To report an extension you think is malicious, send an email to ops@duckduckgo.com. If you email us, we may contact you using the email provided to troubleshoot the issue.
+To report an extension you think is malicious, send an email to [ops@duckduckgo.com](mailto:ops@duckduckgo.com). If you email us, we may contact you using the email provided to troubleshoot the issue.
