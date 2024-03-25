@@ -62,6 +62,15 @@ categories_data:
       path: /sync-and-backup
     - name: DuckDuckGo App Tracking Protection
       path: /p-app-tracking-protection
+    - name: DuckDuckGo Privacy Pro
+      path: /privacy-pro
+      sub_categories:
+          - name: VPN
+            path: /privacy-pro/vpn
+          - name: Personal Information Removal
+            path: /privacy-pro/personal-information-removal
+          - name: Identity Theft Restoration
+            path: /privacy-pro/identity-theft-restoration
     - name: Duck Player
       path: /duck-player
     - name: Misconceptions About DuckDuckGo

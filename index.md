@@ -10,7 +10,8 @@ Welcome to DuckDuckGo Help - If you can't find an answer to your DuckDuckGo ques
 
 <!-- List of categories and sub-categories -->
 <ul class="welcome-category-list">
-{% for category in site.categories_data %}
+{% assign categories = site.categories_data %> | where_exp:"category", "category.name != 'DuckDuckGo Privacy Pro'" %}
+{% for category in categories %}
 <li><a href="{{ site.baseurl }}{{ category.path }}">{{ category.name }}</a></li>
     {% for subcat in category.sub_categories %}
     <li><a href="{{ site.baseurl }}{{ subcat.path }}">{{ category.name }} - {{ subcat.name }}</a></li>
