@@ -44,7 +44,7 @@
             </ul>
 
             <ul>
-                {% assign grouped = site.docs | where_exp:"item", "item.layout != 'redirect'" | where_exp:"item", "item.isIndex != true" | group_by: 'category' %}
+                {% assign grouped = site.docs | where_exp:"item", "item.layout != 'redirect'" | where_exp:"item", "item.hideFromNav != true" | where_exp:"item", "item.isIndex != true" | group_by: 'category' %}
                 {% for category in site.categories_data %}
                     {% assign group = grouped | where: 'name', category.name | first %}
                     {% if group %}
