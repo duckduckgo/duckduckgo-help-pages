@@ -28,7 +28,7 @@ The VPN protects Internet connections across your full device, not just your web
 
 Unlike many other VPNs, our VPN is private with a strict no-logging policy. It is also easy to use; there’s no need to install a separate app and, using the DuckDuckGo browser, you can connect in just one click. Our VPN offers full device coverage on up to 5 devices at once and is fast and reliable, with servers across the US, Canada and Europe.
 
-DuckDuckGo VPN is also the only VPN that works with DuckDuckGo [App Tracking Protection]({{ site.base_url }}/p-app-tracking-protection/) on Android devices.
+DuckDuckGo VPN is also the only VPN that works with DuckDuckGo [App Tracking Protection]({{ site.baseurl }}/p-app-tracking-protection/) on Android devices.
 
 ## In which countries can I use DuckDuckGo VPN?
 
