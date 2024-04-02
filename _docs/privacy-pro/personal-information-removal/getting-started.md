@@ -10,11 +10,11 @@ hideFromNav: true
 excluded_in_search: true
 ---
 
-Ever tried looking yourself up online? DuckDuckGo Personal Information Removal can help find and remove your personal information, such as your name and address, from data broker sites that store and sell it, helping to combat identity theft and spam. Access to Personal Information Removal comes with a DuckDuckGo Privacy Pro [subscription]({{ site.base_url}}/privacy-pro).
+Ever tried looking yourself up online? DuckDuckGo Personal Information Removal can help find and remove your personal information, such as your name and address, from data broker sites that store and sell it, helping to combat identity theft and spam. Access to Personal Information Removal comes with a DuckDuckGo Privacy Pro [subscription]({{ site.baseurl}}/privacy-pro).
 
 ## How do I get DuckDuckGo Personal Information Removal?
 
-DuckDuckGo Personal Information Removal is included in the [DuckDuckGo Privacy Pro subscription]({{ site.base_url}}/privacy-pro). To subscribe to Privacy Pro and use Personal Information Removal, first download the DuckDuckGo Browser on desktop and subscribe to Privacy Pro in the browser settings. Once you’ve subscribed, you’ll be able to start using Personal Information Removal from the Settings menu in the browser.
+DuckDuckGo Personal Information Removal is included in the [DuckDuckGo Privacy Pro subscription]({{ site.baseurl}}/privacy-pro). To subscribe to Privacy Pro and use Personal Information Removal, first download the DuckDuckGo Browser on desktop and subscribe to Privacy Pro in the browser settings. Once you’ve subscribed, you’ll be able to start using Personal Information Removal from the Settings menu in the browser.
 
 ## How does Personal Information Removal work?
 

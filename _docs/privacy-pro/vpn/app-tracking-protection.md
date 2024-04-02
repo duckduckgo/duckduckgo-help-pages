@@ -10,7 +10,7 @@ hideFromNav: true
 excluded_in_search: true
 ---
 
-The DuckDuckGo VPN is the only VPN compatible with DuckDuckGo [App Tracking Protection]({{ site.base_url}}/p-app-tracking-protection/) for Android.
+The DuckDuckGo VPN is the only VPN compatible with DuckDuckGo [App Tracking Protection]({{ site.baseurl}}/p-app-tracking-protection/) for Android.
 
 ## Why do other VPNs not work with DuckDuckGo's App Tracking Protection?
 
