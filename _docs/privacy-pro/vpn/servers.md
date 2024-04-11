@@ -5,9 +5,6 @@ description: Get answers to frequently asked questions about DuckDuckGo VPN, whi
 category: DuckDuckGo Privacy Pro
 sub_category: VPN
 order: 400
-sitemap: false
-hideFromNav: true
-excluded_in_search: true
 ---
 
 We currently have VPN servers in the United States, Canada, and Europe:
@@ -29,8 +26,10 @@ We currently have VPN servers in the United States, Canada, and Europe:
     -   London, EN
     -   Paris, FR
 
-## Does DuckDuckGo plan to add more VPN servers and locations?
+## Do you plan to add more VPN servers and locations?
 
 We are proactively monitoring our network capacity and routinely add servers to existing locations as needed.
 
-As for new locations, we are currently prioritizing coverage in North America and Europe but do have plans to expand beyond. If you would like to submit a request for a specific location, you can do so by selecting “Send Feedback ...” in the VPN menu.
+As for new locations, we are currently prioritizing coverage in North America and Europe but do have plans to expand beyond. If you would like to submit a request for a specific location, you can do so by selecting “Send VPN Feedback ...” in the VPN menu.
+
+{% include category-footer-nav.md %}

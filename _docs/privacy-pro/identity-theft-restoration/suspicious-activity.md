@@ -5,12 +5,9 @@ description: Get answers to frequently asked questions about DuckDuckGo Identity
 category: DuckDuckGo Privacy Pro
 sub_category: Identity Theft Restoration
 order: 400
-sitemap: false
-hideFromNav: true
-excluded_in_search: true
 ---
 
-If you suspect that your credit or debit card information is being used fraudulently, please contact Iris so that an advisor can start researching your case and work with your bank to help resolve the situation. You can do so by navigating to Settings in the DuckDuckGo browser, go to the **Privacy Pro** section, and click on **Identity Theft Restoration**.
+If you suspect that your credit or debit card information is being used fraudulently, please contact Iris so that an advisor can start researching your case and work with your bank to help resolve the situation. You can do so by navigating to **Settings** in the DuckDuckGo browser, go to the **Privacy Pro** section, and click on **Identity Theft Restoration**.
 
 ## What do I do if I receive a suspicious phone call, email, or mail?
 
@@ -20,3 +17,5 @@ If you’re interested in learning more about how to recognize phone and phishin
 
 -   [FTC – Phone Scams](https://consumer.ftc.gov/articles/phone-scams)
 -   [FTC – Phishing Scams](https://www.ftc.gov/news-events/topics/identity-theft/phishing-scams)
+
+{% include category-footer-nav.md %}

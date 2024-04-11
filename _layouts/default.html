@@ -86,15 +86,21 @@
     <section class="main">
         <div class="page-header">
             <h2>
+                {% assign pageCategory = site.categories_data | where_exp: "category", "category.name == page.category" | first %}
+                {% assign pageSubCategory = pageCategory.sub_categories | where_exp: "category", "category.name == page.sub_category" | first %}
+
                 {% if page.isIndex %}
                     {% if page.sub_category %}
-                        {{ page.category }}
+                        <a href="{{ site.baseurl }}{{ pageCategory.path }}">{{ page.category }}</a>
                     {% else %}
-                        {{ site.title }}
+                        <a href="{{ site.baseurl }}/">{{ site.title }}</a>
                     {% endif %}
                 {% else %}
-                    {% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}
-                    {% if page.sub_category %} / {{ page.sub_category }}{% endif %}
+                    <!-- Get the length of the page.category string so we can hide the category link on the welcome page -->
+                    {% capture categorySize %}{{ page.category | size }}{% endcapture %}
+
+                    {% if categorySize %}<a href="{{ site.baseurl }}{{ pageCategory.path }}">{{ page.category }}</a>{% else %}<a href="{{ site.baseurl }}">{{ site.title }}</a>{% endif %}
+                    {% if page.sub_category %} / <a href="{{ site.baseurl }}{{ pageSubCategory.path }}">{{ page.sub_category }}</a>{% endif %}
                 {% endif %}
             </h2>
             <h3>{{ page.title }}</h3>

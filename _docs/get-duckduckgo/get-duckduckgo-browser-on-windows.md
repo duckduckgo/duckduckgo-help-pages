@@ -10,7 +10,7 @@ Our free web browser is a privacy-protecting alternative to Google Chrome and ot
 
 -   [Download the DuckDuckGo Private Browser for Windows](http://duckduckgo.com/windows)
 
-**Problems with installation?**
+### Problems with installation?
 
 **Unsupported Versions of Windows**<br />
 If you get an error message when attempting to install DuckDuckGo on Windows indicating “this package is not compatible with the device", try the following:

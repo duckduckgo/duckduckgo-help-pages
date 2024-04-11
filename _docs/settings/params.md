@@ -6,7 +6,7 @@ category: DuckDuckGo Search Privacy
 order: 400
 ---
 
-# URL Parameters
+## URL Parameters
 
 You can change DuckDuckGo settings via URL parameters by adding them after the search query, for example: `https://duckduckgo.com/?q=search&kp=-1&kl=us-en`.
 

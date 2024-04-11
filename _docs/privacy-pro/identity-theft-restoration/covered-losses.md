@@ -1,13 +1,10 @@
 ---
-title: What Losses Are Covered with Identity Theft Restoration?
-nav_title: What Losses Are Covered?
+title: What losses are covered with Identity Theft Restoration?
+nav_title: What losses are covered?
 description: Get answers to frequently asked questions about DuckDuckGo Identity Theft Restoration, which helps you restore your identity if it is stolen.
 category: DuckDuckGo Privacy Pro
 sub_category: Identity Theft Restoration
 order: 300
-sitemap: false
-hideFromNav: true
-excluded_in_search: true
 ---
 
 ## How does Identity Theft Restoration cover my financial losses?
@@ -19,3 +16,5 @@ If you suspect that your credit or debit card information is being used fraudule
 ## Does Identity Theft Restoration cover cryptocurrency losses?
 
 Cryptocurrency losses are not covered.
+
+{% include category-footer-nav.md %}
