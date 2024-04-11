@@ -12,7 +12,7 @@ You don’t need to provide us with your email to use Privacy Pro, though you ca
 
 You can activate your subscription in the following ways to avoid sharing your email address with DuckDuckGo.
 
-If you purchased Privacy Pro via our website or purchased Privacy Pro in the DuckDuckGo browser downloaded from our website, you can activate Privacy Pro on your other devices following [these instructions]({{ site.baseurl }}/privacy-pro/activate) and authenticate using the email address you used to purchase Privacy Pro through our payment processor, Stripe.
+If you purchased Privacy Pro via our website or purchased Privacy Pro in the DuckDuckGo browser downloaded from our website, you can activate Privacy Pro on your other devices following [these instructions]({{ site.baseurl }}/privacy-pro/activating) and authenticate using the email address you used to purchase Privacy Pro through our payment processor, Stripe.
 
 If you downloaded our browser from the Apple App Store or Google Play Store, you can activate your subscription through your app store account for Apple and Google devices, respectively.
 
