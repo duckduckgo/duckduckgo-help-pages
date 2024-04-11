@@ -1,13 +1,10 @@
 ---
-title: What is Identity Theft Restoration?
-nav_title: What is Identity Theft Restoration?
+title: What is DuckDuckGo Identity Theft Restoration?
+nav_title: About Identity Theft Restoration
 description: Get answers to frequently asked questions about DuckDuckGo Identity Theft Restoration, which helps you restore your identity if it is stolen.
 category: DuckDuckGo Privacy Pro
 sub_category: Identity Theft Restoration
 order: 100
-sitemap: false
-hideFromNav: true
-excluded_in_search: true
 ---
 
 With more than 1 million cases a year reported in the U.S., identity theft is more common than you might think. If your identity is stolen, DuckDuckGo Identity Theft Restoration helps you handle the stress and expense to restore it and get you back on track.
@@ -24,8 +21,10 @@ Identity Theft is the act of stealing any combination of personally identifiable
 
 Identity Theft Restoration is a service offered by and in partnership with [Iris® Powered by Generali]({{ site.baseurl }}/privacy-pro/identity-theft-restoration/iris), a leader in helping people recover from identity theft. If you become a victim of identity theft while you’re subscribed to Privacy Pro, Iris will assign you a personal advisor to help resolve issues. That includes working directly with credit card companies or banks, dealing with paperwork and call centers, handling follow-ups, and providing guidance throughout.
 
-They will help fix errors in your credit report that result from fraudulent activity; help replace and cancel lost wallet items; help inform the authorities, and more. Limited out of pocket expenses may also be covered. Assistance is quick and easy; we treat every stolen identity as an emergency. Call 24/7 to request assistance, with most calls answered by an expert advisor in 20 seconds or less.
+They will help fix errors in your credit report that result from fraudulent activity; help replace and cancel lost wallet items; help inform the authorities, and more. Limited out of pocket expenses may also be covered. Assistance is quick and easy; we treat every stolen identity as an emergency. Call 24/7 to request assistance, with most calls answered by an expert advisor in 30 seconds or less.
 
 ## Are non-US bank accounts covered?
 
 Identity Theft Restoration currently only covers bank accounts based in the United States.
+
+{% include category-footer-nav.md %}

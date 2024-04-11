@@ -6,7 +6,7 @@ category: DuckDuckGo Search Results
 order: 1100
 ---
 
-<h3>Instant Answers</h3>
+<h2>Instant Answers</h2>
 
 <p>
     DuckDuckGo uses over
@@ -24,7 +24,7 @@ order: 1100
     Of course, things like <a href="https://duckduckgo.com/?q=2x+%2B+6+%3D+12+solve&amp;ia=calculator">calculations</a> and <a href="https://duckduckgo.com/?q=people+in+space&ia=answer">factual information</a> are covered but what's more interesting are the surprises you'll find as Instant Answers. From <a href="https://duckduckgo.com/?q=AA+102">checking the status of a flight</a> to <a href="https://duckduckgo.com/?q=password+strong+12&ia=answer">generating a strong password</a>, we've got an Instant Answer for it.
 </p>
 
-<h3>!Bang Syntax</h3>
+<h2>!Bang Syntax</h2>
 
 <p>
     You can search other sites directly from DuckDuckGo, just by using our

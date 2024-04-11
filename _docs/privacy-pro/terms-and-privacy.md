@@ -4,21 +4,22 @@ nav_title: Privacy Pro Terms and Privacy
 description: Get answers to frequently asked questions about DuckDuckGo’s Privacy Pro subscription that includes VPN, Personal Information Removal, and Identity Theft Restoration.
 category: DuckDuckGo Privacy Pro
 order: 200
-sitemap: false
-hideFromNav: true
-excluded_in_search: true
 ---
 
 The DuckDuckGo Privacy Pro Privacy Policy and Terms of Service can be found here: <a href="https://duckduckgo.com/pro/privacy-terms">https://duckduckgo.com/pro/privacy-terms</a>.
 
-DuckDuckGo’s general privacy policy and terms of service can be found here: <a href="https://duckduckgo.com/terms">https://duckduckgo.com/terms</a> and <a href="https://duckduckgo.com/privacy">https://duckduckgo.com/privacy</a>.
+DuckDuckGo’s general Privacy Policy and Terms of Service can be found here: <a href="https://duckduckgo.com/terms">https://duckduckgo.com/terms</a> and <a href="https://duckduckgo.com/privacy">https://duckduckgo.com/privacy</a>.
 
-## Does DuckDuckGo store personal information of Privacy Pro subscribers?
+## Do I need to share personal information to subscribe to Privacy Pro?
 
-We only save the minimum personal information we need for the service to function. To protect your identity, we assign a random ID to your Privacy Pro subscription that we use to activate your subscription on your devices. You can optionally add an email address for ease of activation. We will only use personal information you provide (for example, your email address if you choose to provide it) to make the service function and for no other purpose.
+You don’t need to share any personal information with DuckDuckGo in order to use Privacy Pro. We believe the best way we can protect your personal information is to not collect it at all.
 
-When you pay for your Privacy Pro subscription, your payment is processed and managed via Google, Apple, or Stripe, depending on what platform you subscribed. Their respective privacy policies and terms of service apply to payment processing.
+We don’t keep logs of your VPN activity and information you submit for Personal Information Removal is stored on your device, not on our servers. Similarly, we don’t process payments, which is done by either Stripe, the Apple App Store, or Google Play Store, depending on how you subscribe.
+
+In addition, you don’t need to create an account in order to use Privacy Pro. Instead, and to protect your identity even further, we assign a random ID to your Privacy Pro subscription that we use to activate your subscription on your devices. This random ID is not connected to any of your Privacy Pro activity or payment information. If you opt to add an email address for ease of activation, it also won't be connected to your Privacy Pro activity or payment information.
 
 ## What happens to my data after I cancel my subscription?
 
 If you choose to cancel Privacy Pro, we will delete any personal information we have (for example, your email address) within 30 days, unless we are legally required to keep it longer.
+
+{% include category-footer-nav.md %}

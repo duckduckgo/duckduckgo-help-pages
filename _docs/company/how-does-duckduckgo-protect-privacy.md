@@ -7,13 +7,13 @@ category: About DuckDuckGo
 order: 75
 ---
 
-**Quick Answer:**
+## Quick Answer:
 
 If you’re like most people on the Internet, you use Google to search the web and Google Chrome to browse the web. That means by default Google can keep track of every single search you make and website you visit. On those websites, other companies may also track you.
 
-DuckDuckGo is an independent Google alternative that also lets you search and browse the web, but we don’t track your searches or browsing history, and our <a href="{{ site.baseurl }}/get-duckduckgo/does-duckduckgo-make-a-browser/">browsers</a> and <a href="{{ site.baseurl }}/desktop/adding-duckduckgo-to-your-browser/">extensions</a> help you block other companies from trying to track you as well, all by default. Our browser comes with seamless privacy protection built-in, including <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">tracker blocking</a>, <a href="{{ site.baseurl }}/privacy/web-tracking-protections/#smarter-encryption-https-upgrading">increased encryption</a>, <a href="{{ site.baseurl}}/email-protection/what-is-duckduckgo-email-protection/">email protection</a>, and more. That’s how DuckDuckGo protects your privacy in a nutshell.
+DuckDuckGo is an independent Google alternative that also lets you search and browse the web, but we don’t track your searches or browsing history, and our <a href="{{ site.baseurl }}/get-duckduckgo/does-duckduckgo-make-a-browser/">browsers</a> and <a href="{{ site.baseurl }}/desktop/adding-duckduckgo-to-your-browser/">extensions</a> help you block other companies from trying to track you as well, all by default. Our free browser comes with seamless privacy protection built-in, including <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">tracker blocking</a>, <a href="{{ site.baseurl }}/privacy/web-tracking-protections/#smarter-encryption-https-upgrading">increased encryption</a>, <a href="{{ site.baseurl}}/email-protection/what-is-duckduckgo-email-protection/">email protection</a>, and more, making it the most comprehensive privacy protection you can get with one download. Plus, subscribers to our Privacy Pro subscription service get three additional protections: a fast and simple VPN, a Personal Information Removal service, and an Identity Theft Restoration service. That’s how DuckDuckGo protects your privacy in a nutshell.
 
-**Detailed Answer:**
+## Detailed Answer:
 
 Our product vision is to be the “easy button” for online privacy.
 
@@ -34,3 +34,9 @@ DuckDuckGo protects your privacy through a uniquely comprehensive set of privacy
 To be effective, our privacy protections need to continually evolve to mitigate how trackers attempt to evade specific protections. That’s why we offer multiple types of web tracking protections, continually improve them, and work to introduce new and innovative protections.
 
 Note that our private search engine is also independently accessible at [duckduckgo.com](https://duckduckgo.com/) and as a built-in option in other popular browsers. However, if you just use the search engine, we cannot offer any privacy protection when you visit other web sites. To get that protection, you need our browser or browser extensions. Our help page on <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">web tracking protections</a> details which protections are available on which platforms.
+
+In addition, our Privacy Pro subscription service includes three more protections:
+
+-   **[VPN]({{ site.baseurl}}/privacy-pro/vpn)**: Secure your connection anytime, anywhere. Get full-device protection with the VPN built for speed, simplicity, and security. Available on Mac, Windows, iOS, and Android.
+-   **[Personal Information Removal]({{ site.baseurl }}/privacy-pro/personal-information-removal)**: Find and remove your personal details – like your name and address – from sites that store and sell it, helping to combat identity theft and spam.
+-   **[Identity Theft Restoration]({{ site.baseurl }}/privacy-pro/identity-theft-restoration)**: If your identity is stolen, a dedicated advisor will help you restore stolen accounts, recover financial losses, and correct your credit report. Brought to you by Iris (Iris Powered by Generali) — a world leader in identity theft restoration.

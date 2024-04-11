@@ -178,19 +178,47 @@ header {
     color: $content-color;
     // fixes footer positioning for IE 11
     flex: 1 0 auto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+
+    h2 {
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 28px;
+        letter-spacing: -0.24px;
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
 
     h3:not(:first-child):before {
         content: "";
         @extend hr;
         margin: 60px 0;
     }
+
+    p {
+        margin-bottom: 48px;
+    }
+
+    p + ol,
+    p + ul {
+        margin-top: -28px;
+        margin-bottom: 48px;
+    }
+
+    h2 + ol, h2 + ul {
+        margin-bottom: 48px;
+    }
 }
 
 .content,
 .page-header {
     max-width: 100%;
-    padding: 0 ($space + 5) $space;
-    margin: $space auto 0 auto;
+    padding: 0 ($space + 5) 0;
+    margin: 48px auto 0 auto;
     overflow-wrap: break-word;
 
     // Desktop
@@ -209,24 +237,35 @@ header {
 
     h2 {
         font-size: 2rem;
+        font-style: normal;
+        font-weight: 500;
         margin-left: -1px;
+        margin-bottom: 32px;
         color: #888;
         letter-spacing: 0;
+
+        & a {
+            color: #888;
+        }
     }
 
     h3 {
         font-size: 4rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 48px;
         margin-left: -4px;
     }
 
     // Desktop
     @media (min-width: $mobile-break) {
         h2 {
-            font-size: 2.65rem;
+            font-size: 20px;
+            line-height: 24px;
         }
 
         h3 {
-            font-size: 5.4rem;
+            font-size: 48px;
         }
     }
 
@@ -462,6 +501,8 @@ blockquote {
     padding: 10px 15px;
     margin-left: -15px;
     margin-right: -10px;
+    margin-top: 0;
+    margin-bottom: 48px;
     background-color: $brand-colour-light;
     border-color: $brand-colour;
 
