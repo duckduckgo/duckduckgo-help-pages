@@ -11,3 +11,5 @@ Our online privacy faces more threats than ever — from invasive tracking, iden
 Of course, using the [DuckDuckGo Private Browser](https://duckduckgo.com/app) is a fantastic place to start. With more than a dozen free protections built in, including our private alternative to Google search, you’re already getting [more privacy out of the box](https://duckduckgo.com/compare-privacy/) than most other browsers offer by default.
 
 But what else should you consider? We've compiled these guides to answer common questions about online privacy protection so you can take the next steps in your privacy journey.
+
+{% include category-footer-nav.md %}
