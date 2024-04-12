@@ -26,3 +26,5 @@ The threat of identity theft can feel overwhelming, but it helps to stay vigilan
 Keeping a close eye on your financial accounts and regularly checking your credit reports (coupled with strong digital security practices) form the foundation of the best identity theft protection strategies.
 
 If you do notice signs of identity theft, you should act right away! Immediate action can mitigate potential damage and make for a quicker, smoother recovery process.
+
+{% include category-footer-nav.md %}
