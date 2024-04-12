@@ -1,9 +1,10 @@
 ---
 title: How To Get the DuckDuckGo Edge Extension
-nav_title: Get the DuckDuckGo Edge Extension
+nav_title: Edge
 description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
 category: How To Get DuckDuckGo
-order: 600
+sub_category: Add DuckDuckGo To Your Browser
+order: 300
 ---
 
 ## Installing Our Add-On

@@ -1,9 +1,10 @@
 ---
 title: How To Get the DuckDuckGo Firefox Extension
-nav_title: Get the DuckDuckGo Firefox Extension
+nav_title: Firefox
 description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
 category: How To Get DuckDuckGo
-order: 400
+sub_category: Add DuckDuckGo To Your Browser
+order: 100
 ---
 
 > <a class="btn" href="{{ site.baseurl }}/mobile/firefox-android">Did you mean Firefox Mobile instead?</a>

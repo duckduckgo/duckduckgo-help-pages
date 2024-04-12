@@ -1,9 +1,10 @@
 ---
 title: How To Add DuckDuckGo to Firefox Mobile
-nav_title: Add DuckDuckGo Search to Firefox Mobile
+nav_title: Firefox Mobile Add-On
 description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
 category: How To Get DuckDuckGo
-order: 500
+sub_category: Add DuckDuckGo To Your Browser
+order: 600
 ---
 
 > <a href="{{ site.baseurl }}/desktop/firefox">Did you mean desktop Firefox instead?</a>
