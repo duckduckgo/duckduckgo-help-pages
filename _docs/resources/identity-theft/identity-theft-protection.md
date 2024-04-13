@@ -16,11 +16,11 @@ Identity theft can take many forms. Potential ramifications depend on the aims o
 Be on the lookout for these common types of identity theft:
 
 -   **Credit line identity theft**: Identity thieves can use information like your date of birth and Social Security number to apply for credit cards, loans, and other lines of credit.
--   **Synthetic identity theft**: Bad actors can mix your actual information with fabricated details to forge a “[synthetic](https://www.equifax.com/personal/education/identity-theft/articles/-/learn/synthetic-identity-theft/){:target="\_blank"}” identity, in other words, a person who doesn’t really exist. Identity thieves can then use those fake identities to open fraudulent accounts and make purchases.
--   **Medical identity theft**: Your personally identifiable information can be exploited to [unlawfully obtain](https://www.equifax.com/personal/education/identity-theft/articles/-/learn/medical-identity-theft/){:target="\_blank"} medical services under your name.
+-   **Synthetic identity theft**: Bad actors can mix your actual information with fabricated details to forge a “[synthetic](https://www.equifax.com/personal/education/identity-theft/articles/-/learn/synthetic-identity-theft/){:target="\_blank"}{:rel="noopener noreferrer"}” identity, in other words, a person who doesn’t really exist. Identity thieves can then use those fake identities to open fraudulent accounts and make purchases.
+-   **Medical identity theft**: Your personally identifiable information can be exploited to [unlawfully obtain](https://www.equifax.com/personal/education/identity-theft/articles/-/learn/medical-identity-theft/){:target="\_blank"}{:rel="noopener noreferrer"} medical services under your name.
 -   **Tax identity theft**: With a target’s Social Security number, identity thieves can commit tax fraud to steal your tax refund.
 -   **Employment identity theft**: Perpetrators can use your identity to gain employment, which can impact your credit, benefit capabilities, and taxes, as well as creating extensive potential legal issues down the road.
--   **Unemployment identity theft**: Bad actors can [claim and intercept](https://www.irs.gov/identity-theft-fraud-scams/identity-theft-and-unemployment-benefits){:target="\_blank"} your government benefits.
+-   **Unemployment identity theft**: Bad actors can [claim and intercept](https://www.irs.gov/identity-theft-fraud-scams/identity-theft-and-unemployment-benefits){:target="\_blank"}{:rel="noopener noreferrer"} your government benefits.
 
 ## Common Identity Theft Warning Signs
 
@@ -60,7 +60,7 @@ Keep your peace of mind by establishing a strong defense against the increasing 
 
 If you discover that your identity has been compromised, it’s important to act quickly.
 
-In the US, you should alert your banks, credit card issuers, the [Federal Trade Commission](https://www.identitytheft.gov/#/){:target="\_blank"} (FTC), and the three major credit bureaus ([Equifax](https://www.equifax.com/personal/credit-report-services){:target="\_blank"}, [Experian](https://www.experian.com/help/){:target="\_blank"}, and [TransUnion](https://www.transunion.com/credit-help){:target="\_blank"}) right away to minimize damage.
+In the US, you should alert your banks, credit card issuers, the [Federal Trade Commission](https://www.identitytheft.gov/#/){:target="\_blank"}{:rel="noopener noreferrer"} (FTC), and the three major credit bureaus ([Equifax](https://www.equifax.com/personal/credit-report-services){:target="\_blank"}{:rel="noopener noreferrer"}, [Experian](https://www.experian.com/help/){:target="\_blank"}{:rel="noopener noreferrer"}, and [TransUnion](https://www.transunion.com/credit-help){:target="\_blank"}{:rel="noopener noreferrer"}) right away to minimize damage.
 
 You’ll also want to change the passwords to any secure online accounts that may have been compromised.
 
@@ -70,8 +70,8 @@ Finally, keep detailed records of any communications related to the identity the
 
 As soon as you realize you’ve been the victim of identity theft, consider taking these steps:
 
--   Report it to the FTC via their consumer website, [IdentityTheft.gov](https://www.identitytheft.gov/#/){:target="\_blank"}, or by calling their hotline at [1-877-438-4338](tel:+018774384338).
--   Notify the fraud departments of the three major credit bureaus ([Equifax](https://www.equifax.com/personal/credit-report-services){:target="\_blank"}, [Experian](https://www.experian.com/help/){:target="\_blank"}, and [TransUnion](https://www.transunion.com/credit-help){:target="\_blank"}) to place fraud alerts on your credit reports.
+-   Report it to the FTC via their consumer website, [IdentityTheft.gov](https://www.identitytheft.gov/#/){:target="\_blank"}{:rel="noopener noreferrer"}, or by calling their hotline at [1-877-438-4338](tel:+018774384338).
+-   Notify the fraud departments of the three major credit bureaus ([Equifax](https://www.equifax.com/personal/credit-report-services){:target="\_blank"}{:rel="noopener noreferrer"}, [Experian](https://www.experian.com/help/){:target="\_blank"}{:rel="noopener noreferrer"}, and [TransUnion](https://www.transunion.com/credit-help){:target="\_blank"}{:rel="noopener noreferrer"}) to place fraud alerts on your credit reports.
 -   File a report with the police department. This creates an official record of the identity theft, which is sometimes required by financial institutions during the recovery process.
 
 Note: Contact your local police precinct for guidance on how to file a police report for identity theft. Police departments typically have dedicated phone numbers for non-emergency situations, and that’s what you’ll want to use in most cases.
