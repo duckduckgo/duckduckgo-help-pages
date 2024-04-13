@@ -72,7 +72,7 @@ Look for services that provide real-time alerts for suspicious activity on your 
 ## Additional Resources
 
 -   [NerdWallet - Identity Theft: What It Is, How to Prevent It, Warning Signs and Tips](https://www.nerdwallet.com/article/finance/how-to-prevent-identity-theft){:target="\_blank"}
--   [LifeLock - How to help prevent identity theft: 16 security tips](){:target="\_blank"}
+-   [LifeLock - How to help prevent identity theft: 19 security tips](https://lifelock.norton.com/learn/identity-theft-resources/how-to-prevent-identity-theft){:target="\_blank"}
 -   [PCMag - Prevent Identity Theft With These 11 Essential Steps](https://www.pcmag.com/how-to/prevent-identity-theft-online){:target="\_blank"}
 -   [Forbes - 10 Ways To Protect Yourself From Identity Theft](https://www.forbes.com/advisor/personal-finance/protect-yourself-from-identity-theft/){:target="\_blank"}
 
