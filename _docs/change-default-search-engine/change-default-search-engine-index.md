@@ -7,4 +7,6 @@ sub_category: Get DuckDuckGo Private Search
 isIndex: true
 ---
 
+Learn how to make DuckDuckGo your default search engine in popular browsers.
+
 {% include category-footer-nav.md %}

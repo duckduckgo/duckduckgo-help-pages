@@ -7,6 +7,6 @@ sub_category: Get the DuckDuckGo Browser App
 isIndex: true
 ---
 
-Content TBD
+Learn how to download the DuckDuckGo browser on desktop and mobile.
 
 {% include category-footer-nav.md %}

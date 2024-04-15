@@ -7,6 +7,6 @@ sub_category: Add DuckDuckGo To Your Browser
 isIndex: true
 ---
 
-Content TBD
+Learn how to install the DuckDuckGo Privacy Essentials browser extension.
 
 {% include category-footer-nav.md %}

@@ -7,4 +7,6 @@ sub_category: Mobile Search Widget
 isIndex: true
 ---
 
+Already use the DuckDuckGo browser on mobile? Add the DuckDuckGo search widget for even quicker access to private search.
+
 {% include category-footer-nav.md %}
