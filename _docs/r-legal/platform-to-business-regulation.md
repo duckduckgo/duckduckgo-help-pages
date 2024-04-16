@@ -18,7 +18,7 @@ Most DuckDuckGo Search result pages feature one or more Instant Answers on top. 
 
 ## Organic Links
 
-Most organic links and images in our search results are sourced from [Bing](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a). Information about how Bing ranks its content can be found in their [Webmaster Guidelines](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a), in the section titled “How Bing ranks your content”. When DuckDuckGo applies its own ranking signals to organic links, we do so in a neutral manner, for example, we do not take into account any particular political bias or leanings of websites in our search result rankings. Please see our <a href="{{ site.baseurl }}/results/news-rankings">News Rankings Help Page</a> for further information.
+Most organic links and images in our search results are sourced from [Bing](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a). Information about how Bing ranks its content can be found on its [Support Page](https://support.microsoft.com/en-us/topic/how-bing-delivers-search-results-d18fc815-ac37-4723-bc67-9229ce3eb6a3) in the section titled “How Bing Ranks Search Results”. When DuckDuckGo applies its own ranking signals to organic links, we do so in a neutral manner, for example, we do not take into account any particular political bias or leanings of websites in our search result rankings. Please see our <a href="{{ site.baseurl }}/results/news-rankings">News Rankings Help Page</a> for further information.
 
 Like all search engines, we try to rank egregious spam lower in our search results, and in the rare situation that DuckDuckGo alters the ranking order of organic links or delists a particular organic link, you may request further information by contacting [legal@duckduckgo.com](mailto:legal@duckduckgo.com). Subject to applicable law, you may have the right to inspect the contents of any relevant third-party notification or request to alter the ranking order or delist an organic link.
 
@@ -28,4 +28,4 @@ We also display ads adjacent to search results, as explained in our Help Page on
 
 Date of Publication: August 18, 2023
 
-Date of Last Update: August 18, 2023
+Date of Last Update: April 16, 2024
