@@ -11,7 +11,7 @@ order: 100
 
 ## Types of Identity Theft
 
-Identity theft can take many forms. Potential ramifications depend on the aims of bad actors and the type of personally identifiable information, or “PII,” that was compromised in the identity theft. However, some commonalities in identity theft can be identified.
+Identity theft can take many forms. Potential ramifications depend on the aims of bad actors and the personally identifiable information, or “PII,” that was compromised in the identity theft. However, some commonalities in identity theft can be identified.
 
 Be on the lookout for these common types of identity theft:
 
