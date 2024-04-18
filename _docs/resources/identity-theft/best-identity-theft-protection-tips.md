@@ -1,5 +1,5 @@
 ---
-title: "How to Prevent Identity Theft: 8 Best Identity Theft Protection Tips"
+title: "How To Prevent Identity Theft: 8 Best Identity Theft Protection Tips"
 nav_title: Identity Theft Protection Tips
 description: In this privacy guide, DuckDuckGo digs into the best identity theft protection tips, distilling simple steps to secure your sensitive information.
 sub_category: Identity Theft
@@ -47,7 +47,7 @@ Needing to provide your Social Security number to third parties is extremely unc
 
 You should also feel empowered to ask if you really need to share sensitive information, especially if it doesn’t seem necessary to the transaction, and seek alternative methods of identification when available.
 
-### Tip #5: Learn How to Remove Your Information From the Internet
+### Tip #5: Learn How To Remove Your Information From the Internet
 
 Regularly search for your name online to monitor and address unauthorized sharing of your personally identifiable information. There are a number of [online tools and services](https://www.washingtonpost.com/technology/2023/10/03/delete-personal-data-privacy-free-app/){:target="\_blank"}{:rel="noopener noreferrer"} to remove your information from data broker sites and search engines.
 
