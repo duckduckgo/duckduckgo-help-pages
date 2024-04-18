@@ -9,19 +9,15 @@ order: 1100
 <h2>Instant Answers</h2>
 
 <p>
-    DuckDuckGo uses over
-    <a href="https://duck.co/ia">100 sources to provide answers</a> to your
+    DuckDuckGo uses over 100 sources to provide answers to your
     searches, without the need to click on a result. Just look for the Instant
     Answer above the results:
 </p>
 
 <img src="{{ site.baseurl }}/images/instant-answers.png" />
-<p>
-    They're open source, so any developer can view them or submit fixes through our <a href="https://github.com/duckduckgo">GitHub repository</a>. This also means we have a wide variety of Instant Answers!
-</p>
 
 <p>
-    Of course, things like <a href="https://duckduckgo.com/?q=2x+%2B+6+%3D+12+solve&amp;ia=calculator">calculations</a> and <a href="https://duckduckgo.com/?q=people+in+space&ia=answer">factual information</a> are covered but what's more interesting are the surprises you'll find as Instant Answers. From <a href="https://duckduckgo.com/?q=AA+102">checking the status of a flight</a> to <a href="https://duckduckgo.com/?q=password+strong+12&ia=answer">generating a strong password</a>, we've got an Instant Answer for it.
+    Of course, things like <a href="https://duckduckgo.com/?q=2+%25+2&ia=calculator">calculations</a> and <a href="https://duckduckgo.com/?q=people+in+space&ia=answer">factual information</a> are covered but you may be surprised by number of Instant Answers DuckDuckGo actually has — from <a href="https://duckduckgo.com/?q=AA+102">checking the status of a flight</a> to <a href="https://duckduckgo.com/?q=password+strong+12&ia=answer">generating a strong password</a> — we've got an Instant Answer for it.
 </p>
 
 <h2>!Bang Syntax</h2>
@@ -44,10 +40,8 @@ order: 1100
 <img src="{{ site.baseurl }}/images/amazon-shoes.png" />
 <p>
     Many of the !bangs even have short versions. Use 'a' for Amazon or 'w' for
-    Wikipedia.
+    Wikipedia. For example: !a shoes or !w shoes
 </p>
-
-<p>For example: !a shoes or !w shoes</p>
 
 <p>
     There are
@@ -60,7 +54,4 @@ order: 1100
     <a href="{{ site.baseurl }}/desktop/adding-duckduckgo-to-your-browser">browser extension</a>
     or, if you have DuckDuckGo as your browser's default search-engine, the !bang
     commands will even work from the address bar or search bar.
-    <strong>WARNING: Use of !bangs will forever change the way you search, leaving you
-        with more free time and less frustration.
-    </strong>
 </p>
