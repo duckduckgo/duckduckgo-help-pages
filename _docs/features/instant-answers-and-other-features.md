@@ -17,7 +17,7 @@ order: 1100
 <img src="{{ site.baseurl }}/images/instant-answers.png" />
 
 <p>
-    Of course, things like <a href="https://duckduckgo.com/?q=2+%25+2&ia=calculator">calculations</a> and <a href="https://duckduckgo.com/?q=people+in+space&ia=answer">factual information</a> are covered but you may be surprised by number of Instant Answers DuckDuckGo actually has — from <a href="https://duckduckgo.com/?q=AA+102">checking the status of a flight</a> to <a href="https://duckduckgo.com/?q=password+strong+12&ia=answer">generating a strong password</a> — we've got an Instant Answer for it.
+    Of course, things like <a href="https://duckduckgo.com/?q=2+%25+2&ia=calculator">calculations</a> and <a href="https://duckduckgo.com/?q=people+in+space&ia=answer">factual information</a> are covered, but you may be surprised by number of Instant Answers DuckDuckGo actually has — from <a href="https://duckduckgo.com/?q=AA+102">checking the status of a flight</a> to <a href="https://duckduckgo.com/?q=password+strong+12&ia=answer">generating a strong password</a> — we've got an Instant Answer for it.
 </p>
 
 <h2>!Bang Syntax</h2>
@@ -47,11 +47,4 @@ order: 1100
     There are
     <a href="https://duckduckgo.com/bangs">thousands of sites covered</a> and
     you can even <a href="https://duckduckgo.com/newbang">submit your own!</a>
-</p>
-
-<p>
-    If you're using our
-    <a href="{{ site.baseurl }}/desktop/adding-duckduckgo-to-your-browser">browser extension</a>
-    or, if you have DuckDuckGo as your browser's default search-engine, the !bang
-    commands will even work from the address bar or search bar.
 </p>
