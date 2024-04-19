@@ -6,7 +6,7 @@ order: 600
 ---
 
 <p>
-    DuckDuckGo has been profitable since 2014, our browsers and extensions have been downloaded over 250 million times, and our private search engine has seen over a billion searches. Because of this, we don't accept donations.
+    DuckDuckGo has been profitable since 2014, our browsers and extensions have been downloaded over 250 million times, and our private search engine has seen over one hundred billion searches. Because of this, we don't accept donations.
 </p>
 
 <p>
