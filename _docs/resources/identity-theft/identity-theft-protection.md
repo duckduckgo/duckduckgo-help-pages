@@ -7,7 +7,7 @@ category: DuckDuckGo Privacy Guides
 order: 100
 ---
 
-![TBD]({{ site.baseurl }}/images/resources/identity-theft-hero.jpg)
+![Identity theft hero image]({{ site.baseurl }}/images/resources/identity-theft-hero.jpg)
 
 ## Types of Identity Theft
 
@@ -54,7 +54,7 @@ Proactively protecting your identity can reduce the time, effort, and potential 
 
 Keep your peace of mind by establishing a strong defense against the increasing threat of identity theft.
 
-![TBD]({{ site.baseurl }}/images/resources/identity-theft-defense.jpg)
+![Identity theft defense]({{ site.baseurl }}/images/resources/identity-theft-defense.jpg)
 
 ## What To Do if Your Identity Is Stolen {#identity-stolen}
 

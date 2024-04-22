@@ -8,7 +8,7 @@ category: DuckDuckGo Privacy Guides
 isIndex: true
 ---
 
-![TBD]({{ site.baseurl }}/images/resources/identity-theft-hero.jpg)
+![Identity theft hero image]({{ site.baseurl }}/images/resources/identity-theft-hero.jpg)
 
 ## What is identity theft?
 

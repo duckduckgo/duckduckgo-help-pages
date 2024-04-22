@@ -7,7 +7,7 @@ category: DuckDuckGo Privacy Guides
 order: 200
 ---
 
-![TBD]({{ site.baseurl }}/images/resources/identity-theft-prevention.jpg)
+![Identity theft protection]({{ site.baseurl }}/images/resources/identity-theft-prevention.jpg)
 
 ## How to Prevent Identity Theft: 8 Best Identity Theft Protection Tips
 
