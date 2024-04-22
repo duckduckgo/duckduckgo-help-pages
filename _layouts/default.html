@@ -47,17 +47,20 @@
                 {% assign grouped = site.docs | where_exp:"item", "item.layout != 'redirect'" | where_exp:"item", "item.hideFromNav != true" | where_exp:"item", "item.isIndex != true" | group_by: 'category' %}
                 {% for category in site.categories_data %}
                     {% assign group = grouped | where: 'name', category.name | first %}
-                    {% if group %}
+                    {% assign hasSubcategories = category.sub_categories %}
+                    {% if group or hasSubcategories %}
                     <li class="nav-item top-level {% if category.name == page.category %}current{% endif %}">
-                        {% assign items = group.items | where_exp:"item", "item.sub_category == undefined" | sort: 'order' %}
                         <a href="{{ site.baseurl }}{{ category.path }}">{{ category.name }}</a>
                         <ul>
-                            {% for item in items %}
-                            <li class="nav-item {% if item.url == page.url %}current page{% endif %}"><a
-                                    href="{{ site.baseurl }}{{ item.url }}">
-                                    {% if item.nav_title %}{{ item.nav_title }}{% else %}{{ item.title }}{% endif %}
-                                </a></li>
-                            {% endfor %}
+                            {% if group.items %}
+                                {% assign items = group.items | where_exp:"item", "item.sub_category == undefined" | sort: 'order' %}
+                                {% for item in items %}
+                                <li class="nav-item {% if item.url == page.url %}current page{% endif %}"><a
+                                        href="{{ site.baseurl }}{{ item.url }}">
+                                        {% if item.nav_title %}{{ item.nav_title }}{% else %}{{ item.title }}{% endif %}
+                                    </a></li>
+                                {% endfor %}
+                            {% endif %}
 
                             <!-- Sub-categories -->
                             {% for subcat in category.sub_categories %}
@@ -65,7 +68,10 @@
                                 <li class="nav-item second-level {% if subcat.name == page.sub_category %}current{% endif %}">
                                     <a href="{{ site.baseurl }}{{ subcat.path }}">{{ subcat.name }}</a>
                                     <ul>
-                                        {% assign sub_group = group.items | where_exp:"item", "item.sub_category == subcat.name" | sort: 'order' %}
+                                        {% assign sub_group = group.items | where_exp:"item", "item.sub_category == subcat.name" %}
+                                        {% if sub_group %}
+                                            {% assign sub_group = sub_group | sort: 'order' %}
+                                        {% endif %}
                                         {% for item in sub_group %}
                                         <li class="nav-item {% if item.url == page.url %}current page{% endif %}"><a
                                                 href="{{ site.baseurl }}{{ item.url }}">

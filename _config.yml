@@ -80,6 +80,11 @@ categories_data:
       sub_categories:
           - name: Translated Microsoft Ads Notice
             path: /translated
+    - name: DuckDuckGo Privacy Guides
+      path: /resources
+      sub_categories:
+          - name: Identity Theft
+            path: /resources/identity-theft
 
 defaults:
     - scope:
