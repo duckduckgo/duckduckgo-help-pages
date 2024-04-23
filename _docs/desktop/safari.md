@@ -15,6 +15,6 @@ order: 400
 
 ## Changing Your Search Engine to DuckDuckGo
 
-[Click here](https://support.apple.com/en-ca/guide/safari/sfria1042d31/mac) for instructions on how to change the default search engine in Safari
+[Click here]({{ site.baseurl }}/change-default-search-engine/safari) for instructions on how to change the default search engine in Safari
 
 {% include default-search-disclaimer.md %}

@@ -15,6 +15,6 @@ order: 100
 
 ## Changing Your Search Engine to DuckDuckGo
 
-[Click here](https://support.mozilla.org/en-US/kb/change-your-default-search-settings-firefox) for instructions on how to change the default search engine in Firefox.
+[Click here]({{ site.baseurl }}/change-default-search-engine/firefox) for instructions on how to change the default search engine in Firefox.
 
 {% include default-search-disclaimer.md %}

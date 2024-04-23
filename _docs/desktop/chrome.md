@@ -13,10 +13,10 @@ order: 200
 
 ## Changing Your Search Engine to DuckDuckGo
 
-[Click here](https://support.google.com/chrome/answer/95426?hl=en&co=GENIE.Platform%3DDesktop) for instructions on how to change the default search engine in Chrome.
+[Click here]({{ site.baseurl }}/change-default-search-engine/google-chrome) for instructions on how to change the default search engine in Chrome.
 
 ## Making DuckDuckGo the Homepage
 
-[Click here](https://support.google.com/chrome/answer/95314?hl=en&co=GENIE.Platform=Desktop) for instructions on how to change your homepage in Chrome.
+[Click here]({{ site.baseurl }}/change-default-search-engine/google-chrome) for instructions on how to change your homepage in Chrome.
 
 {% include default-search-disclaimer.md %}

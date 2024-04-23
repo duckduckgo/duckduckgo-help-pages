@@ -17,7 +17,7 @@ order: 600
 
 Instructions on how to change the default search engine:
 
--   [Firefox for iOS](https://support.mozilla.org/en-US/kb/change-your-default-search-engine-firefox-ios)
--   [Firefox for Android](https://support.mozilla.org/en-US/kb/manage-my-default-search-engines-firefox-android)
+-   [Firefox for iOS]({{ site.baseurl }}/change-default-search-engine/firefox#ios)
+-   [Firefox for Android]({{ site.baseurl }}/change-default-search-engine/firefox#android)
 
 {% include default-search-disclaimer.md %}

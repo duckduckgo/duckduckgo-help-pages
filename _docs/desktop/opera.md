@@ -13,7 +13,7 @@ order: 500
 
 ## Changing Your Search Engine to DuckDuckGo
 
-[Click here](https://help.opera.com/en/latest/search/#defaultSearchEngine) for instructions on how to change the default search engine in Opera.
+[Click here]({{ site.baseurl }}/change-default-search-engine/opera) for instructions on how to change the default search engine in Opera.
 
 ## Adding DuckDuckGo to Speed Dial
 
