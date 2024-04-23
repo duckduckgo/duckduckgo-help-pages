@@ -11,15 +11,15 @@ order: 100
 
 On your iOS device, long-press the DuckDuckGo icon, and tap Edit Home Screen.
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/press-hold-duckduckgo.jpg)
+![Press & Hold DuckDuckGo]({{ site.baseurl }}/images/set-as-default/press-hold-duckduckgo.jpg)
 
 At the top-left, tap the + pill button.
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/tap-plus-sign.jpg)
+![Tap plus sign]({{ site.baseurl }}/images/set-as-default/tap-plus-sign.jpg)
 
 In the Search widgets box, type in DuckDuckGo (or scroll down to the DuckDuckGo widget).
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/search-widget-type.jpg)
+![Search widget type]({{ site.baseurl }}/images/set-as-default/search-widget-type.jpg)
 
 Select from the following three search widget options:
 
@@ -27,8 +27,8 @@ Select from the following three search widget options:
 -   **Search and Favorites**: Search or visit your favorite sites privately with just one tap.
     -   Options to show four Favorites or 12.
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/select-widget-option.jpg)
+![Select widget option]({{ site.baseurl }}/images/set-as-default/select-widget-option.jpg)
 
 Once selected, tap Add Widget and move to your preferred home screen location.
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/final-search-widget-min.jpg)
+![Final search widget]({{ site.baseurl }}/images/set-as-default/final-search-widget-min.jpg)

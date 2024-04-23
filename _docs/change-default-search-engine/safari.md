@@ -13,11 +13,11 @@ Open the Safari browser on your Mac
 
 Select the magnifying glass on the left side of the address bar
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/safari-desktop-magnifying-glass-min.jpg)
+![Safari Desktop magnifying glass]({{ site.baseurl }}/images/set-as-default/safari-desktop-magnifying-glass-min.jpg)
 
 From here, you can change your default search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/safari-desktop-dropdown-min.jpg)
+![Safari Desktop dropdown]({{ site.baseurl }}/images/set-as-default/safari-desktop-dropdown-min.jpg)
 
 ## iOS
 
@@ -25,8 +25,8 @@ Open the Settings app on your iPhone or iPad
 
 Scroll down and open Safari > Search Engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/safari-ios-settings-min.jpg)
+![Safari iOS settings]({{ site.baseurl }}/images/set-as-default/safari-ios-settings-min.jpg)
 
 From here, you can change your default search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/safari-ios-dropdown-min.jpg)
+![Safari iOS dropdown]({{ site.baseurl }}/images/set-as-default/safari-ios-dropdown-min.jpg)

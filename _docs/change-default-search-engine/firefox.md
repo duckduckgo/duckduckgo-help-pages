@@ -13,17 +13,17 @@ Open Firefox on your desktop computer
 
 Open the browser menu (three lines) and select Settings
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-desktop-hamburger-menu-min.jpg)
+![Firefox Desktop hamburger menu]({{ site.baseurl }}/images/set-as-default/firefox-desktop-hamburger-menu-min.jpg)
 
 Select Search from the menu on the left
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-desktop-settings-sidebar-min.jpg)
+![Firefox Desktop settings sidebar]({{ site.baseurl }}/images/set-as-default/firefox-desktop-settings-sidebar-min.jpg)
 
 From here, you can change your default search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-desktop-select-search-engine-min.jpg)
+![Firefox Desktop select search engine]({{ site.baseurl }}/images/set-as-default/firefox-desktop-select-search-engine-min.jpg)
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-desktop-search-engine-final-min.jpg)
+![Firefox Desktop search engine final state]({{ site.baseurl }}/images/set-as-default/firefox-desktop-search-engine-final-min.jpg)
 
 ## Android
 
@@ -31,17 +31,17 @@ Open the Firefox browser on your Android device
 
 Tap the search engine icon to the left of the URL search bar
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-android-search-engine-icon-min.jpg)
+![Firefox Android search engine icon]({{ site.baseurl }}/images/set-as-default/firefox-android-search-engine-icon-min.jpg)
 
 Tap Search settings > Default search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-android-search-settings-min.jpg)
+![Firefox Android search settings]({{ site.baseurl }}/images/set-as-default/firefox-android-search-settings-min.jpg)
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-android-default-search-engine-tap-min.jpg)
+![Firefox Android default search engine tap]({{ site.baseurl }}/images/set-as-default/firefox-android-default-search-engine-tap-min.jpg)
 
 From here, you can change your default search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-android-select-a-search-engine-min.jpg)
+![Firefox Android select a search engine]({{ site.baseurl }}/images/set-as-default/firefox-android-select-a-search-engine-min.jpg)
 
 ## iOS
 
@@ -49,18 +49,18 @@ Open the Firefox browser on your iPhone or iPad
 
 Open the browser menu (three lines)
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-ios-hamburger-menu.jpg)
+![Firefox iOS hamburger menu ]({{ site.baseurl }}/images/set-as-default/firefox-ios-hamburger-menu.jpg)
 
 Select Settings to open the Settings menu
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-ios-select-settings.jpg)
+![Firefox iOS select settings]({{ site.baseurl }}/images/set-as-default/firefox-ios-select-settings.jpg)
 
 Under "General”, tap Search
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-ios-search-select.jpg)
+![Firefox iOS search select]({{ site.baseurl }}/images/set-as-default/firefox-ios-search-select.jpg)
 
 From here, you can change your default search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-ios-default-search-engine.jpg)
+![Firefox iOS default search engine]({{ site.baseurl }}/images/set-as-default/firefox-ios-default-search-engine.jpg)
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/firefox-ios-dropdown-menu.jpg)
+![Firefox iOS dropdown menu]({{ site.baseurl }}/images/set-as-default/firefox-ios-dropdown-menu.jpg)

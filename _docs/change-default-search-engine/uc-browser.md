@@ -13,12 +13,12 @@ Open UC Browser on your Android device
 
 Tap the URL bar at the top
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/uc-browser-home-min.jpg)
+![UC Browser home]({{ site.baseurl }}/images/set-as-default/uc-browser-home-min.jpg)
 
 Tap the Search engine icon on the left of the URL bar
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/uc-browser-url-min.jpg)
+![UC Browser url]({{ site.baseurl }}/images/set-as-default/uc-browser-url-min.jpg)
 
 From here, you can change your default search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/uc-browser-search-min.jpg)
+![UC Browser search]({{ site.baseurl }}/images/set-as-default/uc-browser-search-min.jpg)

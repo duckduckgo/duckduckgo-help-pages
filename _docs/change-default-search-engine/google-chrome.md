@@ -13,15 +13,15 @@ Open the Chrome browser on your desktop computer
 
 Open the browser menu (three dots) > Settings
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/chrome-desktop-settings-click-min.jpg)
+![Chrome Desktop settings click]({{ site.baseurl }}/images/set-as-default/chrome-desktop-settings-click-min.jpg)
 
 In the left sidebar, select Search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/chrome-desktop-select-search-engine-min.jpg)
+![Chrome Desktop select search engine]({{ site.baseurl }}/images/set-as-default/chrome-desktop-select-search-engine-min.jpg)
 
 From here, you can change your default search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/chrome-desktop-dropdown-min.jpg)
+![Chrome Desktop dropdown]({{ site.baseurl }}/images/set-as-default/chrome-desktop-dropdown-min.jpg)
 
 ## Android
 
@@ -31,11 +31,11 @@ To the right of the address bar, tap More > Settings
 
 Under “Basics”, select Search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/chrome-android-search-engine.jpg)
+![Chrome Android search engine]({{ site.baseurl }}/images/set-as-default/chrome-android-search-engine.jpg)
 
 From here, you can change your default search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/chrome-android-settings.jpg)
+![Chrome Android settings]({{ site.baseurl }}/images/set-as-default/chrome-android-settings.jpg)
 
 ## iOS
 
@@ -45,8 +45,8 @@ Open the browser menu (three dots), then scroll over to Settings
 
 Select Search Engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/chrome-ios-settings-min.jpg)
+![Chrome iOS settings]({{ site.baseurl }}/images/set-as-default/chrome-ios-settings-min.jpg)
 
 From here, you can change your default search engine
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/chrome-ios-default-search-engine-min.jpg)
+![Chrome iOS default search engine]({{ site.baseurl }}/images/set-as-default/chrome-ios-default-search-engine-min.jpg)

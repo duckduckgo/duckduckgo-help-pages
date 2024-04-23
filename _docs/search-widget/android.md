@@ -11,11 +11,11 @@ order: 200
 
 On your Android device, long-press the DuckDuckGo icon, then tap the Widgets icon.
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/duckduckgo-widget-options-android.jpg)
+![DuckDuckGo Android Widget options]({{ site.baseurl }}/images/set-as-default/duckduckgo-widget-options-android.jpg)
 
 Long-press your preferred DuckDuckGo widget, then drag it to place it on your home screen.
 
-![Screenshot showing...]({{ site.baseurl }}/images/set-as-default/duckduckgo-widget.jpg)
+![DuckDuckGo Android Widget]({{ site.baseurl }}/images/set-as-default/duckduckgo-widget.jpg)
 
 To remove the Google search widget, long-press on the widget and tap Remove.
 
