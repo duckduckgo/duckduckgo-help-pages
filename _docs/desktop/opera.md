@@ -3,7 +3,7 @@ title: How To Get the DuckDuckGo Opera Extension
 nav_title: Opera
 description: "The DuckDuckGo extension offers seamless privacy protection: tracker blocking, cookie protection, private search, and much more."
 category: How To Get DuckDuckGo
-sub_category: Add DuckDuckGo To Your Browser
+sub_category: Get the DuckDuckGo Browser Extension
 order: 500
 ---
 

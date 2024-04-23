@@ -3,7 +3,7 @@ title: How do I remove unofficial DuckDuckGo Chrome extensions?
 nav_title: Remove unofficial DuckDuckGo extensions
 description: Think you may have installed a malicious Chrome extension pretending to be from DuckDuckGo? Here’s how to get rid of it.
 category: How To Get DuckDuckGo
-sub_category: Add DuckDuckGo To Your Browser
+sub_category: Get the DuckDuckGo Browser Extension
 order: 800
 ---
 
