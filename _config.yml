@@ -44,7 +44,7 @@ categories_data:
     - name: How To Get DuckDuckGo
       path: /get-duckduckgo
       sub_categories:
-          - name: Get the DuckDuckGo Browser App
+          - name: Get the DuckDuckGo Browser
             path: /get-duckduckgo/browser
           - name: Get the DuckDuckGo Browser Extension
             path: /get-duckduckgo/browser-extension

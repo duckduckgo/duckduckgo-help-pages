@@ -3,7 +3,7 @@ title: How To Get The DuckDuckGo Browser on Windows
 nav_title: Windows
 description: The free browser from DuckDuckGo has the speed you need, the features you expect, and comes packed with our best-in-class privacy protections.
 category: How To Get DuckDuckGo
-sub_category: Get the DuckDuckGo Browser App
+sub_category: Get the DuckDuckGo Browser
 order: 200
 ---
 
