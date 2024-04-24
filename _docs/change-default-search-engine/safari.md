@@ -9,24 +9,24 @@ order: 200
 
 ## Mac
 
-Open the Safari browser on your Mac
+Open the Safari browser on your Mac.
 
-Select the magnifying glass on the left side of the address bar
+Select the magnifying glass on the left side of the address bar.
 
 ![Safari Desktop magnifying glass]({{ site.baseurl }}/images/set-as-default/safari-desktop-magnifying-glass-min.jpg)
 
-From here, you can change your default search engine
+From here, you can change your default search engine.
 
 ![Safari Desktop dropdown]({{ site.baseurl }}/images/set-as-default/safari-desktop-dropdown-min.jpg)
 
 ## iOS
 
-Open the Settings app on your iPhone or iPad
+Open the Settings app on your iPhone or iPad.
 
-Scroll down and open Safari > Search Engine
+Scroll down and open Safari > Search Engine.
 
 ![Safari iOS settings]({{ site.baseurl }}/images/set-as-default/safari-ios-settings-min.jpg)
 
-From here, you can change your default search engine
+From here, you can change your default search engine.
 
 ![Safari iOS dropdown]({{ site.baseurl }}/images/set-as-default/safari-ios-dropdown-min.jpg)
