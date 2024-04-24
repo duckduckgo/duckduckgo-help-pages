@@ -6,7 +6,7 @@ category: DuckDuckGo Search Results
 order: 100
 ---
 
-When people search, we believe they're really looking for answers, as opposed to just links. For many categories of searches (restaurants, lyrics, weather, etc.), there is usually a specialized search engine (e.g., Tripadvisor), content site (e.g., Musixmatch), or dedicated source (e.g., Dark Sky) that does a better job of actually answering searches than a general search engine can with just links. Our long-term goal is to get you Instant Answers from these best sources.
+When people search, we believe they're really looking for answers, as opposed to just links. For many categories of searches (restaurants, lyrics, sports scores, etc.), there is usually a specialized search engine (e.g., Tripadvisor), content site (e.g., Musixmatch), or dedicated source (e.g., Sportradar) that does a better job of actually answering searches than a general search engine can with just links. Our long-term goal is to get you Instant Answers from these best sources.
 
 Most of our search result pages feature one or more Instant Answers. To deliver Instant Answers on specific topics, DuckDuckGo leverages many sources, including specialized sources like Sportradar and crowd-sourced sites like Wikipedia. We also maintain our own crawler (DuckDuckBot) and many indexes to support our results. Of course, we have more traditional links and images in our search results too, which we largely source from Bing. Our focus is synthesizing all these sources to create a superior search experience.
 
