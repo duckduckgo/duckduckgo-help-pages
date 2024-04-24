@@ -11,7 +11,7 @@ order: 500
 
 Open the Opera browser on your desktop computer
 
-To the right of the address bar, select Easy Setup
+To the right of the address bar, select Easy setup
 
 ![Opera Desktop easy setup]({{ site.baseurl }}/images/set-as-default/opera-desktop-easy-setup-min.jpg)
 

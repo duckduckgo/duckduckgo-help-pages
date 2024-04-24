@@ -9,7 +9,7 @@ order: 100
 
 > **Note**: To add the DuckDuckGo search widget to your home screen in iOS, you will need to have the DuckDuckGo browser installed. For instructions on how to install the DuckDuckGo browser, please see [this page]({{ site.baseurl }}/mobile/ios/).
 
-On your iOS device, long-press the DuckDuckGo icon, and tap Edit Home Screen.
+On your iOS device, long-press the DuckDuckGo icon, and tap **Edit Home Screen**.
 
 ![Press & Hold DuckDuckGo]({{ site.baseurl }}/images/set-as-default/press-hold-duckduckgo.jpg)
 
@@ -29,6 +29,6 @@ Select from the following three search widget options:
 
 ![Select widget option]({{ site.baseurl }}/images/set-as-default/select-widget-option.jpg)
 
-Once selected, tap Add Widget and move to your preferred home screen location.
+Once selected, tap **Add Widget** and move to your preferred home screen location.
 
 ![Final search widget]({{ site.baseurl }}/images/set-as-default/final-search-widget-min.jpg)

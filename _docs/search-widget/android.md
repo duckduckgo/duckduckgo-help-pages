@@ -9,7 +9,7 @@ order: 200
 
 > **Note**: To add the DuckDuckGo search widget to your home screen in Android, you will need to have the DuckDuckGo browser installed. For instructions on how to install the DuckDuckGo browser, please see [this page]({{ site.baseurl }}/mobile/android/).
 
-On your Android device, long-press the DuckDuckGo icon, then tap the Widgets icon.
+On your Android device, long-press the DuckDuckGo icon, then tap the **Widgets** icon.
 
 ![DuckDuckGo Android Widget options]({{ site.baseurl }}/images/set-as-default/duckduckgo-widget-options-android.jpg)
 
@@ -17,7 +17,7 @@ Long-press your preferred DuckDuckGo widget, then drag it to place it on your ho
 
 ![DuckDuckGo Android Widget]({{ site.baseurl }}/images/set-as-default/duckduckgo-widget.jpg)
 
-To remove the Google search widget, long-press on the widget and tap Remove.
+To remove the Google search widget, long-press on the widget and tap **Remove**.
 
 It’s currently not possible to remove the Google search widget on Pixel phones. However, if you live in the European Economic Area and have the most recent Android operating system version, you should be able to change the default search engine in the widget by long pressing the Google logo in the search widget.
 

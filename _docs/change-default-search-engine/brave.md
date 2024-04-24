@@ -53,7 +53,7 @@ In the General section, select Search Engines
 
 ![Brave iOS search engines]({{ site.baseurl }}/images/set-as-default/brave-ios-search-engines-min.jpg)
 
-From here, select Standard tab or Private tab to change your default search engine for those respective tabs
+From here, select Standard Tab or Private Tab to change your default search engine for those respective tabs
 
 ![Brave iOS standard tab & private tab]({{ site.baseurl }}/images/set-as-default/brave-ios-standard-tab-private-tab-min.jpg)
 

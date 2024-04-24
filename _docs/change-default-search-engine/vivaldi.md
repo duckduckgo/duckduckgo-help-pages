@@ -31,7 +31,7 @@ Open the browser menu (Vivaldi icon) to the right of the address bar
 
 ![Vivaldi Android browser]({{ site.baseurl }}/images/set-as-default/vivaldi-android-browser-min.jpg)
 
-Select Settings > Search Engine
+Select Settings > Search engine
 
 ![Vivaldi Android tap settings]({{ site.baseurl }}/images/set-as-default/vivaldi-android-tap-settings-min.jpg)
 
