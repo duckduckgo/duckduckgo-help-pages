@@ -1,9 +1,10 @@
 ---
 title: How To Get the DuckDuckGo Opera Extension
-nav_title: Get the DuckDuckGo Opera Extension
+nav_title: Opera
 description: "The DuckDuckGo extension offers seamless privacy protection: tracker blocking, cookie protection, private search, and much more."
 category: How To Get DuckDuckGo
-order: 1000
+sub_category: Get the DuckDuckGo Browser Extension
+order: 500
 ---
 
 ## Installing Our Extension
@@ -12,7 +13,7 @@ order: 1000
 
 ## Changing Your Search Engine to DuckDuckGo
 
-[Click here](https://help.opera.com/en/latest/search/#defaultSearchEngine) for instructions on how to change the default search engine in Opera.
+[Click here]({{ site.baseurl }}/change-default-search-engine/opera) for instructions on how to change the default search engine in Opera.
 
 ## Adding DuckDuckGo to Speed Dial
 

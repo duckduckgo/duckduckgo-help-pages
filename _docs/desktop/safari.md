@@ -1,9 +1,10 @@
 ---
 title: How To Get the DuckDuckGo Safari Extension
-nav_title: Get the DuckDuckGo Safari Extension
+nav_title: Safari
 description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
 category: How To Get DuckDuckGo
-order: 700
+sub_category: Get the DuckDuckGo Browser Extension
+order: 400
 ---
 
 > <a class="button" href="{{ site.baseurl }}/mobile/safari-ios">Did you mean iOS Safari instead?</a>
@@ -14,6 +15,6 @@ order: 700
 
 ## Changing Your Search Engine to DuckDuckGo
 
-[Click here](https://support.apple.com/en-ca/guide/safari/sfria1042d31/mac) for instructions on how to change the default search engine in Safari
+[Click here]({{ site.baseurl }}/change-default-search-engine/safari) for instructions on how to change the default search engine in Safari
 
 {% include default-search-disclaimer.md %}

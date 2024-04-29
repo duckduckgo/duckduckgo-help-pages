@@ -1,9 +1,10 @@
 ---
 title: How To Get The DuckDuckGo Browser on Windows
-nav_title: Get The DuckDuckGo Browser on Windows
+nav_title: Windows
 description: The free browser from DuckDuckGo has the speed you need, the features you expect, and comes packed with our best-in-class privacy protections.
 category: How To Get DuckDuckGo
-order: 60
+sub_category: Get the DuckDuckGo Browser
+order: 200
 ---
 
 Our free web browser is a privacy-protecting alternative to Google Chrome and other browsers. It comes with seamless privacy protection built-in, including our search engine that replaces Google and doesn’t track your search history, plus {% include browser-benefits.md %}, and more. The DuckDuckGo browser is available for {% include ddg-browser-os-list-linked.md %}.

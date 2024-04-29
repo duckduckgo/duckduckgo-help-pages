@@ -1,9 +1,10 @@
 ---
 title: How To Get the DuckDuckGo Firefox Extension
-nav_title: Get the DuckDuckGo Firefox Extension
+nav_title: Firefox
 description: "The DuckDuckGo extension offers seamless privacy protection for your browser: tracker blocking, cookie protection, private search, email protection, and more."
 category: How To Get DuckDuckGo
-order: 400
+sub_category: Get the DuckDuckGo Browser Extension
+order: 100
 ---
 
 > <a class="btn" href="{{ site.baseurl }}/mobile/firefox-android">Did you mean Firefox Mobile instead?</a>
@@ -14,6 +15,6 @@ order: 400
 
 ## Changing Your Search Engine to DuckDuckGo
 
-[Click here](https://support.mozilla.org/en-US/kb/change-your-default-search-settings-firefox) for instructions on how to change the default search engine in Firefox.
+[Click here]({{ site.baseurl }}/change-default-search-engine/firefox) for instructions on how to change the default search engine in Firefox.
 
 {% include default-search-disclaimer.md %}

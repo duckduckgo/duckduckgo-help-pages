@@ -43,6 +43,15 @@ categories_data:
       path: /company
     - name: How To Get DuckDuckGo
       path: /get-duckduckgo
+      sub_categories:
+          - name: Get the DuckDuckGo Browser
+            path: /get-duckduckgo/browser
+          - name: Get the DuckDuckGo Browser Extension
+            path: /get-duckduckgo/browser-extension
+          - name: Get DuckDuckGo Private Search
+            path: /change-default-search-engine
+          - name: Mobile Search Widget
+            path: /search-widget
     - name: DuckDuckGo Search Results
       path: /results
     - name: DuckDuckGo Search Privacy
