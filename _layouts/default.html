@@ -22,6 +22,8 @@
     <!--[if lt IE 9]>
             <script src="{{ site.baseurl }}/scripts/html5shiv.js"></script>
         <![endif]-->
+
+    <script src="{{ site.baseurl }}/scripts/getCountryCode.js"></script>
 </head>
 
 <body>
@@ -55,7 +57,8 @@
                             {% if group.items %}
                                 {% assign items = group.items | where_exp:"item", "item.sub_category == undefined" | sort: 'order' %}
                                 {% for item in items %}
-                                <li class="nav-item {% if item.url == page.url %}current page{% endif %}"><a
+                                    {% assign hasGeoRestriction = item.geo_restriction %}
+                                <li class="nav-item {% if item.url == page.url %}current page{% endif %} {% if hasGeoRestriction %}geo-{{item.geo_restriction}}{% endif %}"><a
                                         href="{{ site.baseurl }}{{ item.url }}">
                                         {% if item.nav_title %}{{ item.nav_title }}{% else %}{{ item.title }}{% endif %}
                                     </a></li>
