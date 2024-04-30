@@ -1,7 +1,7 @@
 ---
-title: Imprint and Transparency Information (German)
-nav_title: Imprint and Transparency
-description: Imprint and Transparency Information (German)
+title: Impressum und Transparenzangaben
+nav_title: Impressum und Transparenzangaben
+description: Impressum und Transparenzangaben
 category: Legal
 geo_restriction: DE
 order: 500
