@@ -6,7 +6,7 @@ category: DuckDuckGo AI Chat
 order: 100
 ---
 
-[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat){:target="\_blank"}{:rel="noopener noreferrer"} currently supports OpenAI's GPT 3.5 Turbo and Anthropic's Claude 3 Haiku. You can change your default chat model at any time by clicking on the current chat model name – in the left sidebar.
+[DuckDuckGo AI Chat](https://duckduckgo.com/aichat){:target="\_blank"}{:rel="noopener noreferrer"} currently supports OpenAI's GPT 3.5 Turbo and Anthropic's Claude 3 Haiku. You can change your default chat model at any time by clicking on the current chat model name – in the left sidebar.
 
 ## Does DuckDuckGo moderate chat responses in any way?
 

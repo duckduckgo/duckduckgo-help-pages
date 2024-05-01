@@ -6,7 +6,7 @@ category: DuckDuckGo AI Chat
 order: 400
 ---
 
-[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat){:target="\_blank"}{:rel="noopener noreferrer"} is free to use, but there is a daily limit on usage.
+[DuckDuckGo AI Chat](https://duckduckgo.com/aichat){:target="\_blank"}{:rel="noopener noreferrer"} is free to use, but there is a daily limit on usage.
 
 ## Can I pay to increase the usage limit?
 
