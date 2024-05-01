@@ -3,7 +3,6 @@ title: Impressum und Transparenzangaben
 nav_title: Impressum und Transparenzangaben
 description: Impressum und Transparenzangaben
 category: Legal
-geo_restriction: DE
 order: 500
 ---
 
@@ -13,7 +12,9 @@ order: 500
 
 Adresse: 20 Paoli Pike, Paoli, Pennsylvania 19301, USA
 
-Vertretungsberechtigte Person: Corporation Service Company, Delaware, USA E-Mail: legal@duckduckgo.com
+Vertretungsberechtigte Person: Corporation Service Company, Delaware, USA
+
+E-Mail: legal@duckduckgo.com
 
 Eingetragen im Handelsregister des State of Delaware Division of Corporations, USA, unter der Registernummer 5019303
 
