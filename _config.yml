@@ -94,6 +94,8 @@ categories_data:
       sub_categories:
           - name: Identity Theft
             path: /resources/identity-theft
+          - name: VPN
+            path: /resources/vpn
 
 defaults:
     - scope:
