@@ -2,7 +2,7 @@
 title: DuckDuckGo Smarter Encryption
 nav_title: Smarter Encryption
 description: DuckDuckGo never tracks you. And when you leave our search engine and use our apps or extensions to browse other sites, we aim to protect your privacy as much as possible.
-category: DuckDuckGo Web Browsing Privacy
+category: Web Browsing Privacy
 order: 200
 ---
 

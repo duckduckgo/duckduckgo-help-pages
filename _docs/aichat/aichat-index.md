@@ -3,7 +3,7 @@ title: DuckDuckGo AI Chat
 nav_title: DuckDuckGo AI Chat
 description: DuckDuckGo AI Chat allows you to chat anonymously with 3rd-party AI chat models for free.
 permalink: /aichat/index.html
-category: DuckDuckGo AI Chat
+category: AI Chat
 isIndex: true
 ---
 

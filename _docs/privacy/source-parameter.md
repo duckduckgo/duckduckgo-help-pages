@@ -2,7 +2,7 @@
 title: What is the ‘source’ URL parameter for on DuckDuckGo Search?
 nav_title: About the 'source' URL Parameter
 description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo Privacy Policy in a nutshell.
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 order: 550
 ---
 

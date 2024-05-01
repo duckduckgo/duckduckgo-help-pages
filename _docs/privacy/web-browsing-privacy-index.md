@@ -2,7 +2,7 @@
 title: DuckDuckGo Web Browsing Privacy
 description: With our browsers and extensions, you get multiple layers of privacy protections that go above and beyond what most other browsers by default.
 permalink: /web-browsing-privacy/index.html
-category: DuckDuckGo Web Browsing Privacy
+category: Web Browsing Privacy
 isIndex: true
 ---
 

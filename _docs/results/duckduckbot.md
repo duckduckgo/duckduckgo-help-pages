@@ -2,7 +2,7 @@
 title: Is DuckDuckBot related to DuckDuckGo?
 nav_title: About DuckDuckBot
 description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
-category: DuckDuckGo Search Results
+category: Search Results
 order: 1400
 ---
 

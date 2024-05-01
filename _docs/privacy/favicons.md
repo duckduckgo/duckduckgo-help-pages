@@ -2,7 +2,7 @@
 title: How DuckDuckGo Keeps Favicons Anonymous
 nav_title: Anonymous Favicons
 description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 order: 1000
 ---
 

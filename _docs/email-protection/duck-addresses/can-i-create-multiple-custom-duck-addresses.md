@@ -2,7 +2,7 @@
 title: Can I create multiple custom Duck Addresses or Email Protection accounts?
 nav_title: How do I create multiple Email Protection accounts?
 description: You can only have one Duck Address enabled per browser, and only one associated with any given forwarding address.
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Duck Addresses
 order: 1200
 ---

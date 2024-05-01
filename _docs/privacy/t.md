@@ -2,7 +2,7 @@
 title: What is the ‘t’ URL parameter for on DuckDuckGo Search?
 nav_title: About the ‘t’ URL Parameter
 description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 order: 600
 ---
 

@@ -2,7 +2,7 @@
 title: How do I get DuckDuckGo Email Protection?
 nav_title: How do I get Email Protection?
 description: DuckDuckGo Email Protection is available through DuckDuckGo browsers, or third-party browsers with the DuckDuckGo extension installed.
-category: DuckDuckGo Email Protection
+category: Email Protection
 order: 200
 ---
 

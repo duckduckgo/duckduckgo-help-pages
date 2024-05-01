@@ -2,7 +2,7 @@
 title: How do I enable DuckDuckGo Email Protection on my mobile phone?
 nav_title: How do I enable Email Protection on Mobile?
 description: DuckDuckGo Email Protection can be enabled on your phone by visiting https://duckduckgo.com/email/login from a DuckDuckGo browser.
-category: DuckDuckGo Email Protection
+category: Email Protection
 order: 400
 ---
 

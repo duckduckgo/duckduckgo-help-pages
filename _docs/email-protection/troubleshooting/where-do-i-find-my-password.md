@@ -2,7 +2,7 @@
 title: Where do I find my DuckDuckGo Email Protection account password?
 nav_title: Where do I find my Email Protection account password?
 description: DuckDuckGo Email Protection doesn’t use traditional passwords. We’ll send you a One-Time Passphrase that allows you to securely sign-in whenever you need to.
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Troubleshooting
 order: 400
 ---

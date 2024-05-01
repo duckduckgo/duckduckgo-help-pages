@@ -2,7 +2,7 @@
 title: I'm not receiving DuckDuckGo Email Protection emails. Can you help?
 nav_title: What if I’m not receiving emails?
 description: First, check your spam or junk folder. Otherwise, make sure that emails aren't getting caught by filters, rules, or Gmail tabs (like Promotions, Social, etc.).
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Troubleshooting
 order: 100
 ---

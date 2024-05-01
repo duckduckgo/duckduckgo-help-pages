@@ -2,7 +2,7 @@
 title: Does DuckDuckGo Search have Instant Answers?
 nav_title: Instant Answers and Other Features
 description: Find answers to this and more DuckDuckGo frequently asked questions.
-category: DuckDuckGo Search Results
+category: Search Results
 order: 1100
 ---
 

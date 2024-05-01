@@ -4,7 +4,7 @@ nav_title: DuckDuckGo Search Results
 description: DuckDuckGo Search offers the key features you expect from a search engine--but unlike Google, it respects your privacy and anonymity.
 permalink: /results/index.html
 image: /images/search-readmore.png
-category: DuckDuckGo Search Results
+category: Search Results
 isIndex: true
 ---
 

@@ -2,7 +2,7 @@
 title: Does DuckDuckGo Search have a shorter domain name?
 nav_title: Our Short Domain
 description: Find answers to this and more DuckDuckGo frequently asked questions.
-category: DuckDuckGo Search Results
+category: Search Results
 order: 1300
 ---
 

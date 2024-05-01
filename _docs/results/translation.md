@@ -2,7 +2,7 @@
 title: Does DuckDuckGo Search have a Translation feature?
 nav_title: Translations
 description: Yes! You can use DuckDuckGo search to translate text.
-category: DuckDuckGo Search Results
+category: Search Results
 order: 650
 ---
 

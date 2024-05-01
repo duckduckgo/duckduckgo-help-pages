@@ -2,7 +2,7 @@
 title: What is DuckDuckGo Email Protection?
 nav_title: What is Email Protection?
 description: DuckDuckGo Email Protection is a free email forwarding service that removes hidden trackers from your email and lets you generate unlimited private email addresses.
-category: DuckDuckGo Email Protection
+category: Email Protection
 order: 100
 ---
 

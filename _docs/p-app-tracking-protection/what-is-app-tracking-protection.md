@@ -2,7 +2,7 @@
 title: What is DuckDuckGo App Tracking Protection?
 nav_title: What is App Tracking Protection?
 description: App Tracking Protection is a feature in DuckDuckGo for Android that helps block 3rd-party trackers in your apps, even when you’re not using them.
-category: DuckDuckGo App Tracking Protection
+category: App Tracking Protection
 order: 100
 ---
 

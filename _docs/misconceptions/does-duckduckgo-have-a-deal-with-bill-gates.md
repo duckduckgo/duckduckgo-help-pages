@@ -2,7 +2,7 @@
 title: Does DuckDuckGo have a deal with Bill Gates to track people?
 nav_title: Does DuckDuckGo have a deal with Bill Gates?
 description: No. We have no deal with Bill Gates, and we do not track our users, per our strict Privacy Policy.
-category: Misconceptions About DuckDuckGo
+category: Misconceptions
 image: /images/bill-gates.png
 order: 300
 ---

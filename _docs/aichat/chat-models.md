@@ -2,7 +2,7 @@
 title: What AI chat models are available?
 nav_title: Chat Models
 description: DuckDuckGo AI Chat allows you to anonymously chat with OpenAI’s GPT 3.5 Turbo and Anthropic’s Claud 3 Haiku.
-category: DuckDuckGo AI Chat
+category: AI Chat
 order: 100
 ---
 

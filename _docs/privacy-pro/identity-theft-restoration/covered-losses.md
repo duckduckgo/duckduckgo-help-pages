@@ -2,7 +2,7 @@
 title: What losses are covered with Identity Theft Restoration?
 nav_title: What losses are covered?
 description: Get answers to frequently asked questions about DuckDuckGo Identity Theft Restoration, which helps you restore your identity if it is stolen.
-category: DuckDuckGo Privacy Pro
+category: Privacy Pro
 sub_category: Identity Theft Restoration
 order: 300
 ---

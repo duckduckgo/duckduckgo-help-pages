@@ -2,7 +2,7 @@
 title: Does DuckDuckGo AI Chat have usage limits?
 nav_title: Usage Limits
 description: DuckDuckGo AI Chat anonymously enforces a daily usage limit.
-category: DuckDuckGo AI Chat
+category: AI Chat
 order: 400
 ---
 

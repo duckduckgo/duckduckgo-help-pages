@@ -2,7 +2,7 @@
 title: How does DuckDuckGo AI Chat protect my privacy?
 nav_title: AI Chat Privacy
 description: DuckDuckGo AI Chat allows you to chat anonymously with 3rd-party AI chat models for free.
-category: DuckDuckGo AI Chat
+category: AI Chat
 order: 300
 ---
 

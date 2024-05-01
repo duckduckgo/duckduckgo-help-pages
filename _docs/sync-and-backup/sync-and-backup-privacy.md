@@ -2,7 +2,7 @@
 title: DuckDuckGo Sync & Backup Privacy
 nav_title: Sync & Backup Privacy
 description: Sync bookmarks, passwords, and Email Protection settings between DuckDuckGo browsers on phones, tablets, and computers, privately and securely.
-category: DuckDuckGo Sync & Backup
+category: Sync & Backup
 order: 300
 ---
 

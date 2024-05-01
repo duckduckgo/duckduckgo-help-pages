@@ -2,7 +2,7 @@
 title: How do I disable Email Protection in a browser?
 nav_title: How do I disable Email Protection in a browser?
 description: Visit Email Protection Settings in the browser you want to remove Email Protection from, and sign out from the “Autofill” tab.
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Troubleshooting
 order: 800
 ---

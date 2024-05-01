@@ -1,7 +1,7 @@
 ---
 title: Is DuckDuckGo Search encrypted?
 description: DuckDuckGo Search is always encrypted.
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 order: 150
 ---
 

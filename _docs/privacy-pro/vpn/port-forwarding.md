@@ -2,7 +2,7 @@
 title: DuckDuckGo VPN Port Forwarding and Blocking
 nav_title: Port Forwarding and Blocking
 description: Get answers to frequently asked questions about DuckDuckGo VPN, which gives you an extra layer of protection online, hiding your location and IP address from the sites you visit.
-category: DuckDuckGo Privacy Pro
+category: Privacy Pro
 sub_category: VPN
 order: 700
 ---

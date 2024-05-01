@@ -3,7 +3,7 @@ title: "How To Prevent Identity Theft: 8 Best Identity Theft Protection Tips"
 nav_title: Identity Theft Protection Tips
 description: In this privacy guide, DuckDuckGo digs into the best identity theft protection tips, distilling simple steps to secure your sensitive information.
 sub_category: Identity Theft
-category: DuckDuckGo Privacy Guides
+category: Privacy Guides
 order: 200
 ---
 

@@ -2,7 +2,7 @@
 title: How do I generate private Duck Addresses?
 nav_title: How do I generate private Duck Addresses?
 description: DuckDuckGo browsers and browser extensions automatically detect email fields and make it easy to generate private Duck Addresses on the fly.
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Duck Addresses
 order: 500
 ---

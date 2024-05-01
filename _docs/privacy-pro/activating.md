@@ -2,7 +2,7 @@
 title: How to activate DuckDuckGo Privacy Pro after purchase
 nav_title: Activating Privacy Pro
 description: Get answers to frequently asked questions about DuckDuckGo’s Privacy Pro subscription that includes VPN, Personal Information Removal, and Identity Theft Restoration.
-category: DuckDuckGo Privacy Pro
+category: Privacy Pro
 order: 400
 ---
 
