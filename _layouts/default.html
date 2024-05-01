@@ -55,8 +55,7 @@
                             {% if group.items %}
                                 {% assign items = group.items | where_exp:"item", "item.sub_category == undefined" | sort: 'order' %}
                                 {% for item in items %}
-                                    {% assign hasGeoRestriction = item.geo_restriction %}
-                                <li class="nav-item {% if item.url == page.url %}current page{% endif %} {% if hasGeoRestriction %}geo-{{item.geo_restriction}}{% endif %}"><a
+                                <li class="nav-item {% if item.url == page.url %}current page{% endif %}"><a
                                         href="{{ site.baseurl }}{{ item.url }}">
                                         {% if item.nav_title %}{{ item.nav_title }}{% else %}{{ item.title }}{% endif %}
                                     </a></li>

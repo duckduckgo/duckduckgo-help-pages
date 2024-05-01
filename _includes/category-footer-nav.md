@@ -4,8 +4,7 @@
 {% assign docs = site.docs | where_exp:"item", "item.layout != 'redirect'" | where_exp:"item", "item.isIndex != true" | where_exp:"item", "item.category == page.category" | where_exp:"item", "item.sub_category == page.sub_category" | sort: 'order'%}
 {% for doc in docs %}
     {% if doc.url != page.url %}
-        {% assign hasGeoRestriction = doc.geo_restriction %}
-        <li class="footer-nav-item {% if hasGeoRestriction %}geo-{{doc.geo_restriction}}{% endif %}">
+        <li class="footer-nav-item">
             <a href="{{ site.baseurl}}{{ doc.url }}">{{ doc.title }}</a>
         </li>
     {% endif %}
