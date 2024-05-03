@@ -7,6 +7,10 @@ category: DuckDuckGo Privacy Guides
 order: 200
 ---
 
+<video autoplay muted loop>
+  <source src="{{ site.baseurl }}/videos/resources/what-does-a-vpn-do.mp4" type="video/mp4">
+</video>
+
 ## What Does a VPN Do? How Does a VPN Work?
 
 When you use a VPN, you’re creating a secure and encrypted “tunnel” for internet traffic between your device and the wider internet — including the websites you visit and the apps you use. This prevents outsiders from intercepting and reading your data.

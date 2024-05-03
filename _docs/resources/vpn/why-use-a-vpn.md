@@ -7,9 +7,7 @@ category: DuckDuckGo Privacy Guides
 order: 100
 ---
 
-<video autoplay muted loop>
-  <source src="{{ site.baseurl }}/videos/resources/what-is-a-vpn.mp4" type="video/mp4">
-</video>
+![How to Choose the Best VPN](/images/resources/why-use-a-vpn.jpg)
 
 ## Why Use a VPN?
 

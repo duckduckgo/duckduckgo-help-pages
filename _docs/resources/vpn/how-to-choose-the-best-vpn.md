@@ -7,6 +7,8 @@ category: DuckDuckGo Privacy Guides
 order: 300
 ---
 
+![How to Choose the Best VPN](/images/resources/how-to-choose-the-best-vpn.jpg)
+
 ## How to Choose the Best VPN
 
 Want to choose the best VPN for your needs? There are a few factors to consider. Some of the most common are price; number and location of servers offered; data caps; and the provider’s reputation and privacy practices.
