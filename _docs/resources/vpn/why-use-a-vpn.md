@@ -7,7 +7,7 @@ category: DuckDuckGo Privacy Guides
 order: 100
 ---
 
-![How to Choose the Best VPN](/images/resources/why-use-a-vpn.jpg)
+![How to Choose the Best VPN]({{ site.baseurl }}/images/resources/why-use-a-vpn.jpg)
 
 ## Why Use a VPN?
 

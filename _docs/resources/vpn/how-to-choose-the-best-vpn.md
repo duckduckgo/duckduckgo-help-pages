@@ -7,7 +7,7 @@ category: DuckDuckGo Privacy Guides
 order: 300
 ---
 
-![How to Choose the Best VPN](/images/resources/how-to-choose-the-best-vpn.jpg)
+![How to Choose the Best VPN]({{ site.baseurl }}/images/resources/how-to-choose-the-best-vpn.jpg)
 
 ## How to Choose the Best VPN
 
