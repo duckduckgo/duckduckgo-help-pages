@@ -2,7 +2,7 @@
 title: Is DuckDuckGo bad? What’s the downside?
 nav_title: What's the downside of DuckDuckGo?
 description: Why is DuckDuckGo bad? It isn’t! Our free browser offers everyday privacy with no tradeoffs, and it’s available for all your devices. No downsides in sight.
-category: Misconceptions About DuckDuckGo
+category: Misconceptions
 order: 900
 ---
 

@@ -2,7 +2,7 @@
 title: What does the ‘r.duckduckgo.com’ domain do?
 nav_title: About the ‘r.duckduckgo.com’ Domain
 description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 order: 700
 ---
 

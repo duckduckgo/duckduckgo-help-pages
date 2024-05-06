@@ -2,7 +2,7 @@
 title: How do I get support for DuckDuckGo Email protection?
 nav_title: How do I get support?
 description: DuckDuckGo Email Protection is a free email forwarding service that removes hidden email trackers and lets you create unlimited unique private email addresses.
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Troubleshooting
 order: 1000
 ---

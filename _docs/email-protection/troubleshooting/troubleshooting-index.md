@@ -2,7 +2,7 @@
 title: DuckDuckGo Email Protection Troubleshooting
 description: Frequently asked questions and common fixes for DuckDuckGo Email Protection accounts and individual Duck Addresses.
 permalink: /email-protection/troubleshooting/index.html
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Troubleshooting
 isIndex: true
 ---

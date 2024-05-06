@@ -1,7 +1,7 @@
 ---
 title: Can my internet provider see my DuckDuckGo searches?
 description: Your internet provider cannot see your searches on DuckDuckGo because DuckDuckGo Search uses an encrypted connection.
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 order: 175
 ---
 

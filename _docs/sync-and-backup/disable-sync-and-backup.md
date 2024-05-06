@@ -2,7 +2,7 @@
 title: How To Disable Sync & Backup in DuckDuckGo
 nav_title: Disable Sync & Backup
 description: Sync bookmarks, passwords, and Email Protection settings between DuckDuckGo browsers on phones, tablets, and computers, privately and securely.
-category: DuckDuckGo Sync & Backup
+category: Sync & Backup
 order: 600
 ---
 

@@ -2,7 +2,7 @@
 title: Does DuckDuckGo sell personal information?
 nav_title: Does DuckDuckGo sell personal information?
 description: No. We have never sold personal information to anyone, and we do not track our users, per our strict Privacy Policy.
-category: Misconceptions About DuckDuckGo
+category: Misconceptions
 image: /images/sell-info-metadata.png
 order: 200
 ---

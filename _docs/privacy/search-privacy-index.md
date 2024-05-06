@@ -2,7 +2,7 @@
 title: DuckDuckGo Search Privacy
 description: DuckDuckGo Search offers the key features you’d expect from a search engine--but unlike other search engines, it never tracks you.
 permalink: /search-privacy/index.html
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 isIndex: true
 ---
 

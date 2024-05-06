@@ -2,7 +2,7 @@
 title: How does DuckDuckGo improve its products while keeping your search and browsing history anonymous?
 nav_title: About improving.duckduckgo.com
 description: How does DuckDuckGo improve its products while keeping your search and browsing history anonymous?
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 order: 500
 ---
 

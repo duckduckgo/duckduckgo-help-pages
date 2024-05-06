@@ -2,7 +2,7 @@
 title: Does DuckDuckGo Search use Google results?
 nav_title: Does DuckDuckGo Search use Google results?
 description: No. DuckDuckGo has no relationship with Google and we do not rely on Google’s results for any of our search results.
-category: Misconceptions About DuckDuckGo
+category: Misconceptions
 order: 400
 ---
 

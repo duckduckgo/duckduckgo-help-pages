@@ -2,7 +2,7 @@
 title: How To Sync Favorites & Bookmark Icons Across Devices in DuckDuckGo
 nav_title: Syncing Favorites
 description: Sync bookmarks, passwords, and Email Protection settings between DuckDuckGo browsers on phones, tablets, and computers, privately and securely.
-category: DuckDuckGo Sync & Backup
+category: Sync & Backup
 order: 400
 ---
 

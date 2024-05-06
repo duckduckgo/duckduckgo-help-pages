@@ -3,7 +3,7 @@ title: How DuckDuckGo Keeps Your Local Search Results Anonymous
 nav_title: How We Keep Local Results Anonymous
 description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
 image: /images/searches-anon.png
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 order: 200
 ---
 

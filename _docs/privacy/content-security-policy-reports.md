@@ -2,7 +2,7 @@
 title: DuckDuckGo Content Security Policy (CSP) Reports
 nav_title: About CSP Reports
 description: To protect our users and ensure a bug-free search experience, DuckDuckGo uses a security specification called a Content Security Policy.
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 order: 550
 ---
 

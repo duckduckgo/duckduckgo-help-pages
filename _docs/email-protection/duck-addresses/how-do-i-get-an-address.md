@@ -2,7 +2,7 @@
 title: How do I get a personal Duck (duck.com) Address?
 nav_title: How do I get a personal Duck Address?
 description: "When you sign up for DuckDuckGo Email Protection, you get to pick a personal Duck Address (example: name@duck.com)."
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Duck Addresses
 order: 100
 ---

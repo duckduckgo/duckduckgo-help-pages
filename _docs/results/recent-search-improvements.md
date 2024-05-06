@@ -2,7 +2,7 @@
 title: What search improvements has DuckDuckGo made recently?
 nav_title: Recent Search Improvements
 description: Lots! Learn about recent DuckDuckGo search improvements and much more.
-category: DuckDuckGo Search Results
+category: Search Results
 order: 75
 ---
 

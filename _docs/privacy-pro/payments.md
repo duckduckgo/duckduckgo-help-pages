@@ -2,7 +2,7 @@
 title: DuckDuckGo Privacy Pro Payments
 nav_title: Privacy Pro Payments
 description: Get answers to frequently asked questions about DuckDuckGo’s Privacy Pro subscription that includes VPN, Personal Information Removal, and Identity Theft Restoration.
-category: DuckDuckGo Privacy Pro
+category: Privacy Pro
 order: 300
 ---
 

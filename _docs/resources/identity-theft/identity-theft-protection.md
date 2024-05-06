@@ -3,7 +3,7 @@ title: What is Identity Theft Protection? A Privacy Guide for 2024
 nav_title: Identity Theft Protection
 description: Get answers to frequently asked questions about DuckDuckGo’s Privacy Pro subscription that includes VPN, Personal Information Removal, and Identity Theft Restoration.
 sub_category: Identity Theft
-category: DuckDuckGo Privacy Guides
+category: Privacy Guides
 order: 100
 ---
 

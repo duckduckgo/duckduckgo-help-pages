@@ -2,7 +2,7 @@
 title: Getting Started With DuckDuckGo Privacy Pro
 nav_title: Getting Started with Privacy Pro
 description: Get answers to frequently asked questions about DuckDuckGo’s Privacy Pro subscription that includes VPN, Personal Information Removal, and Identity Theft Restoration.
-category: DuckDuckGo Privacy Pro
+category: Privacy Pro
 order: 100
 ---
 

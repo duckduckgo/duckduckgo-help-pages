@@ -2,7 +2,7 @@
 title: How To Sync New Devices in DuckDuckGo
 nav_title: Syncing New Devices
 description: Sync bookmarks, passwords, and Email Protection settings between DuckDuckGo browsers on phones, tablets, and computers, privately and securely.
-category: DuckDuckGo Sync & Backup
+category: Sync & Backup
 order: 200
 ---
 

@@ -2,7 +2,7 @@
 title: DuckDuckGo Email Protection
 description: Our free email forwarding service removes multiple types of hidden trackers and lets you hide your personal email address online.
 permalink: /email-protection/index.html
-category: DuckDuckGo Email Protection
+category: Email Protection
 isIndex: true
 ---
 

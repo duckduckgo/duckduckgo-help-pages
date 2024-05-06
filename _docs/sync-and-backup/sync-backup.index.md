@@ -2,7 +2,7 @@
 title: DuckDuckGo Sync & Backup
 description: Sync bookmarks, passwords, and Email Protection settings between DuckDuckGo browsers on phones, tablets, and computers, privately and securely.
 permalink: /sync-and-backup/index.html
-category: DuckDuckGo Sync & Backup
+category: Sync & Backup
 isIndex: true
 ---
 

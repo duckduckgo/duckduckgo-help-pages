@@ -2,7 +2,7 @@
 title: How do I enable DuckDuckGo Email Protection on my desktop browser?
 nav_title: How do I enable Email Protection on Desktop?
 description: Email Protection can be enabled in a supported browser by visiting https://duckduckgo.com/email/login
-category: DuckDuckGo Email Protection
+category: Email Protection
 order: 300
 ---
 

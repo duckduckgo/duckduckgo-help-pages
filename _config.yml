@@ -52,13 +52,13 @@ categories_data:
             path: /change-default-search-engine
           - name: Mobile Search Widget
             path: /search-widget
-    - name: DuckDuckGo Search Results
+    - name: Search Results
       path: /results
-    - name: DuckDuckGo Search Privacy
+    - name: Search Privacy
       path: /search-privacy
-    - name: DuckDuckGo Web Browsing Privacy
+    - name: Web Browsing Privacy
       path: /web-browsing-privacy
-    - name: DuckDuckGo Email Protection
+    - name: Email Protection
       path: /email-protection
       sub_categories:
           - name: Duck Addresses
@@ -67,11 +67,11 @@ categories_data:
             path: /email-protection/privacy
           - name: Troubleshooting
             path: /email-protection/troubleshooting
-    - name: DuckDuckGo Sync & Backup
+    - name: Sync & Backup
       path: /sync-and-backup
-    - name: DuckDuckGo App Tracking Protection
+    - name: App Tracking Protection
       path: /p-app-tracking-protection
-    - name: DuckDuckGo Privacy Pro
+    - name: Privacy Pro
       path: /privacy-pro
       sub_categories:
           - name: VPN
@@ -82,14 +82,16 @@ categories_data:
             path: /privacy-pro/identity-theft-restoration
     - name: Duck Player
       path: /duck-player
-    - name: Misconceptions About DuckDuckGo
+    - name: AI Chat
+      path: /aichat
+    - name: Misconceptions
       path: /misconceptions
     - name: Legal
       path: /r-legal
       sub_categories:
           - name: Translated Microsoft Ads Notice
             path: /translated
-    - name: DuckDuckGo Privacy Guides
+    - name: Privacy Guides
       path: /resources
       sub_categories:
           - name: Identity Theft

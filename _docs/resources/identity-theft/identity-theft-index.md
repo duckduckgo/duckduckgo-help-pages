@@ -4,7 +4,7 @@ nav_title: What is Identity Theft?
 description: Quick guides on identity theft and identity theft protection, from the company who’s been making privacy simple for over a decade.
 permalink: /resources/identity-theft/index.html
 sub_category: Identity Theft
-category: DuckDuckGo Privacy Guides
+category: Privacy Guides
 isIndex: true
 ---
 

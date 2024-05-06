@@ -2,7 +2,7 @@
 title: Learn About DuckDuckGo Sync Recovery Codes & Troubleshooting Tips
 nav_title: Recovery Codes & Troubleshooting
 description: Sync bookmarks, passwords, and Email Protection settings between DuckDuckGo browsers on phones, tablets, and computers, privately and securely.
-category: DuckDuckGo Sync & Backup
+category: Sync & Backup
 order: 500
 ---
 

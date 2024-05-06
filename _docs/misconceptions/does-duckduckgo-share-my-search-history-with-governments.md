@@ -3,7 +3,7 @@ title: Does DuckDuckGo share my search and browsing history with governments?
 nav_title: Does DuckDuckGo share my search history with governments?
 description: 'No. Per our strict Privacy Policy: "We don’t save or share your search or browsing history when you search on DuckDuckGo or use our apps and extensions."'
 image: /images/governments.png
-category: Misconceptions About DuckDuckGo
+category: Misconceptions
 order: 600
 ---
 

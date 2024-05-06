@@ -2,7 +2,7 @@
 title: DuckDuckGo Privacy Pro
 description: Get answers to frequently asked questions about DuckDuckGo’s Privacy Pro subscription that includes VPN, Personal Information Removal, and Identity Theft Restoration.
 permalink: /privacy-pro/index.html
-category: DuckDuckGo Privacy Pro
+category: Privacy Pro
 isIndex: true
 ---
 

@@ -2,7 +2,7 @@
 title: What is DuckDuckGo VPN?
 nav_title: About DuckDuckGo VPN
 description: Get answers to frequently asked questions about DuckDuckGo VPN, which gives you an extra layer of protection online, hiding your location and IP address from the sites you visit.
-category: DuckDuckGo Privacy Pro
+category: Privacy Pro
 sub_category: VPN
 order: 100
 ---

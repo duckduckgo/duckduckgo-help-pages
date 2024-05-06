@@ -2,7 +2,7 @@
 title: DuckDuckGo Identity Theft Restoration
 description: Get answers to frequently asked questions about DuckDuckGo Identity Theft Restoration, which helps you restore your identity if it is stolen.
 permalink: /privacy-pro/identity-theft-restoration/index.html
-category: DuckDuckGo Privacy Pro
+category: Privacy Pro
 sub_category: Identity Theft Restoration
 isIndex: true
 ---

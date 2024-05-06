@@ -2,7 +2,7 @@
 title: DuckDuckGo Email Protection Duck Addresses
 description: DuckDuckGo Email Protection conceals your email address with Duck (@duck.com) Addresses. Learn to create and manage your Duck Addresses here.
 permalink: /email-protection/duck-addresses/index.html
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Duck Addresses
 isIndex: true
 ---

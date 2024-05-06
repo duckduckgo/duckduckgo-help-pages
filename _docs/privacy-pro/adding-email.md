@@ -2,7 +2,7 @@
 title: Adding an Email Address to DuckDuckGo Privacy Pro
 nav_title: Adding an Email to Privacy Pro
 description: Get answers to frequently asked questions about DuckDuckGo’s Privacy Pro subscription that includes VPN, Personal Information Removal, and Identity Theft Restoration.
-category: DuckDuckGo Privacy Pro
+category: Privacy Pro
 order: 500
 ---
 

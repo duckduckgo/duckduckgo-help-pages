@@ -3,7 +3,7 @@ title: Did DuckDuckGo censor search results about the Russia-Ukraine war?
 nav_title: Did DuckDuckGo censor Russian search results?
 description: No. We don’t evaluate or otherwise take into account any potential political bias or leanings of websites in our search result rankings.
 image: /images/russia-metadata.png
-category: Misconceptions About DuckDuckGo
+category: Misconceptions
 order: 800
 ---
 

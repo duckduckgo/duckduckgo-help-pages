@@ -2,7 +2,7 @@
 title: DuckDuckGo Privacy Guides
 description: Looking for more ways to protect your privacy online? Learn how to maximize your privacy from the company who's been making privacy simple for over a decade.
 permalink: /resources/index.html
-category: DuckDuckGo Privacy Guides
+category: Privacy Guides
 isIndex: true
 ---
 

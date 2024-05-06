@@ -2,7 +2,7 @@
 title: DuckDuckGo Email Protection Privacy
 description: DuckDuckGo Email Protection hides your personal email address and limits hidden email tracking–all without saving the contents of your emails.
 permalink: /email-protection/privacy/index.html
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Privacy
 isIndex: true
 ---

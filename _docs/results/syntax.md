@@ -2,7 +2,7 @@
 title: How to use advanced syntax on DuckDuckGo Search
 nav_title: Advanced Search Syntax
 description: Learn how to use syntax on DuckDuckGo Private Search to get the search results you want.
-category: DuckDuckGo Search Results
+category: Search Results
 order: 700
 ---
 

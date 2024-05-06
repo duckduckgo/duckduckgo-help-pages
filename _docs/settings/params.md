@@ -2,7 +2,7 @@
 title: How To Use URL Parameters To Change Your DuckDuckGo Search Settings
 nav_title: How To Save Settings With URL Parameters
 description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo privacy policy in a nutshell.
-category: DuckDuckGo Search Privacy
+category: Search Privacy
 order: 400
 ---
 

@@ -2,7 +2,7 @@
 title: About the DuckDuckGo Personal Information Removal Process
 nav_title: About the Removal Process
 description: Get answers to frequently asked questions about DuckDuckGo Personal Information Removal, which removes your personal information from sites that store and sell it.
-category: DuckDuckGo Privacy Pro
+category: Privacy Pro
 sub_category: Personal Information Removal
 order: 300
 ---

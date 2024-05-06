@@ -2,7 +2,7 @@
 title: What is a One-Time Passphrase (OTP) and how do I use it?
 nav_title: What is a One-Time Passphrase?
 description: DuckDuckGo Email Protection doesn’t use traditional passwords. We’ll send you a One-Time Passphrase that allows you to securely sign-in whenever you need to.
-category: DuckDuckGo Email Protection
+category: Email Protection
 sub_category: Troubleshooting
 order: 500
 ---
