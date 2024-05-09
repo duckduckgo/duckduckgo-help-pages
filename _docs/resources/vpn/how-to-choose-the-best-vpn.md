@@ -3,7 +3,7 @@ title: "How to Choose the Best VPN: 6 Factors to Consider"
 nav_title: How to Choose the Best VPN
 description: Looking for the best VPN option for you? In this privacy guide, we break down some of the most important factors to consider.
 sub_category: VPN
-category: DuckDuckGo Privacy Guides
+category: Privacy Guides
 order: 300
 ---
 

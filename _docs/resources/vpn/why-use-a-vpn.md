@@ -3,7 +3,7 @@ title: Why Use a VPN? 5 Common VPN Use Cases and More
 nav_title: Why Use a VPN?
 description: DuckDuckGo answers the question “Why use a VPN?” with common use cases, pros, cons, and answers to frequently asked questions.
 sub_category: VPN
-category: DuckDuckGo Privacy Guides
+category: Privacy Guides
 order: 100
 ---
 

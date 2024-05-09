@@ -4,7 +4,7 @@ nav_title: What is a VPN?
 description: DuckDuckGo has compiled quick guides on VPNs, how they work, and how to choose the ideal VPN for your needs. Check it out!
 permalink: /resources/vpn/index.html
 sub_category: VPN
-category: DuckDuckGo Privacy Guides
+category: Privacy Guides
 isIndex: true
 ---
 
@@ -22,9 +22,9 @@ When your traffic routes through a remote VPN server, the websites you visit won
 
 Not sure where to start? These guides answer common questions about how VPNs work, how to choose the best one for your needs, and more:
 
--   Why Use a VPN? Four VPN Use Cases and More
--   What Does a VPN Do? How Does a VPN Work?
--   How to Choose the Best VPN: 6 Factors to Consider
+-   [Why Use a VPN? Four VPN Use Cases and More]({{ site.baseurl }}/resources/vpn/why-use-a-vpn)
+-   [What Does a VPN Do? How Does a VPN Work?]({{ site.baseurl }}/resources/vpn/what-does-a-vpn-do)
+-   [How to Choose the Best VPN: 6 Factors to Consider]({{ site.baseurl }}/resources/vpn/how-to-choose-the-best-vpn)
 
 At the end of the day, the best VPN for you will depend on a variety of factors, including security, speed, server locations, price, and the providers’ privacy practices.  Will you be using your VPN for high-bandwidth activities, or across multiple devices? Is digital privacy a concern to you? Select a service with a strong reputation that balances those factors with reliable performance.
 

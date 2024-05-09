@@ -3,7 +3,7 @@ title: What Does a VPN Do? How Does a VPN Work?
 nav_title: What Does a VPN Do?
 description: What does a VPN do? How does a VPN work? From encryption to tunneling, protocols and more, get the scoop in this privacy guide.
 sub_category: VPN
-category: DuckDuckGo Privacy Guides
+category: Privacy Guides
 order: 200
 ---
 
