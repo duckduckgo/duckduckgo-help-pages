@@ -156,7 +156,7 @@ When content loads in a web browser, the browser and any servers through which t
 
 By default, we “trim” (remove) some of the metadata in the “referrer header” that trackers could potentially use to track you individually. All 3rd-party requests are trimmed down to the hostname (for example, `info.test.com/path?query` becomes just `info.test.com`). We may make a [limited exception][remotely-configured-exceptions] when this protection would prevent you from signing in to a site or to otherwise preserve essential site functionality.
 
-Please note that even in the absence of this feature, your search terms are never sent to sites you click on from the DuckDuckGo Search results page. You can learn more [about Search Privacy][search-terms-privacy-rduckduckgocom].
+Please note that even in the absence of this feature, your DuckDuckGo search terms are never included in the referrer header. [Read more][search-terms-privacy-rduckduckgocom].
 
 | Platform          | Support                                                                                                                                                                                                            |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
