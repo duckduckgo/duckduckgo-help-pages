@@ -156,10 +156,12 @@ When content loads in a web browser, the browser and any servers through which t
 
 By default, we “trim” (remove) some of the metadata in the “referrer header” that trackers could potentially use to track you individually. All 3rd-party requests are trimmed down to the hostname (for example, `info.test.com/path?query` becomes just `info.test.com`). We may make a [limited exception][remotely-configured-exceptions] when this protection would prevent you from signing in to a site or to otherwise preserve essential site functionality.
 
+Please note that even in the absence of this feature, your DuckDuckGo search terms are never included in the referrer header. [Read more][search-terms-privacy-rduckduckgocom].
+
 | Platform          | Support                                                                                                                                                                                                            |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Firefox extension | Referrer headers trimmed to the hostname for all requests originating from a different domain.                                                                                                                     |
-| Chrome extension  | Referrer headers trimmed to the hostname for all requests originating from a different domain.                                                                                                                     |
+| Chrome extension  | Unsupported due to [platform limitations][chromium-mv3-referrer-bug].                                                                                                                     |
 | Edge extension    | Unsupported due to [platform limitations][chromium-mv3-referrer-bug].                                                                                                                                              |
 | Opera extension   | Referrer headers trimmed to the hostname for all requests originating from a different domain.                                                                                                                     |
 | Safari extension  | Referrer headers trimmed to the hostname for all requests originating from a different domain than the visited site through WebKit’s [built-in referrer tracking protection][webkit-referrer-tracking-protection]. |
@@ -395,6 +397,7 @@ For questions, comments, or concerns, please feel free to <a href="{{ site.baseu
 [duckduckgo-private-search-ads]: #duckduckgo-private-search-ads
 [//]: # "Other help pages"
 [ads-by-microsoft]: https://help.duckduckgo.com/company/ads-by-microsoft-on-duckduckgo-private-search
+[search-terms-privacy-rduckduckgocom]: https://help.duckduckgo.com/results/rduckduckgocom
 [//]: # "Spread Privacy blog post links"
 [post-tracker-radar]: https://spreadprivacy.com/duckduckgo-tracker-radar/
 [post-private-ad-conversions]: https://spreadprivacy.com/more-privacy-and-transparency/
