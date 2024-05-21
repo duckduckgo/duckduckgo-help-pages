@@ -8,8 +8,7 @@ order: 1450
 
 ## What is DuckAssistBot and what does it do?
 
-DuckAssistBot is a web crawler for <a href="https://duckduckgo.com">DuckDuckGo</a>.
-DuckAssistBot’s job is to constantly improve our generated answers displayed on the search engine and to offer users the best and most secure search experience possible. The crawler's user agent will appear as `DuckAssistBot/1.1; (+http://duckduckgo.com/duckassistbot.html)`. It respects <a href="https://metacpan.org/module/WWW::RobotRules">WWW::RobotRules</a> and originates from these IP addresses:
+DuckAssistBot is a web crawler for [DuckDuckGo](https://duckduckgo.com). DuckAssistBot’s job is to constantly improve our generated answers displayed on the search engine and to offer users the best and most secure search experience possible. The crawler's user agent will appear as `DuckAssistBot/1.1; (+http://duckduckgo.com/duckassistbot.html)`. It respects [WWW:RobotRules](https://metacpan.org/module/WWW::RobotRules) and originates from these IP addresses:
 
 -   40.80.242.63
 -   20.12.141.99
