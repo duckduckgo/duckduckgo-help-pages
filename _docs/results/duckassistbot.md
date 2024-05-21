@@ -1,14 +1,14 @@
 ---
-title: Is DuckDuckBot related to DuckDuckGo?
-nav_title: About DuckDuckBot
+title: Is DuckAssistBot related to DuckDuckGo?
+nav_title: About DuckAssistBot
 description: DuckDuckGo is an independent internet privacy company that offers a private alternative to Google search & Chrome in one free app.
 category: Search Results
-order: 1400
+order: 1450
 ---
 
-## What is DuckDuckBot and what does it do?
+## What is DuckAssistBot and what does it do?
 
-DuckDuckBot is a web crawler for [DuckDuckGo](https://duckduckgo.com). DuckDuckBot’s job is to constantly improve our search results and offer users the best and most secure search experience possible. The crawler's user agent will appear as `DuckDuckBot/1.1; (+http://duckduckgo.com/duckduckbot.html)`. It respects [WWW:RobotRules](https://metacpan.org/module/WWW::RobotRules) and originates from these IP addresses:
+DuckAssistBot is a web crawler for [DuckDuckGo](https://duckduckgo.com). DuckAssistBot’s job is to constantly improve our generated answers displayed on the search engine and to offer users the best and most secure search experience possible. The crawler's user agent will appear as `DuckAssistBot/1.1; (+http://duckduckgo.com/duckassistbot.html)`. It respects [WWW:RobotRules](https://metacpan.org/module/WWW::RobotRules) and originates from these IP addresses:
 
 -   40.80.242.63
 -   20.12.141.99
