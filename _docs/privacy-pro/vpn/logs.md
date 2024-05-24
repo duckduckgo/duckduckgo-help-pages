@@ -9,4 +9,6 @@ order: 200
 
 No. Per our [Privacy Pro Privacy Policy](https://duckduckgo.com/pro/privacy-terms), “We don’t keep logs of your VPN activity. We have no way to tie what you do while connected to the DuckDuckGo VPN to you as an individual. For example, we don’t have any record of website visits, DNS requests, IP addresses connected, or session lengths.”
 
+{% include privacy-pro-contact.md %}
+
 {% include category-footer-nav.md %}

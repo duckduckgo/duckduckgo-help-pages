@@ -17,4 +17,6 @@ Unlike other services, Personal Information Removal happens from your device and
 
 If you cancel your Privacy Pro subscription, any data that was stored on your device for Personal Information Removal, including the info you entered to use Personal Information Removal (like names, locations, and age) will be deleted. That means any of your personal info that was previously removed may start showing up on data broker sites again, and we will no longer be assisting with removing it.
 
+{% include privacy-pro-contact.md %}
+
 {% include category-footer-nav.md %}

@@ -83,4 +83,6 @@ Personal Information Removal currently removes personal data from the following 
 -   Virtory.com
 -   Wellnut.com
 
+{% include privacy-pro-contact.md %}
+
 {% include category-footer-nav.md %}

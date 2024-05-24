@@ -31,4 +31,6 @@ DuckDuckGo VPN is also the only VPN that works with DuckDuckGo [App Tracking Pro
 
 Privacy Pro is currently only available to U.S. residents. If you’re a Privacy Pro subscriber traveling outside of the United States, you can use the VPN anywhere it is legal to do so.
 
+{% include privacy-pro-contact.md %}
+
 {% include category-footer-nav.md %}

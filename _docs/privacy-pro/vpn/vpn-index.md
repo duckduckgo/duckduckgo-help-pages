@@ -10,3 +10,5 @@ isIndex: true
 DuckDuckGo’s VPN encrypts your Internet connection across browsers and apps on your entire device and hides your location and IP address from the sites you visit.
 
 {% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}

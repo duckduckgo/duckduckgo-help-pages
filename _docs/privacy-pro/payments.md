@@ -24,4 +24,6 @@ Where you can manage or change your subscription or payment method depends on th
 
 Your subscription will auto-renew monthly or annually, depending on the payment terms selected, until canceled. The renewal or expiration date (if you’ve canceled) is available in the Privacy Pro settings section within the DuckDuckGo browser.
 
+{% include privacy-pro-contact.md %}
+
 {% include category-footer-nav.md %}

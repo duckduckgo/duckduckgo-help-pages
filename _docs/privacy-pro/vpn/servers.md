@@ -32,4 +32,6 @@ We are proactively monitoring our network capacity and routinely add servers to 
 
 As for new locations, we are currently prioritizing coverage in North America and Europe but do have plans to expand beyond. If you would like to submit a request for a specific location, you can do so by selecting “Send VPN Feedback ...” in the VPN menu.
 
+{% include privacy-pro-contact.md %}
+
 {% include category-footer-nav.md %}

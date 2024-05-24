@@ -41,4 +41,6 @@ We plan to eventually introduce similar exclusion features on iOS, Mac, and Wind
 
 No.
 
+{% include privacy-pro-contact.md %}
+
 {% include category-footer-nav.md %}

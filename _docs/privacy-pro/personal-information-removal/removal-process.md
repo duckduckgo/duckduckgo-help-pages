@@ -29,4 +29,6 @@ Personal Information Removal targets data brokers and people-search sites, but y
 
 Yes, personal info can reappear on people-search sites if it’s collected from new sources. We re-scan sites regularly to ensure your information is promptly removed if it appears again.
 
+{% include privacy-pro-contact.md %}
+
 {% include category-footer-nav.md %}

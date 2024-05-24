@@ -21,4 +21,6 @@ Our VPN cannot be used to infringe the intellectual property rights of others, o
 
 This decision was made to ensure the privacy-centric architecture of our VPN is sustainable long term. We are committed to maintaining a system that does not enable us to connect online activity to a particular user. Considering this, we have taken these proactive measures to prevent abuse of our service.
 
+{% include privacy-pro-contact.md %}
+
 {% include category-footer-nav.md %}
