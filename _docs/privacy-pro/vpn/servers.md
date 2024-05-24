@@ -7,7 +7,7 @@ sub_category: VPN
 order: 400
 ---
 
-We currently have VPN servers in the United States, Canada, and Europe:
+We currently have VPN servers in the United States, Canada, and Europe. Each location has several servers. Locations include:
 
 -   US
     -   Dallas, TX
