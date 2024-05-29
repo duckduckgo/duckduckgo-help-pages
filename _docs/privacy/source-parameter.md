@@ -2,8 +2,8 @@
 title: How does DuckDuckGo measure downloads without tracking me?
 nav_title: Measuring Downloads Annonymously
 description: DuckDuckGo doesn’t track you. That’s the DuckDuckGo Privacy Policy in a nutshell.
-category: Search Privacy
-order: 550
+category: Web Browsing Privacy
+order: 150
 ---
 
 At DuckDuckGo, we don’t track you, ever. That’s our Privacy Policy in a nutshell. To improve our product, we develop completely anonymous ways to figure out how people find our products and learn how they’re being used.
