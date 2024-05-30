@@ -15,4 +15,6 @@ By allowing Personal Information Removal traffic to bypass the [DuckDuckGo VPN](
 
 Yes. When the VPN is on, automated scans and removal requests from Personal Information Removal are still hidden from your Internet service provider even when “allow traffic to bypass the VPN” is on. That’s because we still route DNS queries for data broker sites through the VPN, sending them through our own DNS resolver instead of your ISP, which adds an additional privacy layer to the VPN.
 
+{% include category-footer-nav.md %}
+
 {% include privacy-pro-contact.md %}

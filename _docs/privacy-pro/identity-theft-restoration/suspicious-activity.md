@@ -18,6 +18,6 @@ If you’re interested in learning more about how to recognize phone and phishin
 -   [FTC – Phone Scams](https://consumer.ftc.gov/articles/phone-scams)
 -   [FTC – Phishing Scams](https://www.ftc.gov/news-events/topics/identity-theft/phishing-scams)
 
-{% include privacy-pro-contact.md %}
-
 {% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}

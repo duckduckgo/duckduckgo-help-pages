@@ -27,6 +27,6 @@ The DuckDuckGo browser is required to use the VPN, but once enabled it works acr
 
 We do not provide configuration files for other VPN clients.
 
-{% include privacy-pro-contact.md %}
-
 {% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}

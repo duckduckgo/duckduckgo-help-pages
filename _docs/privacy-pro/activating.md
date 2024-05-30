@@ -36,4 +36,6 @@ Yes. All Privacy Pro features are set up and accessed through the DuckDuckGo bro
 
 The DuckDuckGo browser lets you search and browse privately, with more than [a dozen privacy features](https://duckduckgo.com/compare-privacy) in one convenient package, all for free. By adding a Privacy Pro subscription, you can encrypt Internet connections across your entire device (even outside the browser) with our VPN; limit the visibility of your personal info online and data brokers’ access to it with Personal Information Removal on Mac or Windows; and, with Identity Theft Restoration, we can help get you back on track should you become a victim of identity theft.
 
+{% include category-footer-nav.md %}
+
 {% include privacy-pro-contact.md %}
