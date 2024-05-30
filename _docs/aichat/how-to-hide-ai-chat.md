@@ -8,5 +8,5 @@ order: 600
 
 If you don’t want to see AI Chat on the search results page, you can hide it by following these steps:
 
--   On [duckduckgo.com](https://duckduckgo.com){:target="\_blank"}{:rel="noopener noreferrer"} or any DuckDuckGo search results page, click the three-dash menu in the upper right corner, then click Settings
--   Select the AI Features tab and turn AI Chat off
+-   On [duckduckgo.com](https://duckduckgo.com){:target="\_blank"}{:rel="noopener noreferrer"} or any DuckDuckGo search results page, click the three-dash menu in the upper right corner, then click **Settings**
+-   Select the **AI Features** tab and turn AI Chat off
