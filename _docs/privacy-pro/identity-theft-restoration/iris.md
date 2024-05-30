@@ -18,3 +18,5 @@ Iris® Powered by Generali is one of the oldest firms specializing in identity t
 In order to provide assistance, Iris will need to verify your identity and collect some details about your identity theft case. No personal information is shared between Iris and DuckDuckGo.
 
 {% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}

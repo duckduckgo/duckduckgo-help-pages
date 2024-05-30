@@ -23,3 +23,5 @@ In addition, you don’t need to create an account in order to use Privacy Pro. 
 If you choose to cancel Privacy Pro, we will delete any personal information we have (for example, your email address) within 30 days, unless we are legally required to keep it longer.
 
 {% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}

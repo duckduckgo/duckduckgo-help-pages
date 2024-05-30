@@ -19,3 +19,7 @@ If you downloaded our browser from the Apple App Store or Google Play Store, you
 ## If I choose to add an email, do I need to use the same email to activate Privacy Pro on multiple devices?
 
 Yes. Currently, Privacy Pro only supports one email per subscription. You can change this email address, but you can’t add two emails to the same subscription.
+
+{% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}

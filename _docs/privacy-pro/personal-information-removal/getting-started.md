@@ -84,3 +84,5 @@ Personal Information Removal currently removes personal data from the following 
 -   Wellnut.com
 
 {% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}

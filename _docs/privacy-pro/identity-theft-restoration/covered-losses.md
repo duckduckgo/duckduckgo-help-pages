@@ -18,3 +18,5 @@ If you suspect that your credit or debit card information is being used fraudule
 Cryptocurrency losses are not covered.
 
 {% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}

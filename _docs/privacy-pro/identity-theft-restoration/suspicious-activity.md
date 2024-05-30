@@ -19,3 +19,5 @@ If you’re interested in learning more about how to recognize phone and phishin
 -   [FTC – Phishing Scams](https://www.ftc.gov/news-events/topics/identity-theft/phishing-scams)
 
 {% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}

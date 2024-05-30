@@ -28,3 +28,5 @@ They will help fix errors in your credit report that result from fraudulent acti
 Identity Theft Restoration currently only covers bank accounts based in the United States.
 
 {% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}

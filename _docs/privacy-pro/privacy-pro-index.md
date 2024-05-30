@@ -14,6 +14,6 @@ Privacy Pro is a three-in-one privacy subscription service from DuckDuckGo that 
 
 You can subscribe to Privacy Pro via the Settings menu in the DuckDuckGo browser, available on [iOS]({{site.baseurl}}/mobile/ios), [Android]({{site.baseurl }}/mobile/android), [Mac]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-mac), and [Windows]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-windows), or via our [website](https://duckduckgo.com/pro). Privacy Pro is currently available to U.S. residents only.
 
-Answers to frequently asked questions about Privacy Pro can be found below. If you can’t find the answer you’re looking for, [Contact Us]({{ site.baseurl }}/company/contact-us).
+Answers to frequently asked questions about Privacy Pro can be found below. If you can’t find the answer you’re looking for, contact support at [privacypro@duckduckgo.com](mailto:privacypro@duckduckgo.com).
 
 {% include category-footer-nav.md %}

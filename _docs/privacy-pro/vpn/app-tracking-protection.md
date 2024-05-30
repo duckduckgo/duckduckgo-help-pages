@@ -16,3 +16,5 @@ Android only allows one active VPN interface at a time per device, and while App
 DuckDuckGo VPN can share that VPN interface with App Tracking Protection because both features are managed by the DuckDuckGo browser.
 
 {% include category-footer-nav.md %}
+
+{% include privacy-pro-contact.md %}
