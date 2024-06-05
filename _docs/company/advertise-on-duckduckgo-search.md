@@ -18,7 +18,7 @@ Today DuckDuckGo has become a key platform for advertisers, with a growing user 
 
 #### A leader in US and international mobile market share
 
--   DuckDuckGo [owns the #2 position in mobile market share](https://radar.cloudflare.com/reports/searchengines-2023-q2) in the US, and 20 other markets including Australia, Austria, Belgium, Canada, Denmark, France, Germany, India, Ireland, Italy, Luxembourg, Malta, New Zealand, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland
+-   DuckDuckGo [owns the #2 position in mobile market share](https://radar.cloudflare.com/reports/search-engine-market-share-2024-q1) in the US, and 20 other markets including Australia, Austria, Belgium, Canada, Denmark, France, India, Ireland, Italy, Luxembourg, Malta, New Zealand, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland.
 
 #### Reach valuable users who can’t be found on Google (or other search engines)  
 
