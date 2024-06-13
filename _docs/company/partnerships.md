@@ -11,7 +11,7 @@ We're always looking for innovative ways to improve and [spread DuckDuckGo](http
 
 ### Guidelines
 
-Since we produce our own extensions and apps for the major platforms, we've found people increasingly confused as to what was produced by us and what was produced by others. We encourage you to use our official APIs listed, but please also follow these guidelines when promoting your applications:
+Since we produce our own extensions and apps for the major platforms, we've found people increasingly confused as to what was produced by us and what was produced by others. Please follow these guidelines when promoting your applications:
 
 -   Please don't use DuckDuckGo in the title. (There can be exceptions so please contact us if you think you have a case for doing so). Mentioning us in the description is fine.
 -   Please don't use Dax (our mascot).
