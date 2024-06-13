@@ -6,7 +6,7 @@ category: AI Chat
 order: 100
 ---
 
-[DuckDuckGo AI Chat](https://duckduckgo.com/aichat){:target="\_blank"}{:rel="noopener noreferrer"} currently supports Anthropic’s Claude 3 Haiku, Meta’s Llama 3 70B, Mistral AI’s Mixtral 8x7B, and OpenAI’s ChatGPT 3.5 Turbo. You can change your default chat model at any time by clicking on the current chat model name – in the left sidebar.
+[DuckDuckGo AI Chat](https://duckduckgo.com/aichat){:target="\_blank"}{:rel="noopener noreferrer"} currently supports Anthropic’s Claude 3 Haiku, Mistral AI’s Mixtral 8x7B, OpenAI’s ChatGPT 3.5 Turbo, and Llama 3 70B (built with Meta Llama 3). You can change your default chat model at any time by clicking on the current chat model name – in the left sidebar.
 
 ## Does DuckDuckGo moderate chat responses in any way?
 
