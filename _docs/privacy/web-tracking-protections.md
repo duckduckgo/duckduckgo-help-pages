@@ -29,9 +29,9 @@ This protection is particularly difficult to provide without causing usability i
 | Platform          | Support                                             |
 | ----------------- | --------------------------------------------------- |
 | Firefox extension | 3rd-party scripts on our list blocked from loading. |
-| Chrome extension  | 3rd-party scripts on our list blocked from loading. |
-| Edge extension    | 3rd-party scripts on our list blocked from loading. |
-| Opera extension   | 3rd-party scripts on our list blocked from loading. |
+| Chrome extension  | 3rd-party scripts on our list blocked from loading. Blocking resources loaded by service workers is currently unsupported due to [platform limitations][chromium-mv3-background-requests].|
+| Edge extension    | 3rd-party scripts on our list blocked from loading. Blocking resources loaded by service workers is currently unsupported due to [platform limitations][chromium-mv3-background-requests]. |
+| Opera extension   | 3rd-party scripts on our list blocked from loading. Blocking resources loaded by service workers is currently unsupported due to [platform limitations][chromium-mv3-background-requests]. |
 | Safari extension  | 3rd-party scripts on our list blocked from loading. |
 | iPhone & iPad app | 3rd-party scripts on our list blocked from loading. |
 | Android app       | 3rd-party scripts on our list blocked from loading. |
@@ -457,3 +457,4 @@ For questions, comments, or concerns, please feel free to <a href="{{ site.baseu
 [apple-pcm]: https://webkit.org/blog/11529/introducing-private-click-measurement-pcm/
 [mozilla-ipa]: https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/
 [compare-privacy]: https://duckduckgo.com/compare-privacy
+[chromium-mv3-background-requests]: https://github.com/w3c/webextensions/issues/369
