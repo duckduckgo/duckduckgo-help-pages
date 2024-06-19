@@ -37,7 +37,7 @@ The European Union (**EU**) requires publication of the average number of monthl
 | 17 February 2023 | 13.8MM +/-1.1MM                                       |
 | 30 June 2023     | 14.8MM +/-1.1MM                                       |
 | 31 December 2023 | 15.2MM +/-1.2MM                                       |
-| 20 June 2024     | 17.4MM +/-1.3MM                                       |
+| 30 June 2024     | 17.4MM +/-1.3MM                                       |
 
 Date of Publication: 16 February, 2024
 
