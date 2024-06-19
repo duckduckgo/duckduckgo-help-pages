@@ -192,7 +192,7 @@ By default, we block social media embedded content from Facebook on [our list of
 
 ### Google AMP Protection
 
-Google's Accelereated Mobile Pages (AMP) is [marketed][amp-about] as a way to “make it easy to build fast websites” by serving them from Google, but Google can also use AMP to track users who read those pages.
+Google's Accelerated Mobile Pages (AMP) is [marketed][amp-about] as a way to “make it easy to build fast websites” by serving them from Google, but Google can also use AMP to track users who read those pages.
 
 To help protect you against this form of Google tracking, we replace most Google AMP links when clicked with the original publisher’s website so publishers can directly serve you these pages, instead of Google.
 

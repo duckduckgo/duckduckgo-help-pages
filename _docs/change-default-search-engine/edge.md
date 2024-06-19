@@ -61,4 +61,4 @@ Tap General > Select search engine.
 
 From here, you can change your default search engine.
 
-![Microsoft Edge iOS chagne default search engine]({{ site.baseurl }}/images/set-as-default/microsoft-edge-ios-change-default-search-engine-min.jpg)
+![Microsoft Edge iOS change default search engine]({{ site.baseurl }}/images/set-as-default/microsoft-edge-ios-change-default-search-engine-min.jpg)
