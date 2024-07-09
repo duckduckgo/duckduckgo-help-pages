@@ -10,6 +10,8 @@ order: 1400
 
 DuckDuckBot is a web crawler for [DuckDuckGo](https://duckduckgo.com). DuckDuckBot’s job is to constantly improve our search results and offer users the best and most secure search experience possible. The crawler's user agent will appear as `DuckDuckBot/1.1; (+http://duckduckgo.com/duckduckbot.html)`. It respects [WWW:RobotRules](https://metacpan.org/module/WWW::RobotRules) and originates from these IP addresses:
 
+-   57.152.72.128
+-   51.8.253.152
 -   40.80.242.63
 -   20.12.141.99
 -   20.49.136.28
