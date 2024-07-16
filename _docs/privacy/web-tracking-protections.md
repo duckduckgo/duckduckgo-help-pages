@@ -328,7 +328,7 @@ From DuckDuckGo app Settings, you can manage your Fireproof Sites and choose whe
 | iPhone & iPad app | Clears all browsing history and data. Supports automatic clearing on restart.                                                                             |
 | Android app       | Clears all browsing history and data. Supports automatic clearing on restart.                                                                             |
 | Mac app           | Clears all browsing history and data. Can also clear data for visited sites per-tab and per-window. Automatic clearing on restart on our product roadmap. |
-| Windows app       | Clears all browsing history and data. Additional data clearing options on our product roadmap.                                                            |
+| Windows app       | Clears all browsing history and data. Additional data clearing options on our product roadmap.<br /><br />Note: As of May 16, 2024, [a newly discovered bug][webview2-data-clearing-bug] in the operating system [WebView2][microsoft-edge-webview2] component may temporarily prevent the Fire Button from instantly clearing fragments of browsing data from your device. This bug does not affect your privacy in our browser, the Fire Button still clears your browsing history and tabs, and any data remnants can be erased by closing the browser. Until this bug is resolved, you can restart your browser after using the Fire Button to ensure all data is cleared immediately.|
 
 ### Cookie Pop-up Protection
 
@@ -458,3 +458,5 @@ For questions, comments, or concerns, please feel free to <a href="{{ site.baseu
 [mozilla-ipa]: https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/
 [compare-privacy]: https://duckduckgo.com/compare-privacy
 [chromium-mv3-background-requests]: https://github.com/w3c/webextensions/issues/369
+[webview2-data-clearing-bug]: https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561
+[microsoft-edge-webview2]: https://developer.microsoft.com/en-us/microsoft-edge/webview2/
