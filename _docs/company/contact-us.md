@@ -6,19 +6,21 @@ category: About DuckDuckGo
 order: 700
 ---
 
-For help with DuckDuckGo features, please see the Help Pages for [Search]({{ site.baseurl }}/results), [Browser]({{ site.baseurl }}/web-browsing-privacy), [Email Protection]({{ site.baseurl }}/email-protection), [Sync & Backup]({{ site.baseurl }}/sync-and-backup), [App Tracking Protection]({{ site.baseurl }}/p-app-tracking-protection), [Duck Player]({{ site.baseurl }}/duck-player), [AI Chat]({{ site.baseurl }}/aichat), and [more]({{ site.baseurl }}/).
-
 ## Submit Feedback
 
 -   If you have **feedback regarding our search results**, or think you’ve encountered results that look suspicious, please use the **Share Feedback** button located at the bottom of the search results page and follow the prompts. You can also send feedback about specific instant answers where a corresponding feedback option is shown.
--   If you have **feedback regarding our browser**, please use the **Send Feedback** option:
+-   If you have **feedback regarding our browser**, please use the **Share Feedback** option:
     -   Desktop browsers: Open the **three-dot menu** > **Share Feedback**
     -   Mobile browsers: Open the **three-dot menu** > **Settings** > **Share Feedback**
--   **Security vulnerabilities**: please submit a report via [HackerOne](https://hackerone.com/duckduckgo){:target="\_blank"}{:rel="noopener noreferrer"}
+-   If you want to report a potential **security vulnerability**, please submit a report via [HackerOne](https://hackerone.com/duckduckgo){:target="\_blank"}{:rel="noopener noreferrer"}
 
 ## Customer Support
 
--   **[Privacy Pro](https://duckduckgo.com/pro)**: [privacypro@duckduckgo.com](mailto:privacypro@duckduckgo.com)
+For help with DuckDuckGo features, please see the Help Pages for [Search]({{ site.baseurl }}/results), [Browser]({{ site.baseurl }}/web-browsing-privacy), [Email Protection]({{ site.baseurl }}/email-protection), [Sync & Backup]({{ site.baseurl }}/sync-and-backup), [App Tracking Protection]({{ site.baseurl }}/p-app-tracking-protection), [Duck Player]({{ site.baseurl }}/duck-player), [AI Chat]({{ site.baseurl }}/aichat), and [more]({{ site.baseurl }}/).
+
+If you need additional support for a Privacy Pro subscription or Email Protection, please email us:
+
+-   **[Privacy Pro Subscriptions](https://duckduckgo.com/pro)**: [privacypro@duckduckgo.com](mailto:privacypro@duckduckgo.com)
 -   **[Email Protection]({{ site.baseurl }}/email-protection/)**: [support@duck.com](mailto:support@duck.com)
 
 ## Media & Partnerships
