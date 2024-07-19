@@ -8,7 +8,7 @@ order: 700
 
 -   If you have feedback regarding our search results, or think you’ve encountered results that look suspicious, please use the “Share Feedback” button located at the bottom of the search results page and follow the prompts. You can also send feedback about specific instant answers where a corresponding feedback option is shown.
 -   Media inquiries: please visit our [press page](https://duckduckgo.com/press) or reach out to [press@duckduckgo.com](mailto:press@duckduckgo.com).
--   Business partnership inquiries: please visit our <a href="{{ site.baseurl }}/company/partnerships">partnerships page</a>.
+-   Business partnership inquiries: please visit our [partnerships page]({{ site.baseurl }}/company/partnerships).
 -   Security vulnerabilities: please submit a report via [HackerOne](https://hackerone.com/duckduckgo).
 -   Customer support for Email Protection: reach out to [support@duck.com](mailto:support@duck.com).
 -   Customer support for Privacy Pro: reach out to [privacypro@duckduckgo.com](mailto:privacypro@duckduckgo.com).

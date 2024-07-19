@@ -239,4 +239,4 @@ DuckDuckBot is a web crawler for [DuckDuckGo](https://duckduckgo.com). DuckDuckB
 -   52.242.224.168
 -   20.80.129.80
 
-If you have any questions or concerns, please <a href="https://duckduckgo.com/feedback">let us know</a>.
+If you have any questions or concerns, please [let us know](https://duckduckgo.com/feedback).

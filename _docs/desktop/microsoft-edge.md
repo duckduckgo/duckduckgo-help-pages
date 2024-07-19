@@ -10,7 +10,7 @@ order: 300
 ## Installing Our Add-On
 
 -   [DuckDuckGo Privacy Essentials add-on](https://microsoftedge.microsoft.com/addons/detail/caoacbimdbbljakfhgikoodekdnlcgpk):
-    Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking, encrypted website connections (where possible) and a privacy grade for each site you visit. <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">Learn more about our Web Tracking Protections</a>.
+    Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking, encrypted website connections (where possible) and a privacy grade for each site you visit. [Learn more about our Web Tracking Protections]({{ site.baseurl }}/privacy/web-tracking-protections/).
 
 ## Changing Your Search Engine to DuckDuckGo
 

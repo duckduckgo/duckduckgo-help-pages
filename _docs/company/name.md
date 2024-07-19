@@ -5,9 +5,6 @@ category: About DuckDuckGo
 order: 175
 ---
 
-<p>
-    The name DuckDuckGo is derived from
-    <a href="https://duckduckgo.com/?q=Duck%2C+Duck%2C+Goose">Duck, Duck, Goose</a>, but it's not a metaphor.
-</p>
+The name DuckDuckGo is derived from [Duck, Duck, Goose](https://duckduckgo.com/?q=Duck%2C+Duck%2C+Goose), but it's not a metaphor.
 
-<p>If you're wondering how you would turn that into a verb...Duck it!</p>
+If you're wondering how you would turn that into a verb...Duck it!

@@ -6,9 +6,9 @@ category: Privacy Pro
 order: 200
 ---
 
-The DuckDuckGo Privacy Pro Privacy Policy and Terms of Service can be found here: <a href="https://duckduckgo.com/pro/privacy-terms">https://duckduckgo.com/pro/privacy-terms</a>.
+The DuckDuckGo Privacy Pro Privacy Policy and Terms of Service can be found here: [https://duckduckgo.com/pro/privacy-terms](https://duckduckgo.com/pro/privacy-terms).
 
-DuckDuckGo’s general Privacy Policy and Terms of Service can be found here: <a href="https://duckduckgo.com/terms">https://duckduckgo.com/terms</a> and <a href="https://duckduckgo.com/privacy">https://duckduckgo.com/privacy</a>.
+DuckDuckGo’s general Privacy Policy and Terms of Service can be found here: [https://duckduckgo.com/terms](https://duckduckgo.com/terms) and [https://duckduckgo.com/privacy](https://duckduckgo.com/privacy).
 
 ## Do I need to share personal information to subscribe to Privacy Pro?
 

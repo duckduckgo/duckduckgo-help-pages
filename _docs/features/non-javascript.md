@@ -6,17 +6,9 @@ category: Search Privacy
 order: 900
 ---
 
-<p>
-    We have two non-JavaScript versions of our search results, which come up
-    automatically for some browsers that don't work with the regular JavaScript
-    version.
-</p>
+We have two non-JavaScript versions of our search results, which come up automatically for some browsers that don't work with the regular JavaScript version.
 
-<ul>
-    <li><a href="https://duckduckgo.com/html">HTML</a></li>
-    <li><a href="https://duckduckgo.com/lite">Lite</a></li>
-</ul>
-<p>
-    However, keep in mind that these non-JavaScript sites lack some of the
-    features present on the primary site because of its heavy use of JavaScript.
-</p>
+-   [HTML](https://duckduckgo.com/html)
+-   [Lite](https://duckduckgo.com/lite)
+
+However, keep in mind that these non-JavaScript sites lack some of the features present on the primary site because of its heavy use of JavaScript.

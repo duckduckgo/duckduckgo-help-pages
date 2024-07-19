@@ -7,11 +7,11 @@ sub_category: Get the DuckDuckGo Browser Extension
 order: 400
 ---
 
-> <a class="button" href="{{ site.baseurl }}/mobile/safari-ios">Did you mean iOS Safari instead?</a>
+> [Did you mean iOS Safari instead?]({{ site.baseurl }}/mobile/safari-ios){:class="button"}
 
 ## Installing Our Extension
 
--   [DuckDuckGo Privacy Essentials extension](https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575): Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking and encrypted website connections (where possible). <a href="{{ site.baseurl }}/privacy/web-tracking-protections/">Learn more about our Web Tracking Protections</a>.
+-   [DuckDuckGo Privacy Essentials extension](https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575): Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking and encrypted website connections (where possible). [Learn more about our Web Tracking Protections]({{ site.baseurl }}/privacy/web-tracking-protections/).
 
 ## Changing Your Search Engine to DuckDuckGo
 

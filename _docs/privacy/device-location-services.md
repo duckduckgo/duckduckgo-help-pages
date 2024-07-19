@@ -12,7 +12,7 @@ As our browser is often used for everyday searching and browsing, there may be w
 
 ![Screenshot of a browser location permission dialog]({{ site.baseurl }}/images/geolocation-permission-prompt.png)
 
-Similar to our use of <a href="{{ site.baseurl }}/privacy/anonymous-localized-results/">location services for search results</a>, this process never sends your location to DuckDuckGo servers. However, anytime you allow your device’s location service to send your location to a website, it also allows the platform provider (Apple, Microsoft, or Google, depending on your device’s operating system) to access the information used to determine your location. This often includes your IP address, wireless access point names (SSIDs), and GPS coordinates, though this varies depending on the platform provider and their own privacy policies.
+Similar to our use of [location services for search results]({{ site.baseurl }}/privacy/anonymous-localized-results/), this process never sends your location to DuckDuckGo servers. However, anytime you allow your device’s location service to send your location to a website, it also allows the platform provider (Apple, Microsoft, or Google, depending on your device’s operating system) to access the information used to determine your location. This often includes your IP address, wireless access point names (SSIDs), and GPS coordinates, though this varies depending on the platform provider and their own privacy policies.
 
 Our browsers rely on the following location services for each platform:
 

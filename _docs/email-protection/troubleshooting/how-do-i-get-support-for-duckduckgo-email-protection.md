@@ -7,4 +7,4 @@ sub_category: Troubleshooting
 order: 1000
 ---
 
-Please first look through our other frequently asked questions to see if the answer is already covered. If it isn’t, you can contact us at <a href="mailto:support@duck.com">support@duck.com</a> (note that email address ends in duck.com, not duckduckgo.com) and then reply to the autoreply with the details of your situation.
+Please first look through our other frequently asked questions to see if the answer is already covered. If it isn’t, you can contact us at [support@duck.com](mailto:support@duck.com) (note that email address ends in duck.com, not duckduckgo.com) and then reply to the autoreply with the details of your situation.

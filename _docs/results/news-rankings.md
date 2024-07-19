@@ -9,7 +9,7 @@ order: 1150
 
 A search engine's primary job is to rank results. In other words, search
 engines try to put results that most quickly and accurately answer the query on
-top. At DuckDuckGo we produce search results from a <a href="{{ site.baseurl }}/results/sources/">variety of sources</a>,
+top. At DuckDuckGo we produce search results from a [variety of sources]({{ site.baseurl }}/results/sources/),
 and when we apply our own ranking signals we do so in a strictly non-political
 manner, meaning we don't evaluate or otherwise take into account any potential
 political bias or leanings of websites in our search result rankings.
@@ -18,7 +18,7 @@ influence search result rankings.
 
 For many news events, hundreds of media outlets create similar articles, and
 many of those articles have similar relevancy in terms of keyword matching and
-popularity. As such, for <a href="{{ site.baseurl }}/features/news/">news-related searches</a> we look to another ranking
+popularity. As such, for [news-related searches]({{ site.baseurl }}/features/news/) we look to another ranking
 factor to try to ensure the top few news results aren't obviously very
 low-quality so users can immediately have several sources of relevant, quality
 news results to compare and choose between.
@@ -44,5 +44,5 @@ these rare cases we do not remove these sites from our search results page.
 Additionally, impacted sites are not moved so far down in the results that they
 are effectively removed. Unless legally prohibited, you should find all media
 outlets in our results, and they should generally show on top if you search for
-them by name or domain name. If you see otherwise, please <a href="{{ site.baseurl }}/company/contact-us/">let us know</a> and
+them by name or domain name. If you see otherwise, please [let us know]({{ site.baseurl }}/company/contact-us/) and
 we will investigate.

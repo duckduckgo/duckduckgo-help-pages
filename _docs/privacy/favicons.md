@@ -10,4 +10,4 @@ Within [DuckDuckGo Search](https://duckduckgo.com) we show favicons (small websi
 
 At DuckDuckGo, we don’t track you, ever. That’s our [privacy policy](https://duckduckgo.com/privacy) in a nutshell. For example, we do not create unique cookies and, more generally, architect our product so that we do not even have the ability to create a search or browsing history for any individual — it’s privacy by design.
 
-Updates to favicons should occur automatically over a period of a few weeks. If you are seeing a persistent problem, please <a href="{{ site.baseurl }}/company/contact-us/">let us know</a>.
+Updates to favicons should occur automatically over a period of a few weeks. If you are seeing a persistent problem, please [let us know]({{ site.baseurl }}/company/contact-us/).

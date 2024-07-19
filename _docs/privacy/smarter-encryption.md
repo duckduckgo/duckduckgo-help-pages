@@ -27,4 +27,4 @@ Here's how it works:
 
 **To be clear, this means that your searches and browsing history are still completely anonymous.**
 
-If you have any concerns, please feel free to <a href="{{ site.baseurl }}/company/contact-us/">contact us</a>, or join the discussion in the [DuckDuckGo subreddit](https://reddit.com/r/duckduckgo).
+If you have any concerns, please feel free to [contact us]({{ site.baseurl }}/company/contact-us/), or join the discussion in the [DuckDuckGo subreddit](https://reddit.com/r/duckduckgo).

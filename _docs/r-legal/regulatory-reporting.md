@@ -9,7 +9,7 @@ order: 99
 
 #### Point of contact for Member States’ authorities, the European Commission, and the European Board for Digital Services
 
-DuckDuckGo’s single point of contact is <a href="mailto:legal@duckduckgo.com">legal@duckduckgo.com</a>. English is the preferred language for communication with this point of contact.
+DuckDuckGo’s single point of contact is [legal@duckduckgo.com](mailto:legal@duckduckgo.com). English is the preferred language for communication with this point of contact.
 
 #### How DuckDuckGo users can contact us
 
@@ -28,9 +28,9 @@ DuckDuckGo’s legal representative for the DSA is:
 
 #### EU Monthly Active Users of Our Online Search Engine
 
-When searching or browsing on DuckDuckGo, we don’t track you, ever. That’s our <a href="https://duckduckgo.com/privacy">Privacy Policy</a> in a nutshell. For example, we do not create unique cookies and, more generally, architect our search engine and browser so that we cannot even create a search or browsing history for any individual — it’s privacy by design.
+When searching or browsing on DuckDuckGo, we don’t track you, ever. That’s our [Privacy Policy](https://duckduckgo.com/privacy) in a nutshell. For example, we do not create unique cookies and, more generally, architect our search engine and browser so that we cannot even create a search or browsing history for any individual — it’s privacy by design.
 
-The European Union (**EU**) requires publication of the average number of monthly active recipients of our search engine service in the EU every six months. As we do not track our users, the average number of monthly active recipients below is based on anonymized data. We have calculated the figures using survey data, which tells us the average number of searches conducted by users, applied against an estimate of the total number of searches conducted from the EU which we also estimate using <a href="{{ site.baseurl }}/privacy/anonymous-localized-results/">Anonymous Localized Results</a>.
+The European Union (**EU**) requires publication of the average number of monthly active recipients of our search engine service in the EU every six months. As we do not track our users, the average number of monthly active recipients below is based on anonymized data. We have calculated the figures using survey data, which tells us the average number of searches conducted by users, applied against an estimate of the total number of searches conducted from the EU which we also estimate using [Anonymous Localized Results]({{ site.baseurl }}/privacy/anonymous-localized-results/).
 
 | Reporting Period | Estimated Average Monthly Active Recipients in the EU |
 | ---------------- | ----------------------------------------------------- |

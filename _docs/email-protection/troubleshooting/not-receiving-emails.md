@@ -9,4 +9,4 @@ order: 100
 
 First, check your spam or junk folder. Otherwise, make sure that emails aren't getting caught by filters, rules, or Gmail tabs (like Promotions, Social, etc.). If you're trying to troubleshoot by sending an email to yourself, be sure to send it from a different email address than your forwarding address.
 
-If you are still having trouble, please email <a href="mailto:support@duck.com">support@duck.com</a> (that’s duck.com, not duckduckgo.com), and then reply to the autoreply with any details you can provide about your particular situation.
+If you are still having trouble, please email [support@duck.com](mailto:support@duck.com) (that’s duck.com, not duckduckgo.com), and then reply to the autoreply with any details you can provide about your particular situation.

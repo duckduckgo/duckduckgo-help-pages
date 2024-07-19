@@ -13,13 +13,15 @@ Our free web browser is a privacy-protecting alternative to Google Chrome and ot
 
 ### Problems with installation?
 
-**Unsupported Versions of Windows**<br />
+**Unsupported Versions of Windows**
+
 If you get an error message when attempting to install DuckDuckGo on Windows indicating “this package is not compatible with the device", try the following:
 
 -   Check to make sure you've [updated Windows to the latest version](https://support.microsoft.com/en-us/windows/update-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a#WindowsVersion=Windows_10).
 -   Note: DuckDuckGo for Windows requires Windows 10 (May 2020) or later.
 
-**Application Package Error Message**<br />
+**Application Package Error Message**
+
 If you get an error message when attempting to install DuckDuckGo on Windows that says "Error parsing application package", try the following:
 
 1. Download the following MSIXbundle installation file instead: [https://staticcdn.duckduckgo.com/windows-desktop-browser/help-pages/DuckDuckGo.msixbundle](https://staticcdn.duckduckgo.com/windows-desktop-browser/help-pages/DuckDuckGo.msixbundle)

@@ -4,7 +4,7 @@ category: Legal
 order: 413
 ---
 
-At Duck Duck Go, Inc. we source our traditional web results and Instant Answers from a <a href="{{ site.baseurl }}/results/sources/">variety of sources</a>. If you find content available through our search engine that you believe violates the law, **we recommend you first contact the website owner directly to have the content removed**.
+At Duck Duck Go, Inc. we source our traditional web results and Instant Answers from a [variety of sources]({{ site.baseurl }}/results/sources/). If you find content available through our search engine that you believe violates the law, **we recommend you first contact the website owner directly to have the content removed**.
 
 If you believe content made available by Duck Duck Go, Inc. infringes your copyright(s) or trademark(s), you can send an email to [dmca@duckduckgo.com](mailto:dmca@duckduckgo.com).
 

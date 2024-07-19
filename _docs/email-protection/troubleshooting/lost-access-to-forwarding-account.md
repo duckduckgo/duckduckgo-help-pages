@@ -7,4 +7,4 @@ sub_category: Troubleshooting
 order: 600
 ---
 
-Contact <a href="mailto:support@duck.com">support@duck.com</a> (note that email address ends in duck.com, not duckduckgo.com) and then reply to the autoreply with these details: your Personal Duck Address, current forwarding address, and the new forwarding address you would like to change it to.
+Contact [support@duck.com](mailto:support@duck.com) (note that email address ends in duck.com, not duckduckgo.com) and then reply to the autoreply with these details: your Personal Duck Address, current forwarding address, and the new forwarding address you would like to change it to.

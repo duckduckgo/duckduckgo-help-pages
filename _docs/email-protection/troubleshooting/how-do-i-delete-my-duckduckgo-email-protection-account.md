@@ -7,4 +7,4 @@ sub_category: Troubleshooting
 order: 900
 ---
 
-Visit the “Account” tab of [Email Protection Settings](https://duckduckgo.com/email/settings/account) in a <a href="{{ site.baseurl }}/email-protection/how-do-i-get-duckduckgo-email-protection">supported browser</a> to delete your Email Protection account. Note that deleting your account is permanent and once deleted it cannot be recovered.
+Visit the “Account” tab of [Email Protection Settings](https://duckduckgo.com/email/settings/account) in a [supported browser]({{ site.baseurl }}/email-protection/how-do-i-get-duckduckgo-email-protection) to delete your Email Protection account. Note that deleting your account is permanent and once deleted it cannot be recovered.

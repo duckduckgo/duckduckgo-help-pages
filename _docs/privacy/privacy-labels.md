@@ -12,13 +12,13 @@ At DuckDuckGo, we don’t track you, ever. That’s our [privacy policy](https:/
 
 ![Screenshot of the DuckDuckGo app privacy label.]({{ site.baseurl }}/images/duckduckgo-privacy-label.png)
 
-As you can see in the label above, we collect the bare minimum amount of anonymous data (not linked to you) necessary to build and maintain effective privacy products. The DuckDuckGo Privacy Browser mobile app uses just two of the data types listed in [Apple's privacy details documentation](https://developer.apple.com/app-store/app-privacy-details/) – "Usage Data" and "Diagnostics". There is a <a href="{{ site.baseurl }}/privacy/atb/">clear rationale</a> for every piece of anonymous data we use (to improve the app, never to spy on you like other companies), but this anonymous data is not associated with you personally, resulting in the "Data Not Linked to You" label.
+As you can see in the label above, we collect the bare minimum amount of anonymous data (not linked to you) necessary to build and maintain effective privacy products. The DuckDuckGo Privacy Browser mobile app uses just two of the data types listed in [Apple's privacy details documentation](https://developer.apple.com/app-store/app-privacy-details/) – "Usage Data" and "Diagnostics". There is a [clear rationale]({{ site.baseurl }}/privacy/atb/) for every piece of anonymous data we use (to improve the app, never to spy on you like other companies), but this anonymous data is not associated with you personally, resulting in the "Data Not Linked to You" label.
 
 You can use the DuckDuckGo app knowing that the app itself, or its features (like DuckDuckGo Search), aren't tracking you and that we are also helping protect your data on the websites you visit (e.g., through our [Tracker Radar](https://spreadprivacy.com/duckduckgo-tracker-radar/) and [Smarter Encryption](https://spreadprivacy.com/duckduckgo-smarter-encryption/) technologies).
 
 It's important to be aware that even two apps that share the same data privacy label may have different levels of privacy protection under the surface. So our long-standing advice remains: Only install apps from companies and developers that you truly trust, and remove those that you don't use, to reduce your digital footprint.
 
-You can get more tips in our [privacy newsletters](https://duckduckgo.com/newsletter), and if you have any concerns, please feel free to <a href="{{ site.baseurl }}/company/contact-us/">contact us</a>.
+You can get more tips in our [privacy newsletters](https://duckduckgo.com/newsletter), and if you have any concerns, please feel free to [contact us]({{ site.baseurl }}/company/contact-us/).
 
 ## Data collected by Apple
 

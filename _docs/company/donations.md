@@ -5,15 +5,9 @@ category: About DuckDuckGo
 order: 600
 ---
 
-<p>
-    DuckDuckGo has been profitable since 2014, our browsers and extensions have been downloaded over 250 million times, and our private search engine has seen over one hundred billion searches. Because of this, we don't accept donations.
-</p>
+DuckDuckGo has been profitable since 2014, our browsers and extensions have been downloaded over 250 million times, and our private search engine has seen over one hundred billion searches. Because of this, we don't accept donations.
 
-<p>
-    Instead, you can support us by:
-</p>
+Instead, you can support us by:
 
-<ul>
-    <li><a href="{{ site.baseurl }}/settings/adblockers/">Disabling ad blockers</a> so you see our <a href="{{ site.baseurl }}/company/how-duckduckgo-makes-money/">private ads</a></li>
-    <li><a href="https://duckduckgo.com/spread">Telling friends and family</a> about DuckDuckGo.</li>
-</ul>
+-   [Disabling ad blockers]({{ site.baseurl }}/settings/adblockers/) so you see our [private ads]({{ site.baseurl }}/company/how-duckduckgo-makes-money/)
+-   [Telling friends and family](https://duckduckgo.com/spread) about DuckDuckGo.

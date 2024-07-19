@@ -7,4 +7,4 @@ sub_category: Troubleshooting
 order: 300
 ---
 
-Visit the “Account” tab of [Email Protection Settings](https://duckduckgo.com/email/settings/account) in a <a href="{{ site.baseurl }}/email-protection/how-do-i-get-duckduckgo-email-protection">supported browser</a> to change your forwarding address.
+Visit the “Account” tab of [Email Protection Settings](https://duckduckgo.com/email/settings/account) in a [supported browser]({{ site.baseurl }}/email-protection/how-do-i-get-duckduckgo-email-protection) to change your forwarding address.

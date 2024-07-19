@@ -5,7 +5,7 @@ category: Search Results
 order: 1500
 ---
 
-DuckDuckGo delivers <a href="{{ site.baseurl }}/company/ads-by-microsoft-on-duckduckgo-private-search">privacy respecting advertising</a> to users while providing excellent return on investment for advertisers.
+DuckDuckGo delivers [privacy respecting advertising]({{ site.baseurl }}/company/ads-by-microsoft-on-duckduckgo-private-search) to users while providing excellent return on investment for advertisers.
 
 As privacy awareness becomes more pervasive, consumers are making more informed technology choices, including which online search engine they use.
 

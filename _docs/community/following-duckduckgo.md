@@ -6,12 +6,10 @@ category: About DuckDuckGo
 order: 200
 ---
 
-<p>You can follow updates from DuckDuckGo or talk with our community on:</p>
+You can follow updates from DuckDuckGo or talk with our community on:
 
-<ul>
-    <li><a href="https://twitter.com/duckduckgo">Twitter</a> (also follow our <a href="https://twitter.com/yegg">founder and CEO</a>)</li>
-    <li><a href="https://spreadprivacy.com">Spread Privacy blog</a></li>
-    <li><a href="https://duckduckgo.com/newsletter">Privacy newsletters</a></li>
-    <li><a href="https://www.reddit.com/r/duckduckgo">Reddit</a></li>
-    <li><a href="https://github.com/duckduckgo">GitHub</a></li>
-</ul>
+-   [Twitter](https://twitter.com/duckduckgo) (also follow our [founder and CEO](https://twitter.com/yegg))
+-   [Spread Privacy blog](https://spreadprivacy.com)
+-   [Privacy newsletters](https://duckduckgo.com/newsletter)
+-   [Reddit](https://www.reddit.com/r/duckduckgo)
+-   [GitHub](https://github.com/duckduckgo)
