@@ -59,6 +59,23 @@ Instead of using a traditional password, DuckDuckGo Privacy Pro uses one-time pa
 
 If you’re having issues activating your device, please make sure that you’re pasting the code within the time limit stated in the email, and that you’re requesting and entering the one-time passphrase in the same browser.
 
+## What if I did not receive the one-time passphrase email to access my subscription?
+
+If you did not receive the one-time passphrase email to activate your DuckDuckGo Privacy Pro subscription on a new device, please first confirm that you have added an email address to your subscription. This can be checked with the following steps.
+
+-   On mobile:
+    -   Open the DuckDuckGo app, then tap the three dot icon and then **Settings**.
+    -   In the Privacy Pro section of Settings, tap **Subscription Settings** > **Add to Another Device** > **Add Email**.
+    -   If you see your email address, you are ready to activate your subscription on another device.
+-   On desktop:
+    -   In the DuckDuckGo browser, click the three dots at the top-right and go to **Settings**.
+    -   Click **Privacy Pro** in the sidebar > **Add to Another Device** > **Add Email**.
+    -   If you see your email address, you are ready to activate your subscription on another device.
+
+If you still did not receive the one-time passphrase email, please check your junk or spam folders to ensure the email did not route there. Finally, try clicking **Resend**.
+
+Please let us know if you still have difficulty activating your subscription after taking those steps.
+
 ## Can I share my subscription with friends or family?
 
 We currently don’t offer a Privacy Pro family plan or support sharing a subscription with friends or family.

@@ -8,11 +8,11 @@ order: 300
 
 ## What payment methods are accepted for Privacy Pro?
 
-If you purchase Privacy Pro from our website, or from a DuckDuckGo browser downloaded from our website, we use Stripe as a payment processor. You can use a prepaid credit card to enhance your privacy when subscribing via Stripe, but only U.S. credit cards are accepted, as Privacy Pro is only available to U.S. residents.
+If you purchase Privacy Pro from our website, or from a DuckDuckGo browser downloaded from our website, we use Stripe as a payment processor. You can use a prepaid credit card to enhance your privacy when subscribing via Stripe, but only U.S. credit cards are accepted, as Privacy Pro is only available to U.S. residents. We do not store your payment info, and it cannot be tied to your activity within DuckDuckGo, like search or browsing.
 
 If you purchase Privacy Pro from a DuckDuckGo browser downloaded from the Google Play Store or App Store, they handle the payments directly — accepting any payment method associated with your app store account. Their respective privacy policies and terms of service apply to payment processing.
 
-## How do I manage my subscription, edit my payment method, or cancel it?
+## How do I manage, upgrade, or cancel my subscription, or edit my payment method?
 
 Where you can manage or change your subscription or payment method depends on the platform on which you subscribe:
 
