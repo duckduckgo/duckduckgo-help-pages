@@ -1,7 +1,7 @@
 ---
 title: DuckDuckGo Preview crash report disclaimer
-nav_title: DuckDuckGo Preview Crash Report Disclaimer
-description: How DuckDuckGo Search ranks results and whether we apply differentiated treatment to our own products and services compared to those offered by other online services.
+nav_title: DuckDuckGo Preview Disclaimer
+description: DuckDuckGo Preview automatically collects diagnostic information in the event of a crash to help DuckDuckGo test and improve experimental features.
 category: Legal
 order: 450
 ---
