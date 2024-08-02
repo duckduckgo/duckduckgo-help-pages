@@ -11,11 +11,13 @@ At DuckDuckGo, we don’t track you, ever. That’s our [Privacy Policy](https:/
 
 There may be cases when you want more accurate location-based results like local weather and restaurants. We can still serve results for searches like these (including instant answers and ads) while keeping you anonymous.
 
-To do this, DuckDuckGo Search simply guesses your location using a [GEO::IP](https://en.wikipedia.org/wiki/Internet_geolocation) lookup with the IP address that's automatically sent to us via your device; then we throw away both the guessed location and the IP address, per our [privacy policy](https://duckduckgo.com/privacy), saving none of that info on our servers. Our default search experience was designed so that we don’t need to request any additional information than what you are already sending.
+To do this, DuckDuckGo Search simply guesses your location using a [GEO::IP](https://en.wikipedia.org/wiki/Internet_geolocation) lookup with the IP address that's automatically sent to us via your device; then we throw away both the guessed location and the IP address, per our [Privacy Policy](https://duckduckgo.com/privacy), saving none of that info on our servers. Our default search experience was designed so that we don’t need to request any additional information than what you are already sending.
 
 This process isn’t always accurate enough, for example DuckDuckGo Search may end up assuming you’re hundreds of miles away from where you actually are, especially on mobile phone networks that route traffic through a central hub. That’s why we built an option that lets you improve the accuracy of your local search results.
 
 <img alt="screenshot of warning screen" src="{{ site.baseurl }}/images/desktop_pul_prompt.png" />
+
+When you see a prompt like the one above, "Use Location" will let you share your browser location to improve the accuracy of results while still hiding your precise location from DuckDuckGo.
 
 Major web browsers have access to more accurate location information using a variety of techniques, including WiFi databases, cell tower location databases, and GPS. When you see one of these standard browser prompts, you are allowing your browser to obtain this more accurate location for use by the requesting webpage. In our case, we engineered a solution to shield that more accurate location from us.
 
@@ -27,15 +29,9 @@ The location returned by the browser is stored locally on your device and is nev
 
 **To be clear, this means that even if you opt-in to using a more accurate location, your searches will still be anonymous and DuckDuckGo never sees your actual location.**
 
-### How Directions Work
-
-When you look up directions on DuckDuckGo Search (for example “drive from NYC to Niagra Falls”), you may see an Instant Answer like the one below in search results.
-
-<img alt="screenshot of directions on a map" src="{{ site.baseurl }}/images/how-directions-work.png" />
-
 ### Learn more about your browser’s location services
 
-As mentioned above browsers use a variety of techniques browsers use to identify an accurate location, which may present their own privacy implications. These vary by browser and depend in part on the location service the browser uses. Most major browsers provide detailed information on the location service they use and its associated policies:
+As mentioned above, browsers use a variety of techniques browsers use to identify an accurate location, which may present their own privacy implications. These vary by browser and depend in part on the location service the browser uses. Most major browsers provide detailed information on the location service they use and its associated policies:
 
 -   Firefox (uses Google Location Services): [https://support.mozilla.org/en-US/kb/does-firefox-share-my-location-websites](https://support.mozilla.org/en-US/kb/does-firefox-share-my-location-websites)
 -   Chrome (uses Google Location Services): [https://policies.google.com/technologies/location-data?hl=en-US#how-find](https://policies.google.com/technologies/location-data?hl=en-US#how-find)
