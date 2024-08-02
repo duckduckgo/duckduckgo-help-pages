@@ -7,7 +7,7 @@ sub_category: VPN
 order: 400
 ---
 
-We currently have VPN servers in the United States, Canada, and Europe. Each location has many servers. Locations include:
+We have VPN servers globally. Below is a list of current locations, each of which has multiple servers:
 
 -   United States
     -   Ashburn, Virginia
@@ -17,9 +17,9 @@ We currently have VPN servers in the United States, Canada, and Europe. Each loc
     -   Dallas, Texas
     -   Denver, Colorado
     -   Houston, Texas
+    -   Los Angeles, California
     -   Miami, Florida
     -   Newark, New Jersey
-    -   Los Angeles, California
     -   San Jose, California
     -   Seattle, Washington
 -   Canada
