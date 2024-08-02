@@ -7,24 +7,52 @@ sub_category: VPN
 order: 400
 ---
 
-We currently have VPN servers in the United States, Canada, and Europe. Each location has many servers. Locations include:
+We have VPN servers globally. Below is a list of current locations, each of which has multiple servers:
 
--   US
-    -   Dallas, TX
-    -   Chicago, IL
-    -   Atlanta, GA
-    -   Newark, NJ
-    -   Los Angeles, CA
-    -   Denver, CO
-    -   Seattle, WA
+-   United States
+    -   Ashburn, Virginia
+    -   Atlanta, Georgia
+    -   Boston, Massachusetts
+    -   Chicago, Illinois
+    -   Dallas, Texas
+    -   Denver, Colorado
+    -   Houston, Texas
+    -   Los Angeles, California
+    -   Miami, Florida
+    -   Newark, New Jersey
+    -   San Jose, California
+    -   Seattle, Washington
 -   Canada
-    -   Toronto, ON
+    -   Toronto, Ontario
+    -   Vancouver, British Columbia
+-   Central America
+    -   Queretaro, Mexico
 -   Europe
-    -   Rotterdam, NL
-    -   Frankfurt, DE
-    -   Madrid, ES
-    -   London, EN
-    -   Paris, FR
+    -   Athens, Greece
+    -   Brussels, Belgium
+    -   Dublin, Ireland
+    -   Frankfurt, Germany
+    -   Lisbon, Portugal
+    -   London, England
+    -   Madrid, Spain
+    -   Milan, Italy
+    -   Paris, France
+    -   Prague, Czech Republic
+    -   Rotterdam, Netherlands
+    -   Stockholm, Sweden
+    -   Warsaw, Poland
+    -   Zurich, Switzerland
+-   Africa
+    -   Johannesburg, South Africa
+-   South America
+    -   Santiago, Chile
+    -   Sao Paulo, Brazil
+-   Asia
+    -   Singapore
+    -   Tel Aviv, Israel
+    -   Tokyo, Japan
+-   Oceania
+    -   Sydney, Australia
 
 ## Do you plan to add more VPN servers and locations?
 
