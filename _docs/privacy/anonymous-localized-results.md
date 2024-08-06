@@ -21,9 +21,9 @@ When you see a prompt like the one above, "Use Location" will let you share your
 
 Major web browsers have access to more accurate location information using a variety of techniques, including WiFi databases, cell tower location databases, and GPS. When you see one of these standard browser prompts, you are allowing your browser to obtain this more accurate location for use by the requesting webpage. In our case, we engineered a solution to shield that more accurate location from us.
 
-If you'd rather choose a custom location, you can pick "Set Location on Map" instead of "Use Location." This bypasses the browser location permission, but still keeps your precise location anonymous to us.
+<img alt="screenshot of browser location prompt" src="{{ site.baseurl }}/images/desktop_location_prompt.png" />
 
-<img alt="screenshot of browser location prompt" src="{{ site.baseurl }}/images/6631305e26ef2563263b3eb1c83b2a9e.png" />
+If you'd rather choose a custom location, you can pick "Set Location on Map" instead of "Use Location." This bypasses the browser location permission, but still keeps your precise location anonymous to us.
 
 The location returned by the browser is stored locally on your device and is never sent to DuckDuckGo servers. After selecting “Use Location” or “Set Location on Map”, the next time you perform a local search, code that runs locally in your browser will send us a random location nearby, while hiding your actual location from DuckDuckGo. We use that random location to generate your results, then throw it away.
 
