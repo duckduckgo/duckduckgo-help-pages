@@ -1,3 +1,3 @@
-###### Get More Support
+## I have a question not covered here, how can I get help?
 
-Answers to many common questions about Privacy Pro are available in our [Help Pages]({{ site.baseurl }}/privacy-pro/). If your question is not covered, please contact support at [privacypro@duckduckgo.com](mailto:privacypro@duckduckgo.com).
+Please contact support at [privacypro@duckduckgo.com](mailto:privacypro@duckduckgo.com). If you have ideas on how to improve Privacy Pro, please share it using the Share Feedback button in the DuckDuckGo browser.
