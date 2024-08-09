@@ -6,71 +6,54 @@ category: Search Results
 order: 300
 ---
 
-<p>
-    We will sometimes serve localized results (for searches like
-    <a href="https://duckduckgo.com/?q=restaurants+nearby">"restaurants nearby"</a>) while still keeping you completely anonymous.
-    <a href="{{ site.baseurl }}/privacy/anonymous-localized-results">Read more about how it works</a>.
-</p>
+DuckDuckGo Search can serve local results (for searches like ["restaurants nearby"](https://duckduckgo.com/?q=restaurants+nearby)) while still keeping you anonymous. [Read more about how it works]({{ site.baseurl }}/privacy/anonymous-localized-results).
 
-<p>
-    For some search results you can opt-in to anonymously and securely use your
-    browser location, in accordance with our
-    <a href="https://duckduckgo.com/privacy">privacy policy</a>. This will help
-    further improve the accuracy and relevancy of search results.
-</p>
+For some search results you can opt-in to anonymously and securely use your browser location, in accordance with our [Privacy Policy](https://duckduckgo.com/privacy). This will help further improve the accuracy and relevancy of search results.
 
-<h3>If You Experience Problems Trying to Enable Your Location:</h3>
-<ul>
-    <li>Ensure you have a strong WiFi or Cellular connection.</li>
-    <li>Try re-starting your web browser.</li>
-    <li>
-        Using the instructions below, ensure you have Location Services enabled.
-    </li>
-</ul>
-<p>
-    <a href="{{ site.baseurl }}/results/local-results">Desktop</a> | Mobile:
-</p>
+### If you experience issues trying to use your location:
 
-<p><strong>iOS:</strong></p>
-<ol>
-    <li>On your device, open the Settings app.</li>
-    <li>Open 'Privacy', then 'Location Services'.</li>
-    <li>Ensure 'Location Services' is enabled.</li>
-    <li>Scroll down and locate your browser in the list.</li>
-    <li>Ensure your browser is allowed location access.</li>
-    <li>Reload DuckDuckGo, and try again.</li>
-</ol>
-<p>
-    If the browser location on iOS remains unavailable, then go to Settings &gt;
-    General &gt; Reset &gt; 'Reset Location &amp; Privacy'. Reload DuckDuckGo, and
-    try again.
-</p>
+-   Ensure you have a strong WiFi or Cellular connection
+-   Try restarting your web browser
+-   Check to make sure you have Location Services enabled on your device
 
-<p><strong>Android (Chrome, Brave):</strong></p>
-<ol>
-    <li>Tap the lock icon on the address bar.</li>
-    <li>Open 'Site Settings'.</li>
-    <li>Ensure 'Location' is set to allow.</li>
-    <li>Reload DuckDuckGo, and try again.</li>
-</ol>
-<p>
-    If the browser location in Chrome or Brave remains unavailable, then in your
-    browser go to ⋮ Menu &gt; Settings &gt; Site settings &gt; Location, and
-    ensure DuckDuckGo is allowed location access. Reload DuckDuckGo, and try
-    again.
-</p>
+#### iOS: DuckDuckGo Private Browser
 
-<p><strong>Android (Other):</strong></p>
-<ol>
-    <li>On your device, open the Settings app.</li>
-    <li>Open 'Location', and ensure location is enabled.</li>
-    <li>Navigate to Settings &gt; Apps.</li>
-    <li>Ensure your browser is allowed location access.</li>
-    <li>Reload DuckDuckGo, and try again.</li>
-</ol>
-<p>
-    You can disable your location again anytime. To do so, simply scroll down to
-    the "Location" section on
-    <a href="https://duckduckgo.com/settings">Settings</a> and select "Clear", or
-    manually clear your browser cookies for DuckDuckGo.
-</p>
+1.  Open the **Settings** app
+1.  Go to **Privacy & Security** > **Location Services**
+1.  Select **DuckDuckGo** in the list and **allow** location access
+1.  Turn on **Precise Location** for more accurate results
+1.  **Reload** DuckDuckGo Search, and try again
+
+#### iOS: Safari and Other Browsers
+
+1.  Open the **Settings** app
+1.  Go to **Privacy & Security** > **Location Services**
+1.  Select **your browser** in the list and **allow** location access
+1.  **Reload** DuckDuckGo Search, and try again
+
+If the browser location on iOS remains unavailable, then go to Settings &gt; General &gt; Transfer or Reset iPhone &gt; Reset, then select "Reset Location &amp; Privacy" from the list. Reload DuckDuckGo Search, and try again. Please be aware that when you clear your location, it will also revoke privacy permissions for all apps on your device, including access to your camera, microphone, and photos. This means that none of your apps will be able to use these features without your explicit permission again.
+
+#### Android: DuckDuckGo Private Browser
+
+1. **Long-press** the DuckDuckGo app icon on the home screen
+1. Tap the **app info icon**
+1. Tap **Permissions** > **Location**
+1. Select an option to **allow** location access
+1. Turn on **Precise Location** for more accurate results
+1. **Reload** DuckDuckGo Search, and try again
+
+#### Android: Chrome
+
+1. Tap the **permissions icon** in the address bar
+1. Ensure Location is set to **Allow**
+1. **Reload** DuckDuckGo Search, and try again
+
+If the browser location in Chrome on Android remains unavailable, then open the ⋮ Menu and go to Privacy and security &gt; Site settings &gt; Location, and allow location access for DuckDuckGo. Reload DuckDuckGo Search, and try again.
+
+### You can disable your location again anytime
+
+**From [Search Settings](https://duckduckgo.com/settings)**, scroll down to “Location”, and use the “Clear” button.
+
+**From the Map Instant Answer or Expanded Map**, click location icon. If you’ve already granted permission, click the "Clear & Disable" button to revoke your location permissions.
+
+You can also manually clear your browser cookies for duckduckgo.com.
