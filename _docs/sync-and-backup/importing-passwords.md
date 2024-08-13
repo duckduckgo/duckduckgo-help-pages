@@ -6,28 +6,27 @@ category: Sync & Backup
 order: 400
 ---
 
-#### On Mobile:
+## On Mac or Windows:
 
-The DuckDuckGo browser for iOS and Android doesn’t support password import via .CSV files. Instead, you can use Sync & Backup:
+There are two ways to import your passwords.
 
-1. Import your passwords onto DuckDuckGo for Mac or Windows on your computer as explained below.
-1. Set up **[Sync & Backup]({{ site.baseurl }}/sync-and-backup/)** to access them on your mobile device.
+**The quickest is to Import them into the DuckDuckGo browser:**
 
-#### On Desktop:
+1.  Open DuckDuckGo on your Mac or Windows computer.
+1.  Go to **Settings** > **Passwords & Autofill**.
+1.  Select **Import Passwords...** and follow the steps to import.
 
-Download or Export Passwords as a .CSV File:
+**Another way is to download or Export Passwords as a .CSV File (only necessary if you use a third-party party password manager or an unsupported browser):**
 
 1. Open the browser or password manager where you currently have your passwords stored.
 1. Find the option to export passwords and download them as a .CSV file.
 1. Refer to your browser or password manager's documentation for specific instructions.
 
-#### Import to DuckDuckGo:
+## On Mobile devices:
 
-1. Open DuckDuckGo on your Mac or Windows computer.
+Import passwords in the desktop version of the DuckDuckGo browser, then sync across devices:
+
+1. Open DuckDuckGo on Mac or Windows.
 1. Go to **Settings** > **Passwords & Autofill**.
-1. Select **Import Passwords...** and follow the on-screen instructions.
-
-#### Access your Passwords from other devices:
-
-1. Set up **[Sync & Backup]({{ site.baseurl }}/sync-and-backup/)** to access your passwords on other devices.
-1. You will need to sync other devices with your Mac or Windows app.
+1. Select **Import Passwords...** and follow the steps to import.
+1. Set up **[Sync & Backup]({{ site.baseurl }}/sync-and-backup/)** to access them on your mobile device.
