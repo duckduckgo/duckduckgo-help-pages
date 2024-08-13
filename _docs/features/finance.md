@@ -6,7 +6,7 @@ category: Legal
 order: 200
 ---
 
-You may see financial data appear in your search results if it’s particularly relevant to your search terms. Equities and ETFs data is provided by [IEX Cloud](https://iexcloud.io). Indices data is provided by [Refinitiv](https://www.refinitiv.com). Currency conversion data is provided by [XE](https://www.xe.com/).
+You may see financial data appear in your search results if it’s particularly relevant to your search terms. Equities, ETFs and Indicies data are provided by [Refinitiv](https://www.refinitiv.com). Currency conversion data is provided by [XE](https://www.xe.com/).
 
 | Exchange Code | Exchange                           | Market Quote Delay | Source                                                                                          |
 | ------------- | ---------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------- |
@@ -61,4 +61,5 @@ The Index is calculated by or on behalf of FTSE International Limited Income, LL
 2022 Euronext N.V. All Rights Reserved. The information, data, and analysis contained herein (i) include the proprietary information of Euronext and its content providers, (ii) may not be copied or further disseminated except as specifically authorized by Euronext, (iii) do not constitute investment advice, (iv) are provided solely for informational purposes and (v) are not warranted to be complete, accurate or timely.
 
 ### XE Currency Conversion
+
 Data provided by XE.com Inc. The data is for personal informational use only. You may not store, modify, reproduce, sell, disclose, distribute, publish, modify or otherwise exploit the data for any other purpose. The data may not be used for the purpose of trading securities by professional traders. All use of the data must comply with applicable laws. The data is provided as-is, there is no guarantee as to its accuracy or timeliness, and your use of the data is at your own risk. By accessing the data, you agree to comply with the XE Terms and conditions detailed at https://www.xe.com/legal.
