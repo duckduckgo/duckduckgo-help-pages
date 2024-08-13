@@ -1,1 +1,0 @@
-[Mac]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-mac), [Windows]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-windows), [iOS]({{site.baseurl}}/mobile/ios), and [Android]({{site.baseurl }}/mobile/android)
