@@ -12,6 +12,8 @@ DuckAssistBot is a specialized web crawler for [DuckDuckGo Search](https://duckd
 
 If you’re a publisher, you may opt out of being a potential source for DuckAssist answers by modifying the [robots.txt](https://metacpan.org/module/WWW::RobotRules){:target="\_blank"}{:rel="noopener noreferrer"} file for your domain(s). Once you’ve updated the file to disallow the DuckAssistBot user agent, the change will take effect after 72 hours and DuckAssistBot will stop crawling your site. The crawler’s user agent will appear as `DuckAssistBot/1.1; (+http://duckduckgo.com/duckassistbot.html)` and originates from the following IP addresses:
 
+-   57.152.72.128
+-   51.8.253.152
 -   40.80.242.63
 -   20.12.141.99
 -   20.49.136.28
@@ -238,5 +240,15 @@ If you’re a publisher, you may opt out of being a potential source for DuckAss
 -   20.61.34.40
 -   52.242.224.168
 -   20.80.129.80
+-   20.195.108.47
+-   4.195.133.120
+-   4.228.76.163
+-   4.182.131.108
+-   4.209.224.56
+-   108.141.83.74
+-   4.213.46.14
+-   172.169.17.165
+-   51.8.71.117
+-   20.3.1.178
 
 If you have any questions or concerns, please [let us know](https://duckduckgo.com/feedback).
