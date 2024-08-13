@@ -238,5 +238,15 @@ DuckDuckBot is a web crawler for [DuckDuckGo](https://duckduckgo.com). DuckDuckB
 -   20.61.34.40
 -   52.242.224.168
 -   20.80.129.80
+-   20.195.108.47
+-   4.195.133.120
+-   4.228.76.163
+-   4.182.131.108
+-   4.209.224.56
+-   108.141.83.74
+-   4.213.46.14
+-   172.169.17.165
+-   51.8.71.117
+-   20.3.1.178
 
 If you have any questions or concerns, please <a href="https://duckduckgo.com/feedback">let us know</a>.
