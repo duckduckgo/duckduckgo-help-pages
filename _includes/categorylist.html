@@ -1,6 +1,0 @@
-<ul>
-  {% assign company = site.docs | where_exp:"item", "item.category == page.category" | where_exp:"item", "item.url != page.url" | sort: 'order'%}
-  {% for link in company %}
-    <li>{{link.title}}</li>
-  {% endfor %}
-</ul>
