@@ -1,5 +1,5 @@
 ---
-title: DuckDuckGo Preview for Windwos crash report disclaimer
+title: DuckDuckGo Preview for Windows crash report disclaimer
 nav_title: DuckDuckGo Preview Disclaimer
 description: DuckDuckGo Preview automatically collects diagnostic information in the event of a crash to help DuckDuckGo test and improve experimental features.
 category: Legal
