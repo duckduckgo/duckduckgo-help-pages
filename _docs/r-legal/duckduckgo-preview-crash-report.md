@@ -1,12 +1,12 @@
 ---
-title: DuckDuckGo Preview crash report disclaimer
+title: DuckDuckGo Preview for Windwos crash report disclaimer
 nav_title: DuckDuckGo Preview Disclaimer
 description: DuckDuckGo Preview automatically collects diagnostic information in the event of a crash to help DuckDuckGo test and improve experimental features.
 category: Legal
 order: 450
 ---
 
-Per our privacy policy, DuckDuckGo does not track you, ever. In order to improve the experimental features included in DuckDuckGo Preview, diagnostic information is automatically sent to DuckDuckGo in the event of a crash. This diagnostic information can include:
+Per our privacy policy, DuckDuckGo does not track you, ever. In order to improve the experimental features included in DuckDuckGo Preview for Windows, diagnostic information is automatically sent to DuckDuckGo in the event of a crash. This diagnostic information can include:
 
 -   What browser feature was in use at the time of the crash
 -   Your DuckDuckGo Preview version number
