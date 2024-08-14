@@ -7,6 +7,6 @@ sub_category: Duck Addresses
 isIndex: true
 ---
 
-[DuckDuckGo Email Protection](https://duckduckgo.com/email) conceals your email address with Duck Addresses. There are two types of Duck Addresses: personal (example: name@duck.com) and private (automatically generated for you, example: avtzqdr@duck.com).
+[DuckDuckGo Email Protection](https://duckduckgo.com/email) conceals your email address with Duck Addresses. There are two types of Duck Addresses: personal (example: name@duck.com) and private (automatically generated for you, example: amaze-gem-spider@duck.com).
 
 {% include category-footer-nav.md %}
