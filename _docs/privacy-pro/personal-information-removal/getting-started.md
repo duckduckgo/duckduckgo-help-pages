@@ -7,7 +7,7 @@ sub_category: Personal Information Removal
 order: 100
 ---
 
-Ever tried looking yourself up online? DuckDuckGo Personal Information Removal can help find and remove your personal information, such as your name and address, from data broker sites that store and sell it, helping to combat identity theft and spam. Access to Personal Information Removal comes with a [DuckDuckGo Privacy Pro subscription]({{ site.baseurl}}/privacy-pro).
+Ever tried looking yourself up online? DuckDuckGo Personal Information Removal can help find and remove your personal information, such as your name and address, from data broker sites that store and sell it, helping to combat identity theft and spam. Access to Personal Information Removal comes with a [DuckDuckGo Privacy Pro subscription]({{ site.baseurl}}/privacy-pro). At this time, Personal Information Removal is designed to be set up and run only on one desktop device.
 
 ## How do I get Personal Information Removal?
 
@@ -24,6 +24,10 @@ After Personal Information Removal conducts its initial scan, you track the prog
 ## What are data brokers, and how did they get my data?
 
 Data brokers collect and sell personal data, which they aggregate from public records, Internet trackers, and other sources. This information may include your name, physical address, birth date, the names of your relatives, and more. Many of these sites will display some amount of your personal information for free to anyone who searches for your name.
+
+## Can you remove personal information for a family member?
+
+Personal Information Removal is currently intended for use by only the individual Privacy Pro subscriber. Each person that wants to remove their own personal information should purchase their own Privacy Pro subscription.
 
 ## What sites does Personal Information Removal cover? {#data-broker-list}
 
@@ -44,6 +48,7 @@ Personal Information Removal currently removes personal data from the following 
 -   Freepeopledirectory.com
 -   Inforver.com
 -   Kwold.com
+-   Mylife.com
 -   Neighbor.report
 -   Newenglandfacts.com
 -   Officialusa.com
