@@ -11,4 +11,4 @@ Private Duck Addresses are unique duck.com addresses that are automatically gene
 
 Private Duck Addresses provide an extra layer of privacy by making it difficult for tracking companies to identify you based on your email address. They can also be deactivated individually, so if you ever start receiving unwanted email or spam to one of your private Duck Addresses, all you have to do is deactivate it.
 
-Note: Any private Duck Addresses generated using the previous, randomized characters format (example: amaze-gem-spider@duck.com) will continue to work.
+Note: Any private Duck Addresses generated using the previous, randomized characters format (example: avtzqdr@duck.com) will continue to work.
