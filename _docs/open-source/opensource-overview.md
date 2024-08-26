@@ -7,15 +7,16 @@ order: 250
 ---
 
 <p>
-    To build trust through transparency, we make the source code and data for many of our products and features available under open source licenses. See the list below or visit us on <a href="https://github.com/duckduckgo">GitHub</a> for more.
+    To build trust through transparency, we make the source code and data for many of our products and features available under open-source licenses. See the list below or visit us on <a href="https://github.com/duckduckgo">GitHub</a> for more.
 </p>
 
 <p>
-    <strong style="font-size: 18px;">Mobile Apps</strong>
+    <strong style="font-size: 18px;">Browsers</strong>
 </p>
 <ul>
     <li><a href="https://github.com/duckduckgo/ios">iOS</a></li>
     <li><a href="https://github.com/duckduckgo/android">Android</a></li>
+    <li><a href="https://github.com/duckduckgo/macos-browser">Mac</a></li>
 </ul>
 <p>
     <strong style="font-size:18px;">Browser Extensions</strong>
