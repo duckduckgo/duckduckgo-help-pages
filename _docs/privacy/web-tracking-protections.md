@@ -375,7 +375,7 @@ To get the privacy protections as described above, install the relevant DuckDuck
 -   **Safari:** [get the extension][product-safari] \| [view open source code][github-safari]
 -   **iPhone & iPad:** [get the app][product-ios] \| [view open source code][github-ios]
 -   **Android:** [get the app][product-android] \| [view open source code][github-android]
--   **Mac:** [get the app][product-mac-download] \| [read the announcement][product-mac]
+-   **Mac:** [get the app][product-mac-download] \| [view open source code][github-mac]
 -   **Windows:** [get the app][product-windows-download] \| [read the announcement][product-windows]
 
 If you use another Chromium-based browser like Vivaldi, you can usually install the [Chrome][product-chrome] version.
@@ -410,7 +410,6 @@ For questions, comments, or concerns, please feel free to <a href="{{ site.baseu
 [product-safari]: https://apps.apple.com/us/app/duckduckgo-privacy-for-safari/id1482920575
 [product-ios]: https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361
 [product-android]: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android
-[product-mac]: https://spreadprivacy.com/introducing-duckduckgo-for-mac/
 [product-windows]: https://spreadprivacy.com/windows-browser-open-beta/
 [product-mac-download]: https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361
 [product-windows-download]: https://duckduckgo.com/windows
@@ -434,6 +433,7 @@ For questions, comments, or concerns, please feel free to <a href="{{ site.baseu
 [github-safari]: https://github.com/duckduckgo/privacy-essentials-safari
 [github-ios]: https://github.com/duckduckgo/iOS
 [github-android]: https://github.com/duckduckgo/Android
+[github-mac]: https://github.com/duckduckgo/macos-browser
 [//]: # "External links"
 [analytics-usage-distribution]: https://trends.builtwith.com/analytics/traffic/Entire-Internet
 [google-analytics-data-sharing]: https://support.google.com/analytics/answer/1011397
