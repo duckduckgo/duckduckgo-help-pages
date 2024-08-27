@@ -13,7 +13,7 @@ layout: null
     
     function shouldModifyUrl(pathname) {
         if (!pathname || typeof pathname !== 'string') return false;
-        var paths = ['/mac', '/windows', '/pro', '/app', '/'];
+        var paths = ['/browser', '/mac', '/windows', '/pro', '/app', '/'];
         for (var i = 0; i < paths.length; i++) {
             if (pathname === paths[i] || pathname.indexOf(paths[i] + '/') === 0) return true;
         }
