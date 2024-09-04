@@ -4,7 +4,7 @@ nav_title: About the ‘bypass VPN’ Setting
 description: Get answers to frequently asked questions about DuckDuckGo Personal Information Removal, which removes your personal information from sites that store and sell it.
 category: Privacy Pro
 sub_category: Personal Information Removal
-order: 400
+order: 500
 ---
 
 As explained in [Personal Information Removal Privacy]({{ site.baseurl }}/privacy-pro/personal-information-removal/privacy/), DuckDuckGo submits removal requests to data broker sites on your behalf directly from your device. These data broker sites may try to block these automated removal requests if they appear to be coming from a VPN.
