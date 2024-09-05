@@ -1,13 +1,13 @@
 ---
 title: Why hasn’t Personal Information Removal removed a record it found?
-nav_title: Why hasn’t Personal Information Removal removed a record it found?
+nav_title: Overdue Removal Requests
 description: If a record has not been removed 2 weeks after the removal request was sent, we consider it to be overdue. Personal Information Removal will continue to monitor the record to see if it has been removed. Overdue records are usually removed eventually.
 category: Privacy Pro
 sub_category: Personal Information Removal
 order: 400
 ---
 
-When a record is found on a data broker site, Personal Information Removal will usually submit a removal request to the site within 24 hours. Once the request has been submitted, most sites will remove the record within 10 days, though some sites are known to take much longer. If a record has still not been removed 2 weeks after the removal request was sent, we consider it to be overdue.
+When a record is found on a data broker site, Personal Information Removal will usually submit a removal request to the site within 24 hours. Once the request has been submitted, most sites will remove the record within 10 days, though some sites are known to take much longer. If a record has still not been removed 4 weeks after the removal request was sent, we consider it to be overdue.
 
 The reasons for a record not being removed will vary from site to site, but some sites appear to have unreliable processes for actioning removal requests. Possible reasons for overdue removals include:
 
