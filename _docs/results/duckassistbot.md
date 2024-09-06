@@ -250,5 +250,7 @@ If you’re a publisher, you may opt out of being a potential source for DuckAss
 -   172.169.17.165
 -   51.8.71.117
 -   20.3.1.178
+-   4.156.136.79
+-   20.232.184.230
 
 If you have any questions or concerns, please [let us know](https://duckduckgo.com/feedback).
