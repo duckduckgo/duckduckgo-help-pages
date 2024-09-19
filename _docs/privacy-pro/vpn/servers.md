@@ -7,6 +7,8 @@ sub_category: VPN
 order: 400
 ---
 
+![Map of VPN server locations around the world]({{ site.baseurl }}/images/vpn/world.svg){:style="max-height: 200px"}
+
 We have VPN servers globally. Below is a list of current locations, each of which has multiple servers:
 
 -   United States
