@@ -1,0 +1,55 @@
+- [AdvancedBackgroundChecks](https://www.advancedbackgroundchecks.com/removal){:target="_blank"}{:rel="noopener noreferrer"}
+- [backgroundcheck.run](https://backgroundcheck.run/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [CallerSmart](https://www.callersmart.com/opt-out){:target="_blank"}{:rel="noopener noreferrer"}
+- [Centeda](https://centeda.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [Clubset](https://clubset.com/private/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [ClustrMaps](https://clustrmaps.com/bl/opt-out){:target="_blank"}{:rel="noopener noreferrer"}
+- [Councilon](https://councilon.com/ex/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [CurAdvisor](https://curadvisor.com/nada/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [Cyber Background Checks](https://cyberbackgroundchecks.com/donotsellmyinfo){:target="_blank"}{:rel="noopener noreferrer"}
+- [Dataveria](https://dataveria.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [FastBackgroundCheck.com](https://www.fastbackgroundcheck.com/opt-out){:target="_blank"}{:rel="noopener noreferrer"}
+- [FastPeopleSearch](https://www.fastpeoplesearch.com/removal){:target="_blank"}{:rel="noopener noreferrer"}
+- [FreePeopleDirectory](https://freepeopledirectory.com/contact){:target="_blank"}{:rel="noopener noreferrer"}
+- [Inforver](https://persontrust.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [Kwold](https://kwold.com/ns/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [mylife](https://www.mylife.com/ccpa/index.pubview){:target="_blank"}{:rel="noopener noreferrer"}
+- [Neighbor Report](https://neighbor.report/remove){:target="_blank"}{:rel="noopener noreferrer"}
+- [New England Facts](https://newenglandfacts.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [New Test Broker](https://verecor.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [OfficialUSA](https://www.officialusa.com/opt-out/){:target="_blank"}{:rel="noopener noreferrer"}
+- [People Background Check](https://people-background-check.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [People-Wizard.com](https://people-wizard.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleFinders](https://www.peoplefinders.com/opt-out){:target="_blank"}{:rel="noopener noreferrer"}
+- [People Search Now](https://www.peoplesearchnow.com/opt-out){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeoplesWhizr](https://peopleswhizr.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeoplesWiz](https://peopleswiz.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeoplesWizard](https://peopleswizard.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleWhiz.com](https://www.peoplewhiz.com/remove-my-info){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleWhiz.net](https://peoplewhiz.net/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleWhized.com](https://peoplewhized.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleWhized.net](https://peoplewhized.net/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleWhizr.com](https://peoplewhizr.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleWhizr.net](https://peoplewhizr.net/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleWin](https://www.spokeo.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleWiz](https://peoplewiz.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleWizard.net](https://peoplewizard.net/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PeopleWizr](https://peoplewizr.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [Pub360](https://plcom.net/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [PublicReports](https://persontrust.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [Quick People Trace](https://www.quickpeopletrace.com/contact-us/){:target="_blank"}{:rel="noopener noreferrer"}
+- [Search People FREE](https://www.searchpeoplefree.com/opt-out){:target="_blank"}{:rel="noopener noreferrer"}
+- [Selfie Network](https://spokeo.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [Selfie Systems](https://spokeo.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [SmartBackgroundChecks](https://www.smartbackgroundchecks.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [Spokeo](https://spokeo.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [TruePeopleSearch](https://www.truepeoplesearch.com/removal){:target="_blank"}{:rel="noopener noreferrer"}
+- [USA People Search](https://www.usa-people-search.com/manage){:target="_blank"}{:rel="noopener noreferrer"}
+- [USA Trace](https://www.usatrace.com/contact-us/){:target="_blank"}{:rel="noopener noreferrer"}
+- [USPhoneBook](https://www.usphonebook.com/opt-out){:target="_blank"}{:rel="noopener noreferrer"}
+- [Verecor](https://verecor.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [Vericora](https://vericora.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [Veriforia](https://veriforia.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [Veripages](https://veripages.com/inner/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [Virtory](https://virtory.com/prvt/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [Wellnut](https://wellnut.com/noi/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
