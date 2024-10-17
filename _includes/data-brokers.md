@@ -16,6 +16,7 @@
 - [mylife](https://www.mylife.com/ccpa/index.pubview){:target="_blank"}{:rel="noopener noreferrer"}
 - [Neighbor Report](https://neighbor.report/remove){:target="_blank"}{:rel="noopener noreferrer"}
 - [New England Facts](https://newenglandfacts.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
+- [New Test Broker](https://verecor.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
 - [OfficialUSA](https://www.officialusa.com/opt-out/){:target="_blank"}{:rel="noopener noreferrer"}
 - [People Background Check](https://people-background-check.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
 - [People-Wizard.com](https://people-wizard.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
