@@ -32,7 +32,7 @@ If you need additional support for a Privacy Pro subscription or Email Protectio
 
 -   **Privacy Pro legal inquiries**: [privacyprolegal@duckduckgo.com](mailto:privacyprolegal@duckduckgo.com)
 -   **DMCA complaints**: Send requests to [dmca@duckduckgo.com](mailto:dmca@duckduckgo.com)
--   **User data rights**: Under privacy laws or regulations (e.g., GDPR), contact [privacy@duckduckgo.com](mailt:privacy@duckduckgo.com). _Inquiries sent to other DuckDuckGo email addresses will not receive a separate response._
+-   **User data rights**: Under privacy laws or regulations (e.g., GDPR), contact [privacy@duckduckgo.com](mailto:privacy@duckduckgo.com). _Inquiries sent to other DuckDuckGo email addresses will not receive a separate response._
     -   Our representative under [Article 27](https://gdpr-info.eu/art-27-gdpr/){:target="\_blank"}{:rel="noopener noreferrer"} of the GDPR is IT Governance Europe Limited, Third Floor, The Boyne Tower, Bull Ring, Lagavooren, Drogheda, Co. Louth,
         A92 F682. [eurep@itgovernance.eu](mailto:eurep@itgovernance.eu)
     -   Our representative under the [UK’s GDPR](https://www.gov.uk/data-protection){:target="\_blank"}{:rel="noopener noreferrer"} is GRCI Law Limited, Unit 3, Clive Court, Bartholomew’s Walk, Cambridgeshire Business Park, Ely, CB7 4EA, UK. [ukrep@grcilaw.com](mailto:ukrep@grcilaw.com)
