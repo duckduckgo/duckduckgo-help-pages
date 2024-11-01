@@ -13,21 +13,23 @@ There may be cases when you want more accurate location-based results like local
 
 To do this, DuckDuckGo Search simply guesses your location using a [GEO::IP](https://en.wikipedia.org/wiki/Internet_geolocation) lookup with the IP address that's automatically sent to us via your device; then we throw away both the guessed location and the IP address, per our [Privacy Policy](https://duckduckgo.com/privacy), saving none of that info on our servers. Our default search experience was designed so that we don’t need to request any additional information than what you are already sending.
 
-This process isn’t always accurate enough, for example DuckDuckGo Search may end up assuming you’re hundreds of miles away from where you actually are, especially on mobile phone networks that route traffic through a central hub. That’s why we built an option that lets you improve the accuracy of your local search results.
+This process isn’t always accurate enough; for example, DuckDuckGo Search may end up assuming you’re hundreds of miles away from where you actually are, especially on mobile phone networks that route traffic through a central hub. That’s why we built an option that lets you improve the accuracy of your local search results.
 
 <img alt="screenshot of warning screen" src="{{ site.baseurl }}/images/desktop_pul_prompt.png" />
 
 When you see a prompt like the one above, "Use Location" will let you share your browser location to improve the accuracy of results while still hiding your precise location from DuckDuckGo.
 
-Major web browsers have access to more accurate location information using a variety of techniques, including WiFi databases, cell tower location databases, and GPS. When you see one of these standard browser prompts, you are allowing your browser to obtain this more accurate location for use by the requesting webpage. In our case, we engineered a solution to shield that more accurate location from us.
+Major web browsers have access to more accurate location information using a variety of techniques, including Wi-Fi databases, cell tower location databases, and GPS. When you see one of these standard browser prompts, you are being asked whether your browser can obtain this more accurate location for use by the webpage indicated. In our case, we engineered a solution to shield that more accurate location from us.
 
 <img alt="screenshot of browser location prompt" src="{{ site.baseurl }}/images/desktop_location_prompt.png" />
 
+The location returned by the browser is stored locally on your device and is never sent to DuckDuckGo servers. The next time you perform a local search, selecting “Use Location” or “Set Location on Map”, will start code that runs locally in your browser to send us a random location nearby, while hiding your actual location from DuckDuckGo. We use that random location to generate your results, then throw it away.
+
+If you want to get directions from your current location, you can enable Precise User Location in your device’s settings. This is the only time you’ll see your exact location in a local search, rather than a randomized location nearby. As with other location-dependent queries, this information is also stored locally on your device, and we throw it away once we’ve generated your directions.
+
 If you'd rather choose a custom location, you can pick "Set Location on Map" instead of "Use Location." This bypasses the browser location permission, but still keeps your precise location anonymous to us.
 
-The location returned by the browser is stored locally on your device and is never sent to DuckDuckGo servers. After selecting “Use Location” or “Set Location on Map”, the next time you perform a local search, code that runs locally in your browser will send us a random location nearby, while hiding your actual location from DuckDuckGo. We use that random location to generate your results, then throw it away.
-
-**To be clear, this means that even if you opt-in to using a more accurate location, your searches will still be anonymous and DuckDuckGo never sees your actual location.**
+**To be clear, this means that even if you opt-in to using a more accurate location, your searches will still be anonymous.**
 
 ### Learn more about your browser’s location services
 
