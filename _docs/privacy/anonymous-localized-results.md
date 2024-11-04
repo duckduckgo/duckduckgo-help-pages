@@ -23,11 +23,9 @@ Major web browsers have access to more accurate location information using a var
 
 <img alt="screenshot of browser location prompt" src="{{ site.baseurl }}/images/desktop_location_prompt.png" />
 
-The location returned by the browser is stored locally on your device and is never sent to DuckDuckGo servers. The next time you perform a local search, selecting “Use Location” or “Set Location on Map”, will start code that runs locally in your browser to send us a random location nearby, while hiding your actual location from DuckDuckGo. We use that random location to generate your results, then throw it away.
+The location returned by the browser is stored locally on your device and is never sent to DuckDuckGo servers. The next time you perform a local search, selecting “Use Location” will start code that runs locally in your browser to send us a random location nearby, while hiding your actual location from DuckDuckGo. We use that random location to generate your results, then throw it away. If you'd rather choose a custom location, you can pick “Set Location on Map” instead of “Use Location.” This bypasses the browser location permission, but still keeps your precise location anonymous to us.
 
-If you want to get directions from your current location, you can enable Precise User Location in your device’s settings. This is the only time you’ll see your exact location in a local search, rather than a randomized location nearby. As with other location-dependent queries, this information is also stored locally on your device, and we throw it away once we’ve generated your directions.
-
-If you'd rather choose a custom location, you can pick "Set Location on Map" instead of "Use Location." This bypasses the browser location permission, but still keeps your precise location anonymous to us.
+The only time you’ll see your exact location during a search, rather than a randomized location nearby, is when you’re getting map directions. (If available on your device, enabling Precise Location in your app permissions will yield the most accurate directions.) As with other location-dependent queries, this information is also stored locally on your device, and we throw it away once we’ve generated your directions.
 
 **To be clear, this means that even if you opt-in to using a more accurate location, your searches will still be anonymous.**
 
