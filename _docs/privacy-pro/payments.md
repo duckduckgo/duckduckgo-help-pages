@@ -16,9 +16,9 @@ If you purchase Privacy Pro from a DuckDuckGo browser downloaded from the Google
 
 Where you can manage or change your subscription or payment method depends on the platform on which you subscribe:
 
+-   If you subscribed via our website or via the DuckDuckGo browser downloaded from our website, you can manage your subscription and payment method on desktop, under **Manage Subscription** > **Update Plan or Cancel**. On mobile, tap **Subscription Settings** > **Update Plan or Cancel**. If you don’t have the DuckDuckGo browser, [click here](https://billing.stripe.com/p/login/00gdSj3UMbzE5k4bII) to cancel directly via Stripe.
 -   If you subscribed via the App Store, you can manage your subscription and payment method in the App Store on an Apple device signed into your Apple account. Open the **Settings** app, search for **Subscriptions**, and then click **Privacy Pro**.
 -   If you subscribed via Google Play Store, you can manage your subscription and payment method in the Google Play Store on an Android device signed into your Google account. Open the **Google Play** app, tap your profile picture, tap **Payments and Subscriptions**, then tap **Subscriptions**, then tap **Privacy Pro**.
--   If you subscribed via our website or the DuckDuckGo browser downloaded from our website, you can manage your subscription and payment method on desktop, under **Manage Subscription** > **Update Plan or Cancel**. On mobile, tap **Subscription Settings** > **Update Plan or Cancel**.
 
 ## How do I check when my subscription expires?
 
