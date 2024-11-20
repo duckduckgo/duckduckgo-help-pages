@@ -28,4 +28,4 @@ Not sure where to start? These guides answer common questions about how VPNs wor
 
 At the end of the day, the best VPN for you will depend on a variety of factors, including security, speed, server locations, price, and the providers’ privacy practices.  Will you be using your VPN for high-bandwidth activities, or across multiple devices? Is digital privacy a concern to you? Select a service with a strong reputation that balances those factors with reliable performance.
 
-Did you know that DuckDuckGo offers an anonymous VPN? We built it for speed, simplicity, and security – with a strict no-logging policy. It’s part of [Privacy Pro](http://duckduckgo.com/pro), our 3-in-1 privacy subscription service. Learn more about the [DuckDuckGo VPN]({{site.baseurl}}/privacy-pro/vpn/) here.
+Did you know that DuckDuckGo offers an anonymous VPN? We built it for speed, simplicity, and security – with a strict no-logging policy. It’s part of [Privacy Pro](http://duckduckgo.com/pro), our 3-in-1 privacy subscription service. Learn more about the [DuckDuckGo VPN]({{ site.baseurl }}/privacy-pro/vpn/) here.
