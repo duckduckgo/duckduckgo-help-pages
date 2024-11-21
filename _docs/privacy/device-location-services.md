@@ -6,7 +6,7 @@ category: Web Browsing Privacy
 order: 600
 ---
 
-At DuckDuckGo, we don’t track you, ever. That’s our privacy policy in a nutshell. For example, we do not create unique cookies when using DuckDuckGo search and, more generally, architect our product so that we do not even have the ability to create a search or browsing history for any individual — it’s privacy by design.
+At DuckDuckGo, we don’t track you, ever. That’s our [Privacy Policy](https://duckduckgo.com/privacy) in a nutshell. For example, we do not create unique cookies when using DuckDuckGo search and, more generally, architect our product so that we do not even have the ability to create a search or browsing history for any individual — it’s privacy by design.
 
 As our browser is often used for everyday searching and browsing, there may be websites with which you’d like to share your current location —for example, to see a list of store locations near you. If you see the following permission prompt on a website and click “Allow” in the DuckDuckGo browser, this lets the website to access your location via the location services provided by your device.
 
