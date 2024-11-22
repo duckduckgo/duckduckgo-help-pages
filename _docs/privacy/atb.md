@@ -20,7 +20,7 @@ Fourth, for certain elements in our search pages you may notice the `&vis` param
 
 Fifth, while searching on DuckDuckGo, you may see `&perf_id` and `&parent_perf_id` parameters being used in certain network requests. These parameters allow us to measure the performance of essential components of a search engine, including performance of database and cache calls, fraud detection and rate limit functions, as well as return time and results processing upstream calls within queries. We use this data to help identify opportunities to improve the search experience, for example, to identify how we can deliver high-quality answers faster. The parameter values are randomly generated per search and are not associated with users, user agents, or IP addresses.
 
-Finally, to track the success of certain features, we may count the number of requests for UI elements hosted on metrics-content.duckduckgo.com as a privacy-respecting proxy. This process only counts the load requests, does not capture your IP address or any other identifying information.
+Finally, to track the success of certain features, we may count the number of requests for UI elements hosted on `metrics-content.duckduckgo.com` as a privacy-respecting proxy. This process only counts the load requests, does not capture your IP address or any other identifying information.
 
 All these requests are fully encrypted in transit to DuckDuckGo so that nobody else but us can see them. And like with all other requests to DuckDuckGo, they have no personally identifiable information embedded in them, and we do not store IP addresses associated with them.
 
