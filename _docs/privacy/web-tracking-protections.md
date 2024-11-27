@@ -80,7 +80,7 @@ To protect against this, we first block most embedded 3rd-party tracking request
 
 Some 3rd-party trackers disguise their real (origin) domains as subdomains of the website they’re hiding on, so they appear to belong to the website owner (1st party). This can help them escape common 3rd-party tracking protections. For example, `metrics.example.com` looks like it belongs to the `example.com` website owner, but the `metrics.example.com` subdomain may actually have a 3rd-party tracking company behind it.
 
-We identify 3rd-party domains trying to track you in this way through our open source [Tracker Radar][github-tracker-radar] crawl. We then help protect against CNAME cloaking by treating those domains as proper 3rd parties, such that we can then apply [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection] and other web tracking protections. This type of protection is not offered in most popular browsers [by default][compare-privacy].
+We identify 3rd-party domains trying to track you in this way through our open-source [Tracker Radar][github-tracker-radar] crawl. We then help protect against CNAME cloaking by treating those domains as proper 3rd parties, such that we can then apply [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection] and other web tracking protections. This type of protection is not offered in most popular browsers [by default][compare-privacy].
 
 | Platform          | Support                                                                                                                                              |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -98,7 +98,7 @@ We identify 3rd-party domains trying to track you in this way through our open s
 
 Some companies try to combine specific information about your browser and device information to create a unique identifier for you that can let them follow you around the web. This widespread tracking technique is known as “fingerprinting” or “device fingerprinting” and is one way tracking companies try to get around cookie tracking protections. They do this by running JavaScript code and using browser APIs to ask the browser to reveal and return information about itself and the device it’s running on (for example, screen size and CPU type).
 
-To protect against this, we block many fingerprinting scripts before they can even load with our [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection]. In addition, we override many of the browser APIs used for fingerprinting to make them return either no information or alternative information that’s less useful for fingerprinting. We will only make a [limited exception][remotely-configured-exceptions] when it would prevent you from signing in to a site or to otherwise preserve essential site functionality. You can review [our open source code][github-fingerprint-protection] for this feature.
+To protect against this, we block many fingerprinting scripts before they can even load with our [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection]. In addition, we override many of the browser APIs used for fingerprinting to make them return either no information or alternative information that’s less useful for fingerprinting. We will only make a [limited exception][remotely-configured-exceptions] when it would prevent you from signing in to a site or to otherwise preserve essential site functionality. You can review [our open-source code][github-fingerprint-protection] for this feature.
 
 | Platform          | Support                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -116,7 +116,7 @@ To protect against this, we block many fingerprinting scripts before they can ev
 
 If the web address you are visiting starts with `http://`, that means the Internet connection to the website is unencrypted, and everything you do or see on that website is vulnerable to network onlookers, including the specific page you are on and any information you submit about yourself while there. If the web address starts with `https://` (with an s at the end), the Internet connection is encrypted, and anyone trying to spy on you (like your Internet provider or Wi-Fi snoopers) can’t see anything beyond the website you’re going to.
 
-To offer Smarter Encryption (automatic HTTPS upgrading), we crawl the web continuously, look for sites that fully support HTTPS across their entire website, and maintain a list of the sites we find within our apps and extensions. You can review the [open source code][github-smarter-encryption] for our crawler. If you try to navigate to one of these sites unencrypted (http), for example from a social media link, we automatically change to encrypted (https) for any site on our list.
+To offer Smarter Encryption (automatic HTTPS upgrading), we crawl the web continuously, look for sites that fully support HTTPS across their entire website, and maintain a list of the sites we find within our apps and extensions. You can review the [open-source code][github-smarter-encryption] for our crawler. If you try to navigate to one of these sites unencrypted (http), for example from a social media link, we automatically change to encrypted (https) for any site on our list.
 
 [Some popular browsers][compare-privacy] only direct users to encrypted versions of pages in specific circumstances, such as when you navigate directly to a page in the address bar. Otherwise, they only offer additional HTTPS upgrading functionality if you opt-in to advanced settings or use certain modes (like private browsing). By contrast, Smarter Encryption covers all clicks and interactions as you browse the web, including clicks from social media, search engines, and other websites.
 
@@ -168,7 +168,7 @@ Please note that even in the absence of this feature, your DuckDuckGo search ter
 | iPhone & iPad app | Referrer headers trimmed to the hostname for all requests originating from a different domain than the visited site through WebKit’s [built-in referrer tracking protection][webkit-referrer-tracking-protection]. |
 | Android app       | Unsupported due to [Android WebView][android-webview-api] limitations.                                                                                                                                             |
 | Mac app           | Referrer headers trimmed to the hostname for all requests originating from a different domain than the visited site through WebKit’s [built-in referrer tracking protection][webkit-referrer-tracking-protection]. |
-| Windows app       | Unsupported, but on our product roadmap.                                                                                                                                                                           |
+| Windows app       | Referrer headers trimmed to the hostname for all requests originating from a different domain.                                                                                                                                                                           |
 
 ## Embedded Social Media Protection
 
@@ -214,7 +214,7 @@ To do this, we extract the original publisher link where possible by recognizing
 
 Google is attempting to replace 3rd-party cookies within their browser with an alternative tracking mechanism called [Topics][topics-fledge-announcement]. For Google Chrome users, Topics can use your Chrome browsing history to automatically infer your interests and align them with a predefined list of topics (for example, “Child Internet Safety” or “Personal Loans”). A subset of this list is shared with websites and other tracking companies so they can target you with ads just as easily — based on your behavior and without your knowledge.
 
-The DuckDuckGo Chrome extension disables Topics from running in Google Chrome. We may make a [limited exception][remotely-configured-exceptions] when this protection would prevent you from signing in to a site or to otherwise preserve essential site functionality. You can [learn more about Google Topics Protection][post-topics-fledge-protection] and [review our open source code][github-topics-fledge-disable] for this feature.
+The DuckDuckGo Chrome extension disables Topics from running in Google Chrome. We may make a [limited exception][remotely-configured-exceptions] when this protection would prevent you from signing in to a site or to otherwise preserve essential site functionality. You can [learn more about Google Topics Protection][post-topics-fledge-protection] and [review our open-source code][github-topics-fledge-disable] for this feature.
 
 | Platform         | Support                            |
 | ---------------- | ---------------------------------- |
@@ -225,7 +225,7 @@ The DuckDuckGo Chrome extension disables Topics from running in Google Chrome. W
 
 Like Topics, the Google [Protected Audience API][protected-audience-api] (previously known as FLEDGE) is another Google mechanism meant to replace 3rd-party cookies. Its ultimate goal is also to “re-target” you with ads — in other words, letting Google ads [follow you from website to website][topics-fledge-announcement]. The Google Protected Audience API works directly in the Chrome browser and [uses your browsing history][fledge-browsing-history] to run ad auctions in order to re-target you better and without you realizing it.
 
-The DuckDuckGo Chrome extension disables the Google Protected Audience API from running in Google Chrome. We may make a [limited exception][remotely-configured-exceptions] when this protection would prevent you from signing in to a site or to otherwise preserve essential site functionality. You can [learn more about Google Protected Audience API Protection][post-topics-fledge-protection] (previously known as FLEDGE) and [review our open source code][github-topics-fledge-disable] for this feature.
+The DuckDuckGo Chrome extension disables the Google Protected Audience API from running in Google Chrome. We may make a [limited exception][remotely-configured-exceptions] when this protection would prevent you from signing in to a site or to otherwise preserve essential site functionality. You can [learn more about Google Protected Audience API Protection][post-topics-fledge-protection] (previously known as FLEDGE) and [review our open-source code][github-topics-fledge-disable] for this feature.
 
 | Platform         | Support                                 |
 | ---------------- | --------------------------------------- |
@@ -258,7 +258,7 @@ We aim to deliver privacy, simplified. Part of our ethos of simplicity is not br
 
 Sometimes sites depend on code that loads from embedded 3rd-party tracking script requests in order to function properly. When our [3rd-Party Tracker Loading Protection][3rd-party-tracker-loading-protection] stops these from loading, it can cause sites to behave unexpectedly. However, we can sometimes create small pieces of code called “surrogates” that work around this tracker-dependent breakage so that we can still stop those trackers from loading.
 
-A surrogate works locally on your device, pretending to be a particular 3rd-party tracking script without actually doing any tracking. Surrogates replicate the expected script’s API structure with all tracking components removed, including any remote server calls. This lets us neutralize the parts that would have tried to track you while allowing websites to load and function properly. You can [review our open source code][github-surrogates] for this feature. Surrogates are not offered in most popular browsers [by default][compare-privacy].
+A surrogate works locally on your device, pretending to be a particular 3rd-party tracking script without actually doing any tracking. Surrogates replicate the expected script’s API structure with all tracking components removed, including any remote server calls. This lets us neutralize the parts that would have tried to track you while allowing websites to load and function properly. You can [review our open-source code][github-surrogates] for this feature. Surrogates are not offered in most popular browsers [by default][compare-privacy].
 
 | Platform          | Support                                                                                                                                                                                                                                                                   |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -276,7 +276,7 @@ A surrogate works locally on your device, pretending to be a particular 3rd-part
 
 If you’re using our app or extension and suspect that a website usability issue was caused by one of the Web Tracking Protections detailed on this page, you can let us know by submitting a Broken Site Report. You can also temporarily disable DuckDuckGo’s Privacy Protection for individual websites to troubleshoot the issue you’re experiencing.
 
-We review user-reported Broken Site Reports daily, and work to address these usability issues continuously. When one of our Web Tracking Protections causes issues to occur (for example, if users can’t sign in or can’t use a popular website), we may add a site domain or cookie to a temporary exclusion list for that protection. This preserves essential usability for all users as we work toward a better solution. All of our privacy apps and extensions rely on these [open source lists][github-privacy-configuration], which vary by platform and protection, to maintain a seamless online experience.
+We review user-reported Broken Site Reports daily, and work to address these usability issues continuously. When one of our Web Tracking Protections causes issues to occur (for example, if users can’t sign in or can’t use a popular website), we may add a site domain or cookie to a temporary exclusion list for that protection. This preserves essential usability for all users as we work toward a better solution. All of our privacy apps and extensions rely on these [open-source lists][github-privacy-configuration], which vary by platform and protection, to maintain a seamless online experience.
 
 | Platform      | Support                                                                           |
 | ------------- | --------------------------------------------------------------------------------- |
@@ -332,9 +332,9 @@ From DuckDuckGo app Settings, you can manage your Fireproof Sites and choose whe
 
 ### Cookie Pop-up Protection
 
-Cookie consent pop-ups often use dark design patterns to get you to accept the least private option. When DuckDuckGo detects a cookie pop-up on sites you visit, we can try to automatically set your cookie preferences to instead maximize privacy and minimize cookies, then close the pop-up. For sites that don't provide an option to manage cookie preferences, we simply try to hide the pop-up. In these cases, automatically hiding the pop-up is often still more private than selecting one of the limited options made available (e.g., “Accept All Cookies”). We currently offer coverage for most of the top 10,000 websites in the US, UK and EU and plan to expand coverage to additional websites over time.
+Cookie consent pop-ups often use dark design patterns to get you to accept the least private option. When DuckDuckGo detects a cookie pop-up on sites you visit, we can try to automatically set your cookie preferences to maximize privacy and minimize cookies, then close the pop-up. For sites that don't provide an option to manage cookie preferences on these pop-ups, we try to hide the pop-up instead using a combination of filter rules from open-source lists like [EasyList Cookie List][easylist-cookie] and our own cosmetic rules. In these cases, automatically hiding the pop-up is often still more private than selecting one of the limited options made available (e.g., “Accept All Cookies”). We currently offer coverage for most of the top 10,000 websites in the US, UK and EU and plan to expand coverage to additional websites over time.
 
-This feature is enabled by default on supported platforms below, but you can choose to disable it in Settings. You can also review [our open source code][github-autoconsent] for this feature. This type of protection is not offered in most popular browsers [by default][compare-privacy].
+This feature is enabled by default on supported platforms below, but you can choose to disable it in Settings. You can also review [our open-source code][github-autoconsent] for this feature. This type of protection is not offered in most popular browsers [by default][compare-privacy].
 
 | Platform          | Support                                                                                                                                                                                                                                          |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -350,7 +350,7 @@ This feature is enabled by default on supported platforms below, but you can cho
 
 ### Global Privacy Control (GPC)
 
-Global Privacy Control (GPC) intends to help you express your opt-out rights automatically by telling websites (through a header and/or JavaScript-based signal) not to sell or share your personal information. Whether it can be used to enforce your legal rights (for example, current or future CCPA, GDPR requirements) depends on the laws in your jurisdiction. You can [learn more about GPC][gpc] and review our open source code for [Chrome/Firefox/Edge/Opera][github-gpc-extension], [iOS][github-gpc-ios], [Android][github-gpc-android]. This type of protection is not offered in most popular browsers [by default][compare-privacy].
+Global Privacy Control (GPC) intends to help you express your opt-out rights automatically by telling websites (through a header and/or JavaScript-based signal) not to sell or share your personal information. Whether it can be used to enforce your legal rights (for example, current or future CCPA, GDPR requirements) depends on the laws in your jurisdiction. You can [learn more about GPC][gpc] and review our open-source code for [Chrome/Firefox/Edge/Opera][github-gpc-extension], [iOS][github-gpc-ios], [Android][github-gpc-android]. This type of protection is not offered in most popular browsers [by default][compare-privacy].
 
 | Platform          | Support                                                                                                                                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -368,14 +368,14 @@ Global Privacy Control (GPC) intends to help you express your opt-out rights aut
 
 To get the privacy protections as described above, install the relevant DuckDuckGo app or extension:
 
--   **Firefox:** [get the extension][product-firefox] \| [view open source code][github-extension]
--   **Chrome:** [get the extension][product-chrome] \| [view open source code][github-extension]
--   **Edge:** [get the extension][product-edge] \| [view open source code][github-extension]
--   **Opera:** [get the extension][product-opera] \| [view open source code][github-extension]
--   **Safari:** [get the extension][product-safari] \| [view open source code][github-safari]
--   **iPhone & iPad:** [get the app][product-ios] \| [view open source code][github-ios]
--   **Android:** [get the app][product-android] \| [view open source code][github-android]
--   **Mac:** [get the app][product-mac-download] \| [view open source code][github-mac]
+-   **Firefox:** [get the extension][product-firefox] \| [view open-source code][github-extension]
+-   **Chrome:** [get the extension][product-chrome] \| [view open-source code][github-extension]
+-   **Edge:** [get the extension][product-edge] \| [view open-source code][github-extension]
+-   **Opera:** [get the extension][product-opera] \| [view open-source code][github-extension]
+-   **Safari:** [get the extension][product-safari] \| [view open-source code][github-safari]
+-   **iPhone & iPad:** [get the app][product-ios] \| [view open-source code][github-ios]
+-   **Android:** [get the app][product-android] \| [view open-source code][github-android]
+-   **Mac:** [get the app][product-mac-download] \| [view open-source code][github-mac]
 -   **Windows:** [get the app][product-windows-download] \| [read the announcement][product-windows]
 
 If you use another Chromium-based browser like Vivaldi, you can usually install the [Chrome][product-chrome] version.
@@ -460,3 +460,4 @@ For questions, comments, or concerns, please feel free to <a href="{{ site.baseu
 [chromium-mv3-background-requests]: https://github.com/w3c/webextensions/issues/369
 [webview2-data-clearing-bug]: https://github.com/MicrosoftEdge/WebView2Feedback/issues/4561
 [microsoft-edge-webview2]: https://developer.microsoft.com/en-us/microsoft-edge/webview2/
+[easylist-cookie]: https://github.com/easylist/easylist/tree/master/easylist_cookie
