@@ -20,12 +20,12 @@ Fourth, for certain elements in our search pages you may notice the `&vis` param
 
 Fifth, while searching on DuckDuckGo, you may see `&perf_id` and `&parent_perf_id` parameters being used in certain network requests. These parameters allow us to measure the performance of essential components of a search engine, including performance of database and cache calls, fraud detection and rate limit functions, as well as return time and results processing upstream calls within queries. We use this data to help identify opportunities to improve the search experience, for example, to identify how we can deliver high-quality answers faster. The parameter values are randomly generated per search and are not associated with users, user agents, or IP addresses.
 
-Finally, to track the success of certain features, we may count the number of requests for UI elements hosted on `metrics-content.duckduckgo.com` as a privacy-respecting proxy. This process only counts the load requests; it does not capture your IP address or any other identifying information.
+Finally, to monitor the success of certain features, we may count the number of requests for design elements hosted on `metrics-content.duckduckgo.com` -- for example, a particular type of button illustration. This domain and process only counts the number of times these elements were loaded; in other words, it is a privacy-respecting proxy that does not capture any identifying information.
 
-All these requests are fully encrypted in transit to DuckDuckGo so that nobody else but us can see them. And like with all other requests to DuckDuckGo, they have no personally identifiable information embedded in them, and we do not store IP addresses associated with them.
+In fact, none of the above types of requests have personally identifiable information embedded in them, and we do not store any IP addresses associated with them. This is the case with all other requests to DuckDuckGo. And all these types of requests are fully encrypted in transit to DuckDuckGo so that nobody else can see them.
 
 To be clear, this means **we cannot ever tell what individual people are doing, since everyone is anonymous**. That is a limit of our statistical methods, since we are private by design. With these anonymous processes, however, we can still reliably determine what changes are generally working.
 
-We have developed these systems from scratch, instead of using third party services, because of our privacy promise not to track you. We're proud to be able to improve our site for you in a completely anonymous way!
+We have developed these systems from scratch, instead of using third-party services, because of our privacy promise not to track you. We’re proud to be able to improve our site for you in a completely anonymous way!
 
 If you have any concerns, please feel free to <a href="{{ site.baseurl }}/company/contact-us/">contact us</a>.
