@@ -23,7 +23,6 @@ order: 250
 </p>
 <ul>
     <li><a href="https://github.com/duckduckgo/duckduckgo-privacy-extension">Chrome/Firefox/Edge</a></li>
-    <li><a href="https://github.com/duckduckgo/privacy-for-safari">Safari</a></li>
 </ul>
 
 <p>
