@@ -7,11 +7,11 @@ sub_category: Personal Information Removal
 order: 100
 ---
 
-Ever tried looking yourself up online? DuckDuckGo Personal Information Removal can help find and remove your personal information, such as your name and address, from data broker sites that store and sell it, helping to combat identity theft and spam. Access to Personal Information Removal comes with a [DuckDuckGo Privacy Pro subscription]({{ site.baseurl}}/privacy-pro). At this time, Personal Information Removal is designed to be set up and run only on one desktop device.
+Ever tried looking yourself up online? DuckDuckGo Personal Information Removal can help find and remove your personal information, such as your name and address, from data broker sites that store and sell it, helping to combat identity theft and spam. Access to Personal Information Removal comes with [DuckDuckGo Privacy Pro subscriptions]({{ site.baseurl}}/privacy-pro) [in the U.S](#pir-outside-us). At this time, Personal Information Removal is designed to be set up and run only on one desktop device.
 
 ## How do I get Personal Information Removal?
 
-DuckDuckGo Personal Information Removal is included in the [DuckDuckGo Privacy Pro subscription]({{ site.baseurl}}/privacy-pro). To subscribe to Privacy Pro and use Personal Information Removal, first download the DuckDuckGo Browser on desktop and subscribe to Privacy Pro in the browser settings. Once you’ve subscribed, you’ll be able to start using Personal Information Removal from the Settings menu in the browser.
+DuckDuckGo Personal Information Removal is included in the [DuckDuckGo Privacy Pro subscription]({{ site.baseurl}}/privacy-pro) [for US residents](#pir-outside-us). To subscribe to Privacy Pro and use Personal Information Removal, first download the DuckDuckGo Browser on desktop and subscribe to Privacy Pro in the browser settings. Once you’ve subscribed, you’ll be able to start using Personal Information Removal from the Settings menu in the browser.
 
 ## How does Personal Information Removal work?
 
@@ -27,7 +27,11 @@ Data brokers collect and sell personal data, which they aggregate from public re
 
 ## Can you remove personal information for a family member?
 
-Personal Information Removal is currently intended for use by only the individual Privacy Pro subscriber. Each person that wants to remove their own personal information should purchase their own Privacy Pro subscription.
+Currently, Personal Information Removal is only intended for use by the individual who subscribed to Privacy Pro. Each person who wants to remove their own personal information would need to purchase their own Privacy Pro subscription.
+
+## Is Personal Information Removal available outside the U.S.? {#pir-outside-us}
+
+Personal Information Removal is only available in the U.S. where data collection is a pervasive issue. In the E.U. and many other regions, regulations like GDPR prevent data brokers from collecting and selling personal information without consent in the first place.
 
 ## What sites does Personal Information Removal cover? {#data-broker-list}
 
