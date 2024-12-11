@@ -5,6 +5,8 @@ category: Search Results
 order: 1500
 ---
 
+To advertise on DuckDuckGo, visit [Microsoft Advertising](https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising?ref=duckduckgo-help-pages-advertise-on-search-toplink){:target="\_blank"}{:rel="noopener noreferrer"}.
+
 DuckDuckGo delivers <a href="{{ site.baseurl }}/company/ads-by-microsoft-on-duckduckgo-private-search">privacy respecting advertising</a> to users while providing excellent return on investment for advertisers.
 
 As privacy awareness becomes more pervasive, consumers are making more informed technology choices, including which online search engine they use.
@@ -26,4 +28,4 @@ Today DuckDuckGo has become a key platform for advertisers, with a growing user 
 
 If you have any questions about advertising on DuckDuckGo, please contact [advertising@duckduckgo.com](mailto:advertising@duckduckgo.com).
 
-To advertise on DuckDuckGo, visit [Microsoft Advertising](https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising).
+To advertise on DuckDuckGo, visit [Microsoft Advertising](https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising?ref=duckduckgo-help-pages-advertise-on-search-bottomlink){:target="\_blank"}{:rel="noopener noreferrer"}.
