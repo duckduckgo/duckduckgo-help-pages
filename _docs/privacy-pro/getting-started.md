@@ -19,8 +19,8 @@ If you can’t find Privacy Pro in the Settings menu of the DuckDuckGo browser, 
     -   iOS: If you don’t have automatic updates set up, go to **Settings**, tap your profile icon, scroll down to DuckDuckGo, and tap **Update**.
     -   Android: Open the Google Play Store. At the top-right, tap your profile icon. Tap **Manage Apps & Device**. If an update is available for DuckDuckGo, tap **Update**.
     -   Windows: Go to the three-dot icon below the address bar, select **About**, then click **Check for Updates**.
--   You downloaded our browser from the iOS, Mac, or Android app store and your app store account location setting is set to a region where Privacy Pro is not available. (Check [this list]({{ site.baseurl }}/privacy-pro/using-privacy-pro-outside-us) for your country.)
--   You aren’t signed in with your Apple or Google ID on your device. Subscribing via the DuckDuckGo browser for Mac, iOS, or Android requires you to be signed in on your device in order to process payments through the app store. (Residents of Canada, the E.U., and the U.K. can only subscribe through the Apple App Store and Google Play Store, so make sure you’re signed in.)
+-   You downloaded our browser from the iOS, Mac, or Android app store and your app store account location setting is set to a region where Privacy Pro is not available. (Check [this list]({{ site.baseurl }}/privacy-pro/using-privacy-pro-outside-us) for your country).
+-   You aren’t signed in with your Apple or Google ID on your device. Subscribing via the DuckDuckGo browser for Mac, iOS, or Android requires you to be signed in on your device in order to process payments through the app store. (Residents of Canada, the E.U., and the U.K. can only subscribe through the Apple App Store and Google Play Store, so make sure you’re signed in).
 
 ## Can I use my subscription on multiple devices?
 
