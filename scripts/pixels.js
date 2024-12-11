@@ -20,6 +20,7 @@ help.company-advertising-and-affiliates.click?link-url=https-reddit-com-r-duckdu
         : document.addEventListener("DOMContentLoaded", fn);
 })(function () {
     var externalLinkAllowList = {
+        "https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising": true,
         "https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising?ref=duckduckgo-help-pages-advertise-on-search-toplink": true,
         "https://about.ads.microsoft.com/en-us/h/a/microsoft-advertising?ref=duckduckgo-help-pages-advertise-on-search-bottomlink": true,
     };
