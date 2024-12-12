@@ -1,7 +1,7 @@
 ---
 title: Are my recent chats private?
 nav_title: Are my recent chats private?
-description: DuckDuckGo AI Chat anonymously stores recent chats.
+description: Recent DuckDuckGo AI Chat conversations are private to you and stored locally in your browser, never on DuckDuckGo or 3rd-party servers.
 category: AI Chat
 order: 700
 ---
