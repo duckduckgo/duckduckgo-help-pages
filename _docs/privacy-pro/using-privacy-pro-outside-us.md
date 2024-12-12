@@ -49,7 +49,7 @@ Privacy Pro will become available in the following E.U. countries in early 2025:
 
 Subscribers in all supported regions can sign up via the DuckDuckGo browser. In Canada, the E.U., and the U.K. you’ll need to download the browser from the Apple App Store ([desktop](https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361) or [mobile](https://apps.apple.com/us/app/duckduckgo-private-browser/id663592361)) or the [Google Play Store](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android). Once you have the browser installed, open the Settings menu, select “Privacy Pro” and follow onscreen instructions.
 
-After you sign up, you can activate Privacy Pro on up to five eligible devices, including iPhone, Android, Mac, and Windows devices. Payments will be handled through the app stores; see this page for more information. International pricing is as follows:
+After you sign up, you can activate Privacy Pro on up to five eligible devices, including iPhone, Android, Mac, and Windows devices. Payments will be handled through the app stores; see [DuckDuckGo Privacy Pro Payments]({{ site.baseurl}}/privacy-pro/payments) for more information. International pricing is as follows:
 
 -   Canada: 13.99 CAN monthly, 139.99 CAN annual
 -   United Kingdom: 9.99 GBP monthly, 99.99 GBP annual
@@ -65,13 +65,17 @@ After you sign up, you can activate Privacy Pro on up to five eligible devices, 
 
 All prices are inclusive of VAT.
 
-## Is Personal Information Removal available outside the U.S.?
+## Is DuckDuckGo VPN available outsidethe U.S.?
 
-No, Personal Information Removal is not available outside the U.S. at this time. In the E.U. and other regions, regulations like GDPR limit how much data can be collected without consent in the first place. Because the U.S. is lacking similar legislation, data brokers and people search sites are a lot more prevalent of an issue.
+Yes, all Privacy Pro subscribers can use the DuckDuckGo VPN on up to five devices at once. We offer [VPN server locations worldwide]({{ site.baseurl}}/privacy-pro/vpn/servers).
 
 ## Is Identity Theft Restoration available outside the U.S.?
 
-Yes, Identity Theft Restoration is available to all subscribers, though features and coverage vary by region. Regardless of region, all subscribers get a dedicated case manager to support you through the restoration process. In Canada, the E.U., and the U.K., reps don’t work directly with your financial institutions, but they'll provide expert guidance to help you navigate it all. Outside the U.S., Identity Theft Restoration services are available in English, Spanish, French, Italian, and German.
+Yes, [Identity Theft Restoration]({{ site.baseurl}}/privacy-pro/identity-theft-restoration) is available to all subscribers, though features and coverage vary by region. Regardless of region, all subscribers get a dedicated case manager to support you through the restoration process. In Canada, the E.U., and the U.K., reps don’t work directly with your financial institutions, but they'll provide expert guidance to help you navigate it all. Outside the U.S., Identity Theft Restoration services are available in English, Spanish, French, Italian, and German.
+
+## Is Personal Information Removal available outside the U.S.?
+
+No, [Personal Information Removal]({{ site.baseurl}}/privacy-pro/personal-information-removal) is not available outside the U.S. at this time. In the E.U. and other regions, regulations like GDPR limit how much data can be collected without consent in the first place. Because the U.S. is lacking similar legislation, data brokers and people search sites are a lot more prevalent of an issue.
 
 {% include category-footer-nav.md %}
 
