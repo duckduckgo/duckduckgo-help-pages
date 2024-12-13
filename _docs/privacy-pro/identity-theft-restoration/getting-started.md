@@ -11,7 +11,9 @@ With more than 1 million cases a year reported in the U.S. alone, identity theft
 
 ## How do I get Identity Theft Restoration?
 
-Identity Theft Restoration is included in the [DuckDuckGo Privacy Pro subscription]({{ site.baseurl }}/privacy-pro). To subscribe to Privacy Pro and get covered by Identity Theft Restoration, first download the DuckDuckGo Browser on mobile or desktop and subscribe to Privacy Pro in the browser settings. As soon as you subscribe, Identity Theft Restoration is available to you should you become a victim of identity theft. You’ll be able to access Identity Theft Restoration from the Settings menu in the browser.
+Identity Theft Restoration is included in the [DuckDuckGo Privacy Pro subscription]({{ site.baseurl }}/privacy-pro). To subscribe to Privacy Pro and get covered by Identity Theft Restoration, first download the DuckDuckGo Browser on mobile or desktop and subscribe to Privacy Pro in the browser settings. As soon as you subscribe, Identity Theft Restoration is available to you should you become a victim of identity theft.
+
+You’ll be able to access Identity Theft Restoration from the Settings menu in the browser, where you can follow the instructions provided to contact [Iris]({{ site.baseurl}}/privacy-pro/identity-theft-restoration/iris).
 
 ## What is identity theft?
 
