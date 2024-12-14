@@ -7,6 +7,8 @@ sub_category: VPN
 order: 400
 ---
 
+![Map of VPN server locations around the world]({{ site.baseurl }}/images/vpn/world.svg){:style="width:100%"}
+
 We have VPN servers globally. Below is a list of current locations, each of which has multiple servers:
 
 -   United States
@@ -24,12 +26,16 @@ We have VPN servers globally. Below is a list of current locations, each of whic
     -   Seattle, Washington
 -   Canada
     -   Toronto, Ontario
+    -   Montreal, Quebec
     -   Vancouver, British Columbia
 -   Central America
     -   Queretaro, Mexico
 -   Europe
     -   Athens, Greece
+    -   Bratislava, Slovakia
     -   Brussels, Belgium
+    -   Bucharest, Romania
+    -   Copenhagen, Denmark
     -   Dublin, Ireland
     -   Frankfurt, Germany
     -   Lisbon, Portugal
@@ -39,8 +45,10 @@ We have VPN servers globally. Below is a list of current locations, each of whic
     -   Paris, France
     -   Prague, Czech Republic
     -   Rotterdam, Netherlands
+    -   Sofia, Bulgaria
     -   Stockholm, Sweden
     -   Warsaw, Poland
+    -   Zagreb, Croatia
     -   Zurich, Switzerland
 -   Africa
     -   Johannesburg, South Africa
