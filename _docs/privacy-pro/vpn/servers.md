@@ -47,6 +47,7 @@ We have VPN servers globally. Below is a list of current locations, each of whic
     -   Rotterdam, Netherlands
     -   Sofia, Bulgaria
     -   Stockholm, Sweden
+    -   Vienna, Austria
     -   Warsaw, Poland
     -   Zagreb, Croatia
     -   Zurich, Switzerland
