@@ -11,57 +11,72 @@ order: 400
 
 We have VPN servers globally. Below is a list of current locations, each of which has multiple servers:
 
--   United States
-    -   Ashburn, Virginia
-    -   Atlanta, Georgia
-    -   Boston, Massachusetts
-    -   Chicago, Illinois
-    -   Dallas, Texas
-    -   Denver, Colorado
-    -   Houston, Texas
-    -   Los Angeles, California
-    -   Miami, Florida
-    -   Newark, New Jersey
-    -   San Jose, California
-    -   Seattle, Washington
--   Canada
-    -   Toronto, Ontario
-    -   Montreal, Quebec
-    -   Vancouver, British Columbia
--   Central America
-    -   Queretaro, Mexico
--   Europe
-    -   Athens, Greece
-    -   Bratislava, Slovakia
-    -   Brussels, Belgium
-    -   Bucharest, Romania
-    -   Copenhagen, Denmark
-    -   Dublin, Ireland
-    -   Frankfurt, Germany
-    -   Lisbon, Portugal
-    -   London, England
-    -   Madrid, Spain
-    -   Milan, Italy
-    -   Paris, France
-    -   Prague, Czech Republic
-    -   Rotterdam, Netherlands
-    -   Sofia, Bulgaria
-    -   Stockholm, Sweden
-    -   Vienna, Austria
-    -   Warsaw, Poland
-    -   Zagreb, Croatia
-    -   Zurich, Switzerland
--   Africa
-    -   Johannesburg, South Africa
--   South America
-    -   Santiago, Chile
-    -   Sao Paulo, Brazil
--   Asia
-    -   Singapore
-    -   Tel Aviv, Israel
-    -   Tokyo, Japan
--   Oceania
-    -   Sydney, Australia
+**United States**
+
+-   Ashburn, Virginia
+-   Atlanta, Georgia
+-   Boston, Massachusetts
+-   Chicago, Illinois
+-   Dallas, Texas
+-   Denver, Colorado
+-   Houston, Texas
+-   Los Angeles, California
+-   Miami, Florida
+-   Newark, New Jersey
+-   San Jose, California
+-   Seattle, Washington
+
+**Canada**
+
+-   Toronto, Ontario
+-   Montreal, Quebec
+-   Vancouver, British Columbia
+
+**Central America**
+
+-   Queretaro, Mexico
+
+**Europe**
+
+-   Athens, Greece
+-   Bratislava, Slovakia
+-   Brussels, Belgium
+-   Bucharest, Romania
+-   Copenhagen, Denmark
+-   Dublin, Ireland
+-   Frankfurt, Germany
+-   Lisbon, Portugal
+-   London, England
+-   Madrid, Spain
+-   Milan, Italy
+-   Paris, France
+-   Prague, Czech Republic
+-   Rotterdam, Netherlands
+-   Sofia, Bulgaria
+-   Stockholm, Sweden
+-   Vienna, Austria
+-   Warsaw, Poland
+-   Zagreb, Croatia
+-   Zurich, Switzerland
+
+**Africa**
+
+-   Johannesburg, South Africa
+
+**South America**
+
+-   Santiago, Chile
+-   Sao Paulo, Brazil
+
+**Asia**
+
+-   Singapore
+-   Tel Aviv, Israel
+-   Tokyo, Japan
+
+**Oceania**
+
+-   Sydney, Australia
 
 ## Do you plan to add more VPN servers and locations?
 
