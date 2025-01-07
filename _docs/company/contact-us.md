@@ -6,6 +6,8 @@ category: About DuckDuckGo
 order: 700
 ---
 
+Looking for help or more information about DuckDuckGo features and products? Our existing support docs may already have the info you need: [Search]({{ site.baseurl }}/results), [Browser]({{ site.baseurl }}/web-browsing-privacy), [Email Protection]({{ site.baseurl }}/email-protection), [Sync & Backup]({{ site.baseurl }}/sync-and-backup), [App Tracking Protection]({{ site.baseurl }}/p-app-tracking-protection), [Duck Player]({{ site.baseurl }}/duck-player), [AI Chat]({{ site.baseurl }}/aichat), and [more]({{ site.baseurl }}/).
+
 ## Submit Feedback
 
 -   If you have **feedback regarding our search results**, or think you’ve encountered results that look suspicious, please use the **Share Feedback** button located at the bottom of the search results page and follow the prompts. You can also send feedback about specific instant answers where a corresponding feedback option is shown.
@@ -15,10 +17,6 @@ order: 700
 -   If you want to report a potential **security vulnerability**, please submit a report via [HackerOne](https://hackerone.com/duckduckgo){:target="\_blank"}{:rel="noopener noreferrer"}
 
 ## Customer Support
-
-For help with DuckDuckGo features, please see the Help Pages for [Search]({{ site.baseurl }}/results), [Browser]({{ site.baseurl }}/web-browsing-privacy), [Email Protection]({{ site.baseurl }}/email-protection), [Sync & Backup]({{ site.baseurl }}/sync-and-backup), [App Tracking Protection]({{ site.baseurl }}/p-app-tracking-protection), [Duck Player]({{ site.baseurl }}/duck-player), [AI Chat]({{ site.baseurl }}/aichat), and [more]({{ site.baseurl }}/).
-
-If you need additional support for a Privacy Pro subscription or Email Protection account, please email us:
 
 -   **[Privacy Pro](https://duckduckgo.com/pro)**: [privacypro@duckduckgo.com](mailto:privacypro@duckduckgo.com)
 -   **[Email Protection]({{ site.baseurl }}/email-protection/)**: [support@duck.com](mailto:support@duck.com)
@@ -37,5 +35,11 @@ If you need additional support for a Privacy Pro subscription or Email Protectio
         A92 F682. [eurep@itgovernance.eu](mailto:eurep@itgovernance.eu)
     -   Our representative under the [UK’s GDPR](https://www.gov.uk/data-protection){:target="\_blank"}{:rel="noopener noreferrer"} is GRCI Law Limited, Unit 3, Clive Court, Bartholomew’s Walk, Cambridgeshire Business Park, Ely, CB7 4EA, UK. [ukrep@grcilaw.com](mailto:ukrep@grcilaw.com)
 -   **All other legal inquiries**: [legal@duckduckgo.com](mailto:legal@duckduckgo.com)
+
+## UK Subsidiary
+
+DuckDuckGo UK Limited, 5th Floor, One New Change London, EC4M 9AF<br/>
+Registration Number: 15952220<br/>
+Registered in England & Wales
 
 Our mailing address is 20 Paoli Pike, Paoli, Pennsylvania 19301, USA.
