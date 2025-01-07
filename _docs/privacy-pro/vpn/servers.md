@@ -42,6 +42,7 @@ We have VPN servers globally. Below is a list of current locations, each of whic
 -   Bratislava, Slovakia
 -   Brussels, Belgium
 -   Bucharest, Romania
+-   Budapest, Hungary
 -   Copenhagen, Denmark
 -   Dublin, Ireland
 -   Frankfurt, Germany
