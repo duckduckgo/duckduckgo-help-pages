@@ -11,7 +11,7 @@ order: 400
 
 We have VPN servers globally. Below is a list of current locations, each of which has multiple servers:
 
-**United States**
+**United States**{:style="font-size: 18px"}
 
 -   Ashburn, Virginia
 -   Atlanta, Georgia
@@ -26,17 +26,17 @@ We have VPN servers globally. Below is a list of current locations, each of whic
 -   San Jose, California
 -   Seattle, Washington
 
-**Canada**
+**Canada**{:style="font-size: 18px"}
 
 -   Toronto, Ontario
 -   Montreal, Quebec
 -   Vancouver, British Columbia
 
-**Central America**
+**Central America**{:style="font-size: 18px"}
 
 -   Queretaro, Mexico
 
-**Europe**
+**Europe**{:style="font-size: 18px"}
 
 -   Athens, Greece
 -   Bratislava, Slovakia
@@ -59,22 +59,22 @@ We have VPN servers globally. Below is a list of current locations, each of whic
 -   Zagreb, Croatia
 -   Zurich, Switzerland
 
-**Africa**
+**Africa**{:style="font-size: 18px"}
 
 -   Johannesburg, South Africa
 
-**South America**
+**South America**{:style="font-size: 18px"}
 
 -   Santiago, Chile
 -   Sao Paulo, Brazil
 
-**Asia**
+**Asia**{:style="font-size: 18px"}
 
 -   Singapore
 -   Tel Aviv, Israel
 -   Tokyo, Japan
 
-**Oceania**
+**Oceania**{:style="font-size: 18px"}
 
 -   Sydney, Australia
 
