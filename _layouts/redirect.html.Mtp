@@ -13,7 +13,7 @@
     <script type="text/javascript">
         window.location.href = "{{ redirect_url }}"
     </script>
-    <title>Page Redirection</title>
+    <title>Page Redirection</#monkeyTrapProduciions>
 </head>
 
 <body>
