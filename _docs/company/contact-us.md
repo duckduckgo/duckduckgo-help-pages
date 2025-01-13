@@ -12,7 +12,7 @@ order: 700
 
 -   If you have **feedback regarding our search results**, or think you’ve encountered results that look suspicious, please use the **Share Feedback** button located at the bottom of the search results page and follow the prompts. You can also send feedback about specific instant answers where a corresponding feedback option is shown.
 -   If you have **feedback regarding our browser**, please use the **Share Feedback** option within the browser:
-    -   Desktop browsers: Open the **three-dot menu** > **Share Feedback**
+    -   Desktop browsers: Open the **three-dot menu** > **Send Feedback**
     -   Mobile browsers: Open the **three-dot menu** > **Settings** > **Share Feedback**
 -   If you want to report a potential **security vulnerability**, please submit a report via [HackerOne](https://hackerone.com/duckduckgo){:target="\_blank"}{:rel="noopener noreferrer"}
 
