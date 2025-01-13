@@ -12,38 +12,35 @@ Privacy Pro is currently available to subscribers in the following regions:
 
 -   Canada
 -   European Union
--   Austria
--   Germany
--   Netherlands
--   Poland
--   Sweden
+    -   Austria
+    -   Belgium
+    -   Bulgaria
+    -   Croatia
+    -   Cyprus
+    -   Czech Republic
+    -   Denmark
+    -   Estonia
+    -   Finland
+    -   France
+    -   Germany
+    -   Greece
+    -   Hungary
+    -   Ireland
+    -   Italy
+    -   Latvia
+    -   Lithuania
+    -   Luxembourg
+    -   Malta
+    -   Netherlands
+    -   Poland
+    -   Portugal
+    -   Romania
+    -   Slovakia
+    -   Slovenia
+    -   Spain
+    -   Sweden
 -   United Kingdom
 -   United States
-
-Privacy Pro will become available in the following E.U. countries in early 2025:
-
--   Belgium
--   Bulgaria
--   Croatia
--   Cyprus
--   Czech Republic
--   Denmark
--   Estonia
--   Finland
--   France
--   Greece
--   Hungary
--   Ireland
--   Italy
--   Latvia
--   Lithuania
--   Luxembourg
--   Malta
--   Portugal
--   Romania
--   Slovakia
--   Slovenia
--   Spain
 
 ## How do I sign up outside the U.S.?
 
