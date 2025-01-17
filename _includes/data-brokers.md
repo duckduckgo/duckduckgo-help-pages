@@ -34,6 +34,7 @@
 - [PeopleWiz](https://peoplewiz.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
 - [PeopleWizard.net](https://peoplewizard.net/optout){:target="_blank"}{:rel="noopener noreferrer"}
 - [PeopleWizr](https://peoplewizr.com/optout){:target="_blank"}{:rel="noopener noreferrer"}
+- [PrivateReports](){:target="_blank"}{:rel="noopener noreferrer"}
 - [Pub360](https://plcom.net/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
 - [PublicReports](https://persontrust.com/ng/control/privacy){:target="_blank"}{:rel="noopener noreferrer"}
 - [Quick People Trace](https://www.quickpeopletrace.com/contact-us/){:target="_blank"}{:rel="noopener noreferrer"}
