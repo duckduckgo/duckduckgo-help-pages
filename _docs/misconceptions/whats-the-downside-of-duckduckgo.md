@@ -6,8 +6,8 @@ category: Misconceptions
 order: 900
 ---
 
-It's natural to assume that there'd be some kind of downside, since we respect your privacy and we don't track you. But it's a <a href="{{ site.baseurl }}/company/how-duckduckgo-makes-money/">myth</a> that creepy tracking is a necessary tradeoff. DuckDuckGo does everything you'd expect of a browser and search engine — while still protecting your privacy.
+It’s natural to assume that there’d be some kind of downside, since we respect your privacy and we don’t track you. But it’s a [myth]({{ site.baseurl }}/company/how-duckduckgo-makes-money/) that creepy tracking is a necessary tradeoff. DuckDuckGo does everything you’d expect of a browser and search engine — while still helping to protect your personal information.
 
-Our free <a href="http://duckduckgo.com/browser">DuckDuckGo browser</a> includes our private alternative to Google search, along with <a href="{{ site.baseurl}}/privacy/web-tracking-protections/">over a dozen other privacy protections</a> for your browsing, email, and more. The browser’s comprehensive set of protections is used by tens of millions of people to help take back control of their online privacy.
+At DuckDuckGo, we believe the best way to protect your personal information from hackers, scammers, and privacy-invasive companies is to stop it from being collected at all. That's why millions of people [choose DuckDuckGo over Chrome and other browsers](https://duckduckgo.com/compare-privacy) to search and browse online. Our built-in search engine is like Google but never tracks your searches. And our browsing protections, such as ad tracker blocking and cookie blocking, help stop other companies from collecting your data. Oh, and [our browser](https://duckduckgo.com/app) is free — we make money from [privacy-respecting search ads]({{ site.baseurl }}/company/how-duckduckgo-makes-money/), not by exploiting your data. Take back control of your personal information with the browser designed for data protection, not data collection.
 
-<a href="http://duckduckgo.com/">DuckDuckGo Search</a> includes news, maps, sports scores, weather, stocks, local results and much more — in addition to the standard links, images, and videos, of course. And unlike Google, it’s actually private and anonymous. Nothing bad about that.
+Nothing bad about that.
