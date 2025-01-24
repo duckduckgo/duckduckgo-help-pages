@@ -6,19 +6,17 @@ category: About DuckDuckGo
 order: 700
 ---
 
+> Looking for help or more information about DuckDuckGo features and products? Our existing help pages may already have the info you need: [Search]({{ site.baseurl }}/results), [Browser]({{ site.baseurl }}/web-browsing-privacy), [Email Protection]({{ site.baseurl }}/email-protection), [Sync & Backup]({{ site.baseurl }}/sync-and-backup), [App Tracking Protection]({{ site.baseurl }}/p-app-tracking-protection), [Duck Player]({{ site.baseurl }}/duck-player), [AI Chat]({{ site.baseurl }}/aichat), and [more]({{ site.baseurl }}/).
+
 ## Submit Feedback
 
 -   If you have **feedback regarding our search results**, or think you’ve encountered results that look suspicious, please use the **Share Feedback** button located at the bottom of the search results page and follow the prompts. You can also send feedback about specific instant answers where a corresponding feedback option is shown.
--   If you have **feedback regarding our browser**, please use the **Share Feedback** option within the browser:
-    -   Desktop browsers: Open the **three-dot menu** > **Share Feedback**
-    -   Mobile browsers: Open the **three-dot menu** > **Settings** > **Share Feedback**
+-   If you have **feedback regarding our browser**, please use the **Send Feedback** option within the browser:
+    -   Desktop browsers: Open the **three-dot menu** > **Send Feedback**
+    -   Mobile browsers: Open the **three-dot menu** > **Settings** > **Send Feedback**
 -   If you want to report a potential **security vulnerability**, please submit a report via [HackerOne](https://hackerone.com/duckduckgo){:target="\_blank"}{:rel="noopener noreferrer"}
 
 ## Customer Support
-
-For help with DuckDuckGo features, please see the Help Pages for [Search]({{ site.baseurl }}/results), [Browser]({{ site.baseurl }}/web-browsing-privacy), [Email Protection]({{ site.baseurl }}/email-protection), [Sync & Backup]({{ site.baseurl }}/sync-and-backup), [App Tracking Protection]({{ site.baseurl }}/p-app-tracking-protection), [Duck Player]({{ site.baseurl }}/duck-player), [AI Chat]({{ site.baseurl }}/aichat), and [more]({{ site.baseurl }}/).
-
-If you need additional support for a Privacy Pro subscription or Email Protection account, please email us:
 
 -   **[Privacy Pro](https://duckduckgo.com/pro)**: [privacypro@duckduckgo.com](mailto:privacypro@duckduckgo.com)
 -   **[Email Protection]({{ site.baseurl }}/email-protection/)**: [support@duck.com](mailto:support@duck.com)
@@ -36,6 +34,9 @@ If you need additional support for a Privacy Pro subscription or Email Protectio
     -   Our representative under [Article 27](https://gdpr-info.eu/art-27-gdpr/){:target="\_blank"}{:rel="noopener noreferrer"} of the GDPR is IT Governance Europe Limited, Third Floor, The Boyne Tower, Bull Ring, Lagavooren, Drogheda, Co. Louth,
         A92 F682. [eurep@itgovernance.eu](mailto:eurep@itgovernance.eu)
     -   Our representative under the [UK’s GDPR](https://www.gov.uk/data-protection){:target="\_blank"}{:rel="noopener noreferrer"} is GRCI Law Limited, Unit 3, Clive Court, Bartholomew’s Walk, Cambridgeshire Business Park, Ely, CB7 4EA, UK. [ukrep@grcilaw.com](mailto:ukrep@grcilaw.com)
--   **All other legal inquiries**: [legal@duckduckgo.com](mailto:legal@duckduckgo.com)
+-   **All other legal inquiries**: [legal@duckduckgo.com](mailto:legal@duckduckgo.com) (please note we do not accept service of process via email)
+-   **UK Subsidiary**: DuckDuckGo UK Limited has a registered address of 5th Floor, One New Change London, EC4M 9AF, and is registered under the laws of England & Wales (Registration Number 15952220).
 
-Our mailing address is 20 Paoli Pike, Paoli, Pennsylvania 19301, USA.
+## Mailing Address
+
+-   20 Paoli Pike, Paoli, Pennsylvania 19301, USA.
