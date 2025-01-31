@@ -62,7 +62,7 @@ After you sign up, you can activate Privacy Pro on up to five eligible devices, 
 
 All prices are inclusive of VAT.
 
-## Is DuckDuckGo VPN available outsidethe U.S.?
+## Is DuckDuckGo VPN available outside the U.S.?
 
 Yes, all Privacy Pro subscribers can use the DuckDuckGo VPN on up to five devices at once. We offer [VPN server locations worldwide]({{ site.baseurl}}/privacy-pro/vpn/servers).
 
