@@ -82,7 +82,7 @@ categories_data:
             path: /privacy-pro/identity-theft-restoration
     - name: Duck Player
       path: /duck-player
-    - name: AI Chat
+    - name: Duck.ai
       path: /aichat
     - name: Misconceptions
       path: /misconceptions

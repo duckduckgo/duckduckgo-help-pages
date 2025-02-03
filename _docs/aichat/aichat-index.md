@@ -1,12 +1,16 @@
 ---
-title: DuckDuckGo AI Chat
-nav_title: DuckDuckGo AI Chat
-description: DuckDuckGo AI Chat allows you to chat anonymously with 3rd-party AI chat models for free.
+title: Duck.ai
+nav_title: Duck.ai
+description: Duck.ai allows you to chat anonymously with 3rd-party AI chat models for free.
 permalink: /aichat/index.html
-category: AI Chat
+category: Duck.ai
 isIndex: true
 ---
 
-[DuckDuckGo AI Chat](https://duckduckgo.com/aichat){:target="\_blank"}{:rel="noopener noreferrer"} is a free beta feature that allows you to have anonymous conversations with 3rd-party AI chat models. It currently supports Anthropic’s Claude 3 Haiku, Mistral AI’s Mixtral 8x7B, OpenAI’s GPT-4o mini, and Meta’s Llama 3.1 70B (built with Llama). Each model relies on unique algorithms and data sets and will respond to your prompts differently. You can use DuckDuckGo AI Chat to get answers to questions, compose an email, summarize text, or just have an interesting conversation.
+[Duck.ai](https://duck.ai){:target="\_blank"}{:rel="noopener noreferrer"} is a free feature that allows you to have anonymous conversations with 3rd-party AI chat models. It currently supports Anthropic’s Claude 3 Haiku, Meta’s Llama 3.1 70B, Mistral AI’s Mixtral 8x7B, and OpenAI’s GPT-4o mini. Each model relies on unique algorithms and data sets and will respond to your prompts differently. You can use Duck.ai to get answers to questions, compose an email, summarize text, or just have an interesting conversation. Navigate there directly, or move from traditional search results to ask follow-up questions.
+
+Return to past conversations with Duck.ai’s Recent Chats feature, which stores chats locally on your device – not on DuckDuckGo or other remote servers. Recent chats can be deleted individually or with a click of the Fire Button. You can add or remove the Duck.ai button in your DuckDuckGo browser from browser settings, and hide the Duck.ai buttons on the search results page from [search settings](https://duckduckgo.com/settings#aifeatures){:target="\_blank"}{:rel="noopener noreferrer"}.
+
+DuckDuckGo’s approach to AI is to provide private, useful, and optional AI features that don’t track how you use them, store your prompts, or train on your data. For information about the optional AI-assisted answers on our search engine, see [AI-Assisted Answers page].
 
 {% include category-footer-nav.md %}

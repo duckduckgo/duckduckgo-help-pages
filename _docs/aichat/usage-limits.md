@@ -1,12 +1,12 @@
 ---
-title: Does DuckDuckGo AI Chat have usage limits?
+title: Does Duck.ai have usage limits?
 nav_title: Usage Limits
-description: DuckDuckGo AI Chat anonymously enforces a daily usage limit.
-category: AI Chat
+description: Duck.ai anonymously enforces a daily usage limit.
+category: Duck.ai
 order: 400
 ---
 
-[DuckDuckGo AI Chat](https://duckduckgo.com/aichat){:target="\_blank"}{:rel="noopener noreferrer"} is free to use, but there is a daily limit on usage.
+[Duck.ai](https://duck.ai){:target="\_blank"}{:rel="noopener noreferrer"} is free to use, but there is a daily limit on usage.
 
 ## Can I pay to increase the usage limit?
 
@@ -18,4 +18,4 @@ Due to the way we anonymously enforce usage limits, you may see this error messa
 
 ## Is the method to impose these limits private?
 
-Yes. Per our strict [privacy policy](https://duckduckgo.com/privacy){:target="\_blank"}{:rel="noopener noreferrer"}, “We don’t save your IP address or any unique identifiers alongside your searches or visits to our websites. We also never log IP addresses or any unique identifiers to disk.” The same applies to AI Chat and to impose usage limits, we use a similar method as we do in search to prevent abuse. While we cannot divulge the exact method in order to protect our system from bad actors and misuse, it is engineered in such a way that makes it completely anonymous. For more info on how we manage that technically in other contexts, please see [this help page]({{ site.baseurl }}/privacy/atb/).
+Yes. Per our strict [privacy policy](https://duckduckgo.com/privacy){:target="\_blank"}{:rel="noopener noreferrer"}, “We don’t save your IP address or any unique identifiers alongside your searches or visits to our websites. We also never log IP addresses or any unique identifiers to disk.” The same applies to Duck.ai chats. To impose usage limits, we use a similar method as we do in search to prevent abuse. While we cannot divulge the exact method in order to protect our system from bad actors and misuse, it is engineered in such a way that makes it completely anonymous. For more info on how we manage that technically in other contexts, please see [this help page]({{ site.baseurl }}/privacy/atb/).
