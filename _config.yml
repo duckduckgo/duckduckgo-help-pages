@@ -83,7 +83,7 @@ categories_data:
     - name: Duck Player
       path: /duck-player
     - name: Duck.ai
-      path: /aichat
+      path: /duckai
     - name: Misconceptions
       path: /misconceptions
     - name: Legal

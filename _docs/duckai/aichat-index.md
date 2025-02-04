@@ -2,7 +2,7 @@
 title: Duck.ai
 nav_title: Duck.ai
 description: Duck.ai allows you to chat anonymously with 3rd-party AI chat models for free.
-permalink: /aichat/index.html
+permalink: /duckai/index.html
 category: Duck.ai
 isIndex: true
 ---
