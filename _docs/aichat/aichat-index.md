@@ -11,6 +11,6 @@ isIndex: true
 
 Return to past conversations with Duck.ai’s Recent Chats feature, which stores chats locally on your device – not on DuckDuckGo or other remote servers. Recent chats can be deleted individually or with a click of the Fire Button. You can add or remove the Duck.ai button in your DuckDuckGo browser from browser settings, and hide the Duck.ai buttons on the search results page from [search settings](https://duckduckgo.com/settings#aifeatures){:target="\_blank"}{:rel="noopener noreferrer"}.
 
-DuckDuckGo’s approach to AI is to provide private, useful, and optional AI features that don’t track how you use them, store your prompts, or train on your data. For information about the optional AI-assisted answers on our search engine, see [AI-Assisted Answers page].
+DuckDuckGo’s approach to AI is to provide private, useful, and optional AI features that don’t track how you use them, store your prompts, or train on your data. For information about the optional AI-assisted answers on our search engine, see [AI-Assisted Answers page]({{ site.baseurl}}/results/duckassist/).
 
 {% include category-footer-nav.md %}
