@@ -6,7 +6,7 @@ category: About DuckDuckGo
 order: 700
 ---
 
-> Looking for help or more information about DuckDuckGo features and products? Our existing help pages may already have the info you need: [Search]({{ site.baseurl }}/results), [Browser]({{ site.baseurl }}/web-browsing-privacy), [Email Protection]({{ site.baseurl }}/email-protection), [Sync & Backup]({{ site.baseurl }}/sync-and-backup), [App Tracking Protection]({{ site.baseurl }}/p-app-tracking-protection), [Duck Player]({{ site.baseurl }}/duck-player), [AI Chat]({{ site.baseurl }}/aichat), and [more]({{ site.baseurl }}/).
+> Looking for help or more information about DuckDuckGo features and products? Our existing help pages may already have the info you need: [Search]({{ site.baseurl }}/results), [Browser]({{ site.baseurl }}/web-browsing-privacy), [Email Protection]({{ site.baseurl }}/email-protection), [Sync & Backup]({{ site.baseurl }}/sync-and-backup), [App Tracking Protection]({{ site.baseurl }}/p-app-tracking-protection), [Duck Player]({{ site.baseurl }}/duck-player), [Duck.ai]({{ site.baseurl }}/duckai), and [more]({{ site.baseurl }}/).
 
 ## Submit Feedback
 
