@@ -44,9 +44,9 @@ The European Union (**EU**) requires publication of the average number of monthl
 
 In compliance with the EU Digital Services Act (DSA), we adhere to the DSA's requirements for transparency reporting. To learn more, you can access our latest DSA Transparency Report below.
 
-| Reporting Period               | Transparency Report                                                |
-| ------------------------------ | ------------------------------------------------------------------ |
-| 17 February – 31 December 2024 | [Download Report (PDF)](/pdfs/2025-02-dsa-transparency-report.pdf) |
+| Reporting Period               | Transparency Report                                                                  |
+| ------------------------------ | ------------------------------------------------------------------------------------ |
+| 17 February – 31 December 2024 | [Download Report (PDF)]({{ site.baseurl }}/pdfs/2025-02-dsa-transparency-report.pdf) |
 
 Date of Publication: 16 February, 2024
 
