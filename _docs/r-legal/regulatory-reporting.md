@@ -40,6 +40,14 @@ The European Union (**EU**) requires publication of the average number of monthl
 | 30 June 2024     | 17.4MM +/-1.3MM                                       |
 | 31 December 2024 | 18.8MM +/- 1.4MM                                      |
 
+## Transparency Reporting
+
+In compliance with the EU Digital Services Act (DSA), we adhere to the DSA's requirements for transparency reporting. To learn more, you can access our latest DSA Transparency Report below.
+
+| Reporting Period               | Transparency Report                                                |
+| ------------------------------ | ------------------------------------------------------------------ |
+| 17 February – 31 December 2024 | [Download Report (PDF)](/pdfs/2025-02-dsa-transparency-report.pdf) |
+
 Date of Publication: 16 February, 2024
 
-Date of Last Update: 31 December, 2024
+Date of Last Update: 12 February, 2025
