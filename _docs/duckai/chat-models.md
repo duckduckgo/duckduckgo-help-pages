@@ -1,12 +1,12 @@
 ---
 title: What AI chat models are available?
 nav_title: Chat Models
-description: DuckDuckGo AI Chat allows you to anonymously chat with Anthropic’s Claude 3 Haiku, Meta’s Llama 3.1 70B, Mistral AI’s Mixtral 8x7B, and OpenAI’s GPT-4o mini.
-category: AI Chat
+description: Duck.ai allows you to anonymously chat with Anthropic’s Claude 3 Haiku, Meta’s Llama 3.3 70B, Mistral AI’s Mistral Small 3 24B, and OpenAI’s GPT-4o mini.
+category: Duck.ai
 order: 100
 ---
 
-[DuckDuckGo AI Chat](https://duckduckgo.com/aichat){:target="\_blank"}{:rel="noopener noreferrer"} currently supports Anthropic’s Claude 3 Haiku, Mistral AI’s Mixtral 8x7B, OpenAI’s GPT-4o mini, and Meta’s Llama 3.1 70B (built with Llama). You can change your default chat model at any time by clicking on the current chat model name – in the left sidebar.
+[Duck.ai](https://duck.ai){:target="\_blank"}{:rel="noopener noreferrer"} currently supports Anthropic’s Claude 3 Haiku, Meta’s Llama 3.3 70B, Mistral AI’s Mistral Small 3 24B, and OpenAI’s GPT-4o mini. You can change your default chat model at any time by clicking on the current chat model name – in the left sidebar.
 
 ## Does DuckDuckGo moderate chat responses in any way?
 

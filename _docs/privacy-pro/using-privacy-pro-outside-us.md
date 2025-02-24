@@ -12,38 +12,35 @@ Privacy Pro is currently available to subscribers in the following regions:
 
 -   Canada
 -   European Union
--   Austria
--   Germany
--   Netherlands
--   Poland
--   Sweden
+    -   Austria
+    -   Belgium
+    -   Bulgaria
+    -   Croatia
+    -   Cyprus
+    -   Czech Republic
+    -   Denmark
+    -   Estonia
+    -   Finland
+    -   France
+    -   Germany
+    -   Greece
+    -   Hungary
+    -   Ireland
+    -   Italy
+    -   Latvia
+    -   Lithuania
+    -   Luxembourg
+    -   Malta
+    -   Netherlands
+    -   Poland
+    -   Portugal
+    -   Romania
+    -   Slovakia
+    -   Slovenia
+    -   Spain
+    -   Sweden
 -   United Kingdom
 -   United States
-
-Privacy Pro will become available in the following E.U. countries in early 2025:
-
--   Belgium
--   Bulgaria
--   Croatia
--   Cyprus
--   Czech Republic
--   Denmark
--   Estonia
--   Finland
--   France
--   Greece
--   Hungary
--   Ireland
--   Italy
--   Latvia
--   Lithuania
--   Luxembourg
--   Malta
--   Portugal
--   Romania
--   Slovakia
--   Slovenia
--   Spain
 
 ## How do I sign up outside the U.S.?
 
@@ -65,13 +62,13 @@ After you sign up, you can activate Privacy Pro on up to five eligible devices, 
 
 All prices are inclusive of VAT.
 
-## Is DuckDuckGo VPN available outsidethe U.S.?
+## Is DuckDuckGo VPN available outside the U.S.?
 
 Yes, all Privacy Pro subscribers can use the DuckDuckGo VPN on up to five devices at once. We offer [VPN server locations worldwide]({{ site.baseurl}}/privacy-pro/vpn/servers).
 
 ## Is Identity Theft Restoration available outside the U.S.?
 
-Yes, [Identity Theft Restoration]({{ site.baseurl}}/privacy-pro/identity-theft-restoration) is available to all subscribers, though features and coverage vary by region. Regardless of region, all subscribers get a dedicated case manager to support you through the restoration process. In Canada, the E.U., and the U.K., reps don’t work directly with your financial institutions, but they'll provide expert guidance to help you navigate it all. Outside the U.S., Identity Theft Restoration services are available in English, Spanish, French, Italian, and German.
+Yes, [Identity Theft Restoration]({{ site.baseurl}}/privacy-pro/identity-theft-restoration) is available to all subscribers, though features and coverage vary by region. Regardless of region, all subscribers get a dedicated case manager to support you through the restoration process. In Canada, the E.U., and the U.K., reps don’t work directly with your financial institutions, but they'll provide expert guidance to help you navigate it all. Outside the U.S., Identity Theft Restoration services are available in English, Spanish, French, Italian, and German. If a case manager who speaks your selected language is not available, an interpreter may be provided.
 
 ## Is Personal Information Removal available outside the U.S.?
 

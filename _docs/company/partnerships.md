@@ -20,7 +20,7 @@ Since we produce our own extensions and apps for the major platforms, we've foun
 -   Please don't use our [URL parameters](https://duckduckgo.com/params) to strip our branding from our site.
 -   Please give us attribution where it makes sense, and where you do link back to the [encrypted version of our homepage](https://duckduckgo.com/).
 
-If you have any questions about applying these guidelines in your specific situation, please [get in touch.](mailto:open@duckduckgo.com)
+If you have any questions about applying these guidelines in your specific situation, please [get in touch.](mailto:bd@duckduckgo.com)
 
 ### DuckDuckGo as a Search Option
 
