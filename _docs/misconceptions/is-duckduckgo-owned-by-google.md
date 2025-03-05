@@ -2,7 +2,6 @@
 title: Is DuckDuckGo owned by Google or any other entity?
 nav_title: Is DuckDuckGo owned by Google?
 description: No, we are not and have never been owned by Google or any other entity. We have been an independent company since our founding in 2008.
-image: /images/searches-metadata.png
 category: Misconceptions
 order: 100
 ---
