@@ -56,7 +56,7 @@ The process to remove your personal information from FastPeopleSearch is relativ
 
 ### Step 1: Navigate to the FastPeopleSearch removal page
 
-![Screenshot of first step of removal process]({{ site.baseURL }}/images/opt-out-guides/fastpeoplesearch/fastpeoplesearch-removal-1-min.png)
+![Screenshot of first step of removal process]({{ site.baseurl }}/images/opt-out-guides/fastpeoplesearch/fastpeoplesearch-removal-1-min.png)
 
 -   Visit [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal){:rel="noopener noreferrer"}{:target="\_blank"}. There will likely be a Cloudflare check to ensure you are not a bot.
 -   Enter your email address into the “Email” box.
@@ -65,7 +65,7 @@ The process to remove your personal information from FastPeopleSearch is relativ
 
 ### Step 2: Locate your FastPeopleSearch listing
 
-![Screenshot of second step of removal process]({{ site.baseURL }}/images/opt-out-guides/fastpeoplesearch/fastpeoplesearch-removal-2-min.png)
+![Screenshot of second step of removal process]({{ site.baseurl }}/images/opt-out-guides/fastpeoplesearch/fastpeoplesearch-removal-2-min.png)
 
 -   You can search by name, phone, or address. We recommend searching by name, as the data FastPeopleSearch gathers can be inaccurate, so your listing may not have your current phone or address data.
 -   Add your first and last name, city, state, and/or zip code. Then select **Free Search**.
@@ -73,13 +73,13 @@ The process to remove your personal information from FastPeopleSearch is relativ
 
 ### Step 3: Process the FastPeopleSearch removal request
 
-![Screenshot of third step of removal process]({{ site.baseURL }}/images/opt-out-guides/fastpeoplesearch/fastpeoplesearch-removal-3-min.png)
+![Screenshot of third step of removal process]({{ site.baseurl }}/images/opt-out-guides/fastpeoplesearch/fastpeoplesearch-removal-3-min.png)
 
 -   On the listing page, you will see two red buttons: **View Full Background Report** and **Remove My Record**. Click **Remove My Record**.
 -   You will be shown a message stating an email was sent to the address provided.
 -   Locate the email, titled, “_Opt out request for FastPeopleSearch.com._”
 
-![Screenshot of final step of removal process]({{ site.baseURL }}/images/opt-out-guides/fastpeoplesearch/fastpeoplesearch-removal-4-min.png)
+![Screenshot of final step of removal process]({{ site.baseurl }}/images/opt-out-guides/fastpeoplesearch/fastpeoplesearch-removal-4-min.png)
 
 -   Click the blue button, which will bring up a page stating, “Record Removal Complete.”
 -   While they note 72 hours for the changes to take effect, typically within one hour, you can go to the old record listing URL and see that the page has been removed, with a message stating, “Something went wrong.”
