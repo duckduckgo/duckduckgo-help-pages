@@ -7,7 +7,7 @@ sub_category: VPN
 order: 450
 ---
 
-The DuckDuckGo VPN is pre-configured to use DuckDuckGo's domain name system (DNS) servers to convert the website names you type or navigate to (such as [duckduckgo.com](https://duckduckgo.com){:target="\_blank"}) into the IP addresses your device needs to find those sites. This helps protect your internet traffic from being logged or monetized by your internet service provider (ISP) or other third-party DNS providers.
+The DuckDuckGo VPN is pre-configured to use DuckDuckGo's domain name system (DNS) servers to convert the website names you type or navigate to (such as [duckduckgo.com](https://duckduckgo.com){:target="\_blank"}) into the IP addresses your device needs to find those sites. This helps protect your Internet traffic from being logged or monetized by your Internet service provider (ISP) or other third-party DNS providers. If you prefer to use a third-party DNS service instead, you can configure a custom DNS service under **VPN Settings** > **DNS Server**.
 
 DuckDuckGo's DNS servers also use what’s called a DNS blocklist to help you avoid accidentally accessing harmful sites that might put your personal information at risk. These include sites that host malware, phishing attacks, and online scams.
 
@@ -25,9 +25,9 @@ The list of harmful domains is provided to us by our partner, [Netcraft](https:/
 
 ## Can I disable or customize the DuckDuckGo DNS blocklist?
 
-You can disable the DNS blocklist by turning off “Block risky domains” under VPN Settings > DNS Server. If you disable the blocklist, DNS queries will continue to use a DuckDuckGo DNS server, but none of your DNS queries will be checked against the blocklist or blocked.
+You can disable the DNS blocklist by turning off “Block risky domains” under **VPN Settings** > **DNS Server**. If you disable the blocklist, DNS queries will continue to use a DuckDuckGo DNS server, but none of your DNS queries will be checked against the blocklist or blocked.
 
-The DuckDuckGo DNS blocklist cannot be customized or modified at this time. However, if you would prefer to use a third-party DNS service that better fits your preferences, you can configure the DuckDuckGo VPN to use a custom DNS service under VPN Settings > DNS Server.
+The DuckDuckGo DNS blocklist cannot be customized or modified at this time. However, if you would prefer to use a third-party DNS service that better fits your preferences, you can configure the DuckDuckGo VPN to use a custom DNS service under **VPN Settings** > **DNS Server**.
 
 ## A site was wrongfully blocked. How can I report it?
 
