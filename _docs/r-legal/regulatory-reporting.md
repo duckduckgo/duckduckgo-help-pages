@@ -21,10 +21,10 @@ If your request relates to the DSA, please state this in the title and body of t
 
 DuckDuckGo’s legal representative for the DSA is:
 
--   **Name**: Privacy Rep Office Limited
--   **Address**: Attn. DuckDuckGo, Inc., 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, Ireland D04 XN32
--   **Telephone**: 0035-31-6994225
--   **Email**: duckduckgo@rep-office.com
+-   **Name**: Prighter Privacy IRE Limited
+-   **Address**: Attn. DuckDuckGo, Inc., 9 Clare Street, Dublin 2, D02 HH30, Ireland
+-   **Telephone**: +35312337906
+-   **Email**: support@prighter.com
 
 #### EU Monthly Active Users of Our Online Search Engine
 
@@ -50,4 +50,4 @@ In compliance with the EU Digital Services Act (DSA), we adhere to the DSA's req
 
 Date of Publication: 16 February, 2024
 
-Date of Last Update: 12 February, 2025
+Date of Last Update: 14 March, 2025
