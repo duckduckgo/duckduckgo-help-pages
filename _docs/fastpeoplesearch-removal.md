@@ -15,7 +15,7 @@ This opt-out guide offers step-by-step removal instructions, explains why your d
 
 ## FastPeopleSearch Removal Fast Facts
 
--   **Personal information available:** Name, address, phone numbers, email addresses, relatives, associates, and more
+-   **Personal information available:** Names, addresses, phone numbers, email addresses, relatives, associates, and more
 -   **Visibility:** Fully visible
 -   **Opt-out time estimate:** 5 minutes
 -   **Difficulty:** Low to medium
@@ -23,32 +23,6 @@ This opt-out guide offers step-by-step removal instructions, explains why your d
 -   **Phone confirmation required:** No
 -   **Processing time:** Claims 72 hours, but usually takes 1 hour
 -   **Captcha requirement:** Yes, reCaptcha
-
-## What is FastPeopleSearch?
-
-FastPeopleSearch is a data broker, compiling publicly available personal information and making it publicly accessible. FastPeopleSearch gathers data from government records, other data brokers, and various online sources to create detailed profiles for individual American citizens. These profiles are likely to include the following personal information:
-
--   Full name (and previous names)
--   Current and past addresses
--   Phone numbers and email addresses
--   Age and birthdate
--   Relatives, neighbors, and associates
--   Property ownership, arrest records, and more
-
-While FastPeopleSearch promotes itself as a tool for reconnecting with people, it also exposes private details that could lead to misuse.
-
-## How does FastPeopleSearch get my information?
-
-FastPeopleSearch collects data from various public sources, such as:
-
-1. **Public Records and Government Databases:** Including voter registration data, property records, court documents, and business registrations
-1. **Third-Party Data Brokers:** Specifically, companies that buy, sell, and distribute consumer information collected from online registrations, surveys, or transactions
-1. **Social Media and Internet Activity:** Publicly shared and available information on sites such as Facebook, LinkedIn, X/Twitter, and other platforms
-1. **Utility Records and Phone Directories:** If a phone number or address has been publicly listed somewhere, odds are high it will appear on FastPeopleSearch
-
-Since FastPeopleSearch updates automatically, your information may reappear even after a successful opt-out, requiring ongoing privacy management.
-
-> **Looking to streamline this process?** DuckDuckGo offers a hands-off Personal Information Removal service inside [Privacy Pro](https://duckduckgo.com/pro){:target="\_blank"}. We scan dozens of people search sites like FastPeopleSearch for your personal information, submit opt-outs on your behalf, and scan every 10 days (the most frequent in the industry) to ensure removed information stays offline.
 
 ## FastPeopleSearch Removal Process (Step-by-Step)
 
@@ -86,6 +60,32 @@ The process to remove your personal information from FastPeopleSearch is relativ
 -   You will not receive a follow-up email when your information is removed.
 
 _**Note:** If you find multiple listings with your personal information during your initial search, you will need to follow Steps 2-3 for each additional listing. You should be able to submit up to five opt-out requests from the same email address._
+
+> **Looking to streamline this process?** DuckDuckGo offers a hands-off Personal Information Removal service inside [Privacy Pro](https://duckduckgo.com/pro){:target="\_blank"}. We scan dozens of people search sites like FastPeopleSearch for your personal information, submit opt-outs on your behalf, and scan every 10 days (the most frequent in the industry) to ensure removed information stays offline.
+
+## What is FastPeopleSearch?
+
+FastPeopleSearch is a data broker, compiling publicly available personal information and making it publicly accessible. FastPeopleSearch gathers data from government records, other data brokers, and various online sources to create detailed profiles for individual American citizens. These profiles are likely to include the following personal information:
+
+-   Full name (and previous names)
+-   Current and past addresses
+-   Phone numbers and email addresses
+-   Age and birthdate
+-   Relatives, neighbors, and associates
+-   Property ownership, arrest records, and more
+
+While FastPeopleSearch promotes itself as a tool for reconnecting with people, it also exposes private details that could lead to misuse.
+
+## How does FastPeopleSearch get my information?
+
+FastPeopleSearch collects data from various public sources, such as:
+
+1. **Public Records and Government Databases:** Including voter registration data, property records, court documents, and business registrations
+1. **Third-Party Data Brokers:** Specifically, companies that buy, sell, and distribute consumer information collected from online registrations, surveys, or transactions
+1. **Social Media and Internet Activity:** Publicly shared and available information on sites such as Facebook, LinkedIn, X/Twitter, and other platforms
+1. **Utility Records and Phone Directories:** If a phone number or address has been publicly listed somewhere, odds are high it will appear on FastPeopleSearch
+
+Since FastPeopleSearch updates automatically, your information may reappear even after a successful opt-out, requiring ongoing privacy management.
 
 ## My personal info is still in search engines. Why?
 
