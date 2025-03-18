@@ -11,7 +11,7 @@ Everyone’s personal information is more accessible online than ever before. Fa
 
 This opt-out guide offers step-by-step removal instructions, explains why your data appears on FastPeopleSearch, and answers questions about keeping your information private.
 
-> **Looking to streamline this process?** DuckDuckGo offers a hands-off Personal Information Removal service inside [Privacy Pro](https://duckduckgo.com/pro){:target="\_blank"}. We scan dozens of people search sites like FastPeopleSearch for your personal information, submit opt-outs on your behalf, and scan every 10 days (the most frequent in the industry) to ensure removed information stays offline.
+> **Looking to streamline this process?** DuckDuckGo offers a hands-off Personal Information Removal service inside [Privacy Pro](https://duckduckgo.com/pro?origin=funnel_help_website_optoutguide_fastpeoplesearch){:target="\_blank"}. We scan dozens of people search sites like FastPeopleSearch for your personal information, submit opt-outs on your behalf, and scan every 10 days (the most frequent in the industry) to ensure removed information stays offline.
 
 ## FastPeopleSearch Removal Fast Facts
 
@@ -61,7 +61,7 @@ The process to remove your personal information from FastPeopleSearch is relativ
 
 _**Note:** If you find multiple listings with your personal information during your initial search, you will need to follow Steps 2-3 for each additional listing. You should be able to submit up to five opt-out requests from the same email address._
 
-> **Looking to streamline this process?** DuckDuckGo offers a hands-off Personal Information Removal service inside [Privacy Pro](https://duckduckgo.com/pro){:target="\_blank"}. We scan dozens of people search sites like FastPeopleSearch for your personal information, submit opt-outs on your behalf, and scan every 10 days (the most frequent in the industry) to ensure removed information stays offline.
+> **Looking to streamline this process?** DuckDuckGo offers a hands-off Personal Information Removal service inside [Privacy Pro](https://duckduckgo.com/pro?origin=funnel_help_website_optoutguide_fastpeoplesearch){:target="\_blank"}. We scan dozens of people search sites like FastPeopleSearch for your personal information, submit opt-outs on your behalf, and scan every 10 days (the most frequent in the industry) to ensure removed information stays offline.
 
 ## What is FastPeopleSearch?
 
@@ -115,7 +115,7 @@ Submitting a FastPeopleSearch removal will also make it more difficult for other
 
 There are data removal services online specializing in removing personal information from people search sites.
 
-DuckDuckGo’s [Privacy Pro subscription](https://duckduckgo.com/pro){:target="\_blank"} includes [Personal Information Removal]({{ site.baseurl }}/privacy-pro/personal-information-removal) for US users that automates this process, submitting opt-out requests on your behalf and checking every 10 days to ensure data stays removed, resubmitting removals if they reappear.
+DuckDuckGo’s [Privacy Pro subscription](https://duckduckgo.com/pro?origin=funnel_help_website_optoutguide_fastpeoplesearch){:target="\_blank"} includes [Personal Information Removal]({{ site.baseurl }}/privacy-pro/personal-information-removal) for US users that automates this process, submitting opt-out requests on your behalf and checking every 10 days to ensure data stays removed, resubmitting removals if they reappear.
 
 ### How can I prevent my info from appearing again?
 
@@ -129,6 +129,6 @@ While it is difficult to completely remove your personal information from the in
 
 FastPeopleSearch exposes personal details that can be misused. Fortunately, their free opt-out process is simple but requires regular monitoring to ensure your privacy.
 
-For ongoing protection, consider opting out from other data brokers, or using a service like DuckDuckGo’s [Privacy Pro](https://duckduckgo.com/pro){:target="\_blank"}, which automates the process and helps ensure long-term privacy and peace of mind.
+For ongoing protection, consider opting out from other data brokers, or using a service like DuckDuckGo’s [Privacy Pro](https://duckduckgo.com/pro?origin=funnel_help_website_optoutguide_fastpeoplesearch){:target="\_blank"}, which automates the process and helps ensure long-term privacy and peace of mind.
 
 For more privacy tips, check out the DuckDuckGo [blog](https://spreadprivacy.com){:target="\_blank"} and [newsletter](https://duckduckgo.com/newsletter){:target="\_blank"}.
