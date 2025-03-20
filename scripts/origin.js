@@ -15,7 +15,7 @@ layout: null
 
         // Don't overwrite origin param if it already exists. We set it explicitly on some links.
         var hasPreexistingOrigin = urlObj.searchParams.get('origin');
-        if (hasPreexistingOrigin) {
+        if (hasPreexistingOrigin && param == 'origin') {
             return urlObj.href
         }
 
