@@ -98,6 +98,8 @@ categories_data:
             path: /resources/identity-theft
           - name: VPN
             path: /resources/vpn
+          - name: Opt Out Guides
+            path: /resources/opt-out-guides
 
 defaults:
     - scope:

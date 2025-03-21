@@ -12,6 +12,13 @@ layout: null
         if (!url || typeof url !== 'string') return url;
         
         var urlObj = new URL(url, window.location.origin);
+
+        // Don't overwrite origin param if it already exists. We set it explicitly on some links.
+        var hasPreexistingOrigin = urlObj.searchParams.get('origin');
+        if (hasPreexistingOrigin && param == 'origin') {
+            return urlObj.href
+        }
+
         urlObj.searchParams.set(param, value);
         return urlObj.href;
     }
