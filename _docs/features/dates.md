@@ -32,7 +32,7 @@ order: 500
 </p>
 
 <p>
-    <img src="{{ site.baseurl }}/images/dates.png" />
+    <img alt="sort results by date" src="{{ site.baseurl }}/images/dates.png" />
 </p>
 
 <p>

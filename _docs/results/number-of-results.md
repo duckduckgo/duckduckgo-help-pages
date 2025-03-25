@@ -21,14 +21,14 @@ order: 1200
 <ul>
     <li>
         We try to be
-        <a href="{{ site.baseurl }}/results/autocorrect">very exact</a> based on
+        <a href="{{ site.baseurl }}/results/syntax">very exact</a> based on
         what you type in, whereas other search engines often change your query
         around a bit. So that is the first thing to look at. That is, if you
         slightly change your query do you get more results?
     </li>
     <li>
         Related to exactness, it could be your use of
-        <a href="{{ site.baseurl }}/results/punctuation">punctuation</a>.
+        <a href="{{ site.baseurl }}/results/syntax">punctuation</a>.
     </li>
     <li>
         We could have had a brief outage on our side. You could try a hard refresh
