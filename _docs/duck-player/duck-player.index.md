@@ -6,7 +6,7 @@ permalink: /duck-player/index.html
 category: Duck Player
 ---
 
-Duck Player is a free YouTube player built in to the DuckDuckGo browser for [Mac]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-mac//), [Windows]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-windows), [iOS]({{ site.baseurl }}/mobile/ios/) and [Android]({{ site.baseurl }}/mobile/android/) that lets you watch YouTube without targeted ads and keeps what you watch from influencing your YouTube recommendations.‌‌
+Duck Player is a free YouTube player built in to the DuckDuckGo browser for [Mac]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-mac/), [Windows]({{ site.baseurl }}/get-duckduckgo/get-duckduckgo-browser-on-windows), [iOS]({{ site.baseurl }}/mobile/ios/) and [Android]({{ site.baseurl }}/mobile/android/) that lets you watch YouTube without targeted ads and keeps what you watch from influencing your YouTube recommendations.‌‌
 
 ### How does Duck Player work?
 
