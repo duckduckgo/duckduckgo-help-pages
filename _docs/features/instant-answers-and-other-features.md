@@ -14,7 +14,7 @@ order: 1100
     Answer above the results:
 </p>
 
-<img src="{{ site.baseurl }}/images/instant-answers.png" alt="instant answer example"/>
+<img src="{{ site.baseurl }}/images/instant-answers.png" alt="DuckDuckGo search results page for the query “what rhymes with duck” showing an instant answer with 16 words that rhyme with “duck” above the blue links."/>
 
 <p>
     Of course, things like <a href="https://duckduckgo.com/?q=2+%25+2&ia=calculator">calculations</a> and <a href="https://duckduckgo.com/?q=people+in+space&ia=answer">factual information</a> are covered, but you may be surprised by number of Instant Answers DuckDuckGo actually has — from <a href="https://duckduckgo.com/?q=AA+102">checking the status of a flight</a> to <a href="https://duckduckgo.com/?q=password+strong+12&ia=answer">generating a strong password</a> — we've got an Instant Answer for it.
@@ -32,12 +32,13 @@ order: 1100
     simply type: <em>!amazon shoes</em>
 </p>
 
-<img src="{{ site.baseurl }}/images/bangs.png" alt="amazon bang"/>
+<img src="{{ site.baseurl }}/images/bangs.png" alt="DuckDuckGo homepage with the query “!amazon shoes“ in the search bar." />
+
 <p>
     ...which would automatically take you to Amazon.com and search for shoes...
 </p>
 
-<img src="{{ site.baseurl }}/images/amazon-shoes.png" alt="amazon shoes results" />
+<img src="{{ site.baseurl }}/images/amazon-shoes.png" alt="The result of searching for “!amazon shoes” on DuckDuckGo—an amazon.com search results page for the query “shoes.”" />
 <p>
     Many of the !bangs even have short versions. Use 'a' for Amazon or 'w' for
     Wikipedia. For example: !a shoes or !w shoes
