@@ -34,6 +34,9 @@ These parameters are intended for individual use. If using them for any other pu
 | HTTPS          | kh        | {::nomarkdown}<ul><li>1 for On</li><li>-1 for Off</li></ul>{:/}                                                                     |
 | Address bar    | kg        | {::nomarkdown}<ul><li>g for GET</li><li>p for POST</li></ul>{:/}                                                                    |
 | Video Playback | k5        | {::nomarkdown}<ul><li>1 for Always play on DuckDuckGo</li><li>2 for Open on third-party site</li><li>-1 for Prompt me</li></ul>{:/} |
+| AI Chat        | kbg       | {::nomarkdown}<ul><li>1 for On (default)</li><li>-1 for Off</li></ul>{:/}                                                           |
+| Show DuckAssist| kbe       | {::nomarkdown}<ul><li>0 for Never</li><li>1 for On-demand</li><li>2 for Sometimes (default)</li><li>3 for Often</li></ul>{:/}       |
+
 
 ## Colour Settings
 
